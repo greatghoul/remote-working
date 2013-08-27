@@ -18,4 +18,8 @@
 
  - [远程工作那些事儿](https://speakerdeck.com/yorzi/yuan-cheng-gong-zuo-na-xie-shi-er)
 
+书籍
+------------
+
+ - [Remote - Office Not Required](http://37signals.com/remote) (coming soon ...)
 
