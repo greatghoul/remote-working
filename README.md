@@ -13,6 +13,7 @@
  - [StackOverflow 使用的远程工作方式对于国内的互联网创业公司有多大的可行性？](http://www.zhihu.com/question/20759108)
  - [我们为什么仍然信任远程工作](http://www.oschina.net/translate/why-we-still-believe-in-working-remotely)
  - [如何做一名远程合伙人？](http://www.36kr.com/p/205768.html)
+ - [对一边旅行一边编程的生活方式的体验和思考](http://www.aqee.net/how-i-thought-i-wanted-to-become-a-digital-nomad/)
 
 演示文稿
 ------------
