@@ -25,3 +25,9 @@
 
  - [Remote - Office Not Required](http://37signals.com/remote) (coming soon ...)
 
+漫画
+------------
+
+ - [Why working from home is both awesome and horrible](http://theoatmeal.com/comics/working_home)
+
+
