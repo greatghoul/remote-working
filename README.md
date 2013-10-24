@@ -15,6 +15,7 @@
  - [如何做一名远程合伙人？](http://www.36kr.com/p/205768.html)
  - [对一边旅行一边编程的生活方式的体验和思考](http://www.aqee.net/how-i-thought-i-wanted-to-become-a-digital-nomad/)
  - [远程工作之个人效率篇](http://beenhero.com/improve-remote-work-productivity/)
+ - [码农在家工作写APP是否可行？前段时间ibuick也在找工作么？](http://tiny4cocoa.com/thread/show/1091/)
 
 演示文稿
 ------------
