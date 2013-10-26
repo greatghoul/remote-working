@@ -17,6 +17,11 @@
  - [远程工作之个人效率篇](http://beenhero.com/improve-remote-work-productivity/)
  - [码农在家工作写APP是否可行？前段时间ibuick也在找工作么？](http://tiny4cocoa.com/thread/show/1091/)
 
+podcast
+------------
+
+ - [和魏伦谈远程团队和远程工作](http://teahour.fm/2013/10/21/talking-remote-work-with-allen-wei.html)
+ 
 演示文稿
 ------------
 
