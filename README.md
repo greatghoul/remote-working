@@ -15,6 +15,7 @@
  - [如何做一名远程合伙人？](http://www.36kr.com/p/205768.html)
  - [对一边旅行一边编程的生活方式的体验和思考](http://www.aqee.net/how-i-thought-i-wanted-to-become-a-digital-nomad/)
  - [远程工作之个人效率篇](http://beenhero.com/improve-remote-work-productivity/)
+ - [On Working Remotely](http://www.codinghorror.com/blog/2010/05/on-working-remotely.html) - Jeff Atwood
 
 演示文稿
 ------------
@@ -25,7 +26,7 @@
 书籍
 ------------
 
- - [Remote - Office Not Required](http://37signals.com/remote) (coming soon ...)
+ - [Remote - Office Not Required](http://37signals.com/remote) | [购买](http://www.amazon.com/gp/product/0804137501)
 
 漫画
 ------------
