@@ -4,10 +4,10 @@
 文章和讨论
 -------------
 
- - [如何开始你的SOHO之旅(1)](http://terrytai.com/posts/143176-2-how-to-begin-soho-1)
- - [如何开始你的SOHO之旅(2)](http://terrytai.com/posts/143177-4-remote-full-time-job)
+ - [如何开始你的SOHO之旅(1)](http://terrytai.com/how-to-begin-soho-1/)
+ - [如何开始你的SOHO之旅(2)](http://terrytai.com/how-to-begin-soho-2/)
  - [远程工作经验谈 - 如何适应及如何管理](http://yedingding.com/2013/07/24/remote-team-the-things-you-should-know.html)
- - [远程工作那些事儿](http://blog.wangyaodi.com/2013/07/20/remote-working/)
+ - [远程工作那些事儿](http://wangyaodi.com/2013/07/20/remote-working.html)
  - [如何打造一个 Remote 工作的环境](http://smalltalk.xdite.net/posts/73953-how-to-create-a-remote-environment)
  - [成为一名远程工作者--远程工作者万岁](http://blogs.msdn.com/b/scott_hanselman/archive/2013/02/28/10398083.aspx)
  - [StackOverflow 使用的远程工作方式对于国内的互联网创业公司有多大的可行性？](http://www.zhihu.com/question/20759108)
@@ -33,7 +33,7 @@ podcast
 书籍
 ------------
 
- - [Remote - Office Not Required](http://37signals.com/remote) (coming soon ...)
+ - [Remote - Office Not Required](http://37signals.com/remote) - [购买](http://www.amazon.com/Remote-Office-Not-Required/dp/0804137501)
 
 漫画
 ------------
