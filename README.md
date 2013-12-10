@@ -22,7 +22,7 @@
  - [远程工作两个月后的体会](http://t1constantine.blogspot.com/2013/11/blog-post_26.html?spref=tw) *需要翻墙*
  - [在家远程工作的体验和总结(为什么我决定更多的在家办公)](http://www.aqee.net/why-i-decided-to-spend-more-time-working-from-home/)
  - [Fully Distributed Teams: are they viable?](http://www.pixelmonkey.org/2012/05/14/distributed-teams)
-   *寻求翻译 #3*
+   ([寻求翻译](https://github.com/greatghoul/remote-working/issues/3))
 
 podcast
 ------------
