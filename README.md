@@ -34,6 +34,7 @@ podcast
 ------------
 
  - [Remote - Office Not Required](http://37signals.com/remote) - [购买](http://www.amazon.com/Remote-Office-Not-Required/dp/0804137501)
+ - [Remote - Office Not Required 中文译本](http://jianshu.io/notebooks/41672/list) 发布在简书上的译本
 
 漫画
 ------------
