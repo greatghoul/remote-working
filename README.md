@@ -18,6 +18,7 @@
  - [码农在家工作写APP是否可行？前段时间ibuick也在找工作么？](http://tiny4cocoa.com/thread/show/1091/)
  - [我如何把薪水从 50人民币/天 提升到 100美元/小时的 (1)](http://terrytai.com/salary-from-50rmb-to-100usd)
  - [我如何把薪水从 50人民币/天 提升到 100美元/小时的 (2)](http://terrytai.com/salary-from-50rmb-to-100usd-2/)
+ - [远程工作两个月后的体会](http://t1constantine.blogspot.com/2013/11/blog-post_26.html?spref=tw) *需要翻墙*
 
 podcast
 ------------
