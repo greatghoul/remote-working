@@ -24,6 +24,15 @@
  - [Fully Distributed Teams: are they viable?](http://www.pixelmonkey.org/2012/05/14/distributed-teams) *待翻译*
  - [On Working Remotely](http://www.codinghorror.com/blog/2010/05/on-working-remotely.html) *待翻译* 
  - [What Makes Remote Working Work?](https://netguru.co/blog/posts/what-makes-remote-working-work) *待翻译*
+ - 37signals 博客中远程工作相关的文章
+    * [Remote Works: Lincoln Loop](http://37signals.com/svn/posts/3652-remote-works-lincoln-loop)
+    * [Remote Works: BeBanjo, Spain](http://37signals.com/svn/posts/3651-remote-works-bebanjo-spain)
+    * [Remote Works: Shack Co., India](http://37signals.com/svn/posts/3649-remote-works-shack-co-india)
+    * [37signals Works Remotely](http://37signals.com/svn/posts/3657-37signals-works-remotely)
+    * [Becoming remote](http://37signals.com/svn/posts/3590-becoming-remote)
+
+
+
 
 podcast
 ------------
