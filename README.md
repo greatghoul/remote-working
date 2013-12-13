@@ -21,6 +21,7 @@
  - [我如何把薪水从 50人民币/天 提升到 100美元/小时的 (2)](http://terrytai.com/salary-from-50rmb-to-100usd-2/)
  - [远程工作两个月后的体会](http://t1constantine.blogspot.com/2013/11/blog-post_26.html?spref=tw) *需翻墙*
  - [在家远程工作的体验和总结(为什么我决定更多的在家办公)](http://www.aqee.net/why-i-decided-to-spend-more-time-working-from-home/)
+ - [如何远程管理独立游戏开发团队](http://www.cocoachina.com/gamedev/2013/1211/7516.html)
  - [Fully Distributed Teams: are they viable?](http://www.pixelmonkey.org/2012/05/14/distributed-teams) *待翻译*
  - [On Working Remotely](http://www.codinghorror.com/blog/2010/05/on-working-remotely.html) *待翻译* 
  - [What Makes Remote Working Work?](https://netguru.co/blog/posts/what-makes-remote-working-work) *待翻译*
