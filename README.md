@@ -4,15 +4,12 @@
 文章和讨论
 -------------
 
- - 如何开始你的SOHO之旅 - 
-   [一](http://terrytai.com/how-to-begin-soho-1/) | 
-   [二](http://terrytai.com/how-to-begin-soho-2/)
- - 我如何把薪水从 50人民币/天 提升到 100美元/小时的 - 
-   [一](http://terrytai.com/salary-from-50rmb-to-100usd) | 
-   [二](http://terrytai.com/salary-from-50rmb-to-100usd-2/) 
- - 从士兵到程序员再到 SOHO 程序员 - 
-   [一](http://blog.huhao.name/blog/2013/09/14/become-a-freelancer/) | 
-   [二](http://blog.huhao.name/blog/2013/12/13/become-a-freelancer-2/)
+ - [如何开始你的SOHO之旅(1)](http://terrytai.com/how-to-begin-soho-1/)
+ - [如何开始你的SOHO之旅(1)](http://terrytai.com/how-to-begin-soho-2/)
+ - [我如何把薪水从 50人民币/天 提升到 100美元/小时的(1)](http://terrytai.com/salary-from-50rmb-to-100usd)
+ - [我如何把薪水从 50人民币/天 提升到 100美元/小时的(1)](http://terrytai.com/salary-from-50rmb-to-100usd-2/)
+ - [从士兵到程序员再到 SOHO 程序员(1)](http://blog.huhao.name/blog/2013/09/14/become-a-freelancer/)
+ - [从士兵到程序员再到 SOHO 程序员(2)](http://blog.huhao.name/blog/2013/12/13/become-a-freelancer-2/)
  - [新的起点：远程创业团队](http://yangzhuoyu.com/first-month-in-pragmatic-ly/)
  - [远程工作经验谈 - 如何适应及如何管理](http://yedingding.com/2013/07/24/remote-team-the-things-you-should-know.html)
  - [远程工作那些事儿](http://wangyaodi.com/2013/07/20/remote-working.html)
