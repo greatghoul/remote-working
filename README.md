@@ -25,6 +25,9 @@
  - [Fully Distributed Teams: are they viable?](http://www.pixelmonkey.org/2012/05/14/distributed-teams) *待翻译*
  - [On Working Remotely](http://www.codinghorror.com/blog/2010/05/on-working-remotely.html) *待翻译* 
  - [What Makes Remote Working Work?](https://netguru.co/blog/posts/what-makes-remote-working-work) *待翻译*
+ - 从士兵到程序员再到 SOHO 程序员
+   [一](http://blog.huhao.name/blog/2013/09/14/become-a-freelancer/)
+   [二](http://blog.huhao.name/blog/2013/12/13/become-a-freelancer-2/)
  - 37signals 博客中远程工作相关的文章
     * 2010-05-27 [Equality and remote teams](http://37signals.com/svn/posts/2360-equality-and-remote-teams)
     * 2011-12-31 [Stop whining and start hiring remote workers](http://37signals.com/svn/posts/3064-stop-whining-and-start-hiring-remote-workers)
@@ -33,8 +36,6 @@
     * 2013-10-07 [Remote Works: Shack Co., India](http://37signals.com/svn/posts/3649-remote-works-shack-co-india)
     * 2013-10-14 [Remote Works: BeBanjo, Spain](http://37signals.com/svn/posts/3651-remote-works-bebanjo-spain)
     * 2013-10-31 [Remote Works: Lincoln Loop](http://37signals.com/svn/posts/3652-remote-works-lincoln-loop)
-
-
 
 
 podcast
