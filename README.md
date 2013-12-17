@@ -4,8 +4,15 @@
 文章和讨论
 -------------
 
- - [如何开始你的SOHO之旅(1)](http://terrytai.com/how-to-begin-soho-1/)
- - [如何开始你的SOHO之旅(2)](http://terrytai.com/how-to-begin-soho-2/)
+ - 如何开始你的SOHO之旅 - 
+   [一](http://terrytai.com/how-to-begin-soho-1/) | 
+   [二](http://terrytai.com/how-to-begin-soho-2/)
+ - 我如何把薪水从 50人民币/天 提升到 100美元/小时的 - 
+   [一](http://terrytai.com/salary-from-50rmb-to-100usd) | 
+   [二](http://terrytai.com/salary-from-50rmb-to-100usd-2/) 
+ - 从士兵到程序员再到 SOHO 程序员 - 
+   [一](http://blog.huhao.name/blog/2013/09/14/become-a-freelancer/) | 
+   [二](http://blog.huhao.name/blog/2013/12/13/become-a-freelancer-2/)
  - [新的起点：远程创业团队](http://yangzhuoyu.com/first-month-in-pragmatic-ly/)
  - [远程工作经验谈 - 如何适应及如何管理](http://yedingding.com/2013/07/24/remote-team-the-things-you-should-know.html)
  - [远程工作那些事儿](http://wangyaodi.com/2013/07/20/remote-working.html)
@@ -17,17 +24,12 @@
  - [对一边旅行一边编程的生活方式的体验和思考](http://www.aqee.net/how-i-thought-i-wanted-to-become-a-digital-nomad/)
  - [远程工作之个人效率篇](http://beenhero.com/improve-remote-work-productivity/)
  - [码农在家工作写APP是否可行？前段时间ibuick也在找工作么？](http://tiny4cocoa.com/thread/show/1091/)
- - [我如何把薪水从 50人民币/天 提升到 100美元/小时的 (1)](http://terrytai.com/salary-from-50rmb-to-100usd)
- - [我如何把薪水从 50人民币/天 提升到 100美元/小时的 (2)](http://terrytai.com/salary-from-50rmb-to-100usd-2/)
  - [远程工作两个月后的体会](http://t1constantine.blogspot.com/2013/11/blog-post_26.html?spref=tw) *需翻墙*
  - [在家远程工作的体验和总结(为什么我决定更多的在家办公)](http://www.aqee.net/why-i-decided-to-spend-more-time-working-from-home/)
  - [如何远程管理独立游戏开发团队](http://www.cocoachina.com/gamedev/2013/1211/7516.html)
  - [Fully Distributed Teams: are they viable?](http://www.pixelmonkey.org/2012/05/14/distributed-teams) *待翻译*
  - [On Working Remotely](http://www.codinghorror.com/blog/2010/05/on-working-remotely.html) *待翻译* 
  - [What Makes Remote Working Work?](https://netguru.co/blog/posts/what-makes-remote-working-work) *待翻译*
- - 从士兵到程序员再到 SOHO 程序员
-   [一](http://blog.huhao.name/blog/2013/09/14/become-a-freelancer/)
-   [二](http://blog.huhao.name/blog/2013/12/13/become-a-freelancer-2/)
  - 37signals 博客中远程工作相关的文章
     * 2010-05-27 [Equality and remote teams](http://37signals.com/svn/posts/2360-equality-and-remote-teams)
     * 2011-12-31 [Stop whining and start hiring remote workers](http://37signals.com/svn/posts/3064-stop-whining-and-start-hiring-remote-workers)
