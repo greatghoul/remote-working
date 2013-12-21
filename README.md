@@ -28,6 +28,7 @@
  - [On Working Remotely](http://www.codinghorror.com/blog/2010/05/on-working-remotely.html) *待翻译* 
  - [What Makes Remote Working Work?](https://netguru.co/blog/posts/what-makes-remote-working-work) *待翻译*
  - 37signals 博客中远程工作相关的文章
+    * 2009-06-30 [Working at 37signals](http://37signals.com/svn/posts/1785-working-at-37signals)
     * 2010-05-27 [Equality and remote teams](http://37signals.com/svn/posts/2360-equality-and-remote-teams)
     * 2011-12-31 [Stop whining and start hiring remote workers](http://37signals.com/svn/posts/3064-stop-whining-and-start-hiring-remote-workers)
     * 2013-02-25 [No more remote work at Yahoo](http://37signals.com/svn/posts/3453-no-more-remote-work-at-yahoo)
