@@ -6,6 +6,7 @@
 
  - [如何开始你的SOHO之旅(1)](http://terrytai.com/how-to-begin-soho-1/)
  - [如何开始你的SOHO之旅(2)](http://terrytai.com/how-to-begin-soho-2/)
+ - [远程工作，你准备好了吗？](http://www.csdn.net/article/2013-12-19/2817858)
  - [我如何把薪水从 50人民币/天 提升到 100美元/小时的(1)](http://terrytai.com/salary-from-50rmb-to-100usd)
  - [我如何把薪水从 50人民币/天 提升到 100美元/小时的(2)](http://terrytai.com/salary-from-50rmb-to-100usd-2/)
  - [从士兵到程序员再到 SOHO 程序员(1)](http://blog.huhao.name/blog/2013/09/14/become-a-freelancer/)
