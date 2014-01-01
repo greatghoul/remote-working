@@ -37,6 +37,7 @@
     * 2013-10-07 [Remote Works: Shack Co., India](http://37signals.com/svn/posts/3649-remote-works-shack-co-india)
     * 2013-10-14 [Remote Works: BeBanjo, Spain](http://37signals.com/svn/posts/3651-remote-works-bebanjo-spain)
     * 2013-10-31 [Remote Works: Lincoln Loop](http://37signals.com/svn/posts/3652-remote-works-lincoln-loop)
+    * 2013-12-30 [Remote Works: It Collective](http://37signals.com/svn/posts/3656-remote-works-it-collective)
 
 
 podcast
