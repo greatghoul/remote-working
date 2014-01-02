@@ -16,7 +16,6 @@
  - [远程工作那些事儿](http://wangyaodi.com/2013/07/20/remote-working.html)
  - [如何打造一个 Remote 工作的环境](http://smalltalk.xdite.net/posts/73953-how-to-create-a-remote-environment)
  - [成为一名远程工作者--远程工作者万岁](http://blogs.msdn.com/b/scott_hanselman/archive/2013/02/28/10398083.aspx)
- - [StackOverflow 使用的远程工作方式对于国内的互联网创业公司有多大的可行性？](http://www.zhihu.com/question/20759108)
  - [我们为什么仍然信任远程工作](http://www.oschina.net/translate/why-we-still-believe-in-working-remotely)
  - [如何做一名远程合伙人？](http://www.36kr.com/p/205768.html)
  - [对一边旅行一边编程的生活方式的体验和思考](http://www.aqee.net/how-i-thought-i-wanted-to-become-a-digital-nomad/)
@@ -28,6 +27,8 @@
  - [Fully Distributed Teams: are they viable?](http://www.pixelmonkey.org/2012/05/14/distributed-teams) *待翻译*
  - [On Working Remotely](http://www.codinghorror.com/blog/2010/05/on-working-remotely.html) *待翻译* 
  - [What Makes Remote Working Work?](https://netguru.co/blog/posts/what-makes-remote-working-work) *待翻译*
+ - [StackOverflow 使用的远程工作方式对于国内的互联网创业公司有多大的可行性？](http://www.zhihu.com/question/20759108)
+ - [团队成员都在异地办公有哪些优劣？](http://www.zhihu.com/question/20011303/answer/18049612)
  - 37signals 博客中远程工作相关的文章
     * 2009-06-30 [Working at 37signals](http://37signals.com/svn/posts/1785-working-at-37signals)
     * 2010-05-27 [Equality and remote teams](http://37signals.com/svn/posts/2360-equality-and-remote-teams)
