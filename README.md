@@ -40,11 +40,12 @@
     * 2013-10-31 [Remote Works: Lincoln Loop](http://37signals.com/svn/posts/3652-remote-works-lincoln-loop)
     * 2013-12-30 [Remote Works: It Collective](http://37signals.com/svn/posts/3656-remote-works-it-collective)
 
-
-podcast
+影音资料
 ------------
 
  - [和魏伦谈远程团队和远程工作](http://teahour.fm/2013/10/21/talking-remote-work-with-allen-wei.html)
+ - [37signals 远程工作介绍](http://v.youku.com/v_show/id_XNjI1MzQzNTg0.html)
+ - [Jason Fried: Why work doesn't happen at work](http://www.youtube.com/watch?feature=player_embedded&v=5XD2kNopsUs)
  
 演示文稿
 ------------
@@ -57,6 +58,11 @@ podcast
 
  - [Remote - Office Not Required](http://37signals.com/remote) - [购买](http://www.amazon.com/Remote-Office-Not-Required/dp/0804137501)
  - [Remote - Office Not Required 中文译本](http://jianshu.io/notebooks/41672/list) 发布在简书上的译本
+
+读书笔记
+---------
+
+ - ["Remote: Office not Required" Review](http://robertgreiner.com/2013/11/remote-office-not-required-review/)
 
 漫画
 ------------
