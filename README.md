@@ -76,6 +76,7 @@ podcast
  - [Pragmatic.ly](https://pragmatic.ly/) - 简单高效的团队协作工具
  - [Tower.im](https://tower.im/) - 简单，好用的团队协作工具
  - [Trello](https://trello.com/) - 轻量级团队流程协作和列表管理平台
+ - [Teambiton](https://www.teambition.com/) - 类 Trello 的简单高效的项目协作工具
 
 社区
 ----------
