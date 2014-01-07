@@ -33,6 +33,7 @@
     * 2009-06-30 [Working at 37signals](http://37signals.com/svn/posts/1785-working-at-37signals)
     * 2010-05-27 [Equality and remote teams](http://37signals.com/svn/posts/2360-equality-and-remote-teams)
     * 2011-12-31 [Stop whining and start hiring remote workers](http://37signals.com/svn/posts/3064-stop-whining-and-start-hiring-remote-workers)
+    * 2013-11-19 [Better remote collaboration will make protectionism harder}(http://37signals.com/svn/posts/3330-better-remote-collaboration-will-make-protectionism-harder)
     * 2013-02-25 [No more remote work at Yahoo](http://37signals.com/svn/posts/3453-no-more-remote-work-at-yahoo)
     * 2013-07-25 [Becoming remote](http://37signals.com/svn/posts/3590-becoming-remote)
     * 2013-10-07 [Remote Works: Shack Co., India](http://37signals.com/svn/posts/3649-remote-works-shack-co-india)
