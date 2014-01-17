@@ -22,6 +22,7 @@
  - [远程工作之个人效率篇](http://beenhero.com/improve-remote-work-productivity/)
  - [码农在家工作写APP是否可行？前段时间ibuick也在找工作么？](http://tiny4cocoa.com/thread/show/1091/)
  - [远程工作两个月后的体会](http://t1constantine.blogspot.com/2013/11/blog-post_26.html?spref=tw) *需翻墙*
+ - [说说在家办公](http://sofish.de/2302)
  - [在家远程工作的体验和总结(为什么我决定更多的在家办公)](http://www.aqee.net/why-i-decided-to-spend-more-time-working-from-home/)
  - [如何远程管理独立游戏开发团队](http://www.cocoachina.com/gamedev/2013/1211/7516.html)
  - [Fully Distributed Teams: are they viable?](http://www.pixelmonkey.org/2012/05/14/distributed-teams) *待翻译*
