@@ -25,7 +25,7 @@
  - [说说在家办公](http://sofish.de/2302)
  - [在家工作，10招助你效率、生活两不误](http://www.36kr.com/p/209230.html)
  - [在家远程工作的体验和总结(为什么我决定更多的在家办公)](http://www.aqee.net/why-i-decided-to-spend-more-time-working-from-home/)
- - [工作于旅行](http://ruby-china.org/topics/16944)
+ - [工作与旅行](http://ruby-china.org/topics/16944)
  - [如何远程管理独立游戏开发团队](http://www.cocoachina.com/gamedev/2013/1211/7516.html)
  - [Fully Distributed Teams: are they viable?](http://www.pixelmonkey.org/2012/05/14/distributed-teams) *待翻译*
  - [On Working Remotely](http://www.codinghorror.com/blog/2010/05/on-working-remotely.html) *待翻译* 
