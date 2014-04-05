@@ -4,6 +4,7 @@
 文章和讨论
 -------------
 
+ - [说说在家办公](http://sofish.de/2302)
  - [如何开始你的SOHO之旅(1)](http://terrytai.com/how-to-begin-soho-1/)
  - [如何开始你的SOHO之旅(2)](http://terrytai.com/how-to-begin-soho-2/)
  - [远程工作，你准备好了吗？](http://www.csdn.net/article/2013-12-19/2817858)
