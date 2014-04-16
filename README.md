@@ -4,7 +4,8 @@
 文章和讨论
 -------------
 
- - [说说在家办公](http://sofish.de/2302)
+ - [远程办公是未来公司的趋势](http://yafeilee.me/blogs/534bfc636c69346dd5200000)
+ - [说说在家办公](http://sofish.de/2302)]
  - [如何开始你的SOHO之旅(1)](http://terrytai.com/how-to-begin-soho-1/)
  - [如何开始你的SOHO之旅(2)](http://terrytai.com/how-to-begin-soho-2/)
  - [远程工作，你准备好了吗？](http://www.csdn.net/article/2013-12-19/2817858)
@@ -67,7 +68,7 @@
 ------------
 
  - [Remote - Office Not Required](http://37signals.com/remote) - [购买](http://www.amazon.com/Remote-Office-Not-Required/dp/0804137501)
- - [Remote - Office Not Required 中文译本](http://jianshu.io/notebooks/41672/list) 发布在简书上的译本
+ - [Remote - Office Not Required 中文译本](http://jianshu.io/notebooks/41672/latest) 发布在简书上的译本
 
 读书笔记
 ---------
