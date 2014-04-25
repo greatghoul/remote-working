@@ -1,6 +1,17 @@
 远程工作资料
 ================
 
+远程工作初体验
+--------------
+
+ - [SOHO 家里办公的体验](https://github.com/greatghoul/remote-working.git)
+ - [从士兵到程序员再到 SOHO 程序员(1)](http://blog.huhao.name/blog/2013/09/14/become-a-freelancer/)
+ - [从士兵到程序员再到 SOHO 程序员(2)](http://blog.huhao.name/blog/2013/12/13/become-a-freelancer-2/)
+ - [从士兵到程序员再到 SOHO 程序员(3)](http://blog.huhao.name/blog/2014/03/01/become-a-freelancer-3/)
+ - [远程工作两个月后的体会](http://t1constantine.blogspot.com/2013/11/blog-post_26.html?spref=tw)
+ - [说说在家办公](http://sofish.de/2302)
+
+
 文章和讨论
 -------------
 
@@ -12,9 +23,6 @@
  - [我如何把薪水从 50人民币/天 提升到 100美元/小时的(1)](http://terrytai.com/salary-from-50rmb-to-100usd)
  - [我如何把薪水从 50人民币/天 提升到 100美元/小时的(2)](http://terrytai.com/salary-from-50rmb-to-100usd-2/)
  - [我如何把薪水从 50人民币/天 提升到 100美元/小时的(3)](http://terrytai.com/salary-from-50rmb-to100usd-3/)
- - [从士兵到程序员再到 SOHO 程序员(1)](http://blog.huhao.name/blog/2013/09/14/become-a-freelancer/)
- - [从士兵到程序员再到 SOHO 程序员(2)](http://blog.huhao.name/blog/2013/12/13/become-a-freelancer-2/)
- - [从士兵到程序员再到 SOHO 程序员(3)](http://blog.huhao.name/blog/2014/03/01/become-a-freelancer-3/)
  - [新的起点：远程创业团队](http://yangzhuoyu.com/first-month-in-pragmatic-ly/)
  - [远程工作经验谈 - 如何适应及如何管理](http://yedingding.com/2013/07/24/remote-team-the-things-you-should-know.html)
  - [远程工作那些事儿](http://wangyaodi.com/2013/07/20/remote-working.html)
@@ -25,8 +33,6 @@
  - [对一边旅行一边编程的生活方式的体验和思考](http://www.aqee.net/how-i-thought-i-wanted-to-become-a-digital-nomad/)
  - [远程工作之个人效率篇](http://beenhero.com/improve-remote-work-productivity/)
  - [码农在家工作写APP是否可行？前段时间ibuick也在找工作么？](http://tiny4cocoa.com/thread/show/1091/)
- - [远程工作两个月后的体会](http://t1constantine.blogspot.com/2013/11/blog-post_26.html?spref=tw) *需翻墙*
- - [说说在家办公](http://sofish.de/2302)
  - [在家工作，10招助你效率、生活两不误](http://www.36kr.com/p/209230.html)
  - [在家远程工作的体验和总结(为什么我决定更多的在家办公)](http://www.aqee.net/why-i-decided-to-spend-more-time-working-from-home/)
  - [工作与旅行](http://ruby-china.org/topics/16944)
