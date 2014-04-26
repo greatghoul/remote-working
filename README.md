@@ -4,7 +4,7 @@
 远程工作初体验
 --------------
 
- - [SOHO 家里办公的体验](https://github.com/greatghoul/remote-working.git)
+ - [SOHO 家里办公的体验](http://yafeilee.me/blogs/5357caa16c69344c0c0b0000)
  - [从士兵到程序员再到 SOHO 程序员(1)](http://blog.huhao.name/blog/2013/09/14/become-a-freelancer/)
  - [从士兵到程序员再到 SOHO 程序员(2)](http://blog.huhao.name/blog/2013/12/13/become-a-freelancer-2/)
  - [从士兵到程序员再到 SOHO 程序员(3)](http://blog.huhao.name/blog/2014/03/01/become-a-freelancer-3/)
