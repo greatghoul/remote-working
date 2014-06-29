@@ -8,9 +8,8 @@
  - [从士兵到程序员再到 SOHO 程序员(1)](http://blog.huhao.name/blog/2013/09/14/become-a-freelancer/)
  - [从士兵到程序员再到 SOHO 程序员(2)](http://blog.huhao.name/blog/2013/12/13/become-a-freelancer-2/)
  - [从士兵到程序员再到 SOHO 程序员(3)](http://blog.huhao.name/blog/2014/03/01/become-a-freelancer-3/)
- - [远程工作两个月后的体会](http://t1constantine.blogspot.com/2013/11/blog-post_26.html?spref=tw)
+ - [Lessons from 2 months of remote working](http://iamnotaprogrammer.com/Remote-teams.html) - [中文翻译](http://blog.jobbole.com/52133/)
  - [说说在家办公](http://sofish.de/2302)
-
 
 文章和讨论
 -------------
