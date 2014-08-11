@@ -6,8 +6,9 @@
 
  - [SOHO 家里办公的体验](http://yafeilee.me/blogs/5357caa16c69344c0c0b0000)
  - [从士兵到程序员再到 SOHO 程序员(1)](http://blog.huhao.name/blog/2013/09/14/become-a-freelancer/)
- - [从士兵到程序员再到 SOHO 程序员(2)](http://blog.huhao.name/blog/2013/12/13/become-a-freelancer-2/)
- - [从士兵到程序员再到 SOHO 程序员(3)](http://blog.huhao.name/blog/2014/03/01/become-a-freelancer-3/)
+   / [其2](http://blog.huhao.name/blog/2013/12/13/become-a-freelancer-2/)
+   / [其3](http://blog.huhao.name/blog/2014/03/01/become-a-freelancer-3/)
+   [@howiehu] 分享了他从备战，求职到正式进入远程工作的励志经历。
  - [Lessons from 2 months of remote working](http://iamnotaprogrammer.com/Remote-teams.html) - [中文翻译](http://blog.jobbole.com/52133/)
  - [说说在家办公](http://sofish.de/2302)
 
@@ -119,3 +120,6 @@
 ---------
 
 - [最适宜生活和远程工作的城市排名](http://nomadlist.io/) - 对比了生活成本，气候，网速等等
+
+
+[@howiehu]: http://weibo.com/howiehu
