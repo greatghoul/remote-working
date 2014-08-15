@@ -39,9 +39,10 @@
  - [工作与旅行](http://ruby-china.org/topics/16944)
  - [如何远程管理独立游戏开发团队](http://www.cocoachina.com/gamedev/2013/1211/7516.html)
  - [From The Office To Travelling The World](http://metacircus.com/writings/2011/09/19/from-the-office-to-travelling-the-world.html)
- - [Fully Distributed Teams: are they viable?](http://www.pixelmonkey.org/2012/05/14/distributed-teams) *待翻译*
- - [On Working Remotely](http://www.codinghorror.com/blog/2010/05/on-working-remotely.html) *待翻译* 
- - [What Makes Remote Working Work?](https://netguru.co/blog/posts/what-makes-remote-working-work) *待翻译*
+ - [Fully Distributed Teams: are they viable?](http://www.pixelmonkey.org/2012/05/14/distributed-teams)
+ - [On Working Remotely](http://www.codinghorror.com/blog/2010/05/on-working-remotely.html) 
+ - [What Makes Remote Working Work?](https://netguru.co/blog/posts/what-makes-remote-working-work)
+ - [How to Handle the Challenges of Remote Teams](http://www.tlnt.com/2014/05/09/how-to-handle-the-challenges-of-handling-remote-teams/)
  - [StackOverflow 使用的远程工作方式对于国内的互联网创业公司有多大的可行性？](http://www.zhihu.com/question/20759108)
  - [团队成员都在异地办公有哪些优劣？](http://www.zhihu.com/question/20011303/answer/18049612)
  - 37signals 博客中远程工作相关的文章
