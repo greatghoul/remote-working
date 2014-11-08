@@ -10,7 +10,7 @@
    从备战，求职到正式进入远程工作的励志经历。
  - [Lessons from 2 months of remote working](http://iamnotaprogrammer.com/Remote-teams.html) - [中文翻译](http://blog.jobbole.com/52133/)
  - [说说在家办公](http://sofish.de/2302)
- - [**阅读更多文章和讨论 »»**](articles.md)
+ - [**更多文章和讨论 »»**](articles.md)
 
 ### 影音资料
 
@@ -37,26 +37,20 @@
 
  - [Why working from home is both awesome and horrible](http://theoatmeal.com/comics/working_home)
 
+### 工具和服务
 
-### 工具
-
-#### 视频会议
-
- - [Workor 蜗壳](http://workor.com/) - 一款国内的视频会议 Web 应用
-
-#### 协作工具
-
- - [风车](https://fengche.co/) - 简单高效的团队协作工具（原 Pragmatic.ly）
- - [Tower.im](https://tower.im/) - 简单，好用的团队协作工具
- - [Trello](https://trello.com/) - 轻量级团队流程协作和列表管理平台
- - [Teambiton](https://www.teambition.com/) - 类 Trello 的简单高效的项目协作工具
- - [简单BIZ](http://www.jiandan.biz/) - 在线的销售项目跟踪管理以及客户关系管理软件
- - [Worktile](https://worktile.com/) - 让工作更简单
+ - [Trello](https://trello.com/) 轻量级团队流程协作和列表管理平台
+ - [风车](https://fengche.co/) 简单高效的团队协作工具（原 Pragmatic.ly）
+ - [Tower.im](https://tower.im/) 简单，好用的团队协作工具
+ - [Focus Timer](http://goo.gl/607XJa) Mac 下一个简洁的蕃茄计时工具
+ - [Toggl](https://toggl.com/) 免费的工作计时工具
+ - [**更多工具和服务 »»**](tools.md)
 
 ### 社区
 
  - [We Work Remotely](https://weworkremotely.com/) 寻找或者发布远程工作机会
  - [APCOW](http://www.apcow.com) 国内新建远程工作社区
+ - [一早一晚](http://yizaoyiwan.com/) 远程工作者社区
 
 ### 国内活跃的远程团队
 
