@@ -55,6 +55,7 @@
 ### 国内活跃的远程团队
 
  - [风车团队](https://fengcheco.com/about)
+ - [DeepDevelop Team](http://deepdevelop.com/)
 
 ### 其它资源
 
