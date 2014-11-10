@@ -2,6 +2,7 @@
 
 ### 文章和讨论
 
+ - [数字游民的生活方式](http://yizaoyiwan.com/discussion/46/)
  - [Remote Working Works](http://www.infoq.com/cn/articles/remote-working-works)
  - [SOHO 家里办公的体验](http://yafeilee.me/blogs/5357caa16c69344c0c0b0000)
  - [从士兵到程序员再到 SOHO 程序员(1)](http://blog.huhao.name/blog/2013/09/14/become-a-freelancer/)
@@ -9,7 +10,6 @@
    / [其3](http://blog.huhao.name/blog/2014/03/01/become-a-freelancer-3/)  
    从备战，求职到正式进入远程工作的励志经历。
  - [Lessons from 2 months of remote working](http://iamnotaprogrammer.com/Remote-teams.html) - [中文翻译](http://blog.jobbole.com/52133/)
- - [说说在家办公](http://sofish.de/2302)
  - [**更多文章和讨论 »»**](articles.md)
 
 ### 影音资料
