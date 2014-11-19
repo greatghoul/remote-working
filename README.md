@@ -2,6 +2,7 @@
 
 ### 文章和讨论
 
+ - [从300到300万，一个远程外包团队的发展历程和经验](http://yizaoyiwan.com/discussion/79/%E4%BB%8E300%E5%88%B0300%E4%B8%87-%E4%B8%80%E4%B8%AA%E8%BF%9C%E7%A8%8B%E5%A4%96%E5%8C%85%E5%9B%A2%E9%98%9F%E7%9A%84%E5%8F%91%E5%B1%95%E5%8E%86%E7%A8%8B%E5%92%8C%E7%BB%8F%E9%AA%8C/p1)
  - [数字游民的生活方式](http://yizaoyiwan.com/discussion/46/)
  - [Remote Working Works](http://www.infoq.com/cn/articles/remote-working-works)
  - [SOHO 家里办公的体验](http://yafeilee.me/blogs/5357caa16c69344c0c0b0000)
