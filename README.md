@@ -2,15 +2,11 @@
 
 ### 文章和讨论
 
+ - [如何高效的远程工作](http://yizaoyiwan.com/discussion/72/)
  - [从300到300万，一个远程外包团队的发展历程和经验](http://yizaoyiwan.com/discussion/79/%E4%BB%8E300%E5%88%B0300%E4%B8%87-%E4%B8%80%E4%B8%AA%E8%BF%9C%E7%A8%8B%E5%A4%96%E5%8C%85%E5%9B%A2%E9%98%9F%E7%9A%84%E5%8F%91%E5%B1%95%E5%8E%86%E7%A8%8B%E5%92%8C%E7%BB%8F%E9%AA%8C/p1)
  - [数字游民的生活方式](http://yizaoyiwan.com/discussion/46/)
  - [Remote Working Works](http://www.infoq.com/cn/articles/remote-working-works)
  - [SOHO 家里办公的体验](http://yafeilee.me/blogs/5357caa16c69344c0c0b0000)
- - [从士兵到程序员再到 SOHO 程序员(1)](http://blog.huhao.name/blog/2013/09/14/become-a-freelancer/)
-   / [其2](http://blog.huhao.name/blog/2013/12/13/become-a-freelancer-2/)
-   / [其3](http://blog.huhao.name/blog/2014/03/01/become-a-freelancer-3/)  
-   从备战，求职到正式进入远程工作的励志经历。
- - [Lessons from 2 months of remote working](http://iamnotaprogrammer.com/Remote-teams.html) - [中文翻译](http://blog.jobbole.com/52133/)
  - [**更多文章和讨论 »»**](articles.md)
 
 ### 影音资料

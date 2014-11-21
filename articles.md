@@ -1,5 +1,10 @@
 ## 文章和讨论
 
+- [从士兵到程序员再到 SOHO 程序员(1)](http://blog.huhao.name/blog/2013/09/14/become-a-freelancer/)
+   / [其2](http://blog.huhao.name/blog/2013/12/13/become-a-freelancer-2/)
+   / [其3](http://blog.huhao.name/blog/2014/03/01/become-a-freelancer-3/)  
+   从备战，求职到正式进入远程工作的励志经历。
+ - [Lessons from 2 months of remote working](http://iamnotaprogrammer.com/Remote-teams.html) - [中文翻译](http://blog.jobbole.com/52133/)
  - [远程办公是未来公司的趋势](http://yafeilee.me/blogs/534bfc636c69346dd5200000)
  - [说说在家办公](http://sofish.de/2302)
  - [如何开始你的SOHO之旅(1)](http://terrytai.com/how-to-begin-soho-1/)
