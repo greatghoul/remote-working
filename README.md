@@ -11,6 +11,7 @@
 
 ### 影音资料
 
+ - [自由的思考：远程工作者的成长之路](http://teahour.fm/2014/11/25/thoughts-about-remote-life.html)
  - [和魏伦谈远程团队和远程工作](http://teahour.fm/2013/10/21/talking-remote-work-with-allen-wei.html)
  - [37signals 远程工作介绍](http://v.youku.com/v_show/id_XNjI1MzQzNTg0.html)
  - [Jason Fried: Why work doesn't happen at work](http://www.youtube.com/watch?feature=player_embedded&v=5XD2kNopsUs)
