@@ -58,6 +58,7 @@
 
 ### 其它资源
 
+- [Remotive - Productive Remote Workers](https://remoteworking.curated.co/) 一个关于远程工作的邮件周刊
 - [最适宜生活和远程工作的城市排名](http://nomadlist.io/) - 对比了生活成本，气候，网速等等
 - [朝露|自由工作者的生活](http://www.littledew.com/) - 一个关于远程工作及生活的博客
 - [Inside Envato](http://inside.envato.com/) - Envato团队博客
