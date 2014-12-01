@@ -2,6 +2,8 @@
 
 ### 文章和讨论
 
+ - [远程工作，万里之外皆同事](http://www.jianshu.com/p/6bccfde32ed8)
+   一个小团队从非远程转变成远程的一些经验。
  - [作为独立开发者，有哪些可以分享的经验？](http://zhi.hu/6UOH)
    虽然 Freelancer 和远程工作并不完全相同，但这些经验完全值得借鉴。
  - [14 Ways Our Remote Team Stays Sane Working From Home](https://www.groovehq.com/blog/staying-sane-working-solo)
@@ -61,6 +63,7 @@
  - [风车团队](https://fengcheco.com/about)
  - [DeepDevelop Team](http://deepdevelop.com/)
  - [彩程设计](https://tower.im/about_us)
+ - [**更多远程工作团队 »»**](teams.md)
 
 ### 其它资源
 
