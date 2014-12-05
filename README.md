@@ -2,7 +2,9 @@
 
 ### 文章和讨论
 
- - [远程工作，万里之外皆同事](http://www.jianshu.com/p/6bccfde32ed8)
+ - [关于远程工作你有什么疑问？](https://ruby-china.org/topics/14758)  
+   Teahour 在进行[第35期节目](http://teahour.fm/2013/10/21/talking-remote-work-with-allen-wei.html)前对大家进行的一个调查，讨论到了远程工作的很多方面。
+ - [远程工作，万里之外皆同事](http://www.jianshu.com/p/6bccfde32ed8)  
    一个小团队从非远程转变成远程的一些经验。
  - [作为独立开发者，有哪些可以分享的经验？](http://zhi.hu/6UOH)
    虽然 Freelancer 和远程工作并不完全相同，但这些经验完全值得借鉴。
