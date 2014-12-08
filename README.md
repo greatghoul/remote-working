@@ -51,14 +51,21 @@
  - [Toggl](https://toggl.com/) 免费的工作计时工具
  - [**更多工具和服务 »»**](tools.md)
 
+### 招骋网站
+ - [We Work Remotely](https://weworkremotely.com/)
+   寻找或者发布远程工作机会
+ - [Stackoverflwo Careers](http://careers.stackoverflow.com/jobs?allowsremote=true)  
+   Stackoverflow 的招骋频道，提供专门的过滤项来检索远程职位
+ - [Work from Home](https://www.wfh.io/)  
+   国外一个发布远程招骋帖的网站，比较特色的是它会列出支持远程工作的公司列表，方便大家关注。
+ - [flexjobs](http://www.flexjobs.com/)  
+   Find Telecommuting Jobs and other great flexible jobs
+   such as Part-Time jobs and Freelance work.
+
 ### 社区
 
  - [一早一晚](http://yizaoyiwan.com/) 远程工作者社区
- - [APCOW](http://www.apcow.com) A Persion Computer，One Work 
- - [We Work Remotely](https://weworkremotely.com/) 寻找或者发布远程工作机会
- - [Stackoverflwo Careers](http://careers.stackoverflow.com/jobs?allowsremote=true) Stackoverflow 的招骋频道，提供专门的过滤项来检索远程职位
- - [Work from Home](https://www.wfh.io/)
-   国外一个发布远程招骋帖的网站，比较特色的是它会列出支持远程工作的公司列表，方便大家关注。
+ - [APCOW](http://www.apcow.com) A Persion Computer，One Work
 
 ### 国内活跃的远程团队
 
