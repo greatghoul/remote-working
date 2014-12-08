@@ -34,15 +34,20 @@
 - [What Makes Remote Working Work?](https://netguru.co/blog/posts/what-makes-remote-working-work)
 - [How to Handle the Challenges of Remote Teams](http://www.tlnt.com/2014/05/09/how-to-handle-the-challenges-of-handling-remote-teams/)
 
-### 3013年
+### 2013年
 
 - [StackOverflow 使用的远程工作方式对于国内的互联网创业公司有多大的可行性？](http://www.zhihu.com/question/20759108)  
   知乎上关于远程工作比较细致的一篇讨论
 
-### 3012年
+### 2012年
 
 - [团队成员都在异地办公有哪些优劣？](http://www.zhihu.com/question/20011303/answer/18049612)  
   从公司个人两方面讲远程办公有什么优势和劣势
+
+### 2011年
+
+- [英伦随笔：通勤如噩梦？](http://www.bbc.co.uk/ukchina/simp/uk_life/on_britain/110615_suping_big_city_traffic.shtml)  
+  通勤时间长导致夫妻离婚率增高，文章中还讨论了远程工作的好处及面临的一些困难
 
 ### 37signals 系列
 
