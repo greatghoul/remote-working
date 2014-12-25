@@ -1,12 +1,10 @@
 ## 文章和讨论
 
-
 - [从士兵到程序员再到 SOHO 程序员(1)](http://blog.huhao.name/blog/2013/09/14/become-a-freelancer/)
   / [其2](http://blog.huhao.name/blog/2013/12/13/become-a-freelancer-2/)
   / [其3](http://blog.huhao.name/blog/2014/03/01/become-a-freelancer-3/)  
 从备战，求职到正式进入远程工作的励志经历。
 - [Lessons from 2 months of remote working](http://iamnotaprogrammer.com/Remote-teams.html) - [中文翻译](http://blog.jobbole.com/52133/)
-- [远程办公是未来公司的趋势](http://yafeilee.me/blogs/534bfc636c69346dd5200000)
 - [说说在家办公](http://sofish.de/2302)
 - [如何开始你的SOHO之旅(1)](http://terrytai.com/how-to-begin-soho-1/)
 - [如何开始你的SOHO之旅(2)](http://terrytai.com/how-to-begin-soho-2/)
@@ -34,10 +32,18 @@
 - [What Makes Remote Working Work?](https://netguru.co/blog/posts/what-makes-remote-working-work)
 - [How to Handle the Challenges of Remote Teams](http://www.tlnt.com/2014/05/09/how-to-handle-the-challenges-of-handling-remote-teams/)
 
+### 2014年
+
+- [远程办公是未来公司的趋势](http://yafeilee.me/blogs/534bfc636c69346dd5200000)
+
 ### 2013年
 
 - [StackOverflow 使用的远程工作方式对于国内的互联网创业公司有多大的可行性？](http://www.zhihu.com/question/20759108)  
   知乎上关于远程工作比较细致的一篇讨论
+- [我是如何在腐国远程办公的](http://blog.mycolorway.com/2013/06/30/work-in-uk/)  
+  小团队如何使用 Tower 来协作日常的工作，同时文章中提到的两组团队轮换开发/测试的方式也非常有意思。
+- [小而分散的团队如何远程协作](http://www.geekpark.net/topics/179496)  
+  RefacTech 借助 QQ, Tower 和 Gitlab 来进行远程协作的经验分享。
 
 ### 2012年
 
