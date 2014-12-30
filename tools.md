@@ -3,7 +3,8 @@
 ### 时间管理
 
  - [Toggl](https://toggl.com/) 免费的工作计时工具
- - [Focus Timer](http://goo.gl/607XJa) Mac 下一个简洁的蕃茄计时工具
+ - [Focus Timer](http://goo.gl/607XJa) Mac 下一个简洁的番茄计时工具
+ - [番茄土豆](https://pomotodo.com/) 结合了番茄（番茄工作法）与土豆（To-do List）的时间管理工具
 
 ### 项目协作
 
