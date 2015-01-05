@@ -63,6 +63,8 @@
    such as Part-Time jobs and Freelance work.
  - [Front-end Developer Job](http://frontenddeveloperjob.com/)  
    国外前端工程师招聘网站，有不少支持远程的公司
+ - [Nomad Jobs](http://nomadjobs.io/)
+   The best remote jobs and startups worldwide
 
 ### 社区
 
