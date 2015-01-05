@@ -61,6 +61,8 @@
  - [flexjobs](http://www.flexjobs.com/)  
    Find Telecommuting Jobs and other great flexible jobs
    such as Part-Time jobs and Freelance work.
+ - [Front-end Developer Job](http://frontenddeveloperjob.com/)  
+   国外前端工程师招聘网站，有不少支持远程的公司
 
 ### 社区
 
