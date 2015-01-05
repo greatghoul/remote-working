@@ -52,7 +52,7 @@
  - [**更多工具和服务 »»**](tools.md)
 
 ### 招骋网站
- - [We Work Remotely](https://weworkremotely.com/)
+ - [We Work Remotely](https://weworkremotely.com/)  
    寻找或者发布远程工作机会
  - [Stackoverflwo Careers](http://careers.stackoverflow.com/jobs?allowsremote=true)  
    Stackoverflow 的招骋频道，提供专门的过滤项来检索远程职位
@@ -63,7 +63,7 @@
    such as Part-Time jobs and Freelance work.
  - [Front-end Developer Job](http://frontenddeveloperjob.com/)  
    国外前端工程师招聘网站，有不少支持远程的公司
- - [Nomad Jobs](http://nomadjobs.io/)
+ - [Nomad Jobs](http://nomadjobs.io/)  
    The best remote jobs and startups worldwide
 
 ### 社区
