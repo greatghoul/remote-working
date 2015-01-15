@@ -2,6 +2,7 @@
 
 ### 文章和讨论
 
+ - [Is Your Company a Good Fit for Remote Working?](http://www.whereismyceo.com/2014/10/is-your-company-a-good-fit-for-remote-working/)
  - [关于远程工作你有什么疑问？](https://ruby-china.org/topics/14758)  
    Teahour 在进行[第35期节目](http://teahour.fm/2013/10/21/talking-remote-work-with-allen-wei.html)前对大家进行的一个调查，讨论到了远程工作的很多方面。
  - [远程工作，万里之外皆同事](http://www.jianshu.com/p/6bccfde32ed8)  
