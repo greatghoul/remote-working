@@ -72,19 +72,26 @@
  - [一早一晚](http://yizaoyiwan.com/) 远程工作者社区
  - [APCOW](http://www.apcow.com) A Persion Computer，One Work
 
-### 国内活跃的远程团队
+### 活跃的远程团队
 
- - [风车团队](https://fengcheco.com/about)
- - [DeepDevelop Team](http://deepdevelop.com/)
- - [彩程设计](https://tower.im/about_us)
- - [**更多远程工作团队 »»**](teams.md)
+- [风车团队](https://fengcheco.com/about)
+- [DeepDevelop Team](http://deepdevelop.com/)
+- [彩程设计](https://tower.im/about_us)
+- [**更多远程工作团队 »»**](teams.md)
 
 ### 其它资源
 
-- [Remotive - Productive Remote Workers](https://remoteworking.curated.co/) 一个关于远程工作的邮件周刊
-- [最适宜生活和远程工作的城市排名](http://nomadlist.io/) - 对比了生活成本，气候，网速等等
-- [朝露|自由工作者的生活](http://www.littledew.com/) - 一个关于远程工作及生活的博客
-- [Inside Envato](http://inside.envato.com/) - Envato团队博客
-- [Amazing Home Offices](https://www.pinterest.com/workshifting/amazing-home-offices/) - 如果布置自己家里的办公环境，这里有很多参考
+[Remotive - Productive Remote Workers](https://remoteworking.curated.co/)  
+由 [@rdutel](https://twitter.com/rdutel) 发起的一个汇集远程工作资料的电子周刊
+
+[中囯远程工作者周刊](http://eepurl.com/9S3hf)  
+由一早一晚社区发起的汇集远程工作资料的电子周刊，倾向于国内的资源。
+
+[Nomad List](http://nomadlist.io/)  
+最适宜生活和远程工作的城市排名，对比了生活成本，气候，网速等因素。
+
+[Amazing Home Offices](https://www.pinterest.com/workshifting/amazing-home-preoffices/)  
+如果布置自己家里的办公环境，这里有很多参考
+
 
 
