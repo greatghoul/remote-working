@@ -53,24 +53,41 @@
  - [**更多工具和服务 »»**](tools.md)
 
 ### 招骋网站
- - [We Work Remotely](https://weworkremotely.com/)  
-   寻找或者发布远程工作机会
- - [Stackoverflwo Careers](http://careers.stackoverflow.com/jobs?allowsremote=true)  
-   Stackoverflow 的招骋频道，提供专门的过滤项来检索远程职位
- - [Work from Home](https://www.wfh.io/)  
-   国外一个发布远程招骋帖的网站，比较特色的是它会列出支持远程工作的公司列表，方便大家关注。
- - [flexjobs](http://www.flexjobs.com/)  
-   Find Telecommuting Jobs and other great flexible jobs
-   such as Part-Time jobs and Freelance work.
- - [Front-end Developer Job](http://frontenddeveloperjob.com/)  
-   国外前端工程师招聘网站，有不少支持远程的公司
- - [Nomad Jobs](http://nomadjobs.io/)  
-   The best remote jobs and startups worldwide
+
+[We Work Remotely](https://weworkremotely.com/)  
+寻找或者发布远程工作机会
+
+[Stackoverflwo Careers](http://careers.stackoverflow.com/jobs?allowsremote=true)  
+Stackoverflow 的招骋频道，提供专门的过滤项来检索远程职位
+
+[Work from Home](https://www.wfh.io/)  
+国外一个发布远程招骋帖的网站，比较特色的是它会列出支持远程工作的公司列表。
+
+[Flex Jobs](http://www.flexjobs.com/)  
+Find Telecommuting Jobs and other great flexible jobs
+such as Part-Time jobs and Freelance work.
+
+[Front-end Developer Job](http://frontenddeveloperjob.com/)  
+国外前端工程师招聘网站，有不少支持远程的公司
+
+[Nomad Jobs](http://nomadjobs.io/)  
+The best remote jobs and startups worldwide
+
+[REMOTIVE JOBS](http://jobs.remotive.io/)  
+国外的远程工作周刊网站新上线的招骋频道
+
 
 ### 社区
 
- - [一早一晚](http://yizaoyiwan.com/) 远程工作者社区
- - [APCOW](http://www.apcow.com) A Persion Computer，One Work
+[一早一晚](http://yizaoyiwan.com/)  
+远程工作者社区
+
+[APCOW](http://www.apcow.com)  
+A Persion Computer，One Work
+
+[程序员客栈](http://www.programmerinn.com/)  
+新生的程序员外包和交流社区
+
 
 ### 活跃的远程团队
 
@@ -78,6 +95,7 @@
 - [DeepDevelop Team](http://deepdevelop.com/)
 - [彩程设计](https://tower.im/about_us)
 - [**更多远程工作团队 »»**](teams.md)
+
 
 ### 其它资源
 
