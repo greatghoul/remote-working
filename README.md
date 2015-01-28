@@ -24,6 +24,9 @@
  - [37signals 远程工作介绍](http://v.youku.com/v_show/id_XNjI1MzQzNTg0.html)
  - [Jason Fried: Why work doesn't happen at work](http://www.youtube.com/watch?feature=player_embedded&v=5XD2kNopsUs)
  - [#hangops remote working: "the good, the bad, and the timezones"](http://www.youtube.com/watch?v=xMxQRUrbttY&feature=youtu.be)
+
+ [Tower团队24个月的远程协作实践](http://www.infoq.com/cn/presentations/tower-team-24-months-remote-collaborative-practice)
+ 彩程团队从 2012 年开始两年间的远程协作的经验和教训。
  
 ### 演示文稿
 
