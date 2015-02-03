@@ -91,6 +91,8 @@ The best remote jobs and startups worldwide
 [REMOTIVE JOBS](http://jobs.remotive.io/)  
 国外的远程工作周刊网站新上线的招骋频道
 
+[Remote Internships](http://www.internships.com/virtual)  
+为学生提供 1-3 个月的远程实习职位
 
 ### 社区
 
