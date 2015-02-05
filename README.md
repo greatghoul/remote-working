@@ -40,6 +40,9 @@ Teahour 在进行[第35期节目](http://teahour.fm/2013/10/21/talking-remote-wo
  [Tower团队24个月的远程协作实践](http://www.infoq.com/cn/presentations/tower-team-24-months-remote-collaborative-practice)
  彩程团队从 2012 年开始两年间的远程协作的经验和教训。
  
+ [How We Work Across Time Zones at Buffer](https://www.youtube.com/watch?v=TwOD0lAgTbo)  
+Buffer 的团队远程协作的经验
+
 ### 演示文稿
 
  - [远程工作那些事儿](https://speakerdeck.com/yorzi/yuan-cheng-gong-zuo-na-xie-shi-er)
@@ -60,12 +63,31 @@ Teahour 在进行[第35期节目](http://teahour.fm/2013/10/21/talking-remote-wo
 
 ### 工具和服务
 
- - [Trello](https://trello.com/) 轻量级团队流程协作和列表管理平台
- - [风车](https://fengche.co/) 简单高效的团队协作工具（原 Pragmatic.ly）
- - [Tower.im](https://tower.im/) 简单，好用的团队协作工具
- - [Focus Timer](http://goo.gl/607XJa) Mac 下一个简洁的蕃茄计时工具
- - [Toggl](https://toggl.com/) 免费的工作计时工具
- - [**更多工具和服务 »»**](tools.md)
+Trello - https://trello.com/  
+轻量级团队流程协作和列表管理平台
+
+Tower.im - https://tower.im/  
+简单，好用的团队协作工具
+
+Focus Timer - http://goo.gl/607XJa  
+Mac 下一个简洁的蕃茄计时工具
+
+Toggl - https://toggl.com/  
+免费的工作计时工具
+
+风车 - https://fengche.co/  
+简单高效的团队协作工具（原 Pragmatic.ly）
+
+Productivee - https://www.producteev.com/  
+和风车风格类似的团队协作工具。
+
+tita - http://www.tita.com/  
+企业级的工作计划管理平台，其实我想说，它的首页真的好酷。
+
+I Done This - https://idonethis.com/  
+基于邮件的团队日报工具，小巧实用。
+
+[**更多工具和服务 »»**](tools.md)
 
 ### 招骋网站
 
