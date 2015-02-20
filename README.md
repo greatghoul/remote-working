@@ -124,7 +124,7 @@ The best remote jobs and startups worldwide
 [APCOW](http://www.apcow.com)  
 A Persion Computer，One Work
 
-[程序员客栈](http://www.programmerinn.com/)  
+[程序员客栈](http://www.proginn.com)  
 新生的程序员外包和交流社区
 
 
