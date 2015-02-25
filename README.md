@@ -116,6 +116,9 @@ The best remote jobs and startups worldwide
 [Remote Internships](http://www.internships.com/virtual)  
 为学生提供 1-3 个月的远程实习职位
 
+[Remote Ok](http://remoteok.io)  
+一个发布寻找远程工作机会的网站，公为工作机会、创业团队和实习机会三个大块。
+
 ### 社区
 
 [一早一晚](http://yizaoyiwan.com/)  
