@@ -153,5 +153,9 @@ A Persion Computer，One Work
 [Amazing Home Offices](https://www.pinterest.com/workshifting/amazing-home-preoffices/)  
 如果布置自己家里的办公环境，这里有很多参考
 
+[Smart Remote Work](http://www.smartremotework.com/)  
+一个远程工作相关的博客，并且也有 Weekly Newsletter 可以订阅。
+
+
 
 
