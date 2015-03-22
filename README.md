@@ -1,5 +1,11 @@
 ## 远程工作资料
 
+### 中国远程工作者周刊
+
+- [中国远程工作者周刊 第12期](weekly/issue-12.md)
+- [中国远程工作者周刊 第11期](weekly/issue-11.md)
+- [**全部周刊...**](weekly.md)
+
 ### 文章和讨论
 
 [最好的25个寻找远程工作的网站](http://blog.techbay.club/post/zui-hao-de-25ge-xun-zhao-yuan-cheng-gong-zuo-de-wang-zhan)
