@@ -138,6 +138,8 @@ A Persion Computer，One Work
 [程序员客栈](http://www.proginn.com)  
 新生的程序员外包和交流社区
 
+[游牧社区] (https://youmu.io)  
+数字流浪者交流平台
 
 ### 活跃的远程团队
 
