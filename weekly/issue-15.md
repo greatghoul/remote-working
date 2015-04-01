@@ -18,5 +18,9 @@
 
 ## 招骋
 
+[[远程] ios / android 兼职招聘](http://yizaoyiwan.com/discussion/376/)  
+大学生团队，主要涉及 iOS, Android, Web的外包，寻找这方面的小伙伴。
+
+
 ## 工具
 
