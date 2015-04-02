@@ -17,6 +17,7 @@
 
 ### 沟通工具
 
+ - [纷云](https://lesschat.com/) - 团队群聊工具，类似 Slack
  - [Workor 蜗壳](http://workor.com/) 一款国内的视频会议 Web 应用
  - [Zoom](http://zoom.us/) WebEx创始人新创建的在线视频服务，Tower已内置
  - [sqwiggle](https://www.sqwiggle.com/) 定时拍照，以实现 like you're in the same room
