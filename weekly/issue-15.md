@@ -21,6 +21,8 @@
 [[远程] ios / android 兼职招聘](http://yizaoyiwan.com/discussion/376/)  
 大学生团队，主要涉及 iOS, Android, Web的外包，寻找这方面的小伙伴。
 
-
 ## 工具
 
+[纷云 – 团队沟通协作平台](https://lesschat.com/)  
+纷云 是一款团队沟通协作平台，用来在团队间群聊、分享文件、整合第三方服务，
+类 slack 产品，Worktile 旗下新作。[@Appinn](http://www.appinn.com/lesschat/)
