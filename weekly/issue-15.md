@@ -21,8 +21,11 @@
 
 ## 招骋
 
-[[远程] ios / android 兼职招聘](http://yizaoyiwan.com/discussion/376/)  
+[ios / android 兼职招聘](http://yizaoyiwan.com/discussion/376/)  
 大学生团队，主要涉及 iOS, Android, Web的外包，寻找这方面的小伙伴。
+
+[Bindo Labs 招骋 Senior Ruby on Rails Developer](http://yizaoyiwan.com/discussion/384/)  
+做 iOS POS 的公司，招骋 Senior Ruby on Rails Developer
 
 ## 工具
 
