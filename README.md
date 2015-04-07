@@ -139,14 +139,16 @@ A Persion Computer，One Work
 [程序员客栈](http://www.proginn.com)  
 新生的程序员外包和交流社区
 
+[游牧社区] (https://youmu.io)  
+数字流浪者交流平台
 
 ### 活跃的远程团队
 
 - [风车团队](https://fengcheco.com/about)
 - [DeepDevelop Team](http://deepdevelop.com/)
 - [彩程设计](https://tower.im/about_us)
+- [七牛](http://www.qiniu.com/about)
 - [**更多远程工作团队 »»**](teams.md)
-
 
 ### 其它资源
 
