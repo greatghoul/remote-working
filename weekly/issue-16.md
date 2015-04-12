@@ -16,7 +16,10 @@
 并愿意为家庭牺牲事业。因为科技行业女性员工相对较少。为解决这一问题，扎尔斯基与米莱娜·贝里
 一同建立了 PowerToFly，旨在为帮助女性在科技领域里找到灵活工作时间的职位。
 
-[想要女人在科技圈工作？让她们待在家里！](http://kuailiyu.cyzone.cn/article/13741.html)  
+[Remote Work Can Work][a4]  
+远程工作有利有弊端，它可以让你更快乐更健康，提高效率，节省开支，但同时带来了沟通壁障。
+很多人很羡慕远程工作者，并希望自己也能哪天从事远程工作，但罗马不是一天建成的，这需要
+很多准备。文章的末尾，作者分别针对员工和雇主，就如何开始远程工作，提出了一些建议。
 
 [4 Effective Ways to Manage a Remote Team][a5]  
 对于员工，远程工作利于平衡生活与工作，对于雇主，远程工作利于招揽更多的人才，本文的作者就如果
@@ -25,4 +28,5 @@
 [a1]: http://article.yeeyan.org/view/466629/399009
 [a2]: http://www.jianshu.com/p/3bf4c77bd02d
 [a3]: http://hb.jjj.qq.com/a/20150408/031448.htm
+[a4]: https://medium.com/@mrjeremywells/remote-work-can-work-dffeca5b025
 [a5]: http://www.entrepreneur.com/article/242829
