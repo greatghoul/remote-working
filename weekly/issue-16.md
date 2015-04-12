@@ -25,8 +25,29 @@
 对于员工，远程工作利于平衡生活与工作，对于雇主，远程工作利于招揽更多的人才，本文的作者就如果
 高效的管理远程团队，给出了四条建议，促使远程团队的工作更容易掌握，团队更加默契。
 
+[自由职业的第一步: 200 元与 200 美刀][a6]  
+作者通过国内和国外两个案例介绍了自己如何开始远程工作的，有了实践经验后，
+还[组建了自己的团队][1]。国内的市场不好做，作者也谈了几点原因，
+但仍然对国内市场充满信心，或者囯内外市场同时进行会是一种比较好的平衡。
+
+## 工具
+
+[Zoom][t1]  
+Zoom提供桌面端及移动端的视频会议服务，无需额外硬件，支持高清视频会议及录制、
+屏幕共享、组间沟通等功能（来自 [36kr][2]）。相比于 Skype，Zoom 更加稳定和流畅，
+免费用户建立的房间的最长使用时间为 40 分钟。值得一提的是，国内的团队协作工具
+[Tower] 已经内置了 Zoom 的服务。
+
 [a1]: http://article.yeeyan.org/view/466629/399009
 [a2]: http://www.jianshu.com/p/3bf4c77bd02d
 [a3]: http://hb.jjj.qq.com/a/20150408/031448.htm
 [a4]: https://medium.com/@mrjeremywells/remote-work-can-work-dffeca5b025
 [a5]: http://www.entrepreneur.com/article/242829
+[a6]: http://yafeilee.me/blogs/552963636c693454c8000000
+
+[t1]: http://zoom.us/
+
+[1]: http://80percent.io
+[2]: http://36kr.com/p/201081.html
+
+[Tower]: https://tower.im/roadmap#TWR0041
