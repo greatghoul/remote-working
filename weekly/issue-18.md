@@ -9,6 +9,8 @@
 [远程工作让故乡不再遥远][a4]  
 作者通过在火车上看到一位大妈低血压晕倒，联想到现在的年轻人独立在异地的城市打拼，和年迈的父母分隔两地的心酸。作者一直远程工作，不讨论远程工作的利弊，但它很好的缓解了上面的心酸。
 
+[多少人在 remote ?][a5]  
+V2EX 一篇讨论有多少远程工作的话题，不同的人对 remote 的感受真是各不相同。然后远程工作并不适合所有人，以往的周刊中，有推荐过很多文章阐述这个问题。
 
 ## 招骋
 
@@ -19,6 +21,7 @@
 [a2]: http://mt.sohu.com/20150421/n411628661.shtml
 [a3]: http://www.goselect.net/a/tuanduiguanli/20150416/1473.html
 [a4]: http://likaiwen.cn/post/draft/yuan-cheng-gong-zuo-rang-gu-xiang-bu-zai-yao-yuan
+[a5]: http://www.v2ex.com/t/184904
 
 
 [h1]: http://yizaoyiwan.com/discussion/396/
