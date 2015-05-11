@@ -12,11 +12,12 @@
 [12 Tips to Stay Healthy While Working From Home][a4]  
 远程工作最应该关注就是健康问题，作者给出了 12 条建议让你在远程工作时保持一个健康的状态，比如设立独立的办公空间，买一把好椅子或者干脆站立办公，规划好办公和锻炼的时间，备好有益健康的食物，比如水果。
 
-[Working Smoothly with a Virtual Boss][a5]  
+[11 tips for hosting pain free online meetings][a5]  
+远程工作，视频会议必不可少，这大概是少有的成员可以互相见面的机会，但因为网络、设备、环境的差异，视频会议会有很多问题，文章开始的短片很好的说明了这一点。本文向大家介绍了一些如何开好视频会议的经验和建议，比如指定一个组织者避免会议毫无章程，预备备选工具以便随时替换等。
 
 
 [a1]: http://blog.pickcrew.com/how-to-find-the-perfect-remote-working-setup-for-you/
 [a2]: http://www.nsa.gov.cn/web/a/zixunbaogao/20150502/5659.html
 [a3]: http://www.littledew.com/blog/works/1732
 [a4]: http://www.entrepreneur.com/article/243589
-[a5]: https://hbr.org/2014/12/working-smoothly-with-a-virtual-boss
+[a5]: http://linkis.com/com/4bB7I

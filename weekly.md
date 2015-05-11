@@ -2,6 +2,7 @@
 
 [欢迎订阅](http://eepurl.com/9S3hf)
 
+- [中国远程工作者周刊 第20期](weekly/issue-20.md)
 - [中国远程工作者周刊 第19期](weekly/issue-19.md)
 - [中国远程工作者周刊 第18期](weekly/issue-18.md)
 - [中国远程工作者周刊 第17期](weekly/issue-17.md)
