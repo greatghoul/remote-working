@@ -10,7 +10,11 @@
 [异地恋如何维持？][a3]  
 这一期的周刊，乱入了一篇远程工作之外的讨论，这条知乎中，网友赵正中的回答让人眼前一亮，看似毫无关系的异地恋和远程工作，竟有许多的相似之处，尤其[璇玑的回答](http://zhi.hu/3QBX)真的让人产生许多共鸣。
 
+[HOW TO ACHIEVE MORE BY DOING LESS][a4]  
+最近我经常有这样的困扰：自己的时间越来越不够用。想做的事情太多，但精力却不济，总感觉有做不完的事情，但事实上却真的没有那么忙。如果优雅的解决这个问题，这篇文章给了我一些指导：不要太长时间专注一件事，而是将它拆分成，增加休息的频率，避免大脑“过热”。
+
 
 [a1]: https://remoteworker.wordpress.com/2015/05/11/applying-for-a-remote-job-prepare-to-answer-these-interview-questions
 [a2]: http://www.helpscout.net/blog/remote-work-resources/
 [a3]: http://www.zhihu.com/question/21314569/answer/46562824
+[a4]: http://www.fastcompany.com/3040968/work-smart/how-to-achieve-more-by-doing-less
