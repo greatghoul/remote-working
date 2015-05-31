@@ -133,8 +133,9 @@ The best remote jobs and startups worldwide
 [一早一晚](http://yizaoyiwan.com/)  
 远程工作者社区
 
-[APCOW](http://www.apcow.com)  
-A Persion Computer，One Work
+[OneWork](http://www.apcow.com)  
+A Persion Computer，One Work，
+整合互联网资源，最专业的远程工作者交流社区
 
 [程序员客栈](http://www.proginn.com)  
 新生的程序员外包和交流社区
