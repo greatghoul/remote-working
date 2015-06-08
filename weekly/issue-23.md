@@ -9,5 +9,10 @@
 [码农也能做出逼格破表的设计？抱团学 Sketch][a3]  
 这是思客教学举办的免费迷你课程，帮助码家学习如何设计一个流行的 “扁平极简” 风格的产品宣传页，使用的工具是 Sketch 3，由思客教学和独立设计师 Kevin Li 一起合作教授，想要报名的小朋友赶快了。
 
+[4 Tips for Staying Productive While Traveling][a4]  
+上面报团学 Sketch 的组织者 hayeah 就曾经写过一篇一边旅行一边工作的文章。这篇文章同样介绍了如何在旅行中还能高效工作的一些经验，比如需要做一个咖啡馆的调查，很多时候，网速决定了你的效率，而很多咖啡馆的网速是非常渣的，更别提旅店了。
+
 [a1]: http://tech2ipo.com/99198
 [a2]: http://www.lieyunwang.com/archives/87611
+[a3]: http://yizaoyiwan.com/discussion/428/
+[a4]: http://tech.co/4-tips-staying-productive-traveling-2015-05
