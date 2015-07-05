@@ -8,12 +8,15 @@
 
 ### 项目协作
 
- - [Trello](https://trello.com/) 轻量级团队流程协作和列表管理平台
- - [Tower.im](https://tower.im/) 简单，好用的团队协作工具
- - [风车](https://fengche.co/) 简单高效的团队协作工具（原 Pragmatic.ly）
- - [Teambiton](https://www.teambition.com/) 类 Trello 的简单高效的项目协作工具
- - [简单BIZ](http://www.jiandan.biz/) 在线的销售项目跟踪管理以及客户关系管理软件
- - [Worktile](https://worktile.com/) 让工作更简单
+ - [Trello](https://trello.com/) - 轻量级团队流程协作和列表管理平台
+ - [Tower.im](https://tower.im/) - 简单，好用的团队协作工具
+ - [风车](https://fengche.co/) - 简单高效的团队协作工具（原 Pragmatic.ly）
+ - [Productivee](https://www.producteev.com/) - 和风车风格类似的团队协作工具
+ - [Teambiton](https://www.teambition.com/) - 类 Trello 的简单高效的项目协作工具
+ - [简单BIZ](http://www.jiandan.biz/) - 在线的销售项目跟踪管理以及客户关系管理软件
+ - [Worktile](https://worktile.com/) - 让工作更简单
+ - [tita](http://www.tita.com/) - 企业级的工作计划管理平台，其实我想说，它的首页真的好酷。
+ - [I Done This](https://idonethis.com/) - 基于邮件的团队日报工具，小巧实用。
 
 ### 沟通工具
 
