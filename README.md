@@ -2,11 +2,11 @@
 
 ### 中国远程工作者周刊
 
+- [中国远程工作者周刊 第24期](weekly/issue-24.md)
 - [中国远程工作者周刊 第23期](weekly/issue-23.md)
 - [中国远程工作者周刊 第22期](weekly/issue-22.md)
 - [中国远程工作者周刊 第21期](weekly/issue-21.md)
 - [中国远程工作者周刊 第20期](weekly/issue-20.md)
-- [中国远程工作者周刊 第19期](weekly/issue-19.md)
 - [**全部周刊...**](weekly.md)
 
 ### 文章和讨论
