@@ -3,5 +3,10 @@
 [Four Crazy Tips For Creating Effective Remote Teams][1]  
 正如文章的标题一样，它提出的一些观点都非常的疯狂，分享一切，摄像头长开，早上3点起床，鼓励过度沟通，这种方式可以在某些团队中能够起一些作用，不过我觉得它不是我想要远程工作的 Style，尽量如此，大家还是可以读一读这篇文章，一起探讨一下。
 
-[1]: http://vsee.com/blog/4-tips-building-effective-remote-teams/
+[近期准备找下一份远程工作，求建议][2]  
+作者因为听到了远程工作的名词，然后尝试走上了 Solo 的道路，开始了远程工作，之后还尝试了在远程团队中工作，但都没有特别好的体验，目前辞职，准备找下一份远程工作。有兴趣的可以参与 V2EX 上这篇帖子的讨论。
 
+
+
+[1]: http://vsee.com/blog/4-tips-building-effective-remote-teams/
+[2]: https://www.v2ex.com/t/200681
