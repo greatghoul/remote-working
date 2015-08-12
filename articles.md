@@ -32,8 +32,16 @@
 - [What Makes Remote Working Work?](https://netguru.co/blog/posts/what-makes-remote-working-work)
 - [How to Handle the Challenges of Remote Teams](http://www.tlnt.com/2014/05/09/how-to-handle-the-challenges-of-handling-remote-teams/)
 
+### 2015年
+
+- [再出发](http://yizaoyiwan.com/discussion/481/)
+- [如何使自由职业者有全职工作](http://blog.techbay.club/post/ru-he-shi-zi-you-zhi-ye-zhe-you-quan-zhi-gong-zuo)
+- [一个远程外包自由职业者的经历和经验](http://yizaoyiwan.com/discussion/474/)
+- [从 300 万到 1000 万，DeepDevelop 外包业务第二阶段总结](http://yizaoyiwan.com/discussion/460/)
+
 ### 2014年
 
+- [从300到300万，一个远程外包团队的发展历程和经验](http://yizaoyiwan.com/discussion/79/)
 - [远程办公是未来公司的趋势](http://yafeilee.me/blogs/534bfc636c69346dd5200000)
 
 ### 2013年
