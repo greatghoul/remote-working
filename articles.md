@@ -38,6 +38,7 @@
 - [如何使自由职业者有全职工作](http://blog.techbay.club/post/ru-he-shi-zi-you-zhi-ye-zhe-you-quan-zhi-gong-zuo)
 - [一个远程外包自由职业者的经历和经验](http://yizaoyiwan.com/discussion/474/)
 - [从 300 万到 1000 万，DeepDevelop 外包业务第二阶段总结](http://yizaoyiwan.com/discussion/460/)
+- [说说我对不同独立开发者接单渠道的体验](http://yizaoyiwan.com/discussion/491/)
 
 ### 2014年
 
