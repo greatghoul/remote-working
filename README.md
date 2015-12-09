@@ -1,16 +1,5 @@
 ## 远程工作资料
 
-### 中国远程工作者周刊
-
-- [中国远程工作者周刊 第29期](weekly/issue-29.md)
-- [中国远程工作者周刊 第27期](weekly/issue-27.md)
-- [中国远程工作者周刊 第26期](weekly/issue-26.md)
-- [中国远程工作者周刊 第25期](weekly/issue-25.md)
-- [中国远程工作者周刊 第24期](weekly/issue-24.md)
-- [中国远程工作者周刊 第23期](weekly/issue-23.md)
-- [中国远程工作者周刊 第22期](weekly/issue-22.md)
-- [**全部周刊...**](weekly.md)
-
 ### 文章和讨论
 
 [最好的25个寻找远程工作的网站](http://blog.techbay.club/post/zui-hao-de-25ge-xun-zhao-yuan-cheng-gong-zuo-de-wang-zhan)
@@ -145,20 +134,11 @@ A Persion Computer，One Work，
 
 ### 其它资源
 
-[Remotive - Productive Remote Workers](https://remoteworking.curated.co/)  
-由 [@rdutel](https://twitter.com/rdutel) 发起的一个汇集远程工作资料的电子周刊
-
-[中囯远程工作者周刊](http://eepurl.com/9S3hf)  
-由一早一晚社区发起的汇集远程工作资料的电子周刊，倾向于国内的资源。
-
-[Nomad List](http://nomadlist.io/)  
-最适宜生活和远程工作的城市排名，对比了生活成本，气候，网速等因素。
-
-[Amazing Home Offices](https://www.pinterest.com/workshifting/amazing-home-preoffices/)  
-如果布置自己家里的办公环境，这里有很多参考
-
-[Smart Remote Work](http://www.smartremotework.com/)  
-一个远程工作相关的博客，并且也有 Weekly Newsletter 可以订阅。
+- [Remotive - Productive Remote Workers](https://remoteworking.curated.co/) - 由 [@rdutel](https://twitter.com/rdutel) 发起的一个汇集远程工作资料的电子周刊
+- [中囯远程工作者周刊](http://us9.campaign-archive2.com/home/?u=bf24ece349027eafe49db8c4f&id=b06f733ed4) - 由一早一晚社区发起的汇集远程工作资料的电子周刊，倾向于国内的资源。
+- [Nomad List](http://nomadlist.io/) - 最适宜生活和远程工作的城市排名，对比了生活成本，气候，网速等因素。
+- [Amazing Home Offices](https://www.pinterest.com/workshifting/amazing-home-preoffices/) - 如果布置自己家里的办公环境，这里有很多参考
+- [Smart Remote Work](http://www.smartremotework.com/) - 一个远程工作相关的博客，并且也有 Weekly Newsletter 可以订阅。
 
 
 
