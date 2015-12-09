@@ -132,6 +132,9 @@ A Persion Computer，One Work，
 [游牧社区] (https://youmu.io)  
 数字流浪者交流平台
 
+[Remote China](http://remotechina.xyz/)
+一个新建立的远程工作的社区
+
 ### 活跃的远程团队
 
 - [风车团队](https://fengcheco.com/about)
