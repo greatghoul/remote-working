@@ -106,23 +106,14 @@ The best remote jobs and startups worldwide
 [Remote Ok](http://remoteok.io)  
 远程工作招骋网站，分为工作机会、创业团队和实习机会三个大块。
 
-### 社区
+### 国内的远程工作平台和社区
 
-[一早一晚](http://yizaoyiwan.com/)  
-远程工作者社区
-
-[OneWork](http://www.apcow.com)  
-A Persion Computer，One Work，
-整合互联网资源，最专业的远程工作者交流社区
-
-[程序员客栈](http://www.proginn.com)  
-新生的程序员外包和交流社区
-
-[游牧社区] (https://youmu.io)  
-数字流浪者交流平台
-
-[Remote China](http://remotechina.xyz/)
-一个新建立的远程工作的社区
+ * [一早一晚](http://yizaoyiwan.com/) - 只工作，不上班
+ * [OneWork](http://www.apcow.com) - A Persion Computer，One Work，
+ * [程序员客栈](http://www.proginn.com) - 程序员的经纪人
+ * [游牧社区](https://youmu.io) - 数字流浪者交流平台
+ * [Remote China](http://remotechina.xyz/)
+ * [远程工作党豆瓣小组](https://www.douban.com/group/freejobs/)
 
 ### 活跃的远程团队
 
