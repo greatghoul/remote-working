@@ -71,36 +71,30 @@ Buffer 的团队远程协作的经验
 
 ### 招骋网站
 
-[英选](http://www.linktion.cn)  
-为认证通过的独立开发者提供互联网项目的短期雇佣机会
-
-[We Work Remotely](https://weworkremotely.com/)  
-寻找或者发布远程工作机会
-
-[Stackoverflow Careers](http://careers.stackoverflow.com/jobs?allowsremote=true)  
-Stackoverflow 的招骋频道，提供专门的过滤项来检索远程职位
-
-[Work from Home](https://www.wfh.io/)  
-国外一个发布远程招骋帖的网站，比较特色的是它会列出支持远程工作的公司列表。
-
-[Flex Jobs](http://www.flexjobs.com/)  
-Find Telecommuting Jobs and other great flexible jobs
-such as Part-Time jobs and Freelance work.
-
-[Front-end Developer Job](http://frontenddeveloperjob.com/)  
-国外前端工程师招聘网站，有不少支持远程的公司
-
-[Nomad Jobs](http://nomadjobs.io/)  
-The best remote jobs and startups worldwide
-
-[REMOTIVE JOBS](http://jobs.remotive.io/)  
-国外的远程工作周刊网站新上线的招骋频道
-
-[Remote Internships](http://www.internships.com/virtual)  
-为学生提供 1-3 个月的远程实习职位
-
-[Remote Ok](http://remoteok.io)  
-远程工作招骋网站，分为工作机会、创业团队和实习机会三个大块。
+- [英选](http://www.linktion.cn)  
+  为认证通过的独立开发者提供互联网项目的短期雇佣机会
+- [远程.work](http://yuancheng.work/)  
+  远程工作招聘网站
+- [一早一晚招骋](http://yizaoyiwan.com/categories/employer)
+  一早一晚社区的招骋版块
+- [We Work Remotely](https://weworkremotely.com/)  
+  寻找或者发布远程工作机会
+- [Stackoverflow Careers](http://careers.stackoverflow.com/jobs?allowsremote=true)  
+  Stackoverflow 的招骋频道，提供专门的过滤项来检索远程职位
+- [Work from Home](https://www.wfh.io/)  
+  国外一个发布远程招骋帖的网站，比较特色的是它会列出支持远程工作的公司列表。
+- [Flex Jobs](http://www.flexjobs.com/)  
+  Find Telecommuting Jobs and other great flexible jobs such as Part-Time jobs and Freelance work.
+- [Front-end Developer Job](http://frontenddeveloperjob.com/)  
+  国外前端工程师招聘网站，有不少支持远程的公司
+- [Nomad Jobs](http://nomadjobs.io/)  
+  The best remote jobs and startups worldwide
+- [REMOTIVE JOBS](http://jobs.remotive.io/)  
+  国外的远程工作周刊网站新上线的招骋频道
+- [Remote Internships](http://www.internships.com/virtual)  
+  为学生提供 1-3 个月的远程实习职位
+- [Remote Ok](http://remoteok.io)  
+  远程工作招骋网站，分为工作机会、创业团队和实习机会三个大块。
 
 ### 国内的远程工作平台和社区
 
