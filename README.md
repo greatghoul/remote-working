@@ -1,20 +1,32 @@
 ## 远程工作资料
 
-目录：
+<a name="toc"></a>目录：
 
-- [文章和讨论](#articles)
-  * [教训](#bad)
-  * [经验](#good)
+- [文章和讨论](#文章和讨论)
+  * [教训](#教训)
+  * [经验](#经验)
+- [影音资料](#影音资料)
+- [演示文稿](#演示文稿)
+- [书籍](#书籍)
+- [读书笔记](#读书笔记)
+- [漫画](#漫画)
+- [工具和服务](#工具和服务)
+- [招骋网站](#招骋网站)
+- [平台和社区](#平台和社区)
+- [远程团队](#远程团队)
+- [其它资源](#其它资源)
+- 
+### 文章和讨论
 
-### <a name="articles"></a>文章和讨论
-
-#### <a name="bad"></a>教训
+#### 教训
 
 远程并不总是美好的，有时也会遇到一些坑。
 
 - [日本或者台湾的一些远程工作或者兼职或者工作的，大家要警惕了](https://ruby-china.org/topics/30179)
 
-#### <a name="good"></a>经验
+[⬆︎返回目录](#toc)
+
+#### 经验
 
 - [Building remote-first teams](https://medium.com/@fox/building-remote-first-teams-a98bf8581db#.id986fwhl)  
   一篇综合性的讨论远程团队的文章，从公司到个人，从优势和劣势，非常详细。
@@ -39,6 +51,8 @@
 - [SOHO 家里办公的体验](http://yafeilee.me/blogs/5357caa16c69344c0c0b0000)
 - [**更多文章和讨论 »»**](articles.md)
 
+[⬆︎返回目录](#toc)
+
 ### 影音资料
 
  - [自由的思考：远程工作者的成长之路](http://teahour.fm/2014/11/25/thoughts-about-remote-life.html)
@@ -53,10 +67,14 @@
  [How We Work Across Time Zones at Buffer](https://www.youtube.com/watch?v=TwOD0lAgTbo)  
 Buffer 的团队远程协作的经验
 
+[⬆︎返回目录](#toc)
+
 ### 演示文稿
 
  - [远程工作那些事儿](https://speakerdeck.com/yorzi/yuan-cheng-gong-zuo-na-xie-shi-er)
  - [远程工作你所不知道的那些事儿](http://vdisk.weibo.com/s/zby-x0TZj2PEy/1378093426)
+
+[⬆︎返回目录](#toc)
 
 ### 书籍
 
@@ -65,13 +83,19 @@ Buffer 的团队远程协作的经验
  - [The Ultimate Guide to Remote Work](https://zapier.com/learn/the-ultimate-guide-to-remote-working/) - Zapier 的远程工作实践
  - [The Ultimate Guide To Getting Started Freelancing](http://skillcrush.com/2015/05/28/ultimate-guide-to-freelancing/) - 一份不错的转型为自由职业者的指南
 
+[⬆︎返回目录](#toc)
+
 ### 读书笔记
 
  - ["Remote: Office not Required" Review](http://robertgreiner.com/2013/11/remote-office-not-required-review/)
 
+[⬆︎返回目录](#toc)
+
 ### 漫画
 
  - [Why working from home is both awesome and horrible](http://theoatmeal.com/comics/working_home)
+
+[⬆︎返回目录](#toc)
 
 ### 工具和服务
 
@@ -82,6 +106,8 @@ Buffer 的团队远程协作的经验
 - [Toggl](https://toggl.com/) - 免费的工作计时工具
 - [风车](https://fengche.co/) - 简单高效的团队协作工具（原 Pragmatic.ly）
 - [**更多工具和服务 »»**](tools.md)
+
+[⬆︎返回目录](#toc)
 
 ### 招骋网站
 
@@ -110,7 +136,9 @@ Buffer 的团队远程协作的经验
 - [Remote Ok](http://remoteok.io)  
   远程工作招骋网站，分为工作机会、创业团队和实习机会三个大块。
 
-### 国内的远程工作平台和社区
+[⬆︎返回目录](#toc)
+
+### 平台和社区
 
  * [一早一晚](http://yizaoyiwan.com/) - 只工作，不上班
  * [OneWork](http://www.apcow.com) - A Persion Computer，One Work，
@@ -119,13 +147,17 @@ Buffer 的团队远程协作的经验
  * [Remote China](http://remotechina.xyz/)
  * [远程工作党豆瓣小组](https://www.douban.com/group/freejobs/)
 
-### 活跃的远程团队
+[⬆︎返回目录](#toc)
+
+### 远程团队
 
 - [风车团队](https://fengcheco.com/about)
 - [DeepDevelop Team](http://deepdevelop.com/)
 - [彩程设计](https://tower.im/about_us)
 - [七牛](http://www.qiniu.com/about)
 - [**更多远程工作团队 »»**](teams.md)
+
+[⬆︎返回目录](#toc)
 
 ### 其它资源
 
@@ -135,6 +167,6 @@ Buffer 的团队远程协作的经验
 - [Amazing Home Offices](https://www.pinterest.com/workshifting/amazing-home-preoffices/) - 如果布置自己家里的办公环境，这里有很多参考
 - [Smart Remote Work](http://www.smartremotework.com/) - 一个远程工作相关的博客，并且也有 Weekly Newsletter 可以订阅。
 
-
+[⬆︎返回目录](#toc)
 
 
