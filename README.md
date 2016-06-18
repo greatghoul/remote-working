@@ -1,6 +1,20 @@
 ## 远程工作资料
 
-### 文章和讨论
+目录：
+
+- [文章和讨论](#articles)
+  * [教训](#bad)
+  * [经验](#good)
+
+### <a name="articles"></a>文章和讨论
+
+#### <a name="bad"></a>教训
+
+远程并不总是美好的，有时也会遇到一些坑。
+
+- [日本或者台湾的一些远程工作或者兼职或者工作的，大家要警惕了](https://ruby-china.org/topics/30179)
+
+#### <a name="good"></a>经验
 
 - [Building remote-first teams](https://medium.com/@fox/building-remote-first-teams-a98bf8581db#.id986fwhl)  
   一篇综合性的讨论远程团队的文章，从公司到个人，从优势和劣势，非常详细。
