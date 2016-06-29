@@ -28,6 +28,7 @@
 
 #### 经验
 
+- [自由职业者们，请留意自己的心理和精神健康](http://www.littledew.com/2551)
 - [Building remote-first teams](https://medium.com/@fox/building-remote-first-teams-a98bf8581db#.id986fwhl)  
   一篇综合性的讨论远程团队的文章，从公司到个人，从优势和劣势，非常详细。
 - [最好的25个寻找远程工作的网站](http://blog.techbay.club/post/zui-hao-de-25ge-xun-zhao-yuan-cheng-gong-zuo-de-wang-zhan)  
