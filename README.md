@@ -67,7 +67,7 @@
 
  [Tower团队24个月的远程协作实践](http://www.infoq.com/cn/presentations/tower-team-24-months-remote-collaborative-practice)
  彩程团队从 2012 年开始两年间的远程协作的经验和教训。
- 
+
  [How We Work Across Time Zones at Buffer](https://www.youtube.com/watch?v=TwOD0lAgTbo)  
 Buffer 的团队远程协作的经验
 
@@ -139,6 +139,8 @@ Buffer 的团队远程协作的经验
   为学生提供 1-3 个月的远程实习职位
 - [Remote Ok](http://remoteok.io)  
   远程工作招骋网站，分为工作机会、创业团队和实习机会三个大块。
+- [Remote Jobs Expert](https://www.remotejobsexpert.com)  
+  专门针对 Remote Jobs 的搜索引擎
 
 [⬆︎返回目录](#toc)
 
@@ -172,5 +174,3 @@ Buffer 的团队远程协作的经验
 - [Smart Remote Work](http://www.smartremotework.com/) - 一个远程工作相关的博客，并且也有 Weekly Newsletter 可以订阅。
 
 [⬆︎返回目录](#toc)
-
-
