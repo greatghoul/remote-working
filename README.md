@@ -1,6 +1,6 @@
-## 远程工作资料
+# 远程工作资料
 
-<a name="toc"></a>目录：
+## <a name="toc"></a>目录：
 
 - [文章和讨论](#文章和讨论)
   * [教训](#教训)
@@ -16,9 +16,9 @@
 - [远程团队](#远程团队)
 - [其它资源](#其它资源)
 
-### 文章和讨论
+## 文章和讨论
 
-#### 教训
+### 教训
 
 远程并不总是美好的，有时也会遇到一些坑。
 
@@ -26,7 +26,7 @@
 
 [⬆︎返回目录](#toc)
 
-#### 经验
+### 经验
 
 - [fir.im Weekly - 聊聊让人向往的远程开发工作](https://gold.xitu.io/entry/5779ef492e958a22d8b3f5e8)
 - [设计师应该在咖啡馆工作](http://blog.163.com/dillon_yue/blog/static/242926066201411804958354)
@@ -58,7 +58,7 @@
 
 [⬆︎返回目录](#toc)
 
-### 影音资料
+## 影音资料
 
  - [自由的思考：远程工作者的成长之路](http://teahour.fm/2014/11/25/thoughts-about-remote-life.html)
  - [和魏伦谈远程团队和远程工作](http://teahour.fm/2013/10/21/talking-remote-work-with-allen-wei.html)
@@ -74,14 +74,14 @@ Buffer 的团队远程协作的经验
 
 [⬆︎返回目录](#toc)
 
-### 演示文稿
+## 演示文稿
 
  - [远程工作那些事儿](https://speakerdeck.com/yorzi/yuan-cheng-gong-zuo-na-xie-shi-er)
  - [远程工作你所不知道的那些事儿](http://vdisk.weibo.com/s/zby-x0TZj2PEy/1378093426)
 
 [⬆︎返回目录](#toc)
 
-### 书籍
+## 书籍
 
  - [Remote - Office Not Required](http://37signals.com/remote) - [购买](http://www.amazon.com/Remote-Office-Not-Required/dp/0804137501)
  - [Remote - Office Not Required 中文译本](http://jianshu.io/notebooks/41672/latest) 发布在简书上的译本
@@ -90,19 +90,19 @@ Buffer 的团队远程协作的经验
 
 [⬆︎返回目录](#toc)
 
-### 读书笔记
+## 读书笔记
 
  - ["Remote: Office not Required" Review](http://robertgreiner.com/2013/11/remote-office-not-required-review/)
 
 [⬆︎返回目录](#toc)
 
-### 漫画
+## 漫画
 
  - [Why working from home is both awesome and horrible](http://theoatmeal.com/comics/working_home)
 
 [⬆︎返回目录](#toc)
 
-### 工具和服务
+## 工具和服务
 
 - [瀑布IM](https://beta.pubu.im/) - 瀑布IM，让团队沟通再简单一点
 - [Trello](https://trello.com/) - 轻量级团队流程协作和列表管理平台
@@ -114,7 +114,7 @@ Buffer 的团队远程协作的经验
 
 [⬆︎返回目录](#toc)
 
-### 招骋网站
+## 招骋网站
 
 - [英选](http://www.linktion.cn)  
   为认证通过的独立开发者提供互联网项目的短期雇佣机会
@@ -145,7 +145,7 @@ Buffer 的团队远程协作的经验
 
 [⬆︎返回目录](#toc)
 
-### 平台和社区
+## 平台和社区
 
  * [一早一晚](http://yizaoyiwan.com/) - 只工作，不上班
  * [OneWork](http://www.apcow.com) - A Persion Computer，One Work，
@@ -156,7 +156,7 @@ Buffer 的团队远程协作的经验
 
 [⬆︎返回目录](#toc)
 
-### 远程团队
+## 远程团队
 
 - [风车团队](https://fengcheco.com/about)
 - [DeepDevelop Team](http://deepdevelop.com/)
@@ -166,7 +166,7 @@ Buffer 的团队远程协作的经验
 
 [⬆︎返回目录](#toc)
 
-### 其它资源
+## 其它资源
 
 - [Remotive - Productive Remote Workers](https://remoteworking.curated.co/) - 由 [@rdutel](https://twitter.com/rdutel) 发起的一个汇集远程工作资料的电子周刊
 - [中囯远程工作者周刊](http://us9.campaign-archive2.com/home/?u=bf24ece349027eafe49db8c4f&id=b06f733ed4) - 由一早一晚社区发起的汇集远程工作资料的电子周刊，倾向于国内的资源。
