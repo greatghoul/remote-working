@@ -13,6 +13,7 @@
 - [平台和社区](#平台和社区)
 - [远程团队](#远程团队)
 - [其它资源](#其它资源)
+- [其它列表](#其它列表)
 
 ## 文章和讨论
 
@@ -147,3 +148,8 @@
 - [Smart Remote Work](http://www.smartremotework.com/) - 一个远程工作相关的博客，并且也有 Weekly Newsletter 可以订阅。
 
 [⬆︎返回目录](#toc)
+
+## 其它列表
+
+- [awesome-RemoteWork](https://github.com/hugo53/awesome-RemoteWork) - Resources for remote workers: approaches, hiring page, remote life and more.
+- [established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
