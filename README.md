@@ -131,10 +131,10 @@
 ## 远程团队
 
 - [风车团队](https://fengcheco.com/about)
-- [DeepDevelop Team](http://deepdevelop.com/)
+- [DeepDevelop](http://deepdevelop.com/)
 - [彩程设计](https://tower.im/about_us)
 - [七牛](http://www.qiniu.com/about)
-- [**更多远程工作团队 »»**](teams.md)
+- [80%](https://www.80percent.io/)
 
 [⬆︎返回目录](#toc)
 
