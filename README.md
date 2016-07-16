@@ -50,13 +50,14 @@
 
 ## 影音资料
 
-- [自由的思考：远程工作者的成长之路](http://teahour.fm/2014/11/25/thoughts-about-remote-life.html)
-- [和魏伦谈远程团队和远程工作](http://teahour.fm/2013/10/21/talking-remote-work-with-allen-wei.html)
-- [37signals 远程工作介绍](http://v.youku.com/v_show/id_XNjI1MzQzNTg0.html)
-- [Jason Fried: Why work doesn't happen at work](http://www.youtube.com/watch?feature=player_embedded&v=5XD2kNopsUs)
-- [#hangops remote working: "the good, the bad, and the timezones"](http://www.youtube.com/watch?v=xMxQRUrbttY&feature=youtu.be)
-- [Tower团队24个月的远程协作实践](http://www.infoq.com/cn/presentations/tower-team-24-months-remote-collaborative-practice) - 彩程团队从 2012 年开始两年间的远程协作的经验和教训
-- [How We Work Across Time Zones at Buffer](https://www.youtube.com/watch?v=TwOD0lAgTbo) - Buffer 的团队远程协作的经验
+- `2016-01-09` [中国程序员能不能远程工作？](http://v.qq.com/x/page/b0180ahqmw4.html)
+- `2015-01-28` [Tower团队24个月的远程协作实践](http://www.infoq.com/cn/presentations/tower-team-24-months-remote-collaborative-practice) - 彩程团队从 2012 年开始两年间的远程协作的经验和教训
+- `2015-01-13` [How We Work Across Time Zones at Buffer](https://www.youtube.com/watch?v=TwOD0lAgTbo) - Buffer 的团队远程协作的经验
+- `2014-11-25` [自由的思考：远程工作者的成长之路](http://teahour.fm/2014/11/25/thoughts-about-remote-life.html)
+- `2014-05-09` [#hangops remote working: "the good, the bad, and the timezones"](http://www.youtube.com/watch?v=xMxQRUrbttY&feature=youtu.be)
+- `2013-10-22` [37signals 远程工作介绍](http://v.youku.com/v_show/id_XNjI1MzQzNTg0.html)
+- `2013-10-21` [和魏伦谈远程团队和远程工作](http://teahour.fm/2013/10/21/talking-remote-work-with-allen-wei.html)
+- `2010-11-24` [Jason Fried: Why work doesn't happen at work](http://www.youtube.com/watch?feature=player_embedded&v=5XD2kNopsUs)
 
 [⬆︎返回目录](#toc)
 
