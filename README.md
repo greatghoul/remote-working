@@ -97,6 +97,7 @@
 - [Focus Timer](http://goo.gl/607XJa) - Mac 下一个简洁的蕃茄计时工具
 - [Toggl](https://toggl.com/) - 免费的工作计时工具
 - [风车](https://fengche.co/) - 简单高效的团队协作工具（原 Pragmatic.ly）
+- [Coding.net](https://coding.net) - 一站式云端开发协作平台
 - [**更多工具和服务 »»**](tools.md)
 
 [⬆︎返回目录](#toc)
@@ -127,6 +128,7 @@
 - [游牧社区](https://youmu.io) - 数字流浪者交流平台
 - [Remote China](http://remotechina.xyz/)
 - [远程工作党豆瓣小组](https://www.douban.com/group/freejobs/)
+- [码市](https://mart.coding.net) - 一站式在线软件开发平台
 
 [⬆︎返回目录](#toc)
 
