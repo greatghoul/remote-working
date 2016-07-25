@@ -27,6 +27,8 @@
 
 ### 经验
 
+- [为什么国内公司远程办公发展滞后？](https://www.zhihu.com/question/47284405)
+- [程序员如何找到一份远程工作?](https://www.zhihu.com/question/21547626)
 - [fir.im Weekly - 聊聊让人向往的远程开发工作](https://gold.xitu.io/entry/5779ef492e958a22d8b3f5e8)
 - [设计师应该在咖啡馆工作](http://blog.163.com/dillon_yue/blog/static/242926066201411804958354)
 - [自由软件开发者的十点注意事项](https://blog.ashchan.com/archive/2016/06/26/ten-things-freelancer-should-know/) - 在 Teahour 85 期“[这次我们聊聊远程工作](http://teahour.fm/2016/06/11/all-about-remote-working.html)”中谈到了远程工作者和自由开发者应该注意的一些事项
