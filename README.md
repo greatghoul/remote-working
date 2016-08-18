@@ -40,12 +40,13 @@
 - [远程工作，万里之外皆同事](http://www.jianshu.com/p/6bccfde32ed8) - 一个小团队从非远程转变成远程的一些经验
 - [作为独立开发者，有哪些可以分享的经验？](http://zhi.hu/6UOH) - 虽然 Freelancer 和远程工作并不完全相同，但这些经验完全值得借鉴
 - [从300到300万，一个远程外包团队的发展历程和经验](http://yizaoyiwan.com/discussion/79) - 从招骋、客户、团队建设、健身等多个方面来讲 DeepDevelop 是如何打造一个远程团队
-- [Is Your Company a Good Fit for Remote Working?](http://www.whereismyceo.com/2014/10/is-your-company-a-good-fit-for-remote-working/)  
+- [Is Your Company a Good Fit for Remote Working?](http://www.whereismyceo.com/2014/10/is-your-company-a-good-fit-for-remote-working/)
 - [14 Ways Our Remote Team Stays Sane Working From Home](https://www.groovehq.com/blog/staying-sane-working-solo)
 - [如何高效的远程工作](http://yizaoyiwan.com/discussion/72/)
 - [数字游民的生活方式](http://yizaoyiwan.com/discussion/46/)
 - [Remote Working Works](http://www.infoq.com/cn/articles/remote-working-works)
 - [SOHO 家里办公的体验](http://yafeilee.me/blogs/5357caa16c69344c0c0b0000)
+- [Hypothes.is](https://twitter.com/hypothes_is) 团队的[远程工作经验](https://github.com/lenazun/working-remotely/blob/master/ideas.md)
 - [**更多文章和讨论 »»**](articles.md)
 
 [⬆︎返回目录](#toc)
