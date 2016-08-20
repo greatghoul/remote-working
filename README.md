@@ -68,6 +68,7 @@
 
 - [远程工作那些事儿](https://speakerdeck.com/yorzi/yuan-cheng-gong-zuo-na-xie-shi-er)
 - [远程工作你所不知道的那些事儿](http://vdisk.weibo.com/s/zby-x0TZj2PEy/1378093426)
+- [The Remotiest Workflow](https://lislis.de/talks/remotiest/)
 
 [⬆︎返回目录](#toc)
 
