@@ -25,6 +25,7 @@
 
 ### 经验
 
+- [从自由到自律，一个远程工作者的自述](https://www.v2ex.com/t/301743)
 - [五年的远程工作带给我的酸甜苦辣](http://www.ifanr.com/646923)
 - [远程协作开发，你能驾驭么？](http://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=2650712459&idx=1&sn=5843a04a5a585f67fe6ff8f9b3c039a5#wechat_redirect)
 - [为什么国内公司远程办公发展滞后？](https://www.zhihu.com/question/47284405)
