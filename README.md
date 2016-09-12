@@ -25,6 +25,7 @@
 
 ### 经验
 
+- [9 个城市的远程协作办公，如何让 15 人团队整体创收过千万？](http://www.jianshu.com/p/348c6397c98a) - DeepDevelop 分享团队远程办公经验，相关[活动回顾](http://mindstore.io/mind/9621/)
 - [从自由到自律，一个远程工作者的自述](https://www.v2ex.com/t/301743)
 - [五年的远程工作带给我的酸甜苦辣](http://www.ifanr.com/646923)
 - [远程协作开发，你能驾驭么？](http://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=2650712459&idx=1&sn=5843a04a5a585f67fe6ff8f9b3c039a5#wechat_redirect)
