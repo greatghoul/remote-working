@@ -1,5 +1,7 @@
 # 远程工作资料
 
+收集整理国内远程工作相关的资源，主要以国内的资源为主，之前收录的国外的文章会逐渐清除，如果比较关心国外的相关资源，可以关注 [Pinterest Board: Remote Working](https://www.pinterest.com/greatghoul/remote-working/)，或者[其他人整理的列表](#其它列表)，如果想参与远程工作的相关讨论，可以访问[一早一晚社区](http://yizaoyiwan.com/)
+
 ## <a name="toc"></a>目录：
 
 - [文章和讨论](#文章和讨论)
@@ -18,39 +20,39 @@
 
 ## 文章和讨论
 
-### 教训
-
-远程并不总是美好的，有时也会遇到一些坑。
-
-[⬆︎返回目录](#toc)
-
-### 经验
+#### 2016
 
 - [一年多远程工作带给我的感悟](http://www.jianshu.com/p/971e380f60ab)
 - [9 个城市的远程协作办公，如何让 15 人团队整体创收过千万？](http://www.jianshu.com/p/348c6397c98a) - DeepDevelop 分享团队远程办公经验，相关[活动回顾](http://mindstore.io/mind/9621/)
 - [从自由到自律，一个远程工作者的自述](https://www.v2ex.com/t/301743)
 - [五年的远程工作带给我的酸甜苦辣](http://www.ifanr.com/646923)
-- [远程协作开发，你能驾驭么？](http://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=2650712459&idx=1&sn=5843a04a5a585f67fe6ff8f9b3c039a5#wechat_redirect)
+- [远程协作开发，你能驾驭么？](http://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=2650712459&idx=1&sn=5843a04a5a585f67fe6ff8f9b3c039a5#wechat_redirect) -  池建强老师远程协作的实践经验
 - [为什么国内公司远程办公发展滞后？](https://www.zhihu.com/question/47284405)
 - [程序员如何找到一份远程工作?](https://www.zhihu.com/question/21547626)
 - [fir.im Weekly - 聊聊让人向往的远程开发工作](https://gold.xitu.io/entry/5779ef492e958a22d8b3f5e8)
-- [设计师应该在咖啡馆工作](http://blog.163.com/dillon_yue/blog/static/242926066201411804958354)
 - [自由软件开发者的十点注意事项](https://blog.ashchan.com/archive/2016/06/26/ten-things-freelancer-should-know/) - 在 Teahour 85 期“[这次我们聊聊远程工作](http://teahour.fm/2016/06/11/all-about-remote-working.html)”中谈到了远程工作者和自由开发者应该注意的一些事项
 - [自由职业者们，请留意自己的心理和精神健康](http://www.littledew.com/2551)
-- [Building remote-first teams](https://medium.com/@fox/building-remote-first-teams-a98bf8581db#.id986fwhl) - 一篇综合性的讨论远程团队的文章，从公司到个人，从优势和劣势，非常详细
+- [SOHO 家里办公的体验](http://yafeilee.me/blogs/60)
+
+#### 2015
+
 - [最好的25个寻找远程工作的网站](http://blog.techbay.club/post/zui-hao-de-25ge-xun-zhao-yuan-cheng-gong-zuo-de-wang-zhan) - 这篇文章中总结了寻找远程工作的25个网站，包括一些非 IT 行业的,非常全面
-- [如何做一名远程合伙人？](http://www.36kr.com/p/205768.html) - Netguru 创始人三年远程工作后从自己的角度写的一些心得体会（[英文原文](https://netguru.co/blog/being-a-remote-founder)）
-- [关于远程工作你有什么疑问？](https://ruby-china.org/topics/14758) - Teahour 在进行[第35期节目](http://teahour.fm/2013/10/21/talking-remote-work-with-allen-wei.html)前对大家进行的一个调查，讨论到了远程工作的很多方面
-- [远程工作，万里之外皆同事](http://www.jianshu.com/p/6bccfde32ed8) - 一个小团队从非远程转变成远程的一些经验
-- [作为独立开发者，有哪些可以分享的经验？](http://zhi.hu/6UOH) - 虽然 Freelancer 和远程工作并不完全相同，但这些经验完全值得借鉴
-- [从300到300万，一个远程外包团队的发展历程和经验](http://yizaoyiwan.com/discussion/79) - 从招骋、客户、团队建设、健身等多个方面来讲 DeepDevelop 是如何打造一个远程团队
-- [Is Your Company a Good Fit for Remote Working?](http://www.whereismyceo.com/2014/10/is-your-company-a-good-fit-for-remote-working/)
-- [14 Ways Our Remote Team Stays Sane Working From Home](https://www.groovehq.com/blog/staying-sane-working-solo)
+
+#### 2014
+
 - [如何高效的远程工作](http://yizaoyiwan.com/discussion/72/)
 - [数字游民的生活方式](http://yizaoyiwan.com/discussion/46/)
-- [Remote Working Works](http://www.infoq.com/cn/articles/remote-working-works)
-- [SOHO 家里办公的体验](http://yafeilee.me/blogs/5357caa16c69344c0c0b0000)
-- [Hypothes.is](https://twitter.com/hypothes_is) 团队的[远程工作经验](https://github.com/lenazun/working-remotely/blob/master/ideas.md)
+- [从300到300万，一个远程外包团队的发展历程和经验](http://yizaoyiwan.com/discussion/79) - 从招骋、客户、团队建设、健身等多个方面来讲 DeepDevelop 是如何打造一个远程团队
+- [作为独立开发者，有哪些可以分享的经验？](http://zhi.hu/6UOH)
+- [远程工作，万里之外皆同事](http://www.jianshu.com/p/6bccfde32ed8) - 一个小团队从非远程转变成远程的一些经验
+- [设计师应该在咖啡馆工作](http://blog.163.com/dillon_yue/blog/static/242926066201411804958354)
+- [远程工作（Remote working works）](http://www.infoq.com/cn/articles/remote-working-works)
+
+#### 2013
+
+- [关于远程工作你有什么疑问？](https://ruby-china.org/topics/14758) - Teahour 在进行[第35期节目](http://teahour.fm/2013/10/21/talking-remote-work-with-allen-wei.html)前对大家进行的一个调查，讨论到了远程工作的很多方面
+- [如何做一名远程合伙人？](http://www.36kr.com/p/205768.html) - Netguru 创始人三年远程工作后从自己的角度写的一些心得体会（[英文原文](https://netguru.co/blog/being-a-remote-founder)）
+
 - [**更多文章和讨论 »»**](articles.md)
 
 [⬆︎返回目录](#toc)
