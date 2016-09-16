@@ -1,6 +1,6 @@
 # 远程工作资料
 
-收集整理国内远程工作相关的资源，主要以国内的资源为主，之前收录的国外的文章会逐渐清除，如果比较关心国外的相关资源，可以关注 [Pinterest Board: Remote Working](https://www.pinterest.com/greatghoul/remote-working/)，或者[其他人整理的列表](#其它列表)，如果想参与远程工作的相关讨论，可以访问[一早一晚社区](http://yizaoyiwan.com/)
+收集整理国内远程工作相关的资源，以国内的资源为主，之前收录的外文资源会逐渐清除，如果比较关心国外的资源，可以关注 [Pinterest Board: Remote Working](https://www.pinterest.com/greatghoul/remote-working/)，或者[其他人整理的列表](#其它列表)，要参与远程工作的讨论，可以访问[一早一晚社区](http://yizaoyiwan.com/)
 
 ## <a name="toc"></a>目录：
 
