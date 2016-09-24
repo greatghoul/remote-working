@@ -19,13 +19,13 @@
 [远程办公的管理艺术](http://www.fortunechina.com/column/c/2014-02/27/content_194887.htm)  
 并不是所有的人都具备在家办公所需要的素质。身为团队的管理者，你需要清楚地认识到这个问题，同时能够准确判断下属是否具备这些特定的素质。此外，管理在家办公的员工还要求团队管理者掌握一整套特别的技巧，才能确保远程办公取得实效。
 
-## 招骋
+## 招聘
 
 [ios / android 兼职招聘](http://yizaoyiwan.com/discussion/376/)  
 大学生团队，主要涉及 iOS, Android, Web的外包，寻找这方面的小伙伴。
 
-[Bindo Labs 招骋 Senior Ruby on Rails Developer](http://yizaoyiwan.com/discussion/384/)  
-做 iOS POS 的公司，招骋 Senior Ruby on Rails Developer
+[Bindo Labs 招聘 Senior Ruby on Rails Developer](http://yizaoyiwan.com/discussion/384/)  
+做 iOS POS 的公司，招聘 Senior Ruby on Rails Developer
 
 ## 工具
 

@@ -25,8 +25,8 @@
 
 [How to Hire and Manage Remote Employees](http://biz30.timedoctor.com/hire-manage-remote-employees/)  
 一篇教你如何雇佣远程工作者的文章，文中强调雇佣远程工作者的两个重要原因：
-更大的选择范围和满满的幸福感。文章中还详细介绍了如何写招骋文案，
-并介绍了一些比较好的招骋网站。另外作者推荐的 Skype 使用经验也非常值得学习。
+更大的选择范围和满满的幸福感。文章中还详细介绍了如何写招聘文案，
+并介绍了一些比较好的招聘网站。另外作者推荐的 Skype 使用经验也非常值得学习。
 
 [Remote Working: The Good, the Bad and the Ugly](https://remoteworker.wordpress.com/2014/04/09/remote-working-the-good-the-bad-and-the-ugly/)  
 作者是一位有七年远程工作经验的女性，她在文章中讲自己远程工作中的一些得失。

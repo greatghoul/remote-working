@@ -22,11 +22,11 @@ Lisette Sutherland和Elinor Slomba在一起收集一些人的故事，这些人�
 InfoQ 采访了 Lisette 和 Elinor，请她们讲讲人们如何在远程团队中工作，
 他们使用何种工具协作、沟通，以及远程团队哪些东西。
 
-## 招骋
+## 招聘
 
 [【上海】C++程序员，可自由时间可远程，可兼职可全职，但是人必须长期在上海](http://yizaoyiwan.com/discussion/372/)  
 初创的小团队，主要服务于体外检测设备开发商，为其提供上位机软件开发服务。崇尚自由开放，
 无考勤，完全由任务和职责为导向。
 
-[hackplan 招骋可远程工作的设计、开发人员](http://hackplan.com/jobs)  
+[hackplan 招聘可远程工作的设计、开发人员](http://hackplan.com/jobs)  
 初创团队，目前在开发一个电子书搜索比介的服务，另外，著名的[蕃茄土豆](https://pomotodo.com/)也是他们的作品。

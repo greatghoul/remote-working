@@ -12,7 +12,7 @@
 - [读书笔记](#读书笔记)
 - [漫画](#漫画)
 - [工具和服务](#工具和服务)
-- [招骋网站](#招骋网站)
+- [招聘网站](#招聘网站)
 - [平台和社区](#平台和社区)
 - [远程团队](#远程团队)
 - [其它资源](#其它资源)
@@ -42,7 +42,7 @@
 
 - [如何高效的远程工作](http://yizaoyiwan.com/discussion/72/)
 - [数字游民的生活方式](http://yizaoyiwan.com/discussion/46/)
-- [从300到300万，一个远程外包团队的发展历程和经验](http://yizaoyiwan.com/discussion/79) - 从招骋、客户、团队建设、健身等多个方面来讲 DeepDevelop 是如何打造一个远程团队
+- [从300到300万，一个远程外包团队的发展历程和经验](http://yizaoyiwan.com/discussion/79) - 从招聘、客户、团队建设、健身等多个方面来讲 DeepDevelop 是如何打造一个远程团队
 - [作为独立开发者，有哪些可以分享的经验？](http://zhi.hu/6UOH)
 - [远程工作，万里之外皆同事](http://www.jianshu.com/p/6bccfde32ed8) - 一个小团队从非远程转变成远程的一些经验
 - [设计师应该在咖啡馆工作](http://blog.163.com/dillon_yue/blog/static/242926066201411804958354)
@@ -139,20 +139,20 @@
 
 [⬆︎返回目录](#toc)
 
-## 招骋网站
+## 招聘网站
 
 - [英选](http://www.linktion.cn) - 为认证通过的独立开发者提供互联网项目的短期雇佣机会
 - [远程.work](http://yuancheng.work/) - 远程工作招聘网站
-- [一早一晚招骋](http://yizaoyiwan.com/categories/employer) - 一早一晚社区的招骋版块
+- [一早一晚招聘](http://yizaoyiwan.com/categories/employer) - 一早一晚社区的招聘版块
 - [We Work Remotely](https://weworkremotely.com/) - 寻找或者发布远程工作机会
-- [Stackoverflow Careers](http://careers.stackoverflow.com/jobs?allowsremote=true) - Stackoverflow 的招骋频道，提供专门的过滤项来检索远程职位
-- [Work from Home](https://www.wfh.io/) - 国外一个发布远程招骋帖的网站，比较特色的是它会列出支持远程工作的公司列表。
+- [Stackoverflow Careers](http://careers.stackoverflow.com/jobs?allowsremote=true) - Stackoverflow 的招聘频道，提供专门的过滤项来检索远程职位
+- [Work from Home](https://www.wfh.io/) - 国外一个发布远程招聘帖的网站，比较特色的是它会列出支持远程工作的公司列表。
 - [Flex Jobs](http://www.flexjobs.com/) - Find Telecommuting Jobs and other great flexible jobs such as Part-Time jobs and Freelance work.
 - [Front-end Developer Job](http://frontenddeveloperjob.com/) - 国外前端工程师招聘网站，有不少支持远程的公司
 - [Nomad Jobs](http://nomadjobs.io/) - The best remote jobs and startups worldwide
-- [REMOTIVE JOBS](http://jobs.remotive.io/) - 国外的远程工作周刊网站新上线的招骋频道
+- [REMOTIVE JOBS](http://jobs.remotive.io/) - 国外的远程工作周刊网站新上线的招聘频道
 - [Remote Internships](http://www.internships.com/virtual) - 为学生提供 1-3 个月的远程实习职位
-- [Remote Ok](http://remoteok.io) - 远程工作招骋网站，分为工作机会、创业团队和实习机会三个大块。
+- [Remote Ok](http://remoteok.io) - 远程工作招聘网站，分为工作机会、创业团队和实习机会三个大块。
 - [Remote Jobs Expert](https://www.remotejobsexpert.com) - 专门针对 Remote Jobs 的搜索引擎
 
 [⬆︎返回目录](#toc)
