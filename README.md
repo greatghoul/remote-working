@@ -166,6 +166,7 @@
 - [Remote China](http://remotechina.xyz/)
 - [远程工作党豆瓣小组](https://www.douban.com/group/freejobs/)
 - [码市](https://mart.coding.net) - 一站式在线软件开发平台
+- [V2MM](https://v2mm.tech/) - 自由职业者社区
 
 [⬆︎返回目录](#toc)
 
