@@ -145,6 +145,7 @@
 - [英选](http://www.linktion.cn) - 为认证通过的独立开发者提供互联网项目的短期雇佣机会
 - [远程.work](http://yuancheng.work/) - 远程工作招聘网站
 - [一早一晚招聘](http://yizaoyiwan.com/categories/employer) - 一早一晚社区的招聘版块
+- [SegmentFault 招聘](https://segmentfault.com/jobs/search?remote=1) - SegmentFault 的招聘版块中支持按远程筛选
 - [We Work Remotely](https://weworkremotely.com/) - 寻找或者发布远程工作机会
 - [Stackoverflow Careers](http://careers.stackoverflow.com/jobs?allowsremote=true) - Stackoverflow 的招聘频道，提供专门的过滤项来检索远程职位
 - [Work from Home](https://www.wfh.io/) - 国外一个发布远程招聘帖的网站，比较特色的是它会列出支持远程工作的公司列表。
