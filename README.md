@@ -22,6 +22,7 @@
 
 #### 2016
 
+- [远程办公：有轻功+我们 对未来办公模式的思考](http://www.acdbd.com/yc/282.html)
 - [为什么上班和下班已经过时](https://ruanyf.github.io/survivor/collapse/remote-work.html)
 - [一年多远程工作带给我的感悟](http://www.jianshu.com/p/971e380f60ab)
 - [9 个城市的远程协作办公，如何让 15 人团队整体创收过千万？](http://www.jianshu.com/p/348c6397c98a) - DeepDevelop 分享团队远程办公经验，相关[活动回顾](http://mindstore.io/mind/9621/)
