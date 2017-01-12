@@ -22,6 +22,7 @@
 
 #### 2016
 
+- [做技术的，如何找到一个远程办公的工作？](https://www.zhihu.com/question/52118159/answer/136558447)
 - [远程办公：有轻功+我们 对未来办公模式的思考](http://www.acdbd.com/yc/282.html)
 - [为什么上班和下班已经过时](https://ruanyf.github.io/survivor/collapse/remote-work.html)
 - [一年多远程工作带给我的感悟](http://www.jianshu.com/p/971e380f60ab)
