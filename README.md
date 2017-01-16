@@ -13,7 +13,8 @@
 - [漫画](#漫画)
 - [工具和服务](#工具和服务)
 - [招聘网站](#招聘网站)
-- [平台和社区](#平台和社区)
+- [交流社区](#forum)
+- [外包平台](#outsource)
 - [远程团队](#远程团队)
 - [其它资源](#其它资源)
 - [其它列表](#其它列表)
@@ -22,6 +23,7 @@
 
 #### 2016
 
+- [2016 年年度总结-远程工作一年半后](http://yizaoyiwan.com/discussions/1064)
 - [做技术的，如何找到一个远程办公的工作？](https://www.zhihu.com/question/52118159/answer/136558447)
 - [远程办公：有轻功+我们 对未来办公模式的思考](http://www.acdbd.com/yc/282.html)
 - [为什么上班和下班已经过时](https://ruanyf.github.io/survivor/collapse/remote-work.html)
@@ -129,7 +131,7 @@
  - [tita](http://www.tita.com/) - 企业级的工作计划管理平台，其实我想说，它的首页真的好酷。
  - [I Done This](https://idonethis.com/) - 基于邮件的团队日报工具，小巧实用。
  - [Coding.net](https://coding.net) - 一站式云端开发协作平台
- 
+
 沟通工具
 
  - [瀑布IM](https://beta.pubu.im/) - 瀑布IM，让团队沟通再简单一点
@@ -161,16 +163,21 @@
 
 [⬆︎返回目录](#toc)
 
-## 平台和社区
+## <a name="forum"></a>交流社区
 
-- [一早一晚](http://yizaoyiwan.com/) - 只工作，不上班
-- [OneWork](http://www.apcow.com) - A Persion Computer，One Work，
-- [程序员客栈](http://www.proginn.com) - 程序员的经纪人
-- [游牧社区](https://youmu.io) - 数字流浪者交流平台
-- [~~Remote China~~](http://remotechina.xyz/)
+- [一早一晚](http://yizaoyiwan.com/)
+- [OneWork](http://www.apcow.com)
+- [游牧社区](https://youmu.io)
 - [远程工作党豆瓣小组](https://www.douban.com/group/freejobs/)
-- [码市](https://mart.coding.net) - 一站式在线软件开发平台
-- [V2MM](https://v2mm.tech/) - 自由职业者社区
+- [V2MM](https://v2mm.tech/)
+
+[⬆︎返回目录](#toc)
+
+## <a name="outsource"></a>外包平台
+
+- [程序员客栈](http://www.proginn.com)
+- [码市](https://mart.coding.net)
+- [自由人远程协作平台](http://www.freemancn.com/)
 
 [⬆︎返回目录](#toc)
 
