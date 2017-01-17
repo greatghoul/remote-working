@@ -146,7 +146,6 @@
 
 ## 招聘网站
 
-- [英选](http://www.linktion.cn) - 为认证通过的独立开发者提供互联网项目的短期雇佣机会
 - [远程.work](http://yuancheng.work/) - 远程工作招聘网站
 - [一早一晚招聘](http://yizaoyiwan.com/categories/employer) - 一早一晚社区的招聘版块
 - [SegmentFault 招聘](https://segmentfault.com/jobs/search?remote=1) - SegmentFault 的招聘版块中支持按远程筛选
@@ -177,6 +176,7 @@
 
 - [程序员客栈](http://www.proginn.com)
 - [码市](https://mart.coding.net)
+- [英选](http://www.linktion.cn)
 - [自由人远程协作平台](http://www.freemancn.com/)
 
 [⬆︎返回目录](#toc)
@@ -188,6 +188,7 @@
 - [彩程设计](https://tower.im/about_us)
 - [七牛](http://www.qiniu.com/about)
 - [80%](https://www.80percent.io/)
+- [成都探码科技](http://www.tanmer.com/)
 
 [⬆︎返回目录](#toc)
 
