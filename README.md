@@ -2,6 +2,12 @@
 
 收集整理国内远程工作相关的资源，以国内的资源为主，之前收录的外文资源会逐渐清除，如果比较关心国外的资源，可以关注 [Pinterest Board: Remote Working](https://www.pinterest.com/greatghoul/remote-working/)，或者[其他人整理的列表](#其它列表)，要参与远程工作的讨论，可以访问[一早一晚社区](http://yizaoyiwan.com/)
 
+开通了一个订阅号用于分享远程工作相关的资源，感兴趣的可以关注一下：远程工作者
+
+<img src="http://greatghoul.b0.upaiyun.com/1702/wNjmi1wnesOe.jpeg" width="128" height="128" />
+
+订阅号中推荐过的资源一般也会整理在本列表里面。
+
 ## <a name="toc"></a>目录：
 
 - [文章和讨论](#文章和讨论)
