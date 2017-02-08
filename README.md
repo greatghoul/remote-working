@@ -23,6 +23,8 @@
 
 #### 2016
 
+- [因本地网络、法律风险被一家支持远程工作的国外公司拒了](https://www.v2ex.com/t/278338)
+- [英文不够好，适合做国外哪些远程 remote 的工作？](https://www.v2ex.com/t/296749)
 - [2016 年年度总结-远程工作一年半后](http://yizaoyiwan.com/discussions/1064)
 - [做技术的，如何找到一个远程办公的工作？](https://www.zhihu.com/question/52118159/answer/136558447)
 - [远程办公：有轻功+我们 对未来办公模式的思考](http://www.acdbd.com/yc/282.html)
