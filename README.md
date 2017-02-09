@@ -38,7 +38,7 @@
 - [为什么上班和下班已经过时](https://ruanyf.github.io/survivor/collapse/remote-work.html)
 - [一年多远程工作带给我的感悟](http://www.jianshu.com/p/971e380f60ab)
 - [9 个城市的远程协作办公，如何让 15 人团队整体创收过千万？](http://www.jianshu.com/p/348c6397c98a) - DeepDevelop 分享团队远程办公经验，相关[活动回顾](http://mindstore.io/mind/9621/)
-- [从自由到自律，一个远程工作者的自述](https://www.v2ex.com/t/301743)
+- `2016-08-25` [从自由到自律，一个远程工作者的自述](https://www.v2ex.com/t/301743)
 - [五年的远程工作带给我的酸甜苦辣](http://www.ifanr.com/646923)
 - [远程协作开发，你能驾驭么？](http://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=2650712459&idx=1&sn=5843a04a5a585f67fe6ff8f9b3c039a5#wechat_redirect) -  池建强老师远程协作的实践经验
 - [为什么国内公司远程办公发展滞后？](https://www.zhihu.com/question/47284405)
@@ -47,6 +47,7 @@
 - [自由软件开发者的十点注意事项](https://blog.ashchan.com/archive/2016/06/26/ten-things-freelancer-should-know/) - 在 Teahour 85 期“[这次我们聊聊远程工作](http://teahour.fm/2016/06/11/all-about-remote-working.html)”中谈到了远程工作者和自由开发者应该注意的一些事项
 - [自由职业者们，请留意自己的心理和精神健康](http://www.littledew.com/2551)
 - [SOHO 家里办公的体验](http://yafeilee.me/blogs/60)
+- `2016-03-09` [刚看招聘，看到了远程办公的，突然有了下述想法](https://www.v2ex.com/t/261858)
 
 #### 2015
 
@@ -192,12 +193,14 @@
 
 ## 远程团队
 
-- [风车团队](https://fengcheco.com/about)
 - [DeepDevelop](http://deepdevelop.com/)
+- [风车团队](https://fengcheco.com/about)
 - [彩程设计](https://tower.im/about_us)
-- [七牛](http://www.qiniu.com/about)
 - [80%](https://www.80percent.io/)
+- [Thus 如是设计](http://thus.in/)
+- [七牛](http://www.qiniu.com/about)
 - [成都探码科技](http://www.tanmer.com/)
+
 
 [⬆︎返回目录](#toc)
 
@@ -216,3 +219,4 @@
 - [awesome-RemoteWork](https://github.com/hugo53/awesome-RemoteWork) - Resources for remote workers: approaches, hiring page, remote life and more.
 - [established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
 - [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources.
+- [RemoteWork](https://github.com/fjbelchi/RemoteWork) - Useful information for remote workers
