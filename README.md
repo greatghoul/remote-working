@@ -21,7 +21,7 @@
 - [招聘网站](#招聘网站)
 - [交流社区](#forum)
 - [外包平台](#outsource)
-- [远程团队](#远程团队)
+- [远程团队](#teams)
 - [其它资源](#其它资源)
 - [其它列表](#其它列表)
 
@@ -188,10 +188,11 @@
 - [码市](https://mart.coding.net)
 - [英选](http://www.linktion.cn)
 - [自由人远程协作平台](http://www.freemancn.com/)
+- [厘米脚印](http://www.limijiaoyin.com/)
 
 [⬆︎返回目录](#toc)
 
-## 远程团队
+## <a name="teams"></a>远程团队
 
 - [DeepDevelop](http://deepdevelop.com/)
 - [风车团队](https://fengcheco.com/about)
@@ -199,7 +200,8 @@
 - [80%](https://www.80percent.io/)
 - [Thus 如是设计](http://thus.in/)
 - [七牛](http://www.qiniu.com/about)
-- [成都探码科技](http://www.tanmer.com/)
+- [成都探码科技](http://www.tanmer.com/) - 大数据、技术合伙、可远程
+- [墨刀](https://modao.cc/) - 小而美的产品团队、可远程
 
 
 [⬆︎返回目录](#toc)
