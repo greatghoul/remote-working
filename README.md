@@ -55,18 +55,18 @@
 
 #### 2014
 
-- [如何高效的远程工作](http://yizaoyiwan.com/discussion/72/)
-- [数字游民的生活方式](http://yizaoyiwan.com/discussion/46/)
-- [从300到300万，一个远程外包团队的发展历程和经验](http://yizaoyiwan.com/discussion/79) - 从招聘、客户、团队建设、健身等多个方面来讲 DeepDevelop 是如何打造一个远程团队
-- [作为独立开发者，有哪些可以分享的经验？](http://zhi.hu/6UOH)
-- [远程工作，万里之外皆同事](http://www.jianshu.com/p/6bccfde32ed8) - 一个小团队从非远程转变成远程的一些经验
-- [设计师应该在咖啡馆工作](http://blog.163.com/dillon_yue/blog/static/242926066201411804958354)
-- [远程工作（Remote working works）](http://www.infoq.com/cn/articles/remote-working-works)
+- `2014-11-18` [从300到300万，一个远程外包团队的发展历程和经验](http://yizaoyiwan.com/discussion/79) - 从招聘、客户、团队建设、健身等多个方面来讲 DeepDevelop 是如何打造一个远程团队
+- `2014-11-13` [如何高效的远程工作](http://yizaoyiwan.com/discussion/72/)
+- `2014-11-01` [数字游民的生活方式](http://yizaoyiwan.com/discussion/46/)
+- `2014-07-30` [作为独立开发者，有哪些可以分享的经验？](https://www.zhihu.com/question/24667846)
+- `2014-06-16` [远程工作，万里之外皆同事](http://www.jianshu.com/p/6bccfde32ed8) - 一个小团队从非远程转变成远程的一些经验
+- `2014-06-11` [远程工作（Remote working works）](http://www.infoq.com/cn/articles/remote-working-works)
+- `2014-04-15` [你的公司开始远程办公了没? 谈谈它](https://ruby-china.org/topics/18625)
 
 #### 2013
 
-- [关于远程工作你有什么疑问？](https://ruby-china.org/topics/14758) - Teahour 在进行[第35期节目](http://teahour.fm/2013/10/21/talking-remote-work-with-allen-wei.html)前对大家进行的一个调查，讨论到了远程工作的很多方面
-- [如何做一名远程合伙人？](http://www.36kr.com/p/205768.html) - Netguru 创始人三年远程工作后从自己的角度写的一些心得体会（[英文原文](https://netguru.co/blog/being-a-remote-founder)）
+- `2013-10-15` [关于远程工作你有什么疑问？](https://ruby-china.org/topics/14758) - Teahour 在进行[第35期节目](http://teahour.fm/2013/10/21/talking-remote-work-with-allen-wei.html)前对大家进行的一个调查，讨论到了远程工作的很多方面
+- `2013-09-29` [如何做一名远程合伙人？](http://www.36kr.com/p/205768.html) - Netguru 创始人三年远程工作后从自己的角度写的一些心得体会（[英文原文](https://netguru.co/blog/being-a-remote-founder)）
 
 - [**更多文章和讨论 »»**](articles.md)
 
@@ -203,6 +203,7 @@
 - [成都探码科技](http://www.tanmer.com/) - 大数据、技术合伙、可远程
 - [墨刀](https://modao.cc/) - 小而美的产品团队、可远程
 - [风泽科技](http://www.fenzotech.com/) - 外包、完全远程
+- [百分之八十](https://www.80percent.io/) - 外包，热爱远程
 
 [⬆︎返回目录](#toc)
 
