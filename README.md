@@ -31,6 +31,7 @@
 
 - `2016-08-25` [从自由到自律，一个远程工作者的自述](https://www.v2ex.com/t/301743)
 - `2016-08-03` [英文不够好，适合做国外哪些远程 remote 的工作？](https://www.v2ex.com/t/296749)
+- `2016-06-10` [为什么国内公司远程办公发展滞后？](https://www.zhihu.com/question/47284405)
 - `2016-05-13` [因本地网络、法律风险被一家支持远程工作的国外公司拒了](https://www.v2ex.com/t/278338)
 - `2016-03-21` [什么样的人适合远程工作？](http://pmjane.com/post/shi-yao-yang-de-ren-gua-he-yuan-cheng-gong-zuo#fb_new_comment)
 - `2016-03-09` [刚看招聘，看到了远程办公的，突然有了下述想法](https://www.v2ex.com/t/261858)
@@ -42,7 +43,6 @@
 - [9 个城市的远程协作办公，如何让 15 人团队整体创收过千万？](http://www.jianshu.com/p/348c6397c98a) - DeepDevelop 分享团队远程办公经验，相关[活动回顾](http://mindstore.io/mind/9621/)
 - [五年的远程工作带给我的酸甜苦辣](http://www.ifanr.com/646923)
 - [远程协作开发，你能驾驭么？](http://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=2650712459&idx=1&sn=5843a04a5a585f67fe6ff8f9b3c039a5#wechat_redirect) -  池建强老师远程协作的实践经验
-- [为什么国内公司远程办公发展滞后？](https://www.zhihu.com/question/47284405)
 - [程序员如何找到一份远程工作?](https://www.zhihu.com/question/21547626)
 - [fir.im Weekly - 聊聊让人向往的远程开发工作](https://gold.xitu.io/entry/5779ef492e958a22d8b3f5e8)
 - [自由软件开发者的十点注意事项](https://blog.ashchan.com/archive/2016/06/26/ten-things-freelancer-should-know/) - 在 Teahour 85 期“[这次我们聊聊远程工作](http://teahour.fm/2016/06/11/all-about-remote-working.html)”中谈到了远程工作者和自由开发者应该注意的一些事项
@@ -187,8 +187,9 @@
 - [程序员客栈](http://www.proginn.com)
 - [码市](https://mart.coding.net)
 - [英选](http://www.linktion.cn)
-- [自由人远程协作平台](http://www.freemancn.com/)
 - [厘米脚印](http://www.limijiaoyin.com/)
+- [实现网](http://shixian.com/)
+- [自由人](http://www.freemancn.com/)
 
 [⬆︎返回目录](#toc)
 
