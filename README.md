@@ -29,18 +29,18 @@
 
 #### 2016
 
+- `2016-12-29` [远程办公：有轻功+我们 对未来办公模式的思考](http://www.acdbd.com/yc/282.html)
+- `2016-12-20` [为什么上班和下班已经过时](https://ruanyf.github.io/survivor/collapse/remote-work.html)
+- `2016-12-19` [做技术的，如何找到一个远程办公的工作？](https://www.zhihu.com/question/52118159/answer/136558447)
+- `2016-11-20` [2016 年年度总结-远程工作一年半后](http://yizaoyiwan.com/discussions/1064)
 - `2016-08-25` [从自由到自律，一个远程工作者的自述](https://www.v2ex.com/t/301743)
 - `2016-08-03` [英文不够好，适合做国外哪些远程 remote 的工作？](https://www.v2ex.com/t/296749)
 - `2016-06-10` [为什么国内公司远程办公发展滞后？](https://www.zhihu.com/question/47284405)
 - `2016-05-13` [因本地网络、法律风险被一家支持远程工作的国外公司拒了](https://www.v2ex.com/t/278338)
 - `2016-03-21` [什么样的人适合远程工作？](http://pmjane.com/post/shi-yao-yang-de-ren-gua-he-yuan-cheng-gong-zuo#fb_new_comment)
 - `2016-03-09` [刚看招聘，看到了远程办公的，突然有了下述想法](https://www.v2ex.com/t/261858)
-- [2016 年年度总结-远程工作一年半后](http://yizaoyiwan.com/discussions/1064)
-- [做技术的，如何找到一个远程办公的工作？](https://www.zhihu.com/question/52118159/answer/136558447)
-- [远程办公：有轻功+我们 对未来办公模式的思考](http://www.acdbd.com/yc/282.html)
-- [为什么上班和下班已经过时](https://ruanyf.github.io/survivor/collapse/remote-work.html)
-- [一年多远程工作带给我的感悟](http://www.jianshu.com/p/971e380f60ab)
-- [9 个城市的远程协作办公，如何让 15 人团队整体创收过千万？](http://www.jianshu.com/p/348c6397c98a) - DeepDevelop 分享团队远程办公经验，相关[活动回顾](http://mindstore.io/mind/9621/)
+- `2016-09-11` [一年多远程工作带给我的感悟](http://www.jianshu.com/p/971e380f60ab)
+- `2016-09-07` [9 个城市的远程协作办公，如何让 15 人团队整体创收过千万？](http://www.jianshu.com/p/348c6397c98a) - DeepDevelop 分享团队远程办公经验，相关[活动回顾](http://mindstore.io/mind/9621/)
 - [五年的远程工作带给我的酸甜苦辣](http://www.ifanr.com/646923)
 - [远程协作开发，你能驾驭么？](http://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=2650712459&idx=1&sn=5843a04a5a585f67fe6ff8f9b3c039a5#wechat_redirect) -  池建强老师远程协作的实践经验
 - [程序员如何找到一份远程工作?](https://www.zhihu.com/question/21547626)
