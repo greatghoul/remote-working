@@ -33,25 +33,23 @@
 - `2016-12-20` [为什么上班和下班已经过时](https://ruanyf.github.io/survivor/collapse/remote-work.html)
 - `2016-12-19` [做技术的，如何找到一个远程办公的工作？](https://www.zhihu.com/question/52118159/answer/136558447)
 - `2016-11-20` [2016 年年度总结-远程工作一年半后](http://yizaoyiwan.com/discussions/1064)
-- `2016-08-25` [从自由到自律，一个远程工作者的自述](https://www.v2ex.com/t/301743)
-- `2016-08-03` [英文不够好，适合做国外哪些远程 remote 的工作？](https://www.v2ex.com/t/296749)
-- `2016-06-10` [为什么国内公司远程办公发展滞后？](https://www.zhihu.com/question/47284405)
-- `2016-05-13` [因本地网络、法律风险被一家支持远程工作的国外公司拒了](https://www.v2ex.com/t/278338)
-- `2016-03-21` [什么样的人适合远程工作？](http://pmjane.com/post/shi-yao-yang-de-ren-gua-he-yuan-cheng-gong-zuo#fb_new_comment)
-- `2016-03-09` [刚看招聘，看到了远程办公的，突然有了下述想法](https://www.v2ex.com/t/261858)
 - `2016-09-11` [一年多远程工作带给我的感悟](http://www.jianshu.com/p/971e380f60ab)
 - `2016-09-07` [9 个城市的远程协作办公，如何让 15 人团队整体创收过千万？](http://www.jianshu.com/p/348c6397c98a) - DeepDevelop 分享团队远程办公经验，相关[活动回顾](http://mindstore.io/mind/9621/)
-- [五年的远程工作带给我的酸甜苦辣](http://www.ifanr.com/646923)
-- [远程协作开发，你能驾驭么？](http://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=2650712459&idx=1&sn=5843a04a5a585f67fe6ff8f9b3c039a5#wechat_redirect) -  池建强老师远程协作的实践经验
-- [程序员如何找到一份远程工作?](https://www.zhihu.com/question/21547626)
-- [fir.im Weekly - 聊聊让人向往的远程开发工作](https://gold.xitu.io/entry/5779ef492e958a22d8b3f5e8)
-- [自由软件开发者的十点注意事项](https://blog.ashchan.com/archive/2016/06/26/ten-things-freelancer-should-know/) - 在 Teahour 85 期“[这次我们聊聊远程工作](http://teahour.fm/2016/06/11/all-about-remote-working.html)”中谈到了远程工作者和自由开发者应该注意的一些事项
-- [自由职业者们，请留意自己的心理和精神健康](http://www.littledew.com/2551)
-- [SOHO 家里办公的体验](http://yafeilee.me/blogs/60)
+- `2016-08-25` [从自由到自律，一个远程工作者的自述](https://www.v2ex.com/t/301743)
+- `2016-08-03` [英文不够好，适合做国外哪些远程 remote 的工作？](https://www.v2ex.com/t/296749)
+- `2016-07-04` [fir.im Weekly - 聊聊让人向往的远程开发工作](https://gold.xitu.io/entry/5779ef492e958a22d8b3f5e8)
+- `2016-07-01` [远程协作开发，你能驾驭么？](http://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=2650712459&idx=1&sn=5843a04a5a585f67fe6ff8f9b3c039a5#wechat_redirect) -  池建强老师远程协作的实践经验
+- `2016-06-10` [为什么国内公司远程办公发展滞后？](https://www.zhihu.com/question/47284405)
+- `2016-05-13` [因本地网络、法律风险被一家支持远程工作的国外公司拒了](https://www.v2ex.com/t/278338)
+- `2016-04-22` [五年的远程工作带给我的酸甜苦辣](http://www.ifanr.com/646923)
+- `2016-03-21` [什么样的人适合远程工作？](http://pmjane.com/post/shi-yao-yang-de-ren-gua-he-yuan-cheng-gong-zuo#fb_new_comment)
+- `2016-03-09` [刚看招聘，看到了远程办公的，突然有了下述想法](https://www.v2ex.com/t/261858)
+- `2016-06-26` [自由软件开发者的十点注意事项](https://blog.ashchan.com/archive/2016/06/26/ten-things-freelancer-should-know/)
+- `2016-06-10` [自由职业者们，请留意自己的心理和精神健康](http://www.littledew.com/2551)
 
 #### 2015
 
-- [最好的25个寻找远程工作的网站](http://blog.techbay.club/post/zui-hao-de-25ge-xun-zhao-yuan-cheng-gong-zuo-de-wang-zhan) - 这篇文章中总结了寻找远程工作的25个网站，包括一些非 IT 行业的,非常全面
+- `2015-01-28` [最好的25个寻找远程工作的网站](http://blog.techbay.club/post/zui-hao-de-25ge-xun-zhao-yuan-cheng-gong-zuo-de-wang-zhan)
 
 #### 2014
 
@@ -61,12 +59,14 @@
 - `2014-07-30` [作为独立开发者，有哪些可以分享的经验？](https://www.zhihu.com/question/24667846)
 - `2014-06-16` [远程工作，万里之外皆同事](http://www.jianshu.com/p/6bccfde32ed8) - 一个小团队从非远程转变成远程的一些经验
 - `2014-06-11` [远程工作（Remote working works）](http://www.infoq.com/cn/articles/remote-working-works)
+- `2014-04-23` [SOHO 家里办公的体验](http://yafeilee.me/blogs/60)
 - `2014-04-15` [你的公司开始远程办公了没? 谈谈它](https://ruby-china.org/topics/18625)
 
 #### 2013
 
 - `2013-10-15` [关于远程工作你有什么疑问？](https://ruby-china.org/topics/14758) - Teahour 在进行[第35期节目](http://teahour.fm/2013/10/21/talking-remote-work-with-allen-wei.html)前对大家进行的一个调查，讨论到了远程工作的很多方面
-- `2013-09-29` [如何做一名远程合伙人？](http://www.36kr.com/p/205768.html) - Netguru 创始人三年远程工作后从自己的角度写的一些心得体会（[英文原文](https://netguru.co/blog/being-a-remote-founder)）
+- `2013-09-29` [如何做一名远程合伙人？](http://www.36kr.com/p/205768.html)（[原文](https://netguru.co/blog/being-a-remote-founder)）
+- `2013-08-27` [程序员如何找到一份远程工作?](https://www.zhihu.com/question/21547626)
 
 - [**更多文章和讨论 »»**](articles.md)
 
@@ -74,13 +74,14 @@
 
 ## 影音资料
 
+- `2016-06-11` [Teahour #85 这次我们聊聊远程工作](http://teahour.fm/2016/06/11/all-about-remote-working.html)
 - `2016-01-09` [中国程序员能不能远程工作？](http://v.qq.com/x/page/b0180ahqmw4.html)
 - `2015-01-28` [Tower团队24个月的远程协作实践](http://www.infoq.com/cn/presentations/tower-team-24-months-remote-collaborative-practice) - 彩程团队从 2012 年开始两年间的远程协作的经验和教训
 - `2015-01-13` [How We Work Across Time Zones at Buffer](https://www.youtube.com/watch?v=TwOD0lAgTbo) - Buffer 的团队远程协作的经验
-- `2014-11-25` [自由的思考：远程工作者的成长之路](http://teahour.fm/2014/11/25/thoughts-about-remote-life.html)
+- `2014-11-25` [Teahour #72 自由的思考：远程工作者的成长之路](http://teahour.fm/2014/11/25/thoughts-about-remote-life.html)
 - `2014-05-09` [#hangops remote working: "the good, the bad, and the timezones"](http://www.youtube.com/watch?v=xMxQRUrbttY&feature=youtu.be)
 - `2013-10-22` [37signals 远程工作介绍](http://v.youku.com/v_show/id_XNjI1MzQzNTg0.html)
-- `2013-10-21` [和魏伦谈远程团队和远程工作](http://teahour.fm/2013/10/21/talking-remote-work-with-allen-wei.html)
+- `2013-10-21` [Teahour #35 和魏伦谈远程团队和远程工作](http://teahour.fm/2013/10/21/talking-remote-work-with-allen-wei.html)
 - `2010-11-24` [Jason Fried: Why work doesn't happen at work](http://www.youtube.com/watch?feature=player_embedded&v=5XD2kNopsUs)
 
 [⬆︎返回目录](#toc)
