@@ -1,9 +1,6 @@
 ## 文章和讨论
 
-- [从士兵到程序员再到 SOHO 程序员(1)](http://blog.huhao.name/2013/09/14/become-a-freelancer/)
-  / [其2](http://blog.huhao.name/2013/12/13/become-a-freelancer-2/)
-  / [其3](http://blog.huhao.name/2014/03/01/become-a-freelancer-3/)  
-从备战，求职到正式进入远程工作的励志经历。
+
 - [Lessons from 2 months of remote working](http://iamnotaprogrammer.com/Remote-teams.html) - [中文翻译](http://blog.jobbole.com/52133/)
 - [说说在家办公](http://sofish.de/2302)
 - [如何开始你的SOHO之旅(1)](http://terrytai.com/how-to-begin-soho-1/)
@@ -12,7 +9,6 @@
 - [我如何把薪水从 50人民币/天 提升到 100美元/小时的(1)](http://terrytai.com/salary-from-50rmb-to-100usd)
 - [我如何把薪水从 50人民币/天 提升到 100美元/小时的(2)](http://terrytai.com/salary-from-50rmb-to-100usd-2/)
 - [我如何把薪水从 50人民币/天 提升到 100美元/小时的(3)](http://terrytai.com/salary-from-50rmb-to100usd-3/)
-- [新的起点：远程创业团队](http://yangzhuoyu.com/first-month-in-pragmatic-ly/)
 - [远程工作经验谈 - 如何适应及如何管理](http://yedingding.com/2013/07/24/remote-team-the-things-you-should-know.html)
 - [远程工作那些事儿](http://wangyaodi.com/2013/07/20/remote-working.html)
 - [如何打造一个 Remote 工作的环境](http://smalltalk.xdite.net/posts/73953-how-to-create-a-remote-environment)

@@ -28,7 +28,6 @@
 ## 文章和讨论
 
 #### 2016
-
 - `2016-12-29` [远程办公：有轻功+我们 对未来办公模式的思考](http://www.acdbd.com/yc/282.html)
 - `2016-12-20` [为什么上班和下班已经过时](https://ruanyf.github.io/survivor/collapse/remote-work.html)
 - `2016-12-19` [做技术的，如何找到一个远程办公的工作？](https://www.zhihu.com/question/52118159/answer/136558447)
@@ -38,7 +37,7 @@
 - `2016-08-25` [从自由到自律，一个远程工作者的自述](https://www.v2ex.com/t/301743)
 - `2016-08-03` [英文不够好，适合做国外哪些远程 remote 的工作？](https://www.v2ex.com/t/296749)
 - `2016-07-04` [fir.im Weekly - 聊聊让人向往的远程开发工作](https://gold.xitu.io/entry/5779ef492e958a22d8b3f5e8)
-- `2016-07-01` [远程协作开发，你能驾驭么？](http://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=2650712459&idx=1&sn=5843a04a5a585f67fe6ff8f9b3c039a5#wechat_redirect) -  池建强老师远程协作的实践经验
+- `2016-07-01` [远程协作开发，你能驾驭么？](http://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=2650712459&idx=1&sn=5843a04a5a585f67fe6ff8f9b3c039a5#wechat_redirect)
 - `2016-06-10` [为什么国内公司远程办公发展滞后？](https://www.zhihu.com/question/47284405)
 - `2016-05-13` [因本地网络、法律风险被一家支持远程工作的国外公司拒了](https://www.v2ex.com/t/278338)
 - `2016-04-22` [五年的远程工作带给我的酸甜苦辣](http://www.ifanr.com/646923)
@@ -49,6 +48,7 @@
 
 #### 2015
 
+- `2015-10-10` [现在有公司要远程工作的员工么？](https://ruby-china.org/topics/27614)
 - `2015-01-28` [最好的25个寻找远程工作的网站](http://blog.techbay.club/post/zui-hao-de-25ge-xun-zhao-yuan-cheng-gong-zuo-de-wang-zhan)
 
 #### 2014
@@ -61,10 +61,14 @@
 - `2014-06-11` [远程工作（Remote working works）](http://www.infoq.com/cn/articles/remote-working-works)
 - `2014-04-23` [SOHO 家里办公的体验](http://yafeilee.me/blogs/60)
 - `2014-04-15` [你的公司开始远程办公了没? 谈谈它](https://ruby-china.org/topics/18625)
+- `2014-03-01` [从士兵到程序员再到SOHO程序员 (三) - 游击战与阻力](http://blog.huhao.name/2014/03/01/become-a-freelancer-3/)
 
 #### 2013
 
+- `2013-12-13` [从士兵到程序员再到SOHO程序员 (二) - 求职](http://blog.huhao.name/2013/12/13/become-a-freelancer-2/)
+- `2013-09-14` [从士兵到程序员再到SOHO程序员 (一) - 起航](http://blog.huhao.name/2013/09/14/become-a-freelancer/)
 - `2013-10-15` [关于远程工作你有什么疑问？](https://ruby-china.org/topics/14758)
+- `2013-10-11` [新的起点：远程创业团队](http://yangzhuoyu.com/first-month-in-pragmatic-ly/)
 - `2013-09-29` [如何做一名远程合伙人？](http://www.36kr.com/p/205768.html)（[原文](https://netguru.co/blog/being-a-remote-founder)）
 - `2013-08-27` [程序员如何找到一份远程工作?](https://www.zhihu.com/question/21547626)
 
@@ -229,3 +233,6 @@
 - [established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
 - [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources.
 - [RemoteWork](https://github.com/fjbelchi/RemoteWork) - Useful information for remote workers
+- [remote-jobs](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
+
+[⬆︎返回目录](#toc)
