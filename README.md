@@ -62,6 +62,9 @@
 - `2014-04-23` [SOHO 家里办公的体验](http://yafeilee.me/blogs/60)
 - `2014-04-15` [你的公司开始远程办公了没? 谈谈它](https://ruby-china.org/topics/18625)
 - `2014-03-01` [从士兵到程序员再到SOHO程序员 (三) - 游击战与阻力](http://blog.huhao.name/2014/03/01/become-a-freelancer-3/)
+- `2014-02-06` [工作也旅行 - 跨洋远程面试](https://ruby-china.org/topics/17092)
+- `2014-01-26` [工作也旅行 - 工作机会](https://ruby-china.org/topics/17008)
+- `2014-01-23` [工作也旅行 - 预告](https://ruby-china.org/topics/16944)
 
 #### 2013
 
