@@ -28,6 +28,7 @@
 ## 文章和讨论
 
 #### 2016
+
 - `2016-12-29` [远程办公：有轻功+我们 对未来办公模式的思考](http://www.acdbd.com/yc/282.html)
 - `2016-12-20` [为什么上班和下班已经过时](https://ruanyf.github.io/survivor/collapse/remote-work.html)
 - `2016-12-19` [做技术的，如何找到一个远程办公的工作？](https://www.zhihu.com/question/52118159/answer/136558447)
@@ -60,20 +61,28 @@
 - `2014-06-16` [远程工作，万里之外皆同事](http://www.jianshu.com/p/6bccfde32ed8)
 - `2014-06-11` [远程工作（Remote working works）](http://www.infoq.com/cn/articles/remote-working-works)
 - `2014-04-23` [SOHO 家里办公的体验](http://yafeilee.me/blogs/60)
+- `2014-04-14` [我如何把薪水从 50人民币/天 提升到 100美元/小时的 (4)](http://terrytai.me/salary-from-50rmb-to100usd-4/)
 - `2014-04-15` [你的公司开始远程办公了没? 谈谈它](https://ruby-china.org/topics/18625)
 - `2014-03-01` [从士兵到程序员再到SOHO程序员 (三) - 游击战与阻力](http://blog.huhao.name/2014/03/01/become-a-freelancer-3/)
+- `2014-02-12` [我如何把薪水从 50人民币/天 提升到 100美元/小时的 (3)](http://terrytai.me/salary-from-50rmb-to100usd-3/)
 - `2014-02-06` [工作也旅行 - 跨洋远程面试](https://ruby-china.org/topics/17092)
 - `2014-01-26` [工作也旅行 - 工作机会](https://ruby-china.org/topics/17008)
 - `2014-01-23` [工作也旅行 - 预告](https://ruby-china.org/topics/16944)
 
 #### 2013
 
+- `2013-12-19` [远程工作，你准备好了吗？](http://www.csdn.net/article/2013-12-19/2817858)
 - `2013-12-13` [从士兵到程序员再到SOHO程序员 (二) - 求职](http://blog.huhao.name/2013/12/13/become-a-freelancer-2/)
-- `2013-09-14` [从士兵到程序员再到SOHO程序员 (一) - 起航](http://blog.huhao.name/2013/09/14/become-a-freelancer/)
+- `2013-11-27` [远程工作两个月后的体会](http://blog.jobbole.com/52133/)
+- `2013-11-18` [我如何把薪水从 50人民币/天 提升到 100美元/小时的(1)](http://terrytai.me/salary-from-50rmb-to-100usd)
 - `2013-10-15` [关于远程工作你有什么疑问？](https://ruby-china.org/topics/14758)
 - `2013-10-11` [新的起点：远程创业团队](http://yangzhuoyu.com/first-month-in-pragmatic-ly/)
+- `2013-10-03` [我如何把薪水从 50人民币/天 提升到 100美元/小时的 (2)](http://terrytai.me/salary-from-50rmb-to-100usd-2/)
 - `2013-09-29` [如何做一名远程合伙人？](http://www.36kr.com/p/205768.html)（[原文](https://netguru.co/blog/being-a-remote-founder)）
+- `2013-09-14` [从士兵到程序员再到SOHO程序员 (一) - 起航](http://blog.huhao.name/2013/09/14/become-a-freelancer/)
 - `2013-08-27` [程序员如何找到一份远程工作?](https://www.zhihu.com/question/21547626)
+- `2013-08-22` [如何开始你的SOHO之旅(2)](http://terrytai.me/how-to-begin-soho-2/)
+- `2013-08-15` [如何开始你的SOHO之旅(1)](http://terrytai.me/how-to-begin-soho-1/)
 
 - [**更多文章和讨论 »»**](articles.md)
 

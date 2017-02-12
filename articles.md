@@ -1,14 +1,5 @@
 ## 文章和讨论
 
-
-- [Lessons from 2 months of remote working](http://iamnotaprogrammer.com/Remote-teams.html) - [中文翻译](http://blog.jobbole.com/52133/)
-- [说说在家办公](http://sofish.de/2302)
-- [如何开始你的SOHO之旅(1)](http://terrytai.com/how-to-begin-soho-1/)
-- [如何开始你的SOHO之旅(2)](http://terrytai.com/how-to-begin-soho-2/)
-- [远程工作，你准备好了吗？](http://www.csdn.net/article/2013-12-19/2817858)
-- [我如何把薪水从 50人民币/天 提升到 100美元/小时的(1)](http://terrytai.com/salary-from-50rmb-to-100usd)
-- [我如何把薪水从 50人民币/天 提升到 100美元/小时的(2)](http://terrytai.com/salary-from-50rmb-to-100usd-2/)
-- [我如何把薪水从 50人民币/天 提升到 100美元/小时的(3)](http://terrytai.com/salary-from-50rmb-to100usd-3/)
 - [远程工作经验谈 - 如何适应及如何管理](http://yedingding.com/2013/07/24/remote-team-the-things-you-should-know.html)
 - [远程工作那些事儿](http://wangyaodi.com/2013/07/20/remote-working.html)
 - [如何打造一个 Remote 工作的环境](http://smalltalk.xdite.net/posts/73953-how-to-create-a-remote-environment)
