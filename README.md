@@ -184,9 +184,10 @@
 
 ## <a name="outsource"></a>外包平台
 
-- [程序员客栈](http://www.proginn.com)
 - [码市](https://mart.coding.net)
+- [大鲲](https://pro.lagou.com/)
 - [英选](http://www.linktion.cn)
+- [程序员客栈](http://www.proginn.com)
 - [厘米脚印](http://www.limijiaoyin.com/)
 - [实现网](http://shixian.com/)
 - [小圆桌](http://xiaoyuanzhuo.com/)
