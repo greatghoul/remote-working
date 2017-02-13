@@ -52,6 +52,9 @@
 - `2015-12-21` [提升远程团队战斗力的 11 种方法](http://tech2ipo.com/10026456)
 - `2015-12-13` [创业团队不需要office，大家都远程工作，are you fxxx kidding me?](http://www.yizaoyiwan.com/discussions/623)
 - `2015-10-10` [现在有公司要远程工作的员工么？](https://ruby-china.org/topics/27614)
+- `2015-08-09` [如何使自由职业者有全职工作](http://blog.techbay.club/post/ru-he-shi-zi-you-zhi-ye-zhe-you-quan-zhi-gong-zuo)
+- `2015-08-07` [再出发](http://yizaoyiwan.com/discussion/481/)
+- `2015-08-03` [一个远程外包自由职业者的经历和经验](http://yizaoyiwan.com/discussion/474/)
 - `2015-01-28` [最好的25个寻找远程工作的网站](http://blog.techbay.club/post/zui-hao-de-25ge-xun-zhao-yuan-cheng-gong-zuo-de-wang-zhan)
 
 #### 2014年
@@ -81,6 +84,7 @@
 - `2013-11-27` [远程工作两个月后的体会](http://blog.jobbole.com/52133/)
 - `2013-11-18` [我如何把薪水从 50人民币/天 提升到 100美元/小时的(1)](http://terrytai.me/salary-from-50rmb-to-100usd)
 - `2013-10-15` [关于远程工作你有什么疑问？](https://ruby-china.org/topics/14758)
+- `2013-11-11` [如何远程管理独立游戏开发团队](http://www.cocoachina.com/gamedev/2013/1211/7516.html)
 - `2013-10-11` [新的起点：远程创业团队](http://yangzhuoyu.com/first-month-in-pragmatic-ly/)
 - `2013-10-03` [我如何把薪水从 50人民币/天 提升到 100美元/小时的 (2)](http://terrytai.me/salary-from-50rmb-to-100usd-2/)
 - `2013-09-29` [如何做一名远程合伙人？](http://www.36kr.com/p/205768.html)（[原文](https://netguru.co/blog/being-a-remote-founder)）

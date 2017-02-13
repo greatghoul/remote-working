@@ -1,7 +1,5 @@
 ## 文章和讨论
 
-- [工作与旅行](http://ruby-china.org/topics/16944)
-- [如何远程管理独立游戏开发团队](http://www.cocoachina.com/gamedev/2013/1211/7516.html)
 - [From The Office To Travelling The World](http://metacircus.com/writings/2011/09/19/from-the-office-to-travelling-the-world.html)
 - [Fully Distributed Teams: are they viable?](http://www.pixelmonkey.org/2012/05/14/distributed-teams)
 - [On Working Remotely](http://www.codinghorror.com/blog/2010/05/on-working-remotely.html) 
@@ -10,9 +8,6 @@
 
 ### 2015年
 
-- [再出发](http://yizaoyiwan.com/discussion/481/)
-- [如何使自由职业者有全职工作](http://blog.techbay.club/post/ru-he-shi-zi-you-zhi-ye-zhe-you-quan-zhi-gong-zuo)
-- [一个远程外包自由职业者的经历和经验](http://yizaoyiwan.com/discussion/474/)
 - [从 300 万到 1000 万，DeepDevelop 外包业务第二阶段总结](http://yizaoyiwan.com/discussion/460/)
 - [说说我对不同独立开发者接单渠道的体验](http://yizaoyiwan.com/discussion/491/)
 
