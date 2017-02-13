@@ -226,10 +226,10 @@
 - [80%](https://www.80percent.io/)
 - [Thus 如是设计](http://thus.in/)
 - [七牛](http://www.qiniu.com/about)
-- [成都探码科技](http://www.tanmer.com/) - 大数据、技术合伙、可远程
-- [墨刀](https://modao.cc/) - 小而美的产品团队、可远程
-- [风泽科技](http://www.fenzotech.com/) - 外包、完全远程
-- [百分之八十](https://www.80percent.io/) - 外包，热爱远程
+- [墨刀](https://modao.cc/) - remote friendly
+- [风泽科技](http://www.fenzotech.com/) - remote first
+- [百分之八十](https://www.80percent.io/) - remote first
+- [橙陌科技](https://www.cmcm.us/) - remote first
 
 [⬆︎返回目录](#toc)
 
