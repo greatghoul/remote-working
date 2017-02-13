@@ -80,9 +80,14 @@
 - `2013-10-03` [我如何把薪水从 50人民币/天 提升到 100美元/小时的 (2)](http://terrytai.me/salary-from-50rmb-to-100usd-2/)
 - `2013-09-29` [如何做一名远程合伙人？](http://www.36kr.com/p/205768.html)（[原文](https://netguru.co/blog/being-a-remote-founder)）
 - `2013-09-14` [从士兵到程序员再到SOHO程序员 (一) - 起航](http://blog.huhao.name/2013/09/14/become-a-freelancer/)
+- `2013-08-29` [我们为什么仍然信任远程工作](http://www.oschina.net/translate/why-we-still-believe-in-working-remotely)
 - `2013-08-27` [程序员如何找到一份远程工作?](https://www.zhihu.com/question/21547626)
 - `2013-08-22` [如何开始你的SOHO之旅(2)](http://terrytai.me/how-to-begin-soho-2/)
 - `2013-08-15` [如何开始你的SOHO之旅(1)](http://terrytai.me/how-to-begin-soho-1/)
+- `2013-08-02` [如何打造一个 Remote 工作的环境](http://smalltalk.xdite.net/posts/73953-how-to-create-a-remote-environment)
+- `2013-07-24` [远程工作经验谈 - 如何适应及如何管理](http://yedingding.com/2013/07/24/remote-team-the-things-you-should-know.html)
+- `2013-07-20` [远程工作那些事儿](http://wangyaodi.com/2013/07/20/remote-working.html)
+- `2013-02-28` [成为一名远程工作者--远程工作者万岁](http://blogs.msdn.com/b/scott_hanselman/archive/2013/02/28/10398083.aspx)
 
 - [**更多文章和讨论 »»**](articles.md)
 
