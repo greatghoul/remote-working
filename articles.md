@@ -1,11 +1,5 @@
 ## 文章和讨论
 
-- [如何做一名远程合伙人？](http://www.36kr.com/p/205768.html)
-- [对一边旅行一边编程的生活方式的体验和思考](http://www.aqee.net/how-i-thought-i-wanted-to-become-a-digital-nomad/)
-- [远程工作之个人效率篇](http://beenhero.com/improve-remote-work-productivity/)
-- [码农在家工作写APP是否可行？前段时间ibuick也在找工作么？](http://tiny4cocoa.com/thread/show/1091/)
-- [在家工作，10招助你效率、生活两不误](http://www.36kr.com/p/209230.html)
-- [在家远程工作的体验和总结(为什么我决定更多的在家办公)](http://www.aqee.net/why-i-decided-to-spend-more-time-working-from-home/)
 - [工作与旅行](http://ruby-china.org/topics/16944)
 - [如何远程管理独立游戏开发团队](http://www.cocoachina.com/gamedev/2013/1211/7516.html)
 - [From The Office To Travelling The World](http://metacircus.com/writings/2011/09/19/from-the-office-to-travelling-the-world.html)

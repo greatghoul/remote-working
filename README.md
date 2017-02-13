@@ -27,7 +27,7 @@
 
 ## 文章和讨论
 
-#### 2016
+#### 2016年
 
 - `2016-12-29` [远程办公：有轻功+我们 对未来办公模式的思考](http://www.acdbd.com/yc/282.html)
 - `2016-12-20` [为什么上班和下班已经过时](https://ruanyf.github.io/survivor/collapse/remote-work.html)
@@ -47,16 +47,20 @@
 - `2016-06-26` [自由软件开发者的十点注意事项](https://blog.ashchan.com/archive/2016/06/26/ten-things-freelancer-should-know/)
 - `2016-06-10` [自由职业者们，请留意自己的心理和精神健康](http://www.littledew.com/2551)
 
-#### 2015
+#### 2015年
 
+- `2015-12-21` [提升远程团队战斗力的 11 种方法](http://tech2ipo.com/10026456)
+- `2015-12-13` [创业团队不需要office，大家都远程工作，are you fxxx kidding me?](http://www.yizaoyiwan.com/discussions/623)
 - `2015-10-10` [现在有公司要远程工作的员工么？](https://ruby-china.org/topics/27614)
 - `2015-01-28` [最好的25个寻找远程工作的网站](http://blog.techbay.club/post/zui-hao-de-25ge-xun-zhao-yuan-cheng-gong-zuo-de-wang-zhan)
 
-#### 2014
+#### 2014年
 
 - `2014-11-18` [从300到300万，一个远程外包团队的发展历程和经验](http://yizaoyiwan.com/discussion/79)
 - `2014-11-13` [如何高效的远程工作](http://yizaoyiwan.com/discussion/72/)
 - `2014-11-01` [数字游民的生活方式](http://yizaoyiwan.com/discussion/46/)
+- `2014-10-01` [远程工作之个人效率篇](http://beenhero.com/improve-remote-work-productivity/)
+- `2014-09-24` [对一边旅行一边编程的生活方式的体验和思考](http://www.aqee.net/how-i-thought-i-wanted-to-become-a-digital-nomad/)
 - `2014-07-30` [作为独立开发者，有哪些可以分享的经验？](https://www.zhihu.com/question/24667846)
 - `2014-06-16` [远程工作，万里之外皆同事](http://www.jianshu.com/p/6bccfde32ed8)
 - `2014-06-11` [远程工作（Remote working works）](http://www.infoq.com/cn/articles/remote-working-works)
@@ -68,8 +72,9 @@
 - `2014-02-06` [工作也旅行 - 跨洋远程面试](https://ruby-china.org/topics/17092)
 - `2014-01-26` [工作也旅行 - 工作机会](https://ruby-china.org/topics/17008)
 - `2014-01-23` [工作也旅行 - 预告](https://ruby-china.org/topics/16944)
+- `2014-01-02` [在家工作，10招助你效率、生活两不误](http://www.36kr.com/p/209230.html)
 
-#### 2013
+#### 2013年
 
 - `2013-12-19` [远程工作，你准备好了吗？](http://www.csdn.net/article/2013-12-19/2817858)
 - `2013-12-13` [从士兵到程序员再到SOHO程序员 (二) - 求职](http://blog.huhao.name/2013/12/13/become-a-freelancer-2/)
@@ -84,10 +89,16 @@
 - `2013-08-27` [程序员如何找到一份远程工作?](https://www.zhihu.com/question/21547626)
 - `2013-08-22` [如何开始你的SOHO之旅(2)](http://terrytai.me/how-to-begin-soho-2/)
 - `2013-08-15` [如何开始你的SOHO之旅(1)](http://terrytai.me/how-to-begin-soho-1/)
+- `2013-08-08` [8300英里之遥的合作开发](http://www.vaikan.com/co-developing-over-8300-miles-of-distance/)
 - `2013-08-02` [如何打造一个 Remote 工作的环境](http://smalltalk.xdite.net/posts/73953-how-to-create-a-remote-environment)
 - `2013-07-24` [远程工作经验谈 - 如何适应及如何管理](http://yedingding.com/2013/07/24/remote-team-the-things-you-should-know.html)
 - `2013-07-20` [远程工作那些事儿](http://wangyaodi.com/2013/07/20/remote-working.html)
+- `2013-03-29` [在家远程工作的体验和总结(为什么我决定更多的在家办公)](http://www.vaikan.com/why-i-decided-to-spend-more-time-working-from-home/)
 - `2013-02-28` [成为一名远程工作者--远程工作者万岁](http://blogs.msdn.com/b/scott_hanselman/archive/2013/02/28/10398083.aspx)
+
+#### 2011年
+
+- `2011-12-12` [旅行，写作，编程](http://www.vaikan.com/traveling-writing-programming/)
 
 - [**更多文章和讨论 »»**](articles.md)
 
@@ -226,10 +237,12 @@
 - [80%](https://www.80percent.io/)
 - [Thus 如是设计](http://thus.in/)
 - [七牛](http://www.qiniu.com/about)
-- [墨刀](https://modao.cc/) - remote friendly
+- [橙陌科技](https://www.cmcm.us/) - remote first
 - [风泽科技](http://www.fenzotech.com/) - remote first
 - [百分之八十](https://www.80percent.io/) - remote first
-- [橙陌科技](https://www.cmcm.us/) - remote first
+- [墨刀](https://modao.cc/) - remote friendly
+- [牛男网](http://www.neonan.com/) - remote friendly
+- [简单心理](http://www.jiandanxinli.com/) - remote friendly
 
 [⬆︎返回目录](#toc)
 
