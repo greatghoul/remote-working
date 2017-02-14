@@ -6,19 +6,6 @@
 - [What Makes Remote Working Work?](https://netguru.co/blog/posts/what-makes-remote-working-work)
 - [How to Handle the Challenges of Remote Teams](http://www.tlnt.com/2014/05/09/how-to-handle-the-challenges-of-handling-remote-teams/)
 
-### 2012年
-
-[团队成员都在异地办公有哪些优劣？](http://www.zhihu.com/question/20011303/answer/18049612)  
-从公司个人两方面讲远程办公有什么优势和劣势
-
-[关于家庭办公的一些数据](http://www.ifanr.com/134017)  
-这是一张关于远程办公员工工作和生活情况调查结果的信息图，虽然数据有些老了，但还是很在意思的。
-
-### 2011年
-
-- [英伦随笔：通勤如噩梦？](http://www.bbc.co.uk/ukchina/simp/uk_life/on_britain/110615_suping_big_city_traffic.shtml)  
-  通勤时间长导致夫妻离婚率增高，文章中还讨论了远程工作的好处及面临的一些困难
-
 ### 37signals 系列
 
 * 2009-06-30 [Working at 37signals](http://37signals.com/svn/posts/1785-working-at-37signals)

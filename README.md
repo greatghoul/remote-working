@@ -107,9 +107,15 @@
 - `2013-02-28` [成为一名远程工作者--远程工作者万岁](http://blogs.msdn.com/b/scott_hanselman/archive/2013/02/28/10398083.aspx)
 - `2013-02-02` [StackOverflow 使用的远程工作方式对于国内的互联网创业公司有多大的可行性？](http://www.zhihu.com/question/20759108)
 
+#### 2012年
+
+- `2012-08-12` [关于家庭办公的一些数据](http://www.ifanr.com/134017)
+- `2012-01-08` [团队成员都在异地办公有哪些优劣？](https://www.zhihu.com/question/20011303)
+
 #### 2011年
 
 - `2011-12-12` [旅行，写作，编程](http://www.vaikan.com/traveling-writing-programming/)
+- `2011-06-15` [英伦随笔：通勤如噩梦？](http://www.bbc.co.uk/ukchina/simp/uk_life/on_britain/110615_suping_big_city_traffic.shtml)
 
 [**更多文章和讨论 »»**](articles.md)
 
