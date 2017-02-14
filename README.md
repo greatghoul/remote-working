@@ -52,9 +52,12 @@
 - `2015-12-21` [提升远程团队战斗力的 11 种方法](http://tech2ipo.com/10026456)
 - `2015-12-13` [创业团队不需要office，大家都远程工作，are you fxxx kidding me?](http://www.yizaoyiwan.com/discussions/623)
 - `2015-10-10` [现在有公司要远程工作的员工么？](https://ruby-china.org/topics/27614)
+- `2015-08-20` [说说我对不同独立开发者接单渠道的体验](http://yizaoyiwan.com/discussion/491/)
 - `2015-08-09` [如何使自由职业者有全职工作](http://blog.techbay.club/post/ru-he-shi-zi-you-zhi-ye-zhe-you-quan-zhi-gong-zuo)
 - `2015-08-07` [再出发](http://yizaoyiwan.com/discussion/481/)
 - `2015-08-03` [一个远程外包自由职业者的经历和经验](http://yizaoyiwan.com/discussion/474/)
+- `2015-07-21` [从 300 万到 1000 万，DeepDevelop 外包业务第二阶段总结](http://yizaoyiwan.com/discussion/460/)
+- `2015-04-12` [自由职业的第一步: 200 元与 200 美刀](http://yafeilee.me/blogs/78)
 - `2015-01-28` [最好的25个寻找远程工作的网站](http://blog.techbay.club/post/zui-hao-de-25ge-xun-zhao-yuan-cheng-gong-zuo-de-wang-zhan)
 
 #### 2014年
@@ -70,6 +73,7 @@
 - `2014-04-23` [SOHO 家里办公的体验](http://yafeilee.me/blogs/60)
 - `2014-04-14` [我如何把薪水从 50人民币/天 提升到 100美元/小时的 (4)](http://terrytai.me/salary-from-50rmb-to100usd-4/)
 - `2014-04-15` [你的公司开始远程办公了没? 谈谈它](https://ruby-china.org/topics/18625)
+- `2014-04-14` [远程办公是未来公司的趋势](http://yafeilee.me/blogs/59)
 - `2014-03-01` [从士兵到程序员再到SOHO程序员 (三) - 游击战与阻力](http://blog.huhao.name/2014/03/01/become-a-freelancer-3/)
 - `2014-02-12` [我如何把薪水从 50人民币/天 提升到 100美元/小时的 (3)](http://terrytai.me/salary-from-50rmb-to100usd-3/)
 - `2014-02-06` [工作也旅行 - 跨洋远程面试](https://ruby-china.org/topics/17092)
@@ -97,14 +101,17 @@
 - `2013-08-02` [如何打造一个 Remote 工作的环境](http://smalltalk.xdite.net/posts/73953-how-to-create-a-remote-environment)
 - `2013-07-24` [远程工作经验谈 - 如何适应及如何管理](http://yedingding.com/2013/07/24/remote-team-the-things-you-should-know.html)
 - `2013-07-20` [远程工作那些事儿](http://wangyaodi.com/2013/07/20/remote-working.html)
+- `2013-06-30` [我是如何在腐国远程办公的](https://zhuanlan.zhihu.com/p/19724078)
+- `2013-05-19` [小而分散的团队如何远程协作](http://www.geekpark.net/topics/179496)
 - `2013-03-29` [在家远程工作的体验和总结(为什么我决定更多的在家办公)](http://www.vaikan.com/why-i-decided-to-spend-more-time-working-from-home/)
 - `2013-02-28` [成为一名远程工作者--远程工作者万岁](http://blogs.msdn.com/b/scott_hanselman/archive/2013/02/28/10398083.aspx)
+- `2013-02-02` [StackOverflow 使用的远程工作方式对于国内的互联网创业公司有多大的可行性？](http://www.zhihu.com/question/20759108)
 
 #### 2011年
 
 - `2011-12-12` [旅行，写作，编程](http://www.vaikan.com/traveling-writing-programming/)
 
-- [**更多文章和讨论 »»**](articles.md)
+[**更多文章和讨论 »»**](articles.md)
 
 [⬆︎返回目录](#toc)
 

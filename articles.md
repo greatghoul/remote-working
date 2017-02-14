@@ -6,25 +6,6 @@
 - [What Makes Remote Working Work?](https://netguru.co/blog/posts/what-makes-remote-working-work)
 - [How to Handle the Challenges of Remote Teams](http://www.tlnt.com/2014/05/09/how-to-handle-the-challenges-of-handling-remote-teams/)
 
-### 2015年
-
-- [从 300 万到 1000 万，DeepDevelop 外包业务第二阶段总结](http://yizaoyiwan.com/discussion/460/)
-- [说说我对不同独立开发者接单渠道的体验](http://yizaoyiwan.com/discussion/491/)
-
-### 2014年
-
-- [从300到300万，一个远程外包团队的发展历程和经验](http://yizaoyiwan.com/discussion/79/)
-- [远程办公是未来公司的趋势](http://yafeilee.me/blogs/534bfc636c69346dd5200000)
-
-### 2013年
-
-- [StackOverflow 使用的远程工作方式对于国内的互联网创业公司有多大的可行性？](http://www.zhihu.com/question/20759108)  
-  知乎上关于远程工作比较细致的一篇讨论
-- [我是如何在腐国远程办公的](http://blog.mycolorway.com/2013/06/30/work-in-uk/)  
-  小团队如何使用 Tower 来协作日常的工作，同时文章中提到的两组团队轮换开发/测试的方式也非常有意思。
-- [小而分散的团队如何远程协作](http://www.geekpark.net/topics/179496)  
-  RefacTech 借助 QQ, Tower 和 Gitlab 来进行远程协作的经验分享。
-
 ### 2012年
 
 [团队成员都在异地办公有哪些优劣？](http://www.zhihu.com/question/20011303/answer/18049612)  
