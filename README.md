@@ -271,6 +271,7 @@
 - [Amazing Home Offices](https://www.pinterest.com/workshifting/amazing-home-preoffices/) - 如果布置自己家里的办公环境，这里有很多参考
 - [Smart Remote Work](http://www.smartremotework.com/) - 一个远程工作相关的博客，并且也有 Weekly Newsletter 可以订阅。
 - [remote-china](https://remote-china.tech) - 寻找中国最酷的远程工作
+
 [⬆︎返回目录](#toc)
 
 ## 其它列表
