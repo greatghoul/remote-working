@@ -125,6 +125,7 @@
 
 ## 影音资料
 
+- `2016-09-22` [Remote Working: What, Why And How?](http://mikemcquaid.com/talks/remote-working-what-why-how/)
 - `2016-06-11` [Teahour #85 这次我们聊聊远程工作](http://teahour.fm/2016/06/11/all-about-remote-working.html)
 - `2016-01-09` [中国程序员能不能远程工作？](http://v.qq.com/x/page/b0180ahqmw4.html)
 - `2015-01-28` [Tower团队24个月的远程协作实践](http://www.infoq.com/cn/presentations/tower-team-24-months-remote-collaborative-practice)
