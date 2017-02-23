@@ -264,6 +264,7 @@
 - [墨刀](https://modao.cc/) - remote friendly
 - [牛男网](http://www.neonan.com/) - remote friendly
 - [简单心理](http://www.jiandanxinli.com/) - remote friendly
+- [Strikingly](https://www.strikingly.com/) - remote friendly
 
 [⬆︎返回目录](#toc)
 
