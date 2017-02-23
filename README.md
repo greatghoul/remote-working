@@ -22,7 +22,7 @@
 - [交流社区](#forum)
 - [外包平台](#outsource)
 - [远程团队](#teams)
-- [其它资源](#其它资源)
+- [其它资源](#others)
 - [其它列表](#其它列表)
 
 ## 文章和讨论
@@ -267,14 +267,15 @@
 
 [⬆︎返回目录](#toc)
 
-## 其它资源
+## <a name="others"></a>其它资源
 
 - [朝露](http://www.littledew.com/) - 自由工作生涯的探索之路
 - [Remotive - Productive Remote Workers](https://remoteworking.curated.co/) - 由 [@rdutel](https://twitter.com/rdutel) 发起的一个汇集远程工作资料的电子周刊
 - [中囯远程工作者周刊](https://github.com/greatghoul/remote-weekly) - 由一早一晚社区发起的汇集远程工作资料的电子周刊，倾向于国内的资源。（已经停更）
-- [Nomad List](http://nomadlist.io/) - 最适宜生活和远程工作的城市排名，对比了生活成本，气候，网速等因素。
+- [国内又有了新的远程工作机会](http://m.ruguoapp.com/topics/58a12fe772a4680014bdee24) - 一个**即刻的提醒
+- [Nomad List](http://nomadlist.io/) - 最适宜生活和远程工作的城市排名，对比了生活成本，气候，网速等因素
 - [Amazing Home Offices](https://www.pinterest.com/workshifting/amazing-home-preoffices/) - 如果布置自己家里的办公环境，这里有很多参考
-- [Smart Remote Work](http://www.smartremotework.com/) - 一个远程工作相关的博客，并且也有 Weekly Newsletter 可以订阅。
+- [Smart Remote Work](http://www.smartremotework.com/) - 一个远程工作相关的博客，并且也有 Weekly Newsletter 可以订阅
 - [remote-china](https://remote-china.tech) - 寻找中国最酷的远程工作
 
 [⬆︎返回目录](#toc)
