@@ -160,6 +160,7 @@
 - [Remote - Office Not Required 中文译本](http://jianshu.io/notebooks/41672/latest) 发布在简书上的译本
 - [The Ultimate Guide to Remote Work](https://zapier.com/learn/the-ultimate-guide-to-remote-working/) - Zapier 的远程工作实践
 - [The Ultimate Guide To Getting Started Freelancing](http://skillcrush.com/2015/05/28/ultimate-guide-to-freelancing/) - 一份不错的转型为自由职业者的指南
+- [自由职业设计师工作手册](https://book.douban.com/subject/5364376/) - 面向设计师的自由职业指南（对所有自由职业者都有很多借鉴作用）
 
 [⬆︎返回目录](#toc)
 
@@ -219,6 +220,7 @@
 - [Remote Internships](http://www.internships.com/virtual) - 为学生提供 1-3 个月的远程实习职位
 - [Remote Ok](http://remoteok.io) - 远程工作招聘网站，分为工作机会、创业团队和实习机会三个大块。
 - [Remote Jobs Expert](https://www.remotejobsexpert.com) - 专门针对 Remote Jobs 的搜索引擎
+- [Vuejs jobs](https://vuejobs.com/?ref=vuejs) - 针对使用vue.js的前端开发这的岗位，有远程。
 
 [⬆︎返回目录](#toc)
 
