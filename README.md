@@ -126,6 +126,7 @@
 
 ## 影音资料
 
+- `2017-02-23` [比特新声 #133 我很小的时候就穿女装了](https://banlan.show/bitvoice/133)
 - `2016-09-22` [Remote Working: What, Why And How?](http://mikemcquaid.com/talks/remote-working-what-why-how/)
 - `2016-06-11` [Teahour #85 这次我们聊聊远程工作](http://teahour.fm/2016/06/11/all-about-remote-working.html)
 - `2016-01-09` [中国程序员能不能远程工作？](http://v.qq.com/x/page/b0180ahqmw4.html)
