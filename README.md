@@ -63,10 +63,12 @@
 - `2015-08-03` [一个远程外包自由职业者的经历和经验](http://yizaoyiwan.com/discussion/474/)
 - `2015-07-21` [从 300 万到 1000 万，DeepDevelop 外包业务第二阶段总结](http://yizaoyiwan.com/discussion/460/)
 - `2015-04-12` [自由职业的第一步: 200 元与 200 美刀](http://yafeilee.me/blogs/78)
+- `2015-02-20` [Finding A Remote Job](http://mikemcquaid.com/2015/02/20/finding-a-remote-job/)
 - `2015-01-28` [最好的25个寻找远程工作的网站](http://blog.techbay.club/post/zui-hao-de-25ge-xun-zhao-yuan-cheng-gong-zuo-de-wang-zhan)
 
 #### 2014年
 
+- `2014-12-07` [My Working From Home Schedule](http://mikemcquaid.com/2014/12/07/my-working-from-home-schedule/)
 - `2014-11-18` [从300到300万，一个远程外包团队的发展历程和经验](http://yizaoyiwan.com/discussion/79)
 - `2014-11-13` [如何高效的远程工作](http://yizaoyiwan.com/discussion/72/)
 - `2014-11-01` [数字游民的生活方式](http://yizaoyiwan.com/discussion/46/)
