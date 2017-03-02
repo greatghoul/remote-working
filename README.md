@@ -1,6 +1,6 @@
 # 远程工作资料
 
-[![Build Status](https://travis-ci.org/greatghoul/remote-working.svg)](https://travis-ci.org/greatghoul/remote-working)
+[![Build Status](https://api.travis-ci.org/greatghoul/remote-working.svg)](https://travis-ci.org/greatghoul/remote-working)
 
 收集整理国内远程工作相关的资源，以国内的资源为主，之前收录的外文资源会逐渐清除，如果比较关心国外的资源，可以关注 [Pinterest Board: Remote Working](https://www.pinterest.com/greatghoul/remote-working/)，或者[其他人整理的列表](#其它列表)，要参与远程工作的讨论，可以访问[一早一晚社区](http://yizaoyiwan.com/)
 
@@ -196,7 +196,7 @@
  - [Teambiton](https://www.teambition.com/) - 类 Trello 的简单高效的项目协作工具
  - [Worktile](https://worktile.com/) - 让工作更简单
  - [tita](http://www.tita.com/) - 企业级的工作计划管理平台，其实我想说，它的首页真的好酷。
- - [I Done This](https://idonethis.com/) - 基于邮件的团队日报工具，小巧实用。
+ - [I Done This](https://home.idonethis.com/) - 基于邮件的团队日报工具，小巧实用。
  - [Coding.net](https://coding.net) - 一站式云端开发协作平台
 
 沟通工具
@@ -214,14 +214,14 @@
 - [Laravel China 招聘版块](https://laravel-china.org/search?q=%E8%BF%9C%E7%A8%8B)
 - [Ruby China 招聘版块](https://www.google.com/search?newwindow=1&biw=1440&bih=732&tbs=qdr%3Ay%2Csbd%3A1&q=site%3Aruby-china.org+%22%E8%BF%9C%E7%A8%8B%22+%22%E6%8B%9B%E8%81%98%22&oq=site%3Aruby-china.org+%22%E8%BF%9C%E7%A8%8B%22+%22%E6%8B%9B%E8%81%98%22&gs_l=serp.3...4629.4629.0.4843.1.1.0.0.0.0.0.0..0.0....0...1c.1.64.serp..1.0.0.b2In-7U128I)
 - [We Work Remotely](https://weworkremotely.com/) - 寻找或者发布远程工作机会
-- [Stackoverflow Careers](http://careers.stackoverflow.com/jobs?allowsremote=true) - Stackoverflow 的招聘频道，提供专门的过滤项来检索远程职位
+- [Stackoverflow Careers](https://stackoverflow.com/jobs/remote-developer-jobs) - Stackoverflow 的招聘频道，提供专门的过滤项来检索远程职位
 - [Work from Home](https://www.wfh.io/) - 国外一个发布远程招聘帖的网站，比较特色的是它会列出支持远程工作的公司列表。
-- [Flex Jobs](http://www.flexjobs.com/) - Find Telecommuting Jobs and other great flexible jobs such as Part-Time jobs and Freelance work.
+- [Flex Jobs](https://www.flexjobs.com/) - Find Telecommuting Jobs and other great flexible jobs such as Part-Time jobs and Freelance work.
 - [Front-end Developer Job](http://frontenddeveloperjob.com/) - 国外前端工程师招聘网站，有不少支持远程的公司
-- [Nomad Jobs](http://nomadjobs.io/) - The best remote jobs and startups worldwide
+- [Nomad Jobs](https://nomadjobs.io/) - The best remote jobs and startups worldwide
 - [REMOTIVE JOBS](http://jobs.remotive.io/) - 国外的远程工作周刊网站新上线的招聘频道
 - [Remote Internships](http://www.internships.com/virtual) - 为学生提供 1-3 个月的远程实习职位
-- [Remote Ok](http://remoteok.io) - 远程工作招聘网站，分为工作机会、创业团队和实习机会三个大块。
+- [Remote Ok](https://remoteok.io/) - 远程工作招聘网站，分为工作机会、创业团队和实习机会三个大块。
 - [Remote Jobs Expert](https://www.remotejobsexpert.com) - 专门针对 Remote Jobs 的搜索引擎
 - [Vuejs jobs](https://vuejobs.com/?ref=vuejs) - 针对使用vue.js的前端开发这的岗位，有远程。
 
@@ -233,7 +233,6 @@
 - [OneWork](http://www.apcow.com)
 - [远程工作党豆瓣小组](https://www.douban.com/group/freejobs/)
 - [V2MM](https://v2mm.tech/)
-- ~~[游牧社区](https://youmu.io)~~
 
 [⬆︎返回目录](#toc)
 
@@ -241,8 +240,8 @@
 
 - [码市](https://mart.coding.net)
 - [大鲲](https://pro.lagou.com/)
-- [英选](http://www.linktion.cn)
-- [程序员客栈](http://www.proginn.com)
+- [英选](https://www.linktion.cn/ )
+- [程序员客栈](https://www.proginn.com/)
 - [厘米脚印](http://www.limijiaoyin.com/)
 - [实现网](http://shixian.com/)
 - [小圆桌](http://xiaoyuanzhuo.com/)
@@ -265,7 +264,7 @@
 - [百分之八十](https://www.80percent.io/) - remote first
 - [优帆远扬](https://yousails.com) - remote first
 - [墨刀](https://modao.cc/) - remote friendly
-- [牛男网](http://www.neonan.com/) - remote friendly
+- [牛男网](https://www.neonan.com/) - remote friendly
 - [简单心理](http://www.jiandanxinli.com/) - remote friendly
 - [Strikingly](https://www.strikingly.com/) - remote friendly
 
@@ -277,7 +276,7 @@
 - [Remotive - Productive Remote Workers](https://remoteworking.curated.co/) - 由 [@rdutel](https://twitter.com/rdutel) 发起的一个汇集远程工作资料的电子周刊
 - [中囯远程工作者周刊](https://github.com/greatghoul/remote-weekly) - 由一早一晚社区发起的汇集远程工作资料的电子周刊，倾向于国内的资源。（已经停更）
 - [国内又有了新的远程工作机会](http://m.ruguoapp.com/topics/58a12fe772a4680014bdee24) - 一个**即刻的提醒
-- [Nomad List](http://nomadlist.io/) - 最适宜生活和远程工作的城市排名，对比了生活成本，气候，网速等因素
+- [Nomad List](https://nomadlist.io/) - 最适宜生活和远程工作的城市排名，对比了生活成本，气候，网速等因素
 - [Amazing Home Offices](https://www.pinterest.com/workshifting/amazing-home-preoffices/) - 如果布置自己家里的办公环境，这里有很多参考
 - [remote-china](https://remote-china.tech) - 寻找中国最酷的远程工作
 
