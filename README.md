@@ -262,7 +262,7 @@
 - [橙陌科技](https://www.cmcm.us/) - remote first
 - [风泽科技](http://www.fenzotech.com/) - remote first
 - [百分之八十](https://www.80percent.io/) - remote first
-- [优帆远扬](https://yousails.com) - remote first
+- [优帆远扬](https://yousails.com/) - remote first
 - [墨刀](https://modao.cc/) - remote friendly
 - [牛男网](https://www.neonan.com/) - remote friendly
 - [简单心理](http://www.jiandanxinli.com/) - remote friendly
