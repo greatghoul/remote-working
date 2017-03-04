@@ -64,6 +64,7 @@
 - `2015-08-07` [再出发](http://yizaoyiwan.com/discussion/481/)
 - `2015-08-03` [一个远程外包自由职业者的经历和经验](http://yizaoyiwan.com/discussion/474/)
 - `2015-07-21` [从 300 万到 1000 万，DeepDevelop 外包业务第二阶段总结](http://yizaoyiwan.com/discussion/460/)
+- `2015-06-24` [近期准备找下一份远程工作，求建议](https://pagespeed.v2ex.com/t/200681)
 - `2015-04-12` [自由职业的第一步: 200 元与 200 美刀](http://yafeilee.me/blogs/78)
 - `2015-01-28` [最好的25个寻找远程工作的网站](http://blog.techbay.club/post/zui-hao-de-25ge-xun-zhao-yuan-cheng-gong-zuo-de-wang-zhan)
 
