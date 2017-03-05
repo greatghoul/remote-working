@@ -45,6 +45,8 @@
 - `2016-08-25` [从自由到自律，一个远程工作者的自述](https://www.v2ex.com/t/301743)
 - `2016-08-03` [英文不够好，适合做国外哪些远程 remote 的工作？](https://www.v2ex.com/t/296749)
 - `2016-07-04` [fir.im Weekly - 聊聊让人向往的远程开发工作](https://gold.xitu.io/entry/5779ef492e958a22d8b3f5e8)
+- `2016-07-04` [细数那些适合自由工作的职业技能（二）](http://www.littledew.com/2609)
+- `2016-07-01` [细数那些适合自由工作的职业技能（一）](http://www.littledew.com/2602)
 - `2016-07-01` [远程协作开发，你能驾驭么？](http://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=2650712459&idx=1&sn=5843a04a5a585f67fe6ff8f9b3c039a5#wechat_redirect)
 - `2016-06-10` [为什么国内公司远程办公发展滞后？](https://www.zhihu.com/question/47284405)
 - `2016-05-13` [因本地网络、法律风险被一家支持远程工作的国外公司拒了](https://www.v2ex.com/t/278338)
