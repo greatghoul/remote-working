@@ -48,13 +48,14 @@
 - `2016-07-04` [细数那些适合自由工作的职业技能（二）](http://www.littledew.com/2609)
 - `2016-07-01` [细数那些适合自由工作的职业技能（一）](http://www.littledew.com/2602)
 - `2016-07-01` [远程协作开发，你能驾驭么？](http://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=2650712459&idx=1&sn=5843a04a5a585f67fe6ff8f9b3c039a5#wechat_redirect)
+- `2016-06-26` [自由软件开发者的十点注意事项](https://blog.ashchan.com/archive/2016/06/26/ten-things-freelancer-should-know/)
 - `2016-06-10` [为什么国内公司远程办公发展滞后？](https://www.zhihu.com/question/47284405)
+- `2016-06-10` [自由职业者们，请留意自己的心理和精神健康](http://www.littledew.com/2551)
 - `2016-05-13` [因本地网络、法律风险被一家支持远程工作的国外公司拒了](https://www.v2ex.com/t/278338)
 - `2016-04-22` [五年的远程工作带给我的酸甜苦辣](http://www.ifanr.com/646923)
 - `2016-03-21` [什么样的人适合远程工作？](http://pmjane.com/post/shi-yao-yang-de-ren-gua-he-yuan-cheng-gong-zuo#fb_new_comment)
 - `2016-03-09` [刚看招聘，看到了远程办公的，突然有了下述想法](https://www.v2ex.com/t/261858)
-- `2016-06-26` [自由软件开发者的十点注意事项](https://blog.ashchan.com/archive/2016/06/26/ten-things-freelancer-should-know/)
-- `2016-06-10` [自由职业者们，请留意自己的心理和精神健康](http://www.littledew.com/2551)
+- `2016-02-07` [真正的自由并不等于拥有了全部](http://mp.weixin.qq.com/s?__biz=MjM5NTI3NDM2NA==&mid=408573043&idx=1&sn=c7a0e2a20cad45d89469b406596e5c57&scene=21#wechat_redirect)
 
 #### 2015年
 
