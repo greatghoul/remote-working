@@ -16,7 +16,7 @@
 - [影音资料](#medias)
 - [演示文稿](#演示文稿)
 - [调查报告](#调查报告)
-- [书籍](#书籍)
+- [书籍](#books)
 - [读书笔记](#读书笔记)
 - [漫画](#漫画)
 - [工具和服务](#工具和服务)
@@ -161,13 +161,14 @@
 
 [⬆︎返回目录](#toc)
 
-## 书籍
+## <a name="books"></a>书籍
 
 - [Remote - Office Not Required](http://37signals.com/remote) - [购买](http://www.amazon.com/Remote-Office-Not-Required/dp/0804137501)
 - [Remote - Office Not Required 中文译本](http://jianshu.io/notebooks/41672/latest) 发布在简书上的译本
 - [The Ultimate Guide to Remote Work](https://zapier.com/learn/the-ultimate-guide-to-remote-working/) - Zapier 的远程工作实践
 - [The Ultimate Guide To Getting Started Freelancing](http://skillcrush.com/2015/05/28/ultimate-guide-to-freelancing/) - 一份不错的转型为自由职业者的指南
 - [自由职业设计师工作手册](https://book.douban.com/subject/5364376/) - 面向设计师的自由职业指南（对所有自由职业者都有很多借鉴作用）
+- [How to Find Your Dream Remote Job](https://remotive.typeform.com/to/RumqJ1)
 
 [⬆︎返回目录](#toc)
 
