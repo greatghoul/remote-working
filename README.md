@@ -263,6 +263,7 @@
 - [彩程设计](https://tower.im/about_us)
 - [80%](https://www.80percent.io/)
 - [Thus 如是设计](http://thus.in/)
+- [手工客](http://www.sogoke.com/) - remote friendly
 - [艾迪福克斯](https://www.v2ex.com/t/344933) - remote only
 - [七牛](http://career.qiniu.com/aboutus.html) - remote friendly
 - [橙陌科技](https://www.cmcm.us/) - remote first
