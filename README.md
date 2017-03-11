@@ -206,8 +206,8 @@
 
 沟通工具
 
- - [瀑布IM](https://beta.pubu.im/) - 瀑布IM，让团队沟通再简单一点
- - [Zoom](http://zoom.us/) WebEx 创始人新创建的在线视频服务，多人视频很流畅
+ - [瀑布IM](https://pubu.im/) - 瀑布IM，让团队沟通再简单一点
+ - [Zoom](https://zoom.us/) WebEx 创始人新创建的在线视频服务，多人视频很流畅
 
 [⬆︎返回目录](#toc)
 
@@ -223,7 +223,6 @@
 - [Work from Home](https://www.wfh.io/) - 国外一个发布远程招聘帖的网站，比较特色的是它会列出支持远程工作的公司列表。
 - [Flex Jobs](https://www.flexjobs.com/) - Find Telecommuting Jobs and other great flexible jobs such as Part-Time jobs and Freelance work.
 - [Front-end Developer Job](http://frontenddeveloperjob.com/) - 国外前端工程师招聘网站，有不少支持远程的公司
-- [Nomad Jobs](https://nomadjobs.io/) - The best remote jobs and startups worldwide
 - [REMOTIVE JOBS](http://jobs.remotive.io/) - 国外的远程工作周刊网站新上线的招聘频道
 - [Remote Internships](http://www.internships.com/virtual) - 为学生提供 1-3 个月的远程实习职位
 - [Remote Ok](https://remoteok.io/) - 远程工作招聘网站，分为工作机会、创业团队和实习机会三个大块。
@@ -284,7 +283,7 @@
 - [中囯远程工作者周刊](https://github.com/greatghoul/remote-weekly) - 由一早一晚社区发起的汇集远程工作资料的电子周刊，倾向于国内的资源。（已经停更）
 - [国内又有了新的远程工作机会](http://m.ruguoapp.com/topics/58a12fe772a4680014bdee24) - 一个**即刻的提醒
 - [Nomad List](https://nomadlist.io/) - 最适宜生活和远程工作的城市排名，对比了生活成本，气候，网速等因素
-- [Amazing Home Offices](https://www.pinterest.com/workshifting/amazing-home-preoffices/) - 如果布置自己家里的办公环境，这里有很多参考
+- [Amazing Home Offices](https://www.pinterest.com/workshifting/amazing-home-offices/) - 如果布置自己家里的办公环境，这里有很多参考
 - [remote-china](https://remote-china.tech) - 寻找中国最酷的远程工作
 
 [⬆︎返回目录](#toc)
