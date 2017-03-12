@@ -12,13 +12,11 @@
 
 ## <a name="toc"></a>目录：
 
-- [文章和讨论](#文章和讨论)
+- [文章和讨论](#articles)
 - [影音资料](#medias)
-- [演示文稿](#演示文稿)
-- [调查报告](#调查报告)
+- [演示文稿](#slides)
+- [调查报告](#reports)
 - [书籍](#books)
-- [读书笔记](#读书笔记)
-- [漫画](#漫画)
 - [工具和服务](#工具和服务)
 - [招聘网站](#jobs)
 - [交流社区](#forum)
@@ -27,7 +25,7 @@
 - [其它资源](#others)
 - [其它列表](#其它列表)
 
-## 文章和讨论
+## <a name="articles"></a>文章和讨论
 
 #### 2017年
 
@@ -147,7 +145,7 @@
 
 [⬆︎返回目录](#toc)
 
-## 演示文稿
+## <a name="slides"></a>演示文稿
 
 - [远程工作那些事儿](https://speakerdeck.com/yorzi/yuan-cheng-gong-zuo-na-xie-shi-er)
 - [远程工作你所不知道的那些事儿](http://vdisk.weibo.com/s/zby-x0TZj2PEy/1378093426)
@@ -155,7 +153,7 @@
 
 [⬆︎返回目录](#toc)
 
-## 调查报告
+## <a name="reports"></a>调查报告
 
 - [远程工作元年 - 2015 国内远程工作群体报告 (上篇)](http://yizaoyiwan.com/discussions/733)
 - [远程工作元年 - 2015 国内远程工作群体报告 (下篇)](http://yizaoyiwan.com/discussions/747)
@@ -170,18 +168,6 @@
 - [The Ultimate Guide To Getting Started Freelancing](http://skillcrush.com/2015/05/28/ultimate-guide-to-freelancing/) - 一份不错的转型为自由职业者的指南
 - [自由职业设计师工作手册](https://book.douban.com/subject/5364376/) - 面向设计师的自由职业指南（对所有自由职业者都有很多借鉴作用）
 - [How to Find Your Dream Remote Job](https://remotive.typeform.com/to/RumqJ1)
-
-[⬆︎返回目录](#toc)
-
-## 读书笔记
-
-- ["Remote: Office not Required" Review](http://robertgreiner.com/2013/11/remote-office-not-required-review/)
-
-[⬆︎返回目录](#toc)
-
-## 漫画
-
-- [Why working from home is both awesome and horrible](http://theoatmeal.com/comics/working_home)
 
 [⬆︎返回目录](#toc)
 
