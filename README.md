@@ -17,13 +17,13 @@
 - [演示文稿](#slides)
 - [调查报告](#reports)
 - [书籍](#books)
-- [工具和服务](#工具和服务)
+- [工具和服务](#tools)
 - [招聘网站](#jobs)
 - [交流社区](#forum)
 - [外包平台](#outsource)
 - [远程团队](#teams)
 - [其它资源](#others)
-- [其它列表](#其它列表)
+- [其它列表](#lists)
 
 ## <a name="articles"></a>文章和讨论
 
@@ -171,7 +171,7 @@
 
 [⬆︎返回目录](#toc)
 
-## 工具和服务
+## <a name="tools"></a>工具和服务
 
 时间管理
 
@@ -274,7 +274,7 @@
 
 [⬆︎返回目录](#toc)
 
-## 其它列表
+## <a name="lists"></a>其它列表
 
 - [awesome-RemoteWork](https://github.com/hugo53/awesome-RemoteWork) - Resources for remote workers: approaches, hiring page, remote life and more.
 - [established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
