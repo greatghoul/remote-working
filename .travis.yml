@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot --allow-dupe --allow-redirect --allow-ssl README.md
+  - awesome_bot README.md --allow 500 --allow-dupe --allow-redirect --allow-ssl --white-list mp.weixin.qq.com
