@@ -211,7 +211,7 @@
 - [Work from Home](https://www.wfh.io/) - 国外一个发布远程招聘帖的网站，比较特色的是它会列出支持远程工作的公司列表。
 - [Flex Jobs](https://www.flexjobs.com/) - Find Telecommuting Jobs and other great flexible jobs such as Part-Time jobs and Freelance work.
 - [Front-end Developer Job](http://frontenddeveloperjob.com/) - 国外前端工程师招聘网站，有不少支持远程的公司
-- [REMOTIVE JOBS](http://jobs.remotive.io/) - 国外的远程工作周刊网站新上线的招聘频道
+- [REMOTIVE JOBS](https://remotive.io/find-a-job/) - 国外的远程工作周刊网站新上线的招聘频道
 - [Remote Internships](http://www.internships.com/virtual) - 为学生提供 1-3 个月的远程实习职位
 - [Remote Ok](https://remoteok.io/) - 远程工作招聘网站，分为工作机会、创业团队和实习机会三个大块。
 - [Remote Jobs Expert](https://www.remotejobsexpert.com) - 专门针对 Remote Jobs 的搜索引擎
