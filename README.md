@@ -259,6 +259,7 @@
 - [牛男网](https://www.neonan.com/) - remote friendly
 - [简单心理](http://www.jiandanxinli.com/) - remote friendly
 - [Strikingly](https://www.strikingly.com/) - remote friendly
+- [Zine](https://zine.la/) - remote friendly
 
 [⬆︎返回目录](#toc)
 
