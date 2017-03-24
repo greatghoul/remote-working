@@ -29,6 +29,7 @@
 
 #### 2017年
 
+- `2017-03-21` [如何在分布式团队实现敏捷](http://www.infoq.com/cn/articles/be-agile-distributed-teams)
 - `2017-03-21` [《重来2》：远程工作不再遥远？](https://www.kawabangga.com/posts/1929)
 - `2017-02-18` [IT领域哪些技能适合自由职业?](https://www.zhihu.com/question/55975833)
 - `2017-02-17` [远程办公如何执行才能效率高，这家公司做了典范](http://36kr.com/p/5064061.html)
