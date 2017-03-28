@@ -29,6 +29,7 @@
 
 #### 2017年
 
+- `2017-03-27` [Tower 团队 48 个月远程实践](https://zhuanlan.zhihu.com/p/26031654)
 - `2017-03-21` [如何在分布式团队实现敏捷](http://www.infoq.com/cn/articles/be-agile-distributed-teams)
 - `2017-03-21` [《重来2》：远程工作不再遥远？](https://www.kawabangga.com/posts/1929)
 - `2017-02-18` [IT领域哪些技能适合自由职业?](https://www.zhihu.com/question/55975833)
