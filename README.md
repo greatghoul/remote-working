@@ -269,7 +269,6 @@
 ## <a name="others"></a>其它资源
 
 - [朝露](http://www.littledew.com/) - 自由工作生涯的探索之路
-- [Remotive - Productive Remote Workers](https://remoteworking.curated.co/) - 由 [@rdutel](https://twitter.com/rdutel) 发起的一个汇集远程工作资料的电子周刊
 - [中囯远程工作者周刊](https://github.com/greatghoul/remote-weekly) - 由一早一晚社区发起的汇集远程工作资料的电子周刊，倾向于国内的资源。（已经停更）
 - [国内又有了新的远程工作机会](http://m.ruguoapp.com/topics/58a12fe772a4680014bdee24) - 一个**即刻的提醒
 - [Nomad List](https://nomadlist.io/) - 最适宜生活和远程工作的城市排名，对比了生活成本，气候，网速等因素
