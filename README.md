@@ -251,6 +251,7 @@
 - [风车团队](https://fengcheco.com/about)
 - [彩程设计](https://tower.im/about_us)
 - [Thus 如是设计](http://thus.in/)
+- [杭州天车团队](https://ruby-china.org/tianche) - remote friendly
 - [手工客](http://www.sogoke.com/) - remote friendly
 - [艾迪福克斯](https://www.v2ex.com/t/344933) - remote only
 - [七牛](http://career.qiniu.com/aboutus.html) - remote friendly
