@@ -264,6 +264,7 @@
 - [简单心理](http://www.jiandanxinli.com/) - remote friendly
 - [Strikingly](https://www.strikingly.com/) - remote friendly
 - [Zine](https://zine.la/) - remote friendly
+- [数码荔枝](https://www.lizhi.io) - remote friendly
 
 [⬆︎返回目录](#toc)
 
