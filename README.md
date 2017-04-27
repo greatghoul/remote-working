@@ -252,20 +252,21 @@
 - [风车团队](https://fengcheco.com/about)
 - [彩程设计](https://tower.im/about_us)
 - [Thus 如是设计](http://thus.in/)
-- [杭州天车团队](https://ruby-china.org/tianche) - remote friendly
-- [手工客](http://www.sogoke.com/) - remote friendly
-- [艾迪福克斯](https://www.v2ex.com/t/344933) - remote only
-- [七牛](http://career.qiniu.com/aboutus.html) - remote friendly
-- [橙陌科技](https://www.cmcm.us/) - remote first
-- [风泽科技](http://www.fenzotech.com/) - remote first
-- [百分之八十](https://www.80percent.io/) - remote first
-- [优帆远扬](https://yousails.com/) - remote first
-- [墨刀](https://modao.cc/) - remote friendly
-- [牛男网](https://www.neonan.com/) - remote friendly
-- [简单心理](http://www.jiandanxinli.com/) - remote friendly
-- [Strikingly](https://www.strikingly.com/) - remote friendly
-- [Zine](https://zine.la/) - remote friendly
-- [数码荔枝](https://www.lizhi.io) - remote friendly
+- [杭州天车团队](https://ruby-china.org/tianche)
+- [手工客](http://www.sogoke.com/)
+- [艾迪福克斯](https://www.v2ex.com/t/344933)
+- [七牛](http://career.qiniu.com/aboutus.html)
+- [橙陌科技](https://www.cmcm.us/)
+- [风泽科技](http://www.fenzotech.com/)
+- [百分之八十](https://www.80percent.io/)
+- [优帆远扬](https://yousails.com/)
+- [墨刀](https://modao.cc/)
+- [牛男网](https://www.neonan.com/)
+- [简单心理](http://www.jiandanxinli.com/)
+- [Strikingly](https://www.strikingly.com/)
+- [Zine](https://zine.la/)
+- [数码荔枝](https://www.lizhi.io)
+- [Protobia Tech](http://www.protobia.net/)
 
 [⬆︎返回目录](#toc)
 
