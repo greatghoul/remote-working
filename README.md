@@ -204,11 +204,12 @@
 
 ## <a name="jobs"></a>招聘网站
 
-- [远程.work](http://yuancheng.work/) - 远程工作招聘网站
 - [一早一晚招聘](http://yizaoyiwan.com/categories/employer) - 一早一晚社区的招聘版块
-- [SegmentFault 招聘](https://segmentfault.com/jobs/search?remote=1) - SegmentFault 的招聘版块中支持按远程筛选
-- [Laravel China 招聘版块](https://laravel-china.org/search?q=%E8%BF%9C%E7%A8%8B)
 - [Ruby China 招聘版块](https://www.google.com/search?newwindow=1&biw=1440&bih=732&tbs=qdr%3Ay%2Csbd%3A1&q=site%3Aruby-china.org+%22%E8%BF%9C%E7%A8%8B%22+%22%E6%8B%9B%E8%81%98%22&oq=site%3Aruby-china.org+%22%E8%BF%9C%E7%A8%8B%22+%22%E6%8B%9B%E8%81%98%22&gs_l=serp.3...4629.4629.0.4843.1.1.0.0.0.0.0.0..0.0....0...1c.1.64.serp..1.0.0.b2In-7U128I)
+- [Laravel China 招聘版块](https://laravel-china.org/search?q=%E8%BF%9C%E7%A8%8B)
+- [SegmentFault 招聘](https://segmentfault.com/jobs/search?remote=1) - SegmentFault 的招聘版块中支持按远程筛选
+- [七星远程](http://www.remotejob.cn/) - 远程工作招聘信息的聚合网站
+- [远程.work](http://yuancheng.work/) - 远程工作招聘信息的聚合网站
 - [We Work Remotely](https://weworkremotely.com/) - 寻找或者发布远程工作机会
 - [Stackoverflow Careers](https://stackoverflow.com/jobs/remote-developer-jobs) - Stackoverflow 的招聘频道，提供专门的过滤项来检索远程职位
 - [Work from Home](https://www.wfh.io/) - 国外一个发布远程招聘帖的网站，比较特色的是它会列出支持远程工作的公司列表。
