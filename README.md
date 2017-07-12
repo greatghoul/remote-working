@@ -46,6 +46,7 @@
 - `2016-09-11` [一年多远程工作带给我的感悟](http://www.jianshu.com/p/971e380f60ab)
 - `2016-09-07` [9 个城市的远程协作办公，如何让 15 人团队整体创收过千万？](http://www.jianshu.com/p/348c6397c98a)
 - `2016-08-25` [从自由到自律，一个远程工作者的自述](https://www.v2ex.com/t/301743)
+- `2016-09-24` [未来，在家工作在什么时候可以普及？](https://www.zhihu.com/question/50965940)
 - `2016-08-03` [英文不够好，适合做国外哪些远程 remote 的工作？](https://www.v2ex.com/t/296749)
 - `2016-07-04` [fir.im Weekly - 聊聊让人向往的远程开发工作](https://gold.xitu.io/entry/5779ef492e958a22d8b3f5e8)
 - `2016-07-04` [细数那些适合自由工作的职业技能（二）](http://www.littledew.com/2609)
