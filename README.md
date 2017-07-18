@@ -48,7 +48,7 @@
 - `2016-08-25` [从自由到自律，一个远程工作者的自述](https://www.v2ex.com/t/301743)
 - `2016-09-24` [未来，在家工作在什么时候可以普及？](https://www.zhihu.com/question/50965940)
 - `2016-08-03` [英文不够好，适合做国外哪些远程 remote 的工作？](https://www.v2ex.com/t/296749)
-- `2016-07-04` [fir.im Weekly - 聊聊让人向往的远程开发工作](https://gold.xitu.io/entry/5779ef492e958a22d8b3f5e8)
+- `2016-07-04` [fir.im Weekly - 聊聊让人向往的远程开发工作](https://juejin.im/entry/5779ef492e958a22d8b3f5e8)
 - `2016-07-04` [细数那些适合自由工作的职业技能（二）](http://www.littledew.com/2609)
 - `2016-07-01` [细数那些适合自由工作的职业技能（一）](http://www.littledew.com/2602)
 - `2016-07-01` [远程协作开发，你能驾驭么？](http://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=2650712459&idx=1&sn=5843a04a5a585f67fe6ff8f9b3c039a5#wechat_redirect)
@@ -82,7 +82,7 @@
 - `2014-11-13` [如何高效的远程工作](http://yizaoyiwan.com/discussion/72/)
 - `2014-11-01` [数字游民的生活方式](http://yizaoyiwan.com/discussion/46/)
 - `2014-10-01` [远程工作之个人效率篇](http://beenhero.com/improve-remote-work-productivity/)
-- `2014-09-24` [对一边旅行一边编程的生活方式的体验和思考](http://www.aqee.net/how-i-thought-i-wanted-to-become-a-digital-nomad/)
+- `2014-09-24` [对一边旅行一边编程的生活方式的体验和思考](http://www.vaikan.com/how-i-thought-i-wanted-to-become-a-digital-nomad/)
 - `2014-07-30` [作为独立开发者，有哪些可以分享的经验？](https://www.zhihu.com/question/24667846)
 - `2014-06-16` [远程工作，万里之外皆同事](http://www.jianshu.com/p/6bccfde32ed8)
 - `2014-06-11` [远程工作（Remote working works）](http://www.infoq.com/cn/articles/remote-working-works)
@@ -95,19 +95,19 @@
 - `2014-02-06` [工作也旅行 - 跨洋远程面试](https://ruby-china.org/topics/17092)
 - `2014-01-26` [工作也旅行 - 工作机会](https://ruby-china.org/topics/17008)
 - `2014-01-23` [工作也旅行 - 预告](https://ruby-china.org/topics/16944)
-- `2014-01-02` [在家工作，10招助你效率、生活两不误](http://www.36kr.com/p/209230.html)
+- `2014-01-02` [在家工作，10招助你效率、生活两不误](http://36kr.com/p/209230.html)
 
 #### 2013年
 
 - `2013-12-19` [远程工作，你准备好了吗？](http://www.csdn.net/article/2013-12-19/2817858)
 - `2013-12-13` [从士兵到程序员再到SOHO程序员 (二) - 求职](http://blog.huhao.name/2013/12/13/become-a-freelancer-2/)
 - `2013-11-27` [远程工作两个月后的体会](http://blog.jobbole.com/52133/)
-- `2013-11-18` [我如何把薪水从 50人民币/天 提升到 100美元/小时的(1)](http://terrytai.me/salary-from-50rmb-to-100usd)
+- `2013-11-18` [我如何把薪水从 50人民币/天 提升到 100美元/小时的(1)](http://terrytai.me/salary-from-50rmb-to-100usd/)
 - `2013-10-15` [关于远程工作你有什么疑问？](https://ruby-china.org/topics/14758)
-- `2013-11-11` [如何远程管理独立游戏开发团队](http://www.cocoachina.com/gamedev/2013/1211/7516.html)
+- `2013-11-11` [如何远程管理独立游戏开发团队](http://www.cocoachina.com/game/20131211/7516.html)
 - `2013-10-11` [新的起点：远程创业团队](http://yangzhuoyu.com/first-month-in-pragmatic-ly/)
 - `2013-10-03` [我如何把薪水从 50人民币/天 提升到 100美元/小时的 (2)](http://terrytai.me/salary-from-50rmb-to-100usd-2/)
-- `2013-09-29` [如何做一名远程合伙人？](http://www.36kr.com/p/205768.html)（[原文](https://netguru.co/blog/being-a-remote-founder)）
+- `2013-09-29` [如何做一名远程合伙人？](http://36kr.com/p/205768.html)（[原文](https://www.netguru.co/blog/being-a-remote-founder)）
 - `2013-09-14` [从士兵到程序员再到SOHO程序员 (一) - 起航](http://blog.huhao.name/2013/09/14/become-a-freelancer/)
 - `2013-08-29` [我们为什么仍然信任远程工作](http://www.oschina.net/translate/why-we-still-believe-in-working-remotely)
 - `2013-08-27` [程序员如何找到一份远程工作?](https://www.zhihu.com/question/21547626)
@@ -120,7 +120,7 @@
 - `2013-06-30` [我是如何在腐国远程办公的](https://zhuanlan.zhihu.com/p/19724078)
 - `2013-05-19` [小而分散的团队如何远程协作](http://www.geekpark.net/topics/179496)
 - `2013-03-29` [在家远程工作的体验和总结(为什么我决定更多的在家办公)](http://www.vaikan.com/why-i-decided-to-spend-more-time-working-from-home/)
-- `2013-02-28` [成为一名远程工作者--远程工作者万岁](http://blogs.msdn.com/b/scott_hanselman/archive/2013/02/28/10398083.aspx)
+- `2013-02-28` [成为一名远程工作者--远程工作者万岁](https://blogs.msdn.microsoft.com/b/scott_hanselman/archive/2013/02/28/10398083.aspx)
 - `2013-02-02` [StackOverflow 使用的远程工作方式对于国内的互联网创业公司有多大的可行性？](http://www.zhihu.com/question/20759108)
 
 #### 2012年
@@ -131,7 +131,7 @@
 #### 2011年
 
 - `2011-12-12` [旅行，写作，编程](http://www.vaikan.com/traveling-writing-programming/)
-- `2011-06-15` [英伦随笔：通勤如噩梦？](http://www.bbc.co.uk/ukchina/simp/uk_life/on_britain/110615_suping_big_city_traffic.shtml)
+- `2011-06-15` [英伦随笔：通勤如噩梦？](http://www.bbc.com/ukchina/simp/uk_life/on_britain/110615_suping_big_city_traffic.shtml)
 
 [⬆︎返回目录](#toc)
 
@@ -140,14 +140,14 @@
 - `2017-02-23` [比特新声 #133 我很小的时候就穿女装了](https://banlan.show/bitvoice/133)
 - `2016-09-22` [Remote Working: What, Why And How?](http://mikemcquaid.com/talks/remote-working-what-why-how/)
 - `2016-06-11` [Teahour #85 这次我们聊聊远程工作](http://teahour.fm/2016/06/11/all-about-remote-working.html)
-- `2016-01-09` [中国程序员能不能远程工作？](http://v.qq.com/x/page/b0180ahqmw4.html)
+- `2016-01-09` [中国程序员能不能远程工作？](https://v.qq.com/x/page/b0180ahqmw4.html)
 - `2015-01-28` [Tower团队24个月的远程协作实践](http://www.infoq.com/cn/presentations/tower-team-24-months-remote-collaborative-practice)
 - `2015-01-13` [How We Work Across Time Zones at Buffer](https://www.youtube.com/watch?v=TwOD0lAgTbo)
 - `2014-11-25` [Teahour #72 自由的思考：远程工作者的成长之路](http://teahour.fm/2014/11/25/thoughts-about-remote-life.html)
-- `2014-05-09` [#hangops remote working: "the good, the bad, and the timezones"](http://www.youtube.com/watch?v=xMxQRUrbttY&feature=youtu.be)
+- `2014-05-09` [#hangops remote working: "the good, the bad, and the timezones"](https://www.youtube.com/watch?v=xMxQRUrbttY&feature=youtu.be)
 - `2013-10-22` [37signals 远程工作介绍](http://v.youku.com/v_show/id_XNjI1MzQzNTg0.html)
 - `2013-10-21` [Teahour #35 和魏伦谈远程团队和远程工作](http://teahour.fm/2013/10/21/talking-remote-work-with-allen-wei.html)
-- `2010-11-24` [Jason Fried: Why work doesn't happen at work](http://www.youtube.com/watch?feature=player_embedded&v=5XD2kNopsUs)
+- `2010-11-24` [Jason Fried: Why work doesn't happen at work](https://www.youtube.com/watch?feature=player_embedded&v=5XD2kNopsUs)
 
 [⬆︎返回目录](#toc)
 
@@ -168,10 +168,10 @@
 
 ## <a name="books"></a>书籍
 
-- [Remote - Office Not Required](http://37signals.com/remote) - [购买](http://www.amazon.com/Remote-Office-Not-Required/dp/0804137501)
-- [Remote - Office Not Required 中文译本](http://jianshu.io/notebooks/41672/latest) 发布在简书上的译本
-- [The Ultimate Guide to Remote Work](https://zapier.com/learn/the-ultimate-guide-to-remote-working/) - Zapier 的远程工作实践
-- [The Ultimate Guide To Getting Started Freelancing](http://skillcrush.com/2015/05/28/ultimate-guide-to-freelancing/) - 一份不错的转型为自由职业者的指南
+- [Remote - Office Not Required](http://37signals.com/remote) - [购买](https://www.amazon.com/Remote-Office-Not-Required/dp/0804137501)
+- [Remote - Office Not Required 中文译本](http://www.jianshu.com/notebooks/41672/latest) 发布在简书上的译本
+- [The Ultimate Guide to Remote Work](https://zapier.com/learn/remote-work/) - Zapier 的远程工作实践
+- [The Ultimate Guide To Getting Started Freelancing](https://skillcrush.com/2015/05/28/ultimate-guide-to-freelancing/) - 一份不错的转型为自由职业者的指南
 - [自由职业设计师工作手册](https://book.douban.com/subject/5364376/) - 面向设计师的自由职业指南（对所有自由职业者都有很多借鉴作用）
 - [How to Find Your Dream Remote Job](https://remotive.typeform.com/to/RumqJ1)
 
@@ -188,7 +188,7 @@
 项目协作
 
  - [Trello](https://trello.com/) - 轻量级团队流程协作和列表管理平台
- - [Tower.im](https://tower.im/) - 简单，好用的团队协作工具
+ - [Tower.im](https://hk.tower.im/) - 简单，好用的团队协作工具
  - [风车](https://fengche.co/) - 简单高效的团队协作工具（原 Pragmatic.ly）
  - [Productivee](https://www.producteev.com/) - 和风车风格类似的团队协作工具
  - [Teambiton](https://www.teambition.com/) - 类 Trello 的简单高效的项目协作工具
@@ -242,7 +242,7 @@
 - [英选](https://www.linktion.cn/ )
 - [程序员客栈](https://www.proginn.com/)
 - [厘米脚印](http://www.limijiaoyin.com/)
-- [实现网](http://shixian.com/)
+- [实现网](https://shixian.com/)
 - [小圆桌](http://xiaoyuanzhuo.com/)
 - [自由人](http://www.freemancn.com/)
 - [有轻功](http://www.youqinggong.com/)
@@ -254,12 +254,12 @@
 
 - [DeepDevelop](http://deepdevelop.com/)
 - [风车团队](https://fengcheco.com/about)
-- [彩程设计](https://tower.im/about_us)
+- [彩程设计](https://hk.tower.im/about_us)
 - [Thus 如是设计](http://thus.in/)
 - [杭州天车团队](https://ruby-china.org/tianche)
 - [手工客](http://www.sogoke.com/)
 - [艾迪福克斯](https://www.v2ex.com/t/344933)
-- [七牛](http://career.qiniu.com/aboutus.html)
+- [七牛](http://career.qiniu.com/about)
 - [橙陌科技](https://www.cmcm.us/)
 - [风泽科技](http://www.fenzotech.com/)
 - [百分之八十](https://www.80percent.io/)
@@ -270,7 +270,7 @@
 - [Strikingly](https://www.strikingly.com/)
 - [Zine](https://zine.la/)
 - [数码荔枝](https://www.lizhi.io)
-- [Protobia Tech](http://www.protobia.net/)
+- [Protobia Tech](https://www.protobia.net/)
 - [Techbay](http://www.techbay.club/)
 
 [⬆︎返回目录](#toc)
@@ -280,7 +280,7 @@
 - [朝露](http://www.littledew.com/) - 自由工作生涯的探索之路
 - [中囯远程工作者周刊](https://github.com/greatghoul/remote-weekly) - 由一早一晚社区发起的汇集远程工作资料的电子周刊，倾向于国内的资源。（已经停更）
 - [国内又有了新的远程工作机会](http://m.ruguoapp.com/topics/58a12fe772a4680014bdee24) - 一个**即刻的提醒
-- [Nomad List](https://nomadlist.io/) - 最适宜生活和远程工作的城市排名，对比了生活成本，气候，网速等因素
+- [Nomad List](https://nomadlist.com/) - 最适宜生活和远程工作的城市排名，对比了生活成本，气候，网速等因素
 - [Amazing Home Offices](https://www.pinterest.com/workshifting/amazing-home-offices/) - 如果布置自己家里的办公环境，这里有很多参考
 - [remote-china](https://remote-china.tech) - 寻找中国最酷的远程工作
 
