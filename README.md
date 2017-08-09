@@ -86,6 +86,7 @@
 - `2014-07-30` [作为独立开发者，有哪些可以分享的经验？](https://www.zhihu.com/question/24667846)
 - `2014-06-16` [远程工作，万里之外皆同事](http://www.jianshu.com/p/6bccfde32ed8)
 - `2014-06-11` [远程工作（Remote working works）](http://www.infoq.com/cn/articles/remote-working-works)
+- `2014-05-22` [初创团队如何搭建远程工作环境？](https://www.zhihu.com/question/23872683)
 - `2014-04-23` [SOHO 家里办公的体验](http://yafeilee.me/blogs/60)
 - `2014-04-14` [我如何把薪水从 50人民币/天 提升到 100美元/小时的 (4)](http://terrytai.me/salary-from-50rmb-to100usd-4/)
 - `2014-04-15` [你的公司开始远程办公了没? 谈谈它](https://ruby-china.org/topics/18625)
