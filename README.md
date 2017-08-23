@@ -29,6 +29,7 @@
 
 #### 2017年
 
+- `2017-07-21` [年纪越大写代码越慢](https://www.v2ex.com/t/384472)
 - `2017-08-16` [4个月的远程经验分享 奶爸的远程工作之路](http://yizaoyiwan.com/discussions/1398)
 - `2017-07-12` [自由职业 -> 硅谷初创-上海团队的全职工作](https://zhuanlan.zhihu.com/p/27830954)
 - `2017-07-10` [如何成为一位远程开发者](http://gitbook.cn/books/5952f77b94b141525e125cba/index.html)
