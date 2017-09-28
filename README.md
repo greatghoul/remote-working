@@ -29,6 +29,7 @@
 
 #### 2017年
 
+- `2017-09-27` [自由职业的利与弊](http://yizaoyiwan.com/discussions/1450)
 - `2017-08-19` [孤独狩猎——选择自由职业的年轻人们](https://www.douban.com/note/633805058/)
 - `2017-07-21` [年纪越大写代码越慢](https://www.v2ex.com/t/384472)
 - `2017-08-16` [4个月的远程经验分享 奶爸的远程工作之路](http://yizaoyiwan.com/discussions/1398)
