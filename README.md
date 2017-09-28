@@ -249,6 +249,7 @@
 - [朝露](http://www.littledew.com/) - 自由工作生涯的探索之路
 - [Jarodise | 数字游民部落](https://jarodise.com/) - 一个以数字游民（Digital Nomad)生活方式，Lifestyle Design方法论和环球旅行为主题的中文博客。
 - [sideidea独立黑客](https://xiaozhuanlan.com/sideidea) - 采访独立开发者和远程工作者做产品盈利的故事。
+- [Remote and Rich](https://zhuanlan.zhihu.com/remoteandrich) - 关于边工作边环游世界的探讨和追逐。
 
 [⬆︎返回目录](#toc)
 
