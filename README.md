@@ -20,6 +20,7 @@
 - [工具和服务](#tools)
 - [招聘网站](#jobs)
 - [交流社区](#forum)
+- [博客媒体](#blogs)
 - [外包平台](#outsource)
 - [远程团队](#teams)
 - [其它资源](#others)
@@ -31,8 +32,8 @@
 
 - `2017-09-27` [自由职业的利与弊](http://yizaoyiwan.com/discussions/1450)
 - `2017-08-19` [孤独狩猎——选择自由职业的年轻人们](https://www.douban.com/note/633805058/)
-- `2017-07-21` [年纪越大写代码越慢](https://www.v2ex.com/t/384472)
 - `2017-08-16` [4个月的远程经验分享 奶爸的远程工作之路](http://yizaoyiwan.com/discussions/1398)
+- `2017-07-21` [年纪越大写代码越慢](https://www.v2ex.com/t/384472)
 - `2017-07-12` [自由职业 -> 硅谷初创-上海团队的全职工作](https://zhuanlan.zhihu.com/p/27830954)
 - `2017-07-10` [如何成为一位远程开发者](http://gitbook.cn/books/5952f77b94b141525e125cba/index.html)
 - `2017-04-17` [远程工作的7大挑战](https://www.lizhi.io/blog/7-Biggest-Remote-Work-Challenges/)
@@ -243,6 +244,12 @@
 - [远程工作党豆瓣小组](https://www.douban.com/group/freejobs/)
 - [V2MM](https://v2mm.tech/)
 
+## <a name="blogs"></a>博客媒体
+
+- [朝露](http://www.littledew.com/) - 自由工作生涯的探索之路
+- [Jarodise | 数字游民部落](https://jarodise.com/) - 一个以数字游民（Digital Nomad)生活方式，Lifestyle Design方法论和环球旅行为主题的中文博客。
+- [sideidea独立黑客](https://xiaozhuanlan.com/sideidea) - 采访独立开发者和远程工作者做产品盈利的故事。
+
 [⬆︎返回目录](#toc)
 
 ## <a name="outsource"></a>外包平台
@@ -288,7 +295,6 @@
 
 ## <a name="others"></a>其它资源
 
-- [朝露](http://www.littledew.com/) - 自由工作生涯的探索之路
 - [中囯远程工作者周刊](https://github.com/greatghoul/remote-weekly) - 由一早一晚社区发起的汇集远程工作资料的电子周刊，倾向于国内的资源。（已经停更）
 - [国内又有了新的远程工作机会](http://m.ruguoapp.com/topics/58a12fe772a4680014bdee24) - 一个**即刻的提醒
 - [Nomad List](https://nomadlist.io/) - 最适宜生活和远程工作的城市排名，对比了生活成本，气候，网速等因素
