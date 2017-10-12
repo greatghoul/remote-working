@@ -2,13 +2,7 @@
 
 [![Build Status](https://travis-ci.org/greatghoul/remote-working.svg?branch=master)](https://travis-ci.org/greatghoul/remote-working)
 
-收集整理国内远程工作相关的资源，以国内的资源为主，之前收录的外文资源会逐渐清除，如果比较关心国外的资源，可以关注 [Pinterest Board: Remote Working](https://www.pinterest.com/greatghoul/remote-working/)，或者[其他人整理的列表](#其它列表)，要参与远程工作的讨论，可以访问[一早一晚社区](http://yizaoyiwan.com/)
-
-开通了一个订阅号用于分享远程工作相关的资源，感兴趣的可以关注一下：远程工作者
-
-<img src="http://greatghoul.b0.upaiyun.com/1702/wNjmi1wnesOe.jpeg" width="128" height="128" />
-
-订阅号中推荐过的资源一般也会整理在本列表里面。
+收集整理国内远程工作相关的资源，如果比较关心国外的资源，可以看看[其他人整理的列表](#其它列表)。
 
 ## <a name="toc"></a>目录：
 
@@ -251,6 +245,7 @@
 - [Jarodise | 数字游民部落](https://jarodise.com/) - 一个以数字游民（Digital Nomad)生活方式，Lifestyle Design方法论和环球旅行为主题的中文博客。
 - [sideidea独立黑客](https://xiaozhuanlan.com/sideidea) - 采访独立开发者和远程工作者做产品盈利的故事。
 - [Remote and Rich](https://zhuanlan.zhihu.com/remoteandrich) - 关于边工作边环游世界的探讨和追逐。
+- [Telegram 频道：中国远程工作资讯](https://t.me/remote_cn)
 
 [⬆︎返回目录](#toc)
 
