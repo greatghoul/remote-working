@@ -29,6 +29,8 @@
 
 #### 2017年
 
+- `2017-10-13` [TED 团队告诉你：如何突破远程办公的局限](https://weibo.com/ttarticle/p/show?id=2309404129081133260111)
+- `2017-10-13` [换城市不换工作，如何向公司申请调往分部？](http://news.mbalib.com/story/239800)
 - `2017-10-13` [Hello, World！我的房车编程生活，已经 150 天了](http://blog.jobbole.com/112606/)
 - `2017-10-13` [自由难得请珍惜，3招摆脱在家办公的“小确丧”](http://posts.careerengine.us/p/59e0031073e5f36c51a90603?from=latest-posts-panel&type=title)
 - `2017-10-07` [在家工作时怎样能保持效率？这里有一份简单的指南](http://www.qdaily.com/articles/45761.html)
