@@ -38,6 +38,7 @@
 - `2017-08-19` [孤独狩猎——选择自由职业的年轻人们](https://www.douban.com/note/633805058/)
 - `2017-08-16` [4个月的远程经验分享 奶爸的远程工作之路](http://yizaoyiwan.com/discussions/1398)
 - `2017-07-21` [年纪越大写代码越慢](https://www.v2ex.com/t/384472)
+- `2017-07-13` [TED 团队告诉你：如何突破远程办公的局限](https://weibo.com/ttarticle/p/show?id=2309404129081133260111)
 - `2017-07-12` [自由职业 -> 硅谷初创-上海团队的全职工作](https://zhuanlan.zhihu.com/p/27830954)
 - `2017-07-10` [如何成为一位远程开发者](http://gitbook.cn/books/5952f77b94b141525e125cba/index.html)
 - `2017-04-17` [远程工作的7大挑战](https://www.lizhi.io/blog/7-Biggest-Remote-Work-Challenges/)
@@ -76,6 +77,7 @@
 
 - `2015-12-21` [提升远程团队战斗力的 11 种方法](http://tech2ipo.com/10026456)
 - `2015-12-13` [创业团队不需要office，大家都远程工作，are you fxxx kidding me?](http://www.yizaoyiwan.com/discussions/623)
+- `2015-10-15` [不想去办公室？设计师远程工作必读指南！](http://www.uisdc.com/freelancer-remote-work-guideline#)
 - `2015-10-10` [现在有公司要远程工作的员工么？](https://ruby-china.org/topics/27614)
 - `2015-08-20` [说说我对不同独立开发者接单渠道的体验](http://yizaoyiwan.com/discussion/491/)
 - `2015-08-09` [如何使自由职业者有全职工作](http://blog.techbay.club/post/ru-he-shi-zi-you-zhi-ye-zhe-you-quan-zhi-gong-zuo)
