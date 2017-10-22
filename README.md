@@ -1,7 +1,5 @@
 # 远程工作资料
 
-[![Build Status](https://travis-ci.org/greatghoul/remote-working.svg?branch=master)](https://travis-ci.org/greatghoul/remote-working)
-
 收集整理国内远程工作相关的资源，如果比较关心国外的资源，可以看看[其他人整理的列表](#其它列表)。
 
 > 放弃了之前的微信公众号，转移到 Telegram 频道上来了，欢迎订阅。
