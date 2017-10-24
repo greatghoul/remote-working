@@ -27,6 +27,7 @@
 
 #### 2017年
 
+- `2017-10-24` [在 Stack Overflow 远程办公是什么体验？](https://zhuanlan.zhihu.com/p/30391199)
 - `2017-10-19` [如何成功发挥远程工作价值？信任和机会平等缺一不可](http://36kr.com/p/5097277.html)
 - `2017-10-13` [TED 团队告诉你：如何突破远程办公的局限](https://weibo.com/ttarticle/p/show?id=2309404129081133260111)
 - `2017-10-13` [换城市不换工作，如何向公司申请调往分部？](http://news.mbalib.com/story/239800)
