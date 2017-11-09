@@ -27,6 +27,7 @@
 
 #### 2017年
 
+- `2017-11-04` [远程协作办公](https://vinurs.me/2017/11/04/telecommuting-work/)
 - `2017-10-24` [在 Stack Overflow 远程办公是什么体验？](https://zhuanlan.zhihu.com/p/30391199)
 - `2017-10-19` [如何成功发挥远程工作价值？信任和机会平等缺一不可](http://36kr.com/p/5097277.html)
 - `2017-10-13` [TED 团队告诉你：如何突破远程办公的局限](https://weibo.com/ttarticle/p/show?id=2309404129081133260111)
