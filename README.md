@@ -230,6 +230,7 @@
 - [SegmentFault 招聘](https://segmentfault.com/jobs/search?remote=1) - SegmentFault 的招聘版块中支持按远程筛选
 - [七星远程](http://www.remotejob.cn/) - 远程工作招聘信息的聚合网站
 - [远程.work](http://yuancheng.work/) - 远程工作招聘信息的聚合网站
+- [Indeed | 远程](https://cn.indeed.com/%E5%B7%A5%E4%BD%9C-%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC) - Indeed 远程办公版块，可以找到一些非研发类的远程工作
 - [We Work Remotely](https://weworkremotely.com/) - 寻找或者发布远程工作机会
 - [Stackoverflow Careers](https://stackoverflow.com/jobs/remote-developer-jobs) - Stackoverflow 的招聘频道，提供专门的过滤项来检索远程职位
 - [Work from Home](https://www.wfh.io/) - 国外一个发布远程招聘帖的网站，比较特色的是它会列出支持远程工作的公司列表。
