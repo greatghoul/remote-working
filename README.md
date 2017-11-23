@@ -43,6 +43,7 @@
 - `2017-07-13` [TED 团队告诉你：如何突破远程办公的局限](https://weibo.com/ttarticle/p/show?id=2309404129081133260111)
 - `2017-07-12` [自由职业 -> 硅谷初创-上海团队的全职工作](https://zhuanlan.zhihu.com/p/27830954)
 - `2017-07-10` [如何成为一位远程开发者](http://gitbook.cn/books/5952f77b94b141525e125cba/index.html)
+- `2017-07-07` [远程办公两年的体会](https://www.yuanmas.com/info/4py2j0lNyb.html)
 - `2017-04-17` [远程工作的7大挑战](https://www.lizhi.io/blog/7-Biggest-Remote-Work-Challenges/)
 - `2017-03-27` [Tower 团队 48 个月远程实践](https://zhuanlan.zhihu.com/p/26031654)
 - `2017-03-21` [如何在分布式团队实现敏捷](http://www.infoq.com/cn/articles/be-agile-distributed-teams)
