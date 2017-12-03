@@ -27,6 +27,7 @@
 
 #### 2017年
 
+- `2017-11-29` [新趋势：远程办公正在失宠](https://www.ljsw.io/dedao/2017-11-29/iE.html)
 - `2017-11-15` [要挖掘隐藏的人才，你需要建立远程办公机制](http://www.cplus.cc/create/news/info/id/20171115163258eff05e125a604bacb1.shtml)
 - `2017-11-04` [远程协作办公](https://vinurs.me/2017/11/04/telecommuting-work/)
 - `2017-10-24` [在 Stack Overflow 远程办公是什么体验？](https://zhuanlan.zhihu.com/p/30391199)
