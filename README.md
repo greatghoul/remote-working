@@ -60,6 +60,7 @@
 - `2016-12-20` [为什么上班和下班已经过时](https://ruanyf.github.io/survivor/collapse/remote-work.html)
 - `2016-12-19` [做技术的，如何找到一个远程办公的工作？](https://www.zhihu.com/question/52118159/answer/136558447)
 - `2016-11-20` [2016 年年度总结-远程工作一年半后](http://yizaoyiwan.com/discussions/1064)
+- `2016-09-18` [作为程序员从自由职业到远程工作三年记](http://yanjunyi.com/blog/posts/freelance-3-years)
 - `2016-09-11` [一年多远程工作带给我的感悟](http://www.jianshu.com/p/971e380f60ab)
 - `2016-09-07` [9 个城市的远程协作办公，如何让 15 人团队整体创收过千万？](http://www.jianshu.com/p/348c6397c98a)
 - `2016-08-25` [从自由到自律，一个远程工作者的自述](https://www.v2ex.com/t/301743)
@@ -69,6 +70,7 @@
 - `2016-07-04` [细数那些适合自由工作的职业技能（二）](http://www.littledew.com/2609)
 - `2016-07-01` [细数那些适合自由工作的职业技能（一）](http://www.littledew.com/2602)
 - `2016-07-01` [远程协作开发，你能驾驭么？](http://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=2650712459&idx=1&sn=5843a04a5a585f67fe6ff8f9b3c039a5#wechat_redirect)
+- `2016-06-30` [社区访谈：自由职业者与远程工作那些事](https://github.com/yncoder/yncoder.github.io/issues/27)
 - `2016-06-26` [自由软件开发者的十点注意事项](https://blog.ashchan.com/archive/2016/06/26/ten-things-freelancer-should-know/)
 - `2016-06-10` [为什么国内公司远程办公发展滞后？](https://www.zhihu.com/question/47284405)
 - `2016-06-10` [自由职业者们，请留意自己的心理和精神健康](http://www.littledew.com/2551)
@@ -83,6 +85,7 @@
 
 - `2015-12-21` [提升远程团队战斗力的 11 种方法](http://tech2ipo.com/10026456)
 - `2015-12-13` [创业团队不需要office，大家都远程工作，are you fxxx kidding me?](http://www.yizaoyiwan.com/discussions/623)
+- `2015-10-28` [严俊羿 | 自由是最大的向往](http://yizaoyiwan.com/stories/6)
 - `2015-10-15` [不想去办公室？设计师远程工作必读指南！](http://www.uisdc.com/freelancer-remote-work-guideline#)
 - `2015-10-10` [现在有公司要远程工作的员工么？](https://ruby-china.org/topics/27614)
 - `2015-08-20` [说说我对不同独立开发者接单渠道的体验](http://yizaoyiwan.com/discussion/491/)
