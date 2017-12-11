@@ -60,6 +60,7 @@
 - `2016-12-20` [为什么上班和下班已经过时](https://ruanyf.github.io/survivor/collapse/remote-work.html)
 - `2016-12-19` [做技术的，如何找到一个远程办公的工作？](https://www.zhihu.com/question/52118159/answer/136558447)
 - `2016-11-20` [2016 年年度总结-远程工作一年半后](http://yizaoyiwan.com/discussions/1064)
+- `2016-11-03` [做一个自由职业者是怎样一番体验？](https://zhuanlan.zhihu.com/p/23350767)
 - `2016-09-24` [未来，在家工作在什么时候可以普及？](https://www.zhihu.com/question/50965940)
 - `2016-09-18` [作为程序员从自由职业到远程工作三年记](http://yanjunyi.com/blog/posts/freelance-3-years)
 - `2016-09-11` [一年多远程工作带给我的感悟](http://www.jianshu.com/p/971e380f60ab)
