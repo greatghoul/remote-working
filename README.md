@@ -42,6 +42,7 @@
 - `2017-10-13` [自由难得请珍惜，3招摆脱在家办公的“小确丧”](http://posts.careerengine.us/p/59e0031073e5f36c51a90603?from=latest-posts-panel&type=title)
 - `2017-10-07` [在家工作时怎样能保持效率？这里有一份简单的指南](http://www.qdaily.com/articles/45761.html)
 - `2017-09-27` [自由职业的利与弊](http://yizaoyiwan.com/discussions/1450)
+- `2017-09-11` [远程办公 当梦想成为现实](http://paper.people.com.cn/rmrbhwb/html/2017-09/11/content_1804329.htm)
 - `2017-08-19` [孤独狩猎——选择自由职业的年轻人们](https://www.douban.com/note/633805058/)
 - `2017-08-16` [4个月的远程经验分享 奶爸的远程工作之路](http://yizaoyiwan.com/discussions/1398)
 - `2017-07-21` [年纪越大写代码越慢](https://www.v2ex.com/t/384472)
