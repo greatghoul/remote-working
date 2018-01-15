@@ -1,11 +1,21 @@
-# 远程工作资料
 
-收集整理国内远程工作相关的资源，如果比较关心国外的资源，可以看看[其他人整理的列表](#其它列表)。
+<p align="center">
+  <img src="https://github.com/greatghoul/remote-working/blob/master/assets/icon.png?raw=true" width="86" height="86" />
+  <h3 align="center">中国远程工作资讯</h3>
+</p>
 
-> 放弃了之前的微信公众号，转移到 Telegram 频道上来了，欢迎订阅。
->
-> **中国远程工作资讯** - https://t.me/remote_cn  
-> 分享国内远程工作相关的文章、讨论和工作机会等。
+收集整理国内远程工作相关的资源，如果比较关心国外的资源，可以看看[其他人整理的列表](#其它列表)。一些时效性的资源（比如工作机会），我会在下面的渠道更新，欢迎关注。
+
+**Telegram 频道**  
+https://t.me/remote_cn
+
+**微信公众平台**  
+搜索微信公众号 `remote-cn`，或者扫码关注  
+<img src="https://github.com/greatghoul/remote-working/blob/master/assets/qrcode-wechat.jpg?raw=true" alt="" width="86" height="86">
+
+最后，如果你觉得我整理的资料对你有帮助，[欢迎赞赏](https://github.com/greatghoul/remote-working/blob/master/assets/support.jpeg)。
+
+-----
 
 ## <a name="toc"></a>目录：
 
