@@ -352,5 +352,6 @@ https://t.me/remote_cn
 - [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources.
 - [RemoteWork](https://github.com/fjbelchi/RemoteWork) - Useful information for remote workers
 - [remote-jobs](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
+- [NODESK](https://nodesk.co/) - A curated collection of resources for the digital nomad, remote worker and traveling professional.
 
 [⬆︎返回目录](#toc)
