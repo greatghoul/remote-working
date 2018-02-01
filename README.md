@@ -178,6 +178,7 @@ https://t.me/remote_cn
 
 ## <a name="medias"></a>影音资料
 
+- `2018-01-30` [不一·FM Vol. 02 吴博：用户遍布世界的自由 Web 设计师](https://www.lizhi.fm/49020635/2650025155245500422)
 - `2017-02-23` [比特新声 #133 我很小的时候就穿女装了](https://banlan.show/bitvoice/133)
 - `2016-09-22` [Remote Working: What, Why And How?](http://mikemcquaid.com/talks/remote-working-what-why-how/)
 - `2016-06-11` [Teahour #85 这次我们聊聊远程工作](http://teahour.fm/2016/06/11/all-about-remote-working.html)
