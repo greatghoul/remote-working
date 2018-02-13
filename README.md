@@ -38,6 +38,7 @@ https://t.me/remote_cn
 #### 2018年
 
 - `2018-02-10` [自由职业第二年，迷茫之上，蒙逼未满](http://yizaoyiwan.com/discussions/1585)
+- `2018-02-03` [远程二三事](https://medium.com/@vorya/%E8%BF%9C%E7%A8%8B%E4%BA%8C%E4%B8%89%E4%BA%8B-8a33a7f69091)
 - `2018-01-04` [远程工作看起来理想，但其实有些压力你可能不会想到](https://www.qdaily.com/articles/48777.html)
 
 #### 2017年
