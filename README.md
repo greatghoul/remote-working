@@ -37,6 +37,7 @@ https://t.me/remote_cn
 
 #### 2018年
 
+- `2018-02-22` [远程与职场性别“歧视”](https://zhuanlan.zhihu.com/p/33933314?group_id=950149420143042560)
 - `2018-02-10` [自由职业第二年，迷茫之上，蒙逼未满](http://yizaoyiwan.com/discussions/1585)
 - `2018-02-03` [远程二三事](https://medium.com/@vorya/%E8%BF%9C%E7%A8%8B%E4%BA%8C%E4%B8%89%E4%BA%8B-8a33a7f69091)
 - `2018-01-04` [远程工作看起来理想，但其实有些压力你可能不会想到](https://www.qdaily.com/articles/48777.html)
@@ -110,6 +111,7 @@ https://t.me/remote_cn
 - `2015-10-15` [不想去办公室？设计师远程工作必读指南！](http://www.uisdc.com/freelancer-remote-work-guideline#)
 - `2015-10-10` [现在有公司要远程工作的员工么？](https://ruby-china.org/topics/27614)
 - `2015-08-20` [说说我对不同独立开发者接单渠道的体验](http://yizaoyiwan.com/discussion/491/)
+- `2015-10-09` [小宁关于SOHO的经验总结](https://mp.weixin.qq.com/s?__biz=MzAwMTI2MDA4MQ==&mid=210579167&idx=1&sn=96fc70685a44c7466a99e095f5727042&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
 - `2015-08-09` [如何使自由职业者有全职工作](http://blog.techbay.club/post/ru-he-shi-zi-you-zhi-ye-zhe-you-quan-zhi-gong-zuo)
 - `2015-08-07` [再出发](http://yizaoyiwan.com/discussion/481/)
 - `2015-08-03` [一个远程外包自由职业者的经历和经验](http://yizaoyiwan.com/discussion/474/)
