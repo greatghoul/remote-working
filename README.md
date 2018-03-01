@@ -311,16 +311,17 @@ https://t.me/remote_cn
 
 ## <a name="teams"></a>远程团队
 
+- [艾迪福克斯](https://www.v2ex.com/t/344933)
+- [北京盛安德](http://www.shinetechsoftware.com/) ([ref](https://www.v2ex.com/t/432718))
+- [彩程设计](https://tower.im/about_us)
 - [DeepDevelop](http://deepdevelop.com/)
 - [风车团队](https://fengcheco.com/about)
-- [彩程设计](https://tower.im/about_us)
+- [风泽科技](http://www.fenzotech.com/)
 - [Thus 如是设计](http://thus.in/)
 - [杭州天车团队](https://ruby-china.org/tianche)
 - [手工客](http://www.sogoke.com/)
-- [艾迪福克斯](https://www.v2ex.com/t/344933)
 - [七牛](http://career.qiniu.com/aboutus.html)
 - [橙陌科技](https://www.cmcm.us/)
-- [风泽科技](http://www.fenzotech.com/)
 - [百分之八十](https://www.80percent.io/)
 - [优帆远扬](https://yousails.com/)
 - [墨刀](https://modao.cc/)
