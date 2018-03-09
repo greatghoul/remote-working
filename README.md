@@ -311,33 +311,38 @@ https://t.me/remote_cn
 
 ## <a name="teams"></a>远程团队
 
+中国国内或者面向中国招聘的国外团队，这些团队有的是全员远程，有的是部分远程，还有的是允许部分时间远程，因为状态可能随着时间的变化，所以这里不具体标明。
+
+团队后面的 `ref` 链接为过往某个招聘记录，方便大家参考。
+
 - [艾迪福克斯](https://www.v2ex.com/t/344933)
 - [北京盛安德](http://www.shinetechsoftware.com/) ([ref](https://www.v2ex.com/t/432718))
+- [百分之八十](https://www.80percent.io/)
 - [彩程设计](https://tower.im/about_us)
+- [橙陌科技](https://www.cmcm.us/)
+- [CuriosityChina](https://curiositychina.com/)
 - [DeepDevelop](http://deepdevelop.com/)
 - [风车团队](https://fengcheco.com/about)
 - [风泽科技](http://www.fenzotech.com/)
-- [Thus 如是设计](http://thus.in/)
+- [杭州巴比特](http://www.8btc.com/) ([ref](https://ruby-china.org/topics/34882))
 - [杭州天车团队](https://ruby-china.org/tianche)
-- [手工客](http://www.sogoke.com/)
+- [Integem](http://integem.com/) ([ref](https://www.v2ex.com/t/434444))
 - [七牛](http://career.qiniu.com/aboutus.html)
-- [橙陌科技](https://www.cmcm.us/)
-- [百分之八十](https://www.80percent.io/)
-- [优帆远扬](https://yousails.com/)
 - [墨刀](https://modao.cc/)
 - [牛男网](https://www.neonan.com/)
 - [简单心理](http://www.jiandanxinli.com/)
-- [Strikingly](https://www.strikingly.com/)
-- [Zine](https://zine.la/)
-- [数码荔枝](https://www.lizhi.io)
-- [ProtobiaTech](http://www.protobia.net/)
-- [Techbay](http://www.techbay.club/)
 - [锦匣科技](https://www.iiobox.com/)
-- [CuriosityChina](https://curiositychina.com/)
+- [ProtobiaTech](http://www.protobia.net/)
 - [ROGUE](http://www.rogue.group/)
 - [RussellCloud](http://russellcloud.com/) ([ref](https://www.v2ex.com/t/434914))
+- [Strikingly](https://www.strikingly.com/)
 - [上海多阔 DOKO](https://www.doko.com/) ([ref](https://job.oschina.net/position/13523_165425_32018))
-- [杭州巴比特](http://www.8btc.com/) ([ref](https://ruby-china.org/topics/34882))
+- [手工客](http://www.sogoke.com/)
+- [数码荔枝](https://www.lizhi.io)
+- [Techbay](http://www.techbay.club/)
+- [Thus 如是设计](http://thus.in/)
+- [优帆远扬](https://yousails.com/)
+- [Zine](https://zine.la/)
 
 [⬆︎返回目录](#toc)
 
