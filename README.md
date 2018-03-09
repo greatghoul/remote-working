@@ -335,6 +335,7 @@ https://t.me/remote_cn
 - [锦匣科技](https://www.iiobox.com/)
 - [CuriosityChina](https://curiositychina.com/)
 - [ROGUE](http://www.rogue.group/)
+- [RussellCloud](http://russellcloud.com/) ([ref](https://www.v2ex.com/t/434914))
 - [上海多阔 DOKO](https://www.doko.com/) ([ref](https://job.oschina.net/position/13523_165425_32018))
 - [杭州巴比特](http://www.8btc.com/) ([ref](https://ruby-china.org/topics/34882))
 
