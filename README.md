@@ -37,6 +37,7 @@ https://t.me/remote_cn
 
 #### 2018年
 
+- `2018-03-07` [9个关于远程工作的事实和谣言](https://nozbe.com/zh-cn/blog/remote-work-facts-myths/)
 - `2018-02-22` [远程与职场性别“歧视”](https://zhuanlan.zhihu.com/p/33933314?group_id=950149420143042560)
 - `2018-02-10` [自由职业第二年，迷茫之上，蒙逼未满](http://yizaoyiwan.com/discussions/1585)
 - `2018-02-07` [中年猿远程办公半月记](https://www.v2ex.com/t/429129)
