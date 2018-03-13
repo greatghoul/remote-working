@@ -49,6 +49,7 @@ https://t.me/remote_cn
 
 - `2017-12-15` [2018年38种自由职业大盘点](http://www.wocation.cc/2017/12/15/123/)
 - `2017-12-11` [远程两年之后，工作生活小结](https://zhuanlan.zhihu.com/p/31884972)
+- `2017-12-01` [为什么越来越多的创业公司选择远程工作？](https://news.cnblogs.com/n/583905/)
 - `2017-11-30` [一些自由职业的观点](http://yizaoyiwan.com/discussions/1515)
 - `2017-11-29` [新趋势：远程办公正在失宠](https://www.ljsw.io/dedao/2017-11-29/iE.html)
 - `2017-11-27` [人生逆天技能：如何扭曲主观时空，一辈子活成 N 辈子？](https://www.xiaohui.com/weekly/another-life.htm)
