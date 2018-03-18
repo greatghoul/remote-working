@@ -148,6 +148,7 @@ https://t.me/remote_cn
 - `2014-02-06` [工作也旅行 - 跨洋远程面试](https://ruby-china.org/topics/17092)
 - `2014-01-26` [工作也旅行 - 工作机会](https://ruby-china.org/topics/17008)
 - `2014-01-23` [工作也旅行 - 预告](https://ruby-china.org/topics/16944)
+- `2014-01-19` [对自由职业而言，自己交社保和找代理挂靠社保相比哪个更划算？](https://www.zhihu.com/question/22557823)
 - `2014-01-02` [在家工作，10招助你效率、生活两不误](http://www.36kr.com/p/209230.html)
 
 #### 2013年
