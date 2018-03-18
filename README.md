@@ -324,6 +324,7 @@ https://t.me/remote_cn
 团队后面的 `ref` 链接为过往某个招聘记录，方便大家参考。
 
 - [艾迪福克斯](https://www.v2ex.com/t/344933)
+- [Arousal](https://www.arousal.io/) ([ref](http://yizaoyiwan.com/discussions/1580))
 - [北京盛安德](http://www.shinetechsoftware.com/) ([ref](https://www.v2ex.com/t/432718))
 - [百分之八十](https://www.80percent.io/)
 - [彩程设计](https://tower.im/about_us)
@@ -337,6 +338,7 @@ https://t.me/remote_cn
 - [Integem](http://integem.com/) ([ref](https://www.v2ex.com/t/434444))
 - [七牛](http://career.qiniu.com/aboutus.html)
 - [墨刀](https://modao.cc/)
+- [美国信用卡指南](https://www.uscreditcardguide.com/zh/) ([ref](http://yizaoyiwan.com/discussions/1628))
 - [牛男网](https://www.neonan.com/)
 - [简单心理](http://www.jiandanxinli.com/)
 - [锦匣科技](https://www.iiobox.com/)
@@ -350,6 +352,7 @@ https://t.me/remote_cn
 - [Techbay](http://www.techbay.club/)
 - [Thus 如是设计](http://thus.in/)
 - [优帆远扬](https://yousails.com/)
+- [铸匠科技](http://zjtech.cc/)
 - [Zine](https://zine.la/)
 
 [⬆︎返回目录](#toc)
