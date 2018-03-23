@@ -105,6 +105,7 @@ https://t.me/remote_cn
 - `2016-06-10` [自由职业者们，请留意自己的心理和精神健康](http://www.littledew.com/2551)
 - `2016-05-13` [因本地网络、法律风险被一家支持远程工作的国外公司拒了](https://www.v2ex.com/t/278338)
 - `2016-04-22` [五年的远程工作带给我的酸甜苦辣](http://www.ifanr.com/646923)
+- `2016-04-20` [你离自由工作还有多远？](http://yizaoyiwan.com/discussions/820)
 - `2016-03-21` [什么样的人适合远程工作？](http://pmjane.com/post/shi-yao-yang-de-ren-gua-he-yuan-cheng-gong-zuo#fb_new_comment)
 - `2016-03-09` [刚看招聘，看到了远程办公的，突然有了下述想法](https://www.v2ex.com/t/261858)
 - `2016-02-16` [什么样的人适合做远程工作](https://www.jianshu.com/p/c9bf5634191b)
