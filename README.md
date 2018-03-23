@@ -314,6 +314,7 @@ https://t.me/remote_cn
 - [自由人](http://www.freemancn.com/)
 - [有轻功](http://www.youqinggong.com/)
 - [云沃客](https://www.clouderwork.com/)
+- [自由驿站](https://ziyouyizhan.com/)
 
 [⬆︎返回目录](#toc)
 
@@ -355,6 +356,7 @@ https://t.me/remote_cn
 - [Thus 如是设计](http://thus.in/)
 - [优帆远扬](https://yousails.com/)
 - [铸匠科技](http://zjtech.cc/)
+- [自由驿站](https://ziyouyizhan.com/)
 - [Zine](https://zine.la/)
 
 [⬆︎返回目录](#toc)
