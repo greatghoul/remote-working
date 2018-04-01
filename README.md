@@ -37,6 +37,7 @@ https://t.me/remote_cn
 
 #### 2018年
 
+- `2018-03-31` [一次编程，到处旅行](https://www.v2ex.com/t/443094)
 - `2018-03-15` [如何成为一个Freelancer程序员？](https://www.jianshu.com/p/693529f2e026)
 - `2018-03-14` [自由职业者成功指南](https://mp.weixin.qq.com/s?__biz=MjM5NzY4MzQyMQ==&mid=2650083419&idx=1&sn=9f8271a10e5c1fdecd39d5a0f1ab1ccf)
 - `2018-03-10` [记一次参加 CrossOver Meetup 的经历](https://segmentfault.com/a/1190000013648364)
