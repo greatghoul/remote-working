@@ -333,6 +333,7 @@ https://t.me/remote_cn
 - [橙陌科技](https://www.cmcm.us/)
 - [CuriosityChina](https://curiositychina.com/)
 - [DeepDevelop](http://deepdevelop.com/)
+- [DEX DEV](https://www.dexdev.me/) / [ref](http://yizaoyiwan.com/discussions/1591)
 - [点占科技](https://www.dianzhantech.com/)
 - [风车团队](https://fengcheco.com/about)
 - [风泽科技](http://www.fenzotech.com/)
