@@ -302,7 +302,7 @@ https://t.me/remote_cn
 - [sideidea独立黑客](https://xiaozhuanlan.com/sideidea) - 采访独立开发者和远程工作者做产品盈利的故事。
 - [Remote and Rich](https://zhuanlan.zhihu.com/remoteandrich) - 关于边工作边环游世界的探讨和追逐。
 - [中国远程工作资讯](https://t.me/remote_cn) - Telegram 频道，分享国内远程工作相关的文章、讨论和工作机会等。
-- [每日壹单](https://s1.ax1x.com/2018/04/02/CSIGqS.png) - 每天推送10条最新的外包兼职信息的微信公众号。
+- [每日壹单](https://mryd.freeflarum.com/d/79-indev-gong-zhong-hao-zheng-shi-geng-ming-wei-mei-ri-yi-dan) - 每天推送10条最新的外包兼职信息的微信公众号。
 
 [⬆︎返回目录](#toc)
 
