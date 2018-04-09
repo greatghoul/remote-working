@@ -343,6 +343,7 @@ https://t.me/remote_cn
 - [杭州巴比特](http://www.8btc.com/) / [ref](https://ruby-china.org/topics/34882)
 - [杭州天车团队](https://ruby-china.org/tianche)
 - [Integem](http://integem.com/) / [ref](https://www.v2ex.com/t/434444)
+- [开发邦](http://www.kaifabang.com/) / [ref](https://mp.weixin.qq.com/s/Dy9S3ibPLdJ9sUbzW4-hRg)
 - [七牛](http://career.qiniu.com/aboutus.html)
 - [另客网](https://www.links123.com/) / [ref](http://yizaoyiwan.com/discussions/1617)
 - [墨刀](https://modao.cc/)
