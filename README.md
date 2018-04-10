@@ -37,6 +37,7 @@ https://t.me/remote_cn
 
 #### 2018年
 
+- `2018-04-10` [自由工作者必看的书《The Year Without Pants》](https://xiaozhuanlan.com/topic/0635981247)
 - `2018-03-31` [一次编程，到处旅行](https://www.v2ex.com/t/443094)
 - `2018-03-15` [如何成为一个Freelancer程序员？](https://www.jianshu.com/p/693529f2e026)
 - `2018-03-14` [自由职业者成功指南](https://mp.weixin.qq.com/s?__biz=MjM5NzY4MzQyMQ==&mid=2650083419&idx=1&sn=9f8271a10e5c1fdecd39d5a0f1ab1ccf)
@@ -231,6 +232,7 @@ https://t.me/remote_cn
 - [Remote - Office Not Required 中文译本](http://jianshu.io/notebooks/41672/latest) 发布在简书上的译本
 - [The Ultimate Guide to Remote Work](https://zapier.com/learn/the-ultimate-guide-to-remote-working/) - Zapier 的远程工作实践
 - [The Ultimate Guide To Getting Started Freelancing](http://skillcrush.com/2015/05/28/ultimate-guide-to-freelancing/) - 一份不错的转型为自由职业者的指南
+- [The Year Without Pants](https://www.amazon.com/Year-Without-Pants-WordPress-com-Future/dp/B00FPT6EBK) - 自由职业者的工作方式
 - [自由职业设计师工作手册](https://book.douban.com/subject/5364376/) - 面向设计师的自由职业指南（对所有自由职业者都有很多借鉴作用）
 - [How to Find Your Dream Remote Job](https://remotive.typeform.com/to/RumqJ1)
 
