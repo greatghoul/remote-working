@@ -380,7 +380,7 @@ https://t.me/remote_cn
 
 ## <a name="others"></a>其它资源
 
-- [中囯远程工作者周刊](https://github.com/greatghoul/remote-weekly) - 由一早一晚社区发起的汇集远程工作资料的电子周刊，倾向于国内的资源。（已经停更）
+- [中囯远程工作者周刊](https://github.com/greatghoul/remote-weekly) - 分享中国远程工作资讯的电子周刊
 - [国内又有了新的远程工作机会](http://m.ruguoapp.com/topics/58a12fe772a4680014bdee24) - 一个即刻的提醒
 - [Nomad List](https://nomadlist.io/) - 最适宜生活和远程工作的城市排名，对比了生活成本，气候，网速等因素
 - [Amazing Home Offices](https://www.pinterest.com/workshifting/amazing-home-offices/) - 如果布置自己家里的办公环境，这里有很多参考
