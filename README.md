@@ -49,6 +49,7 @@ https://t.me/remote_cn
 - `2018-02-10` [自由职业第二年，迷茫之上，蒙逼未满](http://yizaoyiwan.com/discussions/1585)
 - `2018-02-07` [中年猿远程办公半月记](https://www.v2ex.com/t/429129)
 - `2018-02-03` [远程二三事](https://medium.com/@vorya/%E8%BF%9C%E7%A8%8B%E4%BA%8C%E4%B8%89%E4%BA%8B-8a33a7f69091)
+- `2018-01-15` [记录009：远程工作需要注意什么-180107](https://mp.weixin.qq.com/s/JW2ZdfYwPiR_HJS9TatHMQ)
 - `2018-01-04` [远程工作看起来理想，但其实有些压力你可能不会想到](https://www.qdaily.com/articles/48777.html)
 
 #### 2017年
@@ -63,6 +64,7 @@ https://t.me/remote_cn
 - `2017-11-06` [在家工作？大所将拥抱远程工作模式？](https://mp.weixin.qq.com/s/CMmpTUOVpZIQ5n21H_tPDA)
 - `2017-11-04` [远程协作办公](https://vinurs.me/2017/11/04/telecommuting-work/)
 - `2017-10-24` [在 Stack Overflow 远程办公是什么体验？](https://zhuanlan.zhihu.com/p/30391199)
+- `2017-10-20` [我是如何利用「3/2/2/1工作模式」让远程工作更高效的？](https://36kr.com/p/5098606.html)
 - `2017-10-19` [如何成功发挥远程工作价值？信任和机会平等缺一不可](http://36kr.com/p/5097277.html)
 - `2017-10-13` [TED 团队告诉你：如何突破远程办公的局限](https://weibo.com/ttarticle/p/show?id=2309404129081133260111)
 - `2017-10-13` [换城市不换工作，如何向公司申请调往分部？](http://news.mbalib.com/story/239800)
@@ -74,6 +76,7 @@ https://t.me/remote_cn
 - `2017-09-11` [远程办公 当梦想成为现实](http://paper.people.com.cn/rmrbhwb/html/2017-09/11/content_1804329.htm)
 - `2017-08-19` [孤独狩猎——选择自由职业的年轻人们](https://www.douban.com/note/633805058/)
 - `2017-08-16` [4个月的远程经验分享 奶爸的远程工作之路](http://yizaoyiwan.com/discussions/1398)
+- `2017-07-26` [远程工作时，员工该如何协调与领导之间关系？](http://36kr.com/p/5085175.html)
 - `2017-07-21` [年纪越大写代码越慢](https://www.v2ex.com/t/384472)
 - `2017-07-13` [TED 团队告诉你：如何突破远程办公的局限](https://weibo.com/ttarticle/p/show?id=2309404129081133260111)
 - `2017-07-12` [自由职业 -> 硅谷初创-上海团队的全职工作](https://zhuanlan.zhihu.com/p/27830954)
