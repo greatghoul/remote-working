@@ -68,6 +68,7 @@ https://t.me/remote_cn
 - `2017-10-13` [换城市不换工作，如何向公司申请调往分部？](http://news.mbalib.com/story/239800)
 - `2017-10-13` [Hello, World！我的房车编程生活，已经 150 天了](http://blog.jobbole.com/112606/)
 - `2017-10-13` [自由难得请珍惜，3招摆脱在家办公的“小确丧”](http://posts.careerengine.us/p/59e0031073e5f36c51a90603?from=latest-posts-panel&type=title)
+- `2017-10-05` [远程办公，你需要克服这些困难](https://mp.weixin.qq.com/s/zvWMgiHWlWk-bQju4V-eoQ)
 - `2017-10-07` [在家工作时怎样能保持效率？这里有一份简单的指南](http://www.qdaily.com/articles/45761.html)
 - `2017-09-27` [自由职业的利与弊](http://yizaoyiwan.com/discussions/1450)
 - `2017-09-11` [远程办公 当梦想成为现实](http://paper.people.com.cn/rmrbhwb/html/2017-09/11/content_1804329.htm)
