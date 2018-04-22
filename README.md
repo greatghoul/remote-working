@@ -114,6 +114,7 @@ https://t.me/remote_cn
 - `2016-04-20` [你离自由工作还有多远？](http://yizaoyiwan.com/discussions/820)
 - `2016-03-21` [什么样的人适合远程工作？](http://pmjane.com/post/shi-yao-yang-de-ren-gua-he-yuan-cheng-gong-zuo#fb_new_comment)
 - `2016-03-09` [刚看招聘，看到了远程办公的，突然有了下述想法](https://www.v2ex.com/t/261858)
+- `2016-02-18` [远程办公是一种怎样的体验？我们实验了一下](https://mp.weixin.qq.com/s/wT6GY_O9rzMgeoz-bbMJcA)
 - `2016-02-16` [什么样的人适合做远程工作](https://www.jianshu.com/p/c9bf5634191b)
 - `2016-02-07` [真正的自由并不等于拥有了全部](http://mp.weixin.qq.com/s?__biz=MjM5NTI3NDM2NA==&mid=408573043&idx=1&sn=c7a0e2a20cad45d89469b406596e5c57&scene=21#wechat_redirect)
 - `2016-01-25` [做一名「从容的远程工作者」](http://www.jianshu.com/p/d66ba14aa9d8)
