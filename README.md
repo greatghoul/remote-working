@@ -28,6 +28,7 @@ https://t.me/remote_cn
 - [招聘网站](#jobs)
 - [交流社区](#forum)
 - [博客媒体](#blogs)
+- [微信公众号](#wechat)
 - [外包平台](#outsource)
 - [远程团队](#teams)
 - [其它资源](#others)
@@ -37,6 +38,7 @@ https://t.me/remote_cn
 
 #### 2018年
 
+- `2018-05-02` [自由职业者们 还好吗 回顾我的 2011 ～ 2018](https://www.v2ex.com/t/451341)
 - `2018-04-10` [自由工作者必看的书《The Year Without Pants》](https://xiaozhuanlan.com/topic/0635981247)
 - `2018-03-31` [一次编程，到处旅行](https://www.v2ex.com/t/443094)
 - `2018-03-20` [硅谷高级工程师自述：我是怎样远程工作4年的](https://zhuanlan.zhihu.com/p/34731605?group_id=967903367560970240)
@@ -313,8 +315,14 @@ https://t.me/remote_cn
 - [sideidea独立黑客](https://xiaozhuanlan.com/sideidea) - 采访独立开发者和远程工作者做产品盈利的故事。
 - [Remote and Rich](https://zhuanlan.zhihu.com/remoteandrich) - 关于边工作边环游世界的探讨和追逐。
 - [中国远程工作资讯](https://t.me/remote_cn) - Telegram 频道，分享国内远程工作相关的文章、讨论和工作机会等。
-- [每日壹单](https://mryd.freeflarum.com/d/79-indev-gong-zhong-hao-zheng-shi-geng-ming-wei-mei-ri-yi-dan) - 每天推送10条最新的外包兼职信息的微信公众号。
+- [每日壹单](https://mryd.freeflarum.com/) - 是聚合软件外包兼职信息的平台
 - [角马原力](https://www.zhihu.com/people/gnuforce/) - 微信公众号，为远程工作者和自由职业者提供资讯、社交、工作、住宿的一站式服务。
+
+## <a name="wechat"></a> 公众号
+
+- **FreelancerX** (`xfreelancer`) - 一个关于自由职业、数字游民、远程办公的公众号
+- **远程工作者** (`remote-cn`) - 分享国内远程工作相关的文章、讨论和工作机会等
+- **每日壹单** - 每日推送外包兼职信息
 
 [⬆︎返回目录](#toc)
 
