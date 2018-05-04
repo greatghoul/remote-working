@@ -363,6 +363,7 @@ https://t.me/remote_cn
 - [风泽科技](http://www.fenzotech.com/)
 - [杭州巴比特](http://www.8btc.com/) / [ref](https://ruby-china.org/topics/34882)
 - [杭州天车团队](https://ruby-china.org/tianche)
+- [杭州知鹏网络科技有限公司](http://www.xueshifudao.com/) / [ref](http://www.ciweishixi.com/job/detail-77466.html)
 - [Integem](http://integem.com/) / [ref](https://www.v2ex.com/t/434444)
 - [开发邦](http://www.kaifabang.com/) / [ref](https://mp.weixin.qq.com/s/Dy9S3ibPLdJ9sUbzW4-hRg)
 - [七牛](http://career.qiniu.com/aboutus.html)
