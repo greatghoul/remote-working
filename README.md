@@ -54,6 +54,7 @@ https://t.me/remote_cn
 - `2018-02-03` [远程二三事](https://medium.com/@vorya/%E8%BF%9C%E7%A8%8B%E4%BA%8C%E4%B8%89%E4%BA%8B-8a33a7f69091)
 - `2018-01-15` [记录009：远程工作需要注意什么-180107](https://mp.weixin.qq.com/s/JW2ZdfYwPiR_HJS9TatHMQ)
 - `2018-01-04` [远程工作看起来理想，但其实有些压力你可能不会想到](https://www.qdaily.com/articles/48777.html)
+- `2018-01-01` [除了拖延，远程工作的压力还来自“不知道老板在想什么”](https://mp.weixin.qq.com/s/kmgFuuNIKcDW2dt2OuPHCA)
 
 #### 2017年
 
@@ -73,6 +74,7 @@ https://t.me/remote_cn
 - `2017-10-13` [换城市不换工作，如何向公司申请调往分部？](http://news.mbalib.com/story/239800)
 - `2017-10-13` [Hello, World！我的房车编程生活，已经 150 天了](http://blog.jobbole.com/112606/)
 - `2017-10-13` [自由难得请珍惜，3招摆脱在家办公的“小确丧”](http://posts.careerengine.us/p/59e0031073e5f36c51a90603?from=latest-posts-panel&type=title)
+- `2017-10-12` [远程办公的趋势面临拐点 众多大企业让员工重返办公室](https://mp.weixin.qq.com/s/MphC1dRZT34bzq4VXwymWA)
 - `2017-10-05` [远程办公，你需要克服这些困难](https://mp.weixin.qq.com/s/zvWMgiHWlWk-bQju4V-eoQ)
 - `2017-10-07` [在家工作时怎样能保持效率？这里有一份简单的指南](http://www.qdaily.com/articles/45761.html)
 - `2017-09-27` [自由职业的利与弊](http://yizaoyiwan.com/discussions/1450)
@@ -361,6 +363,7 @@ https://t.me/remote_cn
 - [风泽科技](http://www.fenzotech.com/)
 - [杭州巴比特](http://www.8btc.com/) / [ref](https://ruby-china.org/topics/34882)
 - [杭州天车团队](https://ruby-china.org/tianche)
+- [杭州知鹏网络科技有限公司](http://www.xueshifudao.com/) / [ref](http://www.ciweishixi.com/job/detail-77466.html)
 - [Integem](http://integem.com/) / [ref](https://www.v2ex.com/t/434444)
 - [开发邦](http://www.kaifabang.com/) / [ref](https://mp.weixin.qq.com/s/Dy9S3ibPLdJ9sUbzW4-hRg)
 - [七牛](http://career.qiniu.com/aboutus.html)
