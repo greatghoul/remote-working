@@ -38,6 +38,7 @@ https://t.me/remote_cn
 
 #### 2018年
 
+- `2018-06-22` [我只带一台笔记本上路，全职工作和环球旅行两不耽误](http://dajia.qq.com/original/wuguojie/ad180522.html)
 - `2018-05-02` [自由职业者们 还好吗 回顾我的 2011 ～ 2018](https://www.v2ex.com/t/451341)
 - `2018-04-10` [自由工作者必看的书《The Year Without Pants》](https://xiaozhuanlan.com/topic/0635981247)
 - `2018-03-31` [一次编程，到处旅行](https://www.v2ex.com/t/443094)
