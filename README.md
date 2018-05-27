@@ -109,6 +109,7 @@ https://t.me/remote_cn
 - `2016-12-19` [做技术的，如何找到一个远程办公的工作？](https://www.zhihu.com/question/52118159/answer/136558447)
 - `2016-11-20` [2016 年年度总结-远程工作一年半后](http://yizaoyiwan.com/discussions/1064)
 - `2016-11-03` [做一个自由职业者是怎样一番体验？](https://zhuanlan.zhihu.com/p/23350767)
+- `2016-10-02` [Lonely Office—逃离办公室小格子的正确姿势](https://zhuanlan.zhihu.com/p/21901601)
 - `2016-09-24` [未来，在家工作在什么时候可以普及？](https://www.zhihu.com/question/50965940)
 - `2016-09-18` [作为程序员从自由职业到远程工作三年记](http://yanjunyi.com/blog/posts/freelance-3-years)
 - `2016-09-11` [一年多远程工作带给我的感悟](http://www.jianshu.com/p/971e380f60ab)
@@ -331,6 +332,7 @@ https://t.me/remote_cn
 - [中国远程工作资讯](https://t.me/remote_cn) - Telegram 频道，分享国内远程工作相关的文章、讨论和工作机会等。
 - [每日壹单](https://mryd.freeflarum.com/) - 是聚合软件外包兼职信息的平台
 - [角马原力](https://www.zhihu.com/people/gnuforce/) - 微信公众号，为远程工作者和自由职业者提供资讯、社交、工作、住宿的一站式服务。
+- [Lonely Office](https://zhuanlan.zhihu.com/lonelyoffice) - 办公空间分享
 
 ## <a name="wechat"></a> 公众号
 
