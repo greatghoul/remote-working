@@ -386,6 +386,7 @@ https://t.me/remote_cn
 - [简单心理](http://www.jiandanxinli.com/)
 - [锦匣科技](https://www.iiobox.com/)
 - [角马原力](https://www.zhihu.com/people/gnuforce/activities)
+- [丕丕基科技](http://www.ppgtechnology.com/)
 - [ProtobiaTech](http://www.protobia.net/)
 - [ROGUE](http://www.rogue.group/)
 - [RussellCloud](http://russellcloud.com/) / [ref](https://www.v2ex.com/t/434914)
