@@ -38,7 +38,9 @@ https://t.me/remote_cn
 
 #### 2018年
 
-- `2018-06-22` [我只带一台笔记本上路，全职工作和环球旅行两不耽误](http://dajia.qq.com/original/wuguojie/ad180522.html)
+- `2018-05-30` [48% 的美国劳动力不用朝九晚五，提早过上了“财富自由式”生活](https://www.doko.com/podcasts/006-biz/remote-work-digital-nomads-shengwei-zhao.php)
+- `2018-05-27` [我是怎么找到新媒体工作的](https://www.jianshu.com/p/d7151c77c4e4)
+- `2018-05-22` [我只带一台笔记本上路，全职工作和环球旅行两不耽误](http://dajia.qq.com/original/wuguojie/ad180522.html)
 - `2018-05-02` [自由职业者们 还好吗 回顾我的 2011 ～ 2018](https://www.v2ex.com/t/451341)
 - `2018-04-10` [自由工作者必看的书《The Year Without Pants》](https://xiaozhuanlan.com/topic/0635981247)
 - `2018-03-31` [一次编程，到处旅行](https://www.v2ex.com/t/443094)
@@ -382,6 +384,7 @@ https://t.me/remote_cn
 - [开发邦](http://www.kaifabang.com/) / [ref](https://mp.weixin.qq.com/s/Dy9S3ibPLdJ9sUbzW4-hRg)
 - [七牛](http://career.qiniu.com/aboutus.html)
 - [另客网](https://www.links123.com/) / [ref](http://yizaoyiwan.com/discussions/1617)
+- [lordless](http://lordless.io/) / [ref](https://mp.weixin.qq.com/s/omAvRg7xflFL7k5c3UVbSQ)
 - [墨刀](https://modao.cc/)
 - [美国信用卡指南](https://www.uscreditcardguide.com/zh/) / [ref](http://yizaoyiwan.com/discussions/1628)
 - [牛男网](https://www.neonan.com/)
@@ -397,9 +400,11 @@ https://t.me/remote_cn
 - [上海多阔 DOKO](https://www.doko.com/) / [ref](https://job.oschina.net/position/13523_165425_32018)
 - [手工客](http://www.sogoke.com/)
 - [数码荔枝](https://www.lizhi.io)
+- [深圳骐骥网络](https://www.lagou.com/gongsi/207072.html) / [ref](https://mp.weixin.qq.com/s/S4J-7-PXelaqPwpTT9iO3Q)
 - [Techbay](http://www.techbay.club/)
 - [Thus 如是设计](http://thus.in/)
 - [优帆远扬](https://yousails.com/)
+- [云印小站](http://printinn.cn/) / [ref](https://mp.weixin.qq.com/s/nG8Mr4jCGKapstuh15hG5w)
 - [铸匠科技](http://zjtech.cc/)
 - [自由驿站](https://ziyouyizhan.com/)
 - [Zine](https://zine.la/)
