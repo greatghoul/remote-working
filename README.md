@@ -377,6 +377,7 @@ https://t.me/remote_cn
 - [点占科技](https://www.dianzhantech.com/)
 - [风车团队](https://fengcheco.com/about)
 - [风泽科技](http://www.fenzotech.com/)
+- [Growthhash](https://fanbi.io/) / [ref](https://www.v2ex.com/t/460188)
 - [杭州巴比特](http://www.8btc.com/) / [ref](https://ruby-china.org/topics/34882)
 - [杭州天车团队](https://ruby-china.org/tianche)
 - [杭州知鹏网络科技有限公司](http://www.xueshifudao.com/) / [ref](http://www.ciweishixi.com/job/detail-77466.html)
