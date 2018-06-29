@@ -1,13 +1,12 @@
-
 <p align="center">
   <img src="https://github.com/greatghoul/remote-working/blob/master/assets/icon.png?raw=true" width="86" height="86" />
-  <h3 align="center">中国远程工作资讯</h3>
+  <h3 align="center">远程工作者</h3>
 </p>
 
 收集整理国内远程工作相关的资源，如果比较关心国外的资源，可以看看[其他人整理的列表](#其它列表)。一些时效性的资源（比如工作机会），我会在下面的渠道更新，欢迎关注。
 
 **Telegram 频道**  
-https://t.me/remote_cn
+<https://t.me/remote_cn>
 
 **微信公众平台**  
 搜索微信公众号 `remote-cn`，或者扫码关注  
@@ -55,7 +54,7 @@ https://t.me/remote_cn
 - `2018-02-10` [自由职业第二年，迷茫之上，蒙逼未满](http://yizaoyiwan.com/discussions/1585)
 - `2018-02-07` [中年猿远程办公半月记](https://www.v2ex.com/t/429129)
 - `2018-02-03` [远程二三事](https://medium.com/@vorya/%E8%BF%9C%E7%A8%8B%E4%BA%8C%E4%B8%89%E4%BA%8B-8a33a7f69091)
-- `2018-01-24` [Coding 技术小馆 | 远程办公工作流分享](https://mp.weixin.qq.com/s/a74QUuHQztZZD_BDzlYCoA)
+- `2018-01-24` [Coding 技术小馆 \| 远程办公工作流分享](https://mp.weixin.qq.com/s/a74QUuHQztZZD_BDzlYCoA)
 - `2018-01-15` [记录009：远程工作需要注意什么-180107](https://mp.weixin.qq.com/s/JW2ZdfYwPiR_HJS9TatHMQ)
 - `2018-01-04` [远程工作看起来理想，但其实有些压力你可能不会想到](https://www.qdaily.com/articles/48777.html)
 - `2018-01-01` [除了拖延，远程工作的压力还来自“不知道老板在想什么”](https://mp.weixin.qq.com/s/kmgFuuNIKcDW2dt2OuPHCA)
@@ -82,7 +81,7 @@ https://t.me/remote_cn
 - `2017-10-05` [远程办公，你需要克服这些困难](https://mp.weixin.qq.com/s/zvWMgiHWlWk-bQju4V-eoQ)
 - `2017-10-07` [在家工作时怎样能保持效率？这里有一份简单的指南](http://www.qdaily.com/articles/45761.html)
 - `2017-09-27` [自由职业的利与弊](http://yizaoyiwan.com/discussions/1450)
-- `2017-09-14` [科技 | 远程办公成为现实：合理性与可持续性受到质疑](https://mp.weixin.qq.com/s/RcwdKt2GGxQBu0Ah_1YcEA)
+- `2017-09-14` [科技 \| 远程办公成为现实：合理性与可持续性受到质疑](https://mp.weixin.qq.com/s/RcwdKt2GGxQBu0Ah_1YcEA)
 - `2017-09-11` [远程办公 当梦想成为现实](http://paper.people.com.cn/rmrbhwb/html/2017-09/11/content_1804329.htm)
 - `2017-09-07` [“百城万人”残疾人远程就业公益项目](https://mp.weixin.qq.com/s/5gMTNPOcLH-yoN7BmvgAOA)
 - `2017-08-19` [孤独狩猎——选择自由职业的年轻人们](https://www.douban.com/note/633805058/)
@@ -143,7 +142,7 @@ https://t.me/remote_cn
 
 - `2015-12-21` [提升远程团队战斗力的 11 种方法](http://tech2ipo.com/10026456)
 - `2015-12-13` [创业团队不需要office，大家都远程工作，are you fxxx kidding me?](http://www.yizaoyiwan.com/discussions/623)
-- `2015-10-28` [严俊羿 | 自由是最大的向往](http://yizaoyiwan.com/stories/6)
+- `2015-10-28` [严俊羿 \| 自由是最大的向往](http://yizaoyiwan.com/stories/6)
 - `2015-10-15` [不想去办公室？设计师远程工作必读指南！](http://www.uisdc.com/freelancer-remote-work-guideline#)
 - `2015-10-10` [现在有公司要远程工作的员工么？](https://ruby-china.org/topics/27614)
 - `2015-08-22` [如何去管理一个远程工作团队](http://tech2ipo.com/101330)
@@ -304,7 +303,7 @@ https://t.me/remote_cn
 - [SegmentFault 招聘](https://segmentfault.com/jobs/search?remote=1) - SegmentFault 的招聘版块中支持按远程筛选
 - [七星远程](http://www.remotejob.cn/) - 远程工作招聘信息的聚合网站
 - [远程.work](http://yuancheng.work/) - 远程工作招聘信息的聚合网站
-- [Indeed | 远程](https://cn.indeed.com/%E5%B7%A5%E4%BD%9C-%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC) - Indeed 远程办公版块，可以找到一些非研发类的远程工作
+- [Indeed \| 远程](https://cn.indeed.com/%E5%B7%A5%E4%BD%9C-%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC) - Indeed 远程办公版块，可以找到一些非研发类的远程工作
 - [We Work Remotely](https://weworkremotely.com/) - 寻找或者发布远程工作机会
 - [Stackoverflow Careers](https://stackoverflow.com/jobs/remote-developer-jobs) - Stackoverflow 的招聘频道，提供专门的过滤项来检索远程职位
 - [Work from Home](https://www.wfh.io/) - 国外一个发布远程招聘帖的网站，比较特色的是它会列出支持远程工作的公司列表。
@@ -328,7 +327,7 @@ https://t.me/remote_cn
 ## <a name="blogs"></a>博客媒体
 
 - [朝露](http://www.littledew.com/) - 自由工作生涯的探索之路
-- [Jarodise | 数字游民部落](https://jarodise.com/) - 一个以数字游民（Digital Nomad)生活方式，Lifestyle Design方法论和环球旅行为主题的中文博客。
+- [Jarodise \| 数字游民部落](https://jarodise.com/) - 一个以数字游民（Digital Nomad)生活方式，Lifestyle Design方法论和环球旅行为主题的中文博客。
 - [sideidea独立黑客](https://xiaozhuanlan.com/sideidea) - 采访独立开发者和远程工作者做产品盈利的故事。
 - [Remote and Rich](https://zhuanlan.zhihu.com/remoteandrich) - 关于边工作边环游世界的探讨和追逐。
 - [中国远程工作资讯](https://t.me/remote_cn) - Telegram 频道，分享国内远程工作相关的文章、讨论和工作机会等。
