@@ -12,6 +12,8 @@
 搜索微信公众号 `remote-cn`，或者扫码关注  
 <img src="https://github.com/greatghoul/remote-working/blob/master/assets/qrcode-wechat.jpg?raw=true" alt="" width="86" height="86">
 
+如果你对这个列表有什么意见或者建议，欢迎提出 [Issue](https://github.com/greatghoul/remote-working/issues) 或者在下面的[讨论区](https://remote-china.info/#disqus_thread)留言。
+
 最后，如果你觉得我整理的资料对你有帮助，[欢迎赞赏](https://github.com/greatghoul/remote-working/blob/master/assets/support.jpeg)。
 
 -----
