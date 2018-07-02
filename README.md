@@ -279,6 +279,7 @@
 
 ## <a name="books"></a>书籍
 
+- [游牧东京](https://book.douban.com/subject/26671488/) - 只工作，不上班，不需要房子，不需太多金钱，完全自由地生活！
 - [Remote - Office Not Required](http://37signals.com/remote) - [购买](http://www.amazon.com/Remote-Office-Not-Required/dp/0804137501)
 - [Remote - Office Not Required 中文译本](http://jianshu.io/notebooks/41672/latest) 发布在简书上的译本
 - [The Ultimate Guide to Remote Work](https://zapier.com/learn/the-ultimate-guide-to-remote-working/) - Zapier 的远程工作实践
