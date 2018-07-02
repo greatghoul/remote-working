@@ -225,6 +225,7 @@
 
 #### 2018年
 
+- [Cathy流浪记：如何变旅行边工作，成为数字游民](https://www.bilibili.com/video/av21642180/)
 - [不一·FM Vol. 02 吴博：用户遍布世界的自由 Web 设计师](https://www.lizhi.fm/49020635/2650025155245500422)
 
 #### 2017年
@@ -233,6 +234,7 @@
 
 #### 2016年
 
+- [狗熊有话说196期：对话·我是怎么成为一个数字游民的？](http://www.ximalaya.com/keji/264303/17053082)
 - [Remote Working: What, Why And How?](http://mikemcquaid.com/talks/remote-working-what-why-how/)
 - [Teahour #85 这次我们聊聊远程工作](http://teahour.fm/2016/06/11/all-about-remote-working.html)
 - [中国程序员能不能远程工作？](http://v.qq.com/x/page/b0180ahqmw4.html)
@@ -277,6 +279,7 @@
 
 ## <a name="books"></a>书籍
 
+- [游牧东京](https://book.douban.com/subject/26671488/) - 只工作，不上班，不需要房子，不需太多金钱，完全自由地生活！
 - [Remote - Office Not Required](http://37signals.com/remote) - [购买](http://www.amazon.com/Remote-Office-Not-Required/dp/0804137501)
 - [Remote - Office Not Required 中文译本](http://jianshu.io/notebooks/41672/latest) 发布在简书上的译本
 - [The Ultimate Guide to Remote Work](https://zapier.com/learn/the-ultimate-guide-to-remote-working/) - Zapier 的远程工作实践
