@@ -425,6 +425,7 @@
 - [Juicedata](https://juicefs.io/) / [ref](https://www.v2ex.com/t/463092)
 - [丕丕基科技](http://www.ppgtechnology.com/)
 - [ProtobiaTech](http://www.protobia.net/)
+- [轻芒](http://qingmang.me/about/) / [ref](https://www.v2ex.com/t/467945)
 - [ROGUE](http://www.rogue.group/)
 - [RussellCloud](http://russellcloud.com/) / [ref](https://www.v2ex.com/t/434914)
 - [Strikingly](https://www.strikingly.com/)
