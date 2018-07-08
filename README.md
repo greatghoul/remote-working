@@ -320,6 +320,10 @@
 
  - [墨社](https://mozzos.com/) - 即刻找到属于你的联合办公空间
  - [WORKFUN](http://www.wocation.cc/) - 边工作，边旅行
+ 
+收款工具
+
+ - [BufPay.com 独立开发者收款平台](https://bufpay.com/) - 个人可用的即时到账收款接口
 
 [⬆︎返回目录](#toc)
 
