@@ -398,6 +398,8 @@
 
 - [艾迪福克斯](https://www.v2ex.com/t/344933)
 - [Arousal](https://www.arousal.io/) / [ref](http://yizaoyiwan.com/discussions/1580)
+- [Aries App](https://itunes.apple.com/us/developer/aries-app-inc/id383234937?mt=8)
+  / [ref](https://www.v2ex.com/t/468849#reply13)
 - [北京盛安德](http://www.shinetechsoftware.com/) / [ref](https://www.v2ex.com/t/432718)
 - [百分之八十](https://www.80percent.io/)
 - [彩程设计](https://tower.im/about_us)
