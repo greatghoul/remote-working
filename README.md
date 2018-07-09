@@ -25,6 +25,7 @@
 - [演示文稿](#slides)
 - [调查报告](#reports)
 - [书籍](#books)
+- [线下聚会](#events)
 - [工具和服务](#tools)
 - [招聘网站](#jobs)
 - [交流社区](#forum)
@@ -288,6 +289,12 @@
 - [The Year Without Pants](https://www.amazon.com/Year-Without-Pants-WordPress-com-Future/dp/B00FPT6EBK) - 自由职业者的工作方式
 - [自由职业设计师工作手册](https://book.douban.com/subject/5364376/) - 面向设计师的自由职业指南（对所有自由职业者都有很多借鉴作用）
 - [How to Find Your Dream Remote Job](https://remotive.typeform.com/to/RumqJ1)
+
+[⬆︎返回目录](#toc)
+
+## <a name="events"></a>线下聚会
+
+- [Crossover 线下聚会](https://www.google.com/search?newwindow=1&biw=1652&bih=960&tbs=qdr%3Ay&ei=dHpDW9WkGe6Iggf68pXoBA&q=%22Crossover%22+AND+%28%22%E7%BA%BF%E4%B8%8B%22+OR+%22Meetup%22%29&oq=%22Crossover%22+AND+%28%22%E7%BA%BF%E4%B8%8B%22+OR+%22Meetup%22%29&gs_l=psy-ab.3...9377.16102.0.16488.14.14.0.0.0.0.744.2438.3-4j1j0j1.6.0....0...1c.1.64.psy-ab..8.0.0....0.9t_0ipWjRLU) - Crossover 在中国举办的 Meetup 活动，场地一般在上海。
 
 [⬆︎返回目录](#toc)
 
