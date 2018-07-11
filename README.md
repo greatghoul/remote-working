@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/greatghoul/remote-working.svg)](http://hits.dwyl.io/greatghoul/remote-working)
+
 <p align="center">
   <img src="https://github.com/greatghoul/remote-working/blob/master/assets/icon.png?raw=true" width="86" height="86" />
   <h3 align="center">远程工作者</h3>
