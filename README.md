@@ -404,10 +404,14 @@
 团队后面的 `ref` 链接为过往某个招聘记录，方便大家参考。
 
 - [艾迪福克斯](https://www.v2ex.com/t/344933)
-- [Arousal](https://www.arousal.io/) / [ref](http://yizaoyiwan.com/discussions/1580)
+- [Arousal](https://www.arousal.io/)
+  / [ref](http://yizaoyiwan.com/discussions/1580)
 - [Aries App](https://itunes.apple.com/us/developer/aries-app-inc/id383234937?mt=8)
   / [ref](https://www.v2ex.com/t/468849#reply13)
-- [北京盛安德](http://www.shinetechsoftware.com/) / [ref](https://www.v2ex.com/t/432718)
+- [Alta Labs](https://www.alta-labs.com/)
+  / [ref](https://www.v2ex.com/t/469513)
+- [北京盛安德](http://www.shinetechsoftware.com/)
+  / [ref](https://www.v2ex.com/t/432718)
 - [百分之八十](https://www.80percent.io/)
 - [彩程设计](https://tower.im/about_us)
 - [橙陌科技](https://www.cmcm.us/)
