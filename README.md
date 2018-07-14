@@ -291,6 +291,7 @@
 - [The Year Without Pants](https://www.amazon.com/Year-Without-Pants-WordPress-com-Future/dp/B00FPT6EBK) - 自由职业者的工作方式
 - [自由职业设计师工作手册](https://book.douban.com/subject/5364376/) - 面向设计师的自由职业指南（对所有自由职业者都有很多借鉴作用）
 - [How to Find Your Dream Remote Job](https://remotive.typeform.com/to/RumqJ1)
+- [零工经济](https://book.douban.com/subject/27198025/) - 推动社会变革的引擎，从「企业-员工」，到「平台-个人」
 
 [⬆︎返回目录](#toc)
 
