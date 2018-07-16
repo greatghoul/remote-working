@@ -229,6 +229,7 @@
 
 #### 2018年
 
+- [知乎Live - 业余时间赚钱的6种策略](https://www.zhihu.com/lives/870704471959822336)
 - [Cathy流浪记：如何变旅行边工作，成为数字游民](https://www.bilibili.com/video/av21642180/)
 - [不一·FM Vol. 02 吴博：用户遍布世界的自由 Web 设计师](https://www.lizhi.fm/49020635/2650025155245500422)
 
@@ -376,6 +377,7 @@
 - [每日壹单](https://mryd.freeflarum.com/) - 是聚合软件外包兼职信息的平台
 - [角马原力](https://www.zhihu.com/people/gnuforce/) - 微信公众号，为远程工作者和自由职业者提供资讯、社交、工作、住宿的一站式服务。
 - [Lonely Office](https://zhuanlan.zhihu.com/lonelyoffice) - 办公空间分享
+- [WorkspaceLovin](https://workspacelovin.com/) - 发现全世界最优雅的工作环境
 
 ## <a name="wechat"></a> 公众号
 
@@ -437,6 +439,7 @@
 - [墨刀](https://modao.cc/)
 - [美国信用卡指南](https://www.uscreditcardguide.com/zh/) / [ref](http://yizaoyiwan.com/discussions/1628)
 - [米扑科技](https://mimvp.com/) / [ref](https://mp.weixin.qq.com/s/Bno5cgL5h9fDbJ3UktnTwg)
+- [奈思设计](http://niceui.cn/)
 - [牛男网](https://www.neonan.com/)
 - [骐骥网络科技有限公司](http://ikiji.cn/) / [ref](https://forum.vuejs.org/t/topic/35100)
 - [简单心理](http://www.jiandanxinli.com/)
