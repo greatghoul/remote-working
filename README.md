@@ -377,6 +377,7 @@
 - [每日壹单](https://mryd.freeflarum.com/) - 是聚合软件外包兼职信息的平台
 - [角马原力](https://www.zhihu.com/people/gnuforce/) - 微信公众号，为远程工作者和自由职业者提供资讯、社交、工作、住宿的一站式服务。
 - [Lonely Office](https://zhuanlan.zhihu.com/lonelyoffice) - 办公空间分享
+- [WorkspaceLovin](https://workspacelovin.com/) - 发现全世界最优雅的工作环境
 
 ## <a name="wechat"></a> 公众号
 
