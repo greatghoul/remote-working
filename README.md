@@ -229,6 +229,7 @@
 
 #### 2018年
 
+- [知乎Live - 业余时间赚钱的6种策略](https://www.zhihu.com/lives/870704471959822336)
 - [Cathy流浪记：如何变旅行边工作，成为数字游民](https://www.bilibili.com/video/av21642180/)
 - [不一·FM Vol. 02 吴博：用户遍布世界的自由 Web 设计师](https://www.lizhi.fm/49020635/2650025155245500422)
 
