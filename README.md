@@ -439,6 +439,7 @@
 - [墨刀](https://modao.cc/)
 - [美国信用卡指南](https://www.uscreditcardguide.com/zh/) / [ref](http://yizaoyiwan.com/discussions/1628)
 - [米扑科技](https://mimvp.com/) / [ref](https://mp.weixin.qq.com/s/Bno5cgL5h9fDbJ3UktnTwg)
+- [奈思设计](http://niceui.cn/)
 - [牛男网](https://www.neonan.com/)
 - [骐骥网络科技有限公司](http://ikiji.cn/) / [ref](https://forum.vuejs.org/t/topic/35100)
 - [简单心理](http://www.jiandanxinli.com/)
