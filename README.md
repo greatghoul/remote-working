@@ -364,8 +364,10 @@
 ## <a name="forum"></a>交流社区
 
 - [一早一晚](http://yizaoyiwan.com/)
-- [远程工作党豆瓣小组](https://www.douban.com/group/freejobs/)
 - [V2MM](https://v2mm.tech/)
+- [角马原力社区](http://www.gnuforce.com/community)
+- [豆瓣小组 - 远程工作党](https://www.douban.com/group/freejobs/)
+- [豆瓣小组 - 兼职文案](https://www.douban.com/group/292715/)
 
 ## <a name="blogs"></a>博客媒体
 
