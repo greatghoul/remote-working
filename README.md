@@ -358,6 +358,7 @@
 - [Remote Jobs Expert](https://www.remotejobsexpert.com) - 专门针对 Remote Jobs 的搜索引擎
 - [Vuejs jobs](https://vuejobs.com/?ref=vuejs) - 针对使用vue.js的前端开发这的岗位，有远程。
 - [WEMO](https://wemo.work/) - 寻找或者发布远程工作机会
+- [中画论坛 - 插画征稿招聘](http://bbs.chahua.org/thread.php?fid=8&page=1) - 经常会有插画师的远程全职或者兼职工作机会
 
 [⬆︎返回目录](#toc)
 
