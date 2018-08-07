@@ -17,7 +17,7 @@
   [Telegram 频道](https://t.me/remote_cn)  
   每天更新，因为是频道，只能对发布的资源投票，不能参与讨论，需要科学上网
 - ![](https://github.com/greatghoul/remote-working/blob/master/assets/icon-wechat.png?raw=true)
-  [微信搜索公众号 `remote-cn` 或扫码关注（打开链接）](remote-cn-qr)  
+  [微信搜索公众号 `remote-cn` 或扫码关注（打开链接）](https://github.com/greatghoul/remote-working/blob/master/assets/qrcode-wechat.jpg?raw=true)  
   不定期更新，每周大约分享两三个工作机会，周末一般会发布一个周报，推荐最近的文章等资源
 
 #### 如果你比较关注国外的信息？
@@ -28,8 +28,8 @@
 
 - 在 Github 提交 [Issue](https://github.com/greatghoul/remote-working/issues)
 - 在网站 [评论区](https://remote-china.info/#disqus_thread) 留言
-- 微信联系我 `greatghoul`，注明「远程工作者」
-- 给我写信 greatghoul+remote@gmail.com
+- 联系我的微信 `greatghoul`，注明「远程工作者」
+- 给我写电子邮件 greatghoul+remote@gmail.com
 
 #### 如果你觉得我整理的资料对你有帮助？
 
@@ -512,4 +512,3 @@
 
 [⬆︎返回目录](#toc)
 
-[remote-cn-qr]: https://github.com/greatghoul/remote-working/blob/master/assets/qrcode-wechat.jpg?raw=true
