@@ -8,7 +8,7 @@
 
 <hr>
 
-##### 如果你比较关注时效性的信息？（比如工作机会，外包合作，活动和聚会）
+#### 如果你比较关注时效性的信息？（比如工作机会，外包合作，活动和聚会）
 
 - ![](https://github.com/greatghoul/remote-working/blob/master/assets/icon-xingqiu.png?raw=true)
   [知识星球：远程工作者](https://t.zsxq.com/IYn6EaE)  
@@ -20,11 +20,11 @@
   [微信搜索公众号 `remote-cn` 或扫码关注（打开链接）](remote-cn-qr)  
   不定期更新，每周大约分享两三个工作机会，周末一般会发布一个周报，推荐最近的文章等资源
 
-##### 如果你比较关注国外的信息？
+#### 如果你比较关注国外的信息？
 
 - 可以看看[其他人整理的列表](#其它列表)
 
-##### 如果你对这个列表有什么意见或者建议？
+#### 如果你对这个列表有什么意见或者建议？
 
 - 在 Github 提交 [Issue](https://github.com/greatghoul/remote-working/issues)
 - 在网站 [评论区](https://remote-china.info/#disqus_thread) 留言
