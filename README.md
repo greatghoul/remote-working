@@ -31,7 +31,7 @@
 - 微信联系我 `greatghoul`，注明「远程工作者」
 - 给我写信 greatghoul+remote@gmail.com
 
-##### 如果你觉得我整理的资料对你有帮助？
+#### 如果你觉得我整理的资料对你有帮助？
 
 - [欢迎赞赏](https://greatghoul.github.io/donate-page/)
 
