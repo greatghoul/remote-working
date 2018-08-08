@@ -10,9 +10,6 @@
 
 #### 如果你比较关注时效性的信息？（比如工作机会，外包合作，活动和聚会）
 
-- ![](https://github.com/greatghoul/remote-working/blob/master/assets/icon-xingqiu.png?raw=true)
-  [知识星球：远程工作者](https://t.zsxq.com/IYn6EaE)  
-  随时更新，不定期会邀请远程工作者嘉宾，可以讨论和提问（年费 50 元）
 - ![](https://github.com/greatghoul/remote-working/blob/master/assets/icon-telegram.png?raw=true)
   [Telegram 频道](https://t.me/remote_cn)  
   每天更新，因为是频道，只能对发布的资源投票，不能参与讨论，需要科学上网
