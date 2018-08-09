@@ -56,6 +56,7 @@
 
 #### 2018年
 
+- [1年的独立开发者生活](https://mp.weixin.qq.com/s/aTZ8jW26hOYFFb2GGd9MmQ)
 - [自由职业者的现状：为了摆脱束缚，你愿意承受多少焦虑？](https://36kr.com/p/5141498.html)
 - [48% 的美国劳动力不用朝九晚五，提早过上了“财富自由式”生活](https://www.doko.com/podcasts/006-biz/remote-work-digital-nomads-shengwei-zhao.php)
 - [我是怎么找到新媒体工作的](https://www.jianshu.com/p/d7151c77c4e4)
