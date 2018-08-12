@@ -56,6 +56,7 @@
 
 #### 2018年
 
+- [实现远程办公的9个要点](http://m.gnuforce.com/news/detail?id=100)
 - [当我们在聊远程办公的时候，我们在聊些什么？](https://mp.weixin.qq.com/s/WwhIrAHczTPMFEUYIuY2KQ)
 - [三十有三了 by 数字游民部落博主](https://mp.weixin.qq.com/s/IKs1JfyExaHCaXXvWXxroA)
 - [1年的独立开发者生活](https://mp.weixin.qq.com/s/aTZ8jW26hOYFFb2GGd9MmQ)
