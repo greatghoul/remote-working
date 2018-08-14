@@ -56,6 +56,7 @@
 
 #### 2018年
 
+- [毕业五年，她从月薪2500的贸易员到最高月收入28万的自由职业者](https://36kr.com/p/5147258.html)
 - [实现远程办公的9个要点](http://m.gnuforce.com/news/detail?id=100)
 - [当我们在聊远程办公的时候，我们在聊些什么？](https://mp.weixin.qq.com/s/WwhIrAHczTPMFEUYIuY2KQ)
 - [三十有三了 by 数字游民部落博主](https://mp.weixin.qq.com/s/IKs1JfyExaHCaXXvWXxroA)
