@@ -56,6 +56,7 @@
 
 #### 2018年
 
+- [远程办公的环境选择](https://yizaoyiwan.com/discussions/12005)
 - [远程番外篇：我经历的远程工作](https://zhuanlan.zhihu.com/p/42333620)
 - [自由工作周刊第2期：解读2018年远程工作者调查报告](https://zhuanlan.zhihu.com/p/43271350)
 - [1分钟知识锦囊 \| 怎么找到一份远程工作？](https://36kr.com/p/5150624.html)
