@@ -464,7 +464,7 @@
 - [开发邦](http://www.kaifabang.com/) / [ref](https://mp.weixin.qq.com/s/Dy9S3ibPLdJ9sUbzW4-hRg)
 - [另客网](https://www.links123.com/) / [ref](http://yizaoyiwan.com/discussions/1617)
 - [lordless](http://lordless.io/) / [ref](https://mp.weixin.qq.com/s/omAvRg7xflFL7k5c3UVbSQ)
-- [LodeStreams](https://lodestream.com/) / [ref](https://yizaoyiwan.com/discussions/12002)
+- [LodeStream](https://lodestream.com/) / [ref](https://yizaoyiwan.com/discussions/12002)
 - [墨刀](https://modao.cc/)
 - [美国信用卡指南](https://www.uscreditcardguide.com/zh/) / [ref](http://yizaoyiwan.com/discussions/1628)
 - [米扑科技](https://mimvp.com/) / [ref](https://mp.weixin.qq.com/s/Bno5cgL5h9fDbJ3UktnTwg)
