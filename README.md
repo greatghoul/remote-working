@@ -56,6 +56,8 @@
 
 #### 2018年
 
+- [把全世界变成你的办公室 - 解读2018年ANDCO远程工作者调查报告](https://mp.weixin.qq.com/s/uWbrjx85nmyqvXobDsBU-Q)
+- [Buffer团队经验谈：如何寻找和开始一个Side Project？](https://littledew.com/p/2993.html)
 - [远程办公的环境选择](https://yizaoyiwan.com/discussions/12005)
 - [远程番外篇：我经历的远程工作](https://zhuanlan.zhihu.com/p/42333620)
 - [自由工作周刊第2期：解读2018年远程工作者调查报告](https://zhuanlan.zhihu.com/p/43271350)
