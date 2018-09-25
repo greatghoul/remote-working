@@ -485,6 +485,7 @@
 - [RussellCloud](http://russellcloud.com/) / [ref](https://www.v2ex.com/t/434914)
 - [Strikingly](https://www.strikingly.com/)
 - [上海多阔 DOKO](https://www.doko.com/) / [ref](https://job.oschina.net/position/13523_165425_32018)
+- [上海环可电子科技](http://www.hcoiot.com/) / [ref](https://cnodejs.org/topic/5ba73c4837a6965f59051bea)
 - [手工客](http://www.sogoke.com/)
 - [数码荔枝](https://www.lizhi.io)
 - [深圳骐骥网络](https://www.lagou.com/gongsi/207072.html) / [ref](https://mp.weixin.qq.com/s/S4J-7-PXelaqPwpTT9iO3Q)
