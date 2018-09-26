@@ -17,4 +17,4 @@
 - [自由职业的第一步: 200 元与 200 美刀](http://yafeilee.me/blogs/78)
 - [最好的25个寻找远程工作的网站](http://blog.techbay.club/post/zui-hao-de-25ge-xun-zhao-yuan-cheng-gong-zuo-de-wang-zhan)
 
-[⬆︎返回目录](../#toc)
+[⬆︎返回目录](../README.md#toc)

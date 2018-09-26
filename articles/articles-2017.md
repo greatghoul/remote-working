@@ -42,4 +42,4 @@
 - [远程办公如何执行才能效率高，这家公司做了典范](http://36kr.com/p/5064061.html)
 - [远程工作、协作最佳实践？](https://ruby-china.org/topics/32316)
 
-[⬆︎返回目录](../#toc)
+[⬆︎返回目录](../README.md#toc)
