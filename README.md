@@ -45,6 +45,8 @@
 
 #### 2018年
 
+- [自由职业不只是冒险者的游戏，稳扎稳打也能转型成功](https://mp.weixin.qq.com/s/KXQz0jRK-LoD1L9AlKcnNQ)
+- [关注远程工作者的心理健康问题](https://mp.weixin.qq.com/s/WiZzuYvmW_bg70jU4D3g4Q)
 - [把全世界变成你的办公室 - 解读2018年ANDCO远程工作者调查报告](https://mp.weixin.qq.com/s/uWbrjx85nmyqvXobDsBU-Q)
 - [Buffer团队经验谈：如何寻找和开始一个Side Project？](https://littledew.com/p/2993.html)
 - [远程办公的环境选择](https://yizaoyiwan.com/discussions/12005)
