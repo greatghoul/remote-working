@@ -1,0 +1,18 @@
+# 2015年文章
+
+- [提升远程团队战斗力的 11 种方法](http://tech2ipo.com/10026456)
+- [创业团队不需要office，大家都远程工作，are you fxxx kidding me?](http://www.yizaoyiwan.com/discussions/623)
+- [严俊羿 \| 自由是最大的向往](http://yizaoyiwan.com/stories/6)
+- [不想去办公室？设计师远程工作必读指南！](http://www.uisdc.com/freelancer-remote-work-guideline#)
+- [现在有公司要远程工作的员工么？](https://ruby-china.org/topics/27614)
+- [如何去管理一个远程工作团队](http://tech2ipo.com/101330)
+- [说说我对不同独立开发者接单渠道的体验](http://yizaoyiwan.com/discussion/491/)
+- [小宁关于SOHO的经验总结](https://mp.weixin.qq.com/s?__biz=MzAwMTI2MDA4MQ==&mid=210579167&idx=1&sn=96fc70685a44c7466a99e095f5727042&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
+- [远程工作的那些事事非非，你怎么看？](https://mp.weixin.qq.com/s/xxSO2I6vlxLJ4MtR6HpqTQ)
+- [如何使自由职业者有全职工作](http://blog.techbay.club/post/ru-he-shi-zi-you-zhi-ye-zhe-you-quan-zhi-gong-zuo)
+- [再出发](http://yizaoyiwan.com/discussion/481/)
+- [一个远程外包自由职业者的经历和经验](http://yizaoyiwan.com/discussion/474/)
+- [从 300 万到 1000 万，DeepDevelop 外包业务第二阶段总结](http://yizaoyiwan.com/discussion/460/)
+- [近期准备找下一份远程工作，求建议](https://www.v2ex.com/t/200681)
+- [自由职业的第一步: 200 元与 200 美刀](http://yafeilee.me/blogs/78)
+- [最好的25个寻找远程工作的网站](http://blog.techbay.club/post/zui-hao-de-25ge-xun-zhao-yuan-cheng-gong-zuo-de-wang-zhan)
