@@ -92,7 +92,7 @@
 - [远程工作看起来理想，但其实有些压力你可能不会想到](https://www.qdaily.com/articles/48777.html)
 - [除了拖延，远程工作的压力还来自“不知道老板在想什么”](https://mp.weixin.qq.com/s/kmgFuuNIKcDW2dt2OuPHCA)
 
-[⬅︎往年文章](articles/README.md)  
+[⬅︎往年文章](articles/)  
 [⬆︎返回目录](#toc)
 
 ## <a name="medias"></a>影音资料
