@@ -91,6 +91,8 @@
 
 #### 2018年
 
+- [如何做到边旅行边工作？：现实是这样的](https://www.bilibili.com/video/av26441021/?redirectFrom=h5)
+- [关于「只工作不上班」的讨论](https://castro.fm/episode/oQ2umi)
 - [疯投圈 - 自由职业是生活的理想状态吗？](https://crazy.capital/21)
 - [知乎Live - 业余时间赚钱的6种策略](https://www.zhihu.com/lives/870704471959822336)
 - [Cathy流浪记：如何变旅行边工作，成为数字游民](https://www.bilibili.com/video/av21642180/)
