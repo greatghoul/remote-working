@@ -229,11 +229,14 @@
 
 ## <a name="forum"></a>交流社区
 
+论坛和聊天工具群组等。
+
 - [一早一晚](http://yizaoyiwan.com/)
 - [V2MM](https://v2mm.tech/)
 - [角马原力社区](http://www.gnuforce.com/community)
 - [豆瓣小组 - 远程工作党](https://www.douban.com/group/freejobs/)
 - [豆瓣小组 - 兼职文案](https://www.douban.com/group/292715/)
+- [Upwork中国社群](https://www.kancloud.cn/jielinko/upwork-bbs/380491)
 
 ## <a name="blogs"></a>博客媒体
 
