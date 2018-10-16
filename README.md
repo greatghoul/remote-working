@@ -45,6 +45,7 @@
 
 #### 2018年
 
+- [远程工作经验分享 （9月份总结）- 有自律才能自由](https://yizaoyiwan.com/discussions/12029)
 - [「远程」与「远程优先」之间的区别](https://mp.weixin.qq.com/s/_f0zJzK862uRr1HqMPjlEA)
 - [自由职业不只是冒险者的游戏，稳扎稳打也能转型成功](https://mp.weixin.qq.com/s/KXQz0jRK-LoD1L9AlKcnNQ)
 - [关注远程工作者的心理健康问题](https://mp.weixin.qq.com/s/WiZzuYvmW_bg70jU4D3g4Q)
