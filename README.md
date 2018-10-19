@@ -237,6 +237,7 @@
 - [角马原力社区](http://www.gnuforce.com/community)
 - [豆瓣小组 - 远程工作党](https://www.douban.com/group/freejobs/)
 - [豆瓣小组 - 兼职文案](https://www.douban.com/group/292715/)
+- [豆瓣小组 - 英语兼职](https://www.douban.com/group/524795/)
 - [Upwork中国社群](https://www.kancloud.cn/jielinko/upwork-bbs/380491)
 
 ## <a name="blogs"></a>博客媒体
