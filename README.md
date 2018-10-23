@@ -344,6 +344,7 @@
 - [Zine](https://zine.la/)
 - [掌尊科技](http://www.zanzung.com/)
   / [ref](https://ruby-china.org/topics/37272)
+- [冒险者科技 —— 码农的冒险旅程](http://www.36node.com) / [ref](https://www.v2ex.com/t/498162)
 
 [⬆︎返回目录](#toc)
 
