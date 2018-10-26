@@ -315,6 +315,8 @@
 - [墨刀](https://modao.cc/)
 - [美国信用卡指南](https://www.uscreditcardguide.com/zh/) / [ref](http://yizaoyiwan.com/discussions/1628)
 - [米扑科技](https://mimvp.com/) / [ref](https://mp.weixin.qq.com/s/Bno5cgL5h9fDbJ3UktnTwg)
+- [冒险者科技 —— 码农的冒险旅程](http://www.36node.com) / [ref](https://www.v2ex.com/t/498162)
+- [谜底科技](http://www.miidii.tech/)
 - [奈思设计](http://niceui.cn/)
 - [牛男网](https://www.neonan.com/)
 - [七牛](http://career.qiniu.com/aboutus.html)
@@ -342,9 +344,7 @@
 - [铸匠科技](http://zjtech.cc/)
 - [自由驿站](https://ziyouyizhan.com/)
 - [Zine](https://zine.la/)
-- [掌尊科技](http://www.zanzung.com/)
-  / [ref](https://ruby-china.org/topics/37272)
-- [冒险者科技 —— 码农的冒险旅程](http://www.36node.com) / [ref](https://www.v2ex.com/t/498162)
+- [掌尊科技](http://www.zanzung.com/) / [ref](https://ruby-china.org/topics/37272)
 
 [⬆︎返回目录](#toc)
 
