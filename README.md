@@ -45,6 +45,7 @@
 
 #### 2018年
 
+- [台北一周远程工作记](https://yizaoyiwan.com/discussions/12045)
 - [我在袁家村给你写信：我当村长了](https://mp.weixin.qq.com/s/edTCfu0RXEe4njClXyzHWw)
 - [远程工作经验分享 （9月份总结）- 有自律才能自由](https://yizaoyiwan.com/discussions/12029)
 - [「远程」与「远程优先」之间的区别](https://mp.weixin.qq.com/s/_f0zJzK862uRr1HqMPjlEA)
