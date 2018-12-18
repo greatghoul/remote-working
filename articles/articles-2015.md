@@ -1,5 +1,6 @@
 # 2015年文章
 
+- [一个自由撰稿人可以用哪些方式赚钱](http://www.managershare.com/post/195875)
 - [提升远程团队战斗力的 11 种方法](http://tech2ipo.com/10026456)
 - [创业团队不需要office，大家都远程工作，are you fxxx kidding me?](http://www.yizaoyiwan.com/discussions/623)
 - [严俊羿 \| 自由是最大的向往](http://yizaoyiwan.com/stories/6)

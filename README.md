@@ -45,6 +45,10 @@
 
 #### 2018年
 
+- [聊聊远程办公的体验](https://laravel-china.org/articles/19944?)
+- [自由职业一周年我收获了什么](https://mp.weixin.qq.com/s/YuzDYpCQS7X8pSEX7lT9sg)
+- [有点疑惑远程办公模式在国内企业能被广泛采用吗](https://www.v2ex.com/t/512710)
+- [在家兼职的人或者是自由职业的人都在做什么？](https://www.zhihu.com/question/31117002)
 - [我是怎么找到这份远程工作的](https://blog.zfanw.com/how-i-found-a-remote-job/)
 - [台北一周远程工作记](https://yizaoyiwan.com/discussions/12045)
 - [我在袁家村给你写信：我当村长了](https://mp.weixin.qq.com/s/edTCfu0RXEe4njClXyzHWw)
