@@ -45,6 +45,10 @@
 
 #### 2018年
 
+- [聊聊远程办公的体验](https://laravel-china.org/articles/19944?)
+- [自由职业一周年我收获了什么](https://mp.weixin.qq.com/s/YuzDYpCQS7X8pSEX7lT9sg)
+- [有点疑惑远程办公模式在国内企业能被广泛采用吗](https://www.v2ex.com/t/512710)
+- [在家兼职的人或者是自由职业的人都在做什么？](https://www.zhihu.com/question/31117002)
 - [我是怎么找到这份远程工作的](https://blog.zfanw.com/how-i-found-a-remote-job/)
 - [台北一周远程工作记](https://yizaoyiwan.com/discussions/12045)
 - [我在袁家村给你写信：我当村长了](https://mp.weixin.qq.com/s/edTCfu0RXEe4njClXyzHWw)
@@ -297,6 +301,7 @@
 - [橙陌科技](https://www.cmcm.us/)
 - [齿轮易创](https://chilunyc.com/)
 - [CuriosityChina](https://curiositychina.com/)
+- [CareerBuilder](https://www.careerbuilder.com/) / [ref](https://ruby-china.org/topics/37893)
 - [DeepDevelop](http://deepdevelop.com/)
 - [DEX DEV](https://www.dexdev.me/) / [ref](http://yizaoyiwan.com/discussions/1591)
 - [点占科技](https://www.dianzhantech.com/)
@@ -319,6 +324,8 @@
 - [米扑科技](https://mimvp.com/) / [ref](https://mp.weixin.qq.com/s/Bno5cgL5h9fDbJ3UktnTwg)
 - [冒险者科技 —— 码农的冒险旅程](http://www.36node.com) / [ref](https://www.v2ex.com/t/498162)
 - [谜底科技](http://www.miidii.tech/)
+- Merico / [ref](https://ruby-china.org/topics/37709)
+- [漫渔文化](https://www.zhipin.com/gongsi/2c695f7effb2037a1nRz3N26Eg~~.html?ka=company-intro) / [ref](https://www.zhipin.com/job_detail/4b6d6d75002244d01nJy3NW5ElM~.html)
 - [奈思设计](http://niceui.cn/)
 - [牛男网](https://www.neonan.com/)
 - [七牛](http://career.qiniu.com/aboutus.html)
@@ -359,7 +366,6 @@
 - [Amazing Home Offices](https://www.pinterest.com/workshifting/amazing-home-offices/) - 如果布置自己家里的办公环境，这里有很多参考
 - [remote-china](https://remote-china.tech) - 寻找中国最酷的远程工作
 - [远程手记](https://zhuanlan.zhihu.com/yidianyidi) - 关于远程，所有你想知道的，我知无不言
-
 
 [⬆︎返回目录](#toc)
 
