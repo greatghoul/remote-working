@@ -264,10 +264,11 @@
 - [Lonely Office](https://zhuanlan.zhihu.com/lonelyoffice) - 办公空间分享
 - [WorkspaceLovin](https://workspacelovin.com/) - 发现全世界最优雅的工作环境
 
-## <a name="wechat"></a> 公众号
+## <a name="wechat"></a> 微信公众号
 
 - **FreelancerX** (`xfreelancer`) - 一个关于自由职业、数字游民、远程办公的公众号
 - **每日壹单** - 每日推送外包兼职信息
+- **约稿投稿平台** (`tougaox`) - 每日推送公众号、杂志的约稿和投稿信息等
 
 [⬆︎返回目录](#toc)
 
@@ -310,6 +311,7 @@
 - [DEX DEV](https://www.dexdev.me/) / [ref](http://yizaoyiwan.com/discussions/1591)
 - [点占科技](https://www.dianzhantech.com/)
 - [大唐商旅](https://www.ly.com/)
+- [大连悦视光合科技](https://www.elephantbi.com/) / [ref](https://www.v2ex.com/t/521097)
 - [风车团队](https://fengcheco.com/about)
 - [风泽科技](http://www.fenzotech.com/)
 - [Feedmob](https://feedmob.com/) / [ref](https://www.v2ex.com/t/495725)
