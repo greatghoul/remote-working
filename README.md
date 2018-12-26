@@ -259,11 +259,12 @@
 - [Lonely Office](https://zhuanlan.zhihu.com/lonelyoffice) - 办公空间分享
 - [WorkspaceLovin](https://workspacelovin.com/) - 发现全世界最优雅的工作环境
 
-## <a name="wechat"></a> 公众号
+## <a name="wechat"></a> 微信公众号
 
 - **FreelancerX** (`xfreelancer`) - 一个关于自由职业、数字游民、远程办公的公众号
 - **远程工作者** (`remote-cn`) - 分享国内远程工作相关的文章、讨论和工作机会等
 - **每日壹单** - 每日推送外包兼职信息
+- **约稿投稿平台** (`tougaox`) - 每日推送公众号、杂志的约稿和投稿信息等
 
 [⬆︎返回目录](#toc)
 
