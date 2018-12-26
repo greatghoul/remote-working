@@ -306,6 +306,7 @@
 - [DEX DEV](https://www.dexdev.me/) / [ref](http://yizaoyiwan.com/discussions/1591)
 - [点占科技](https://www.dianzhantech.com/)
 - [大唐商旅](https://www.ly.com/)
+- [大连悦视光合科技](https://www.elephantbi.com/) / [ref](https://www.v2ex.com/t/521097)
 - [风车团队](https://fengcheco.com/about)
 - [风泽科技](http://www.fenzotech.com/)
 - [Feedmob](https://feedmob.com/) / [ref](https://www.v2ex.com/t/495725)
