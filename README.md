@@ -315,6 +315,7 @@
 - [风车团队](https://fengcheco.com/about)
 - [风泽科技](http://www.fenzotech.com/)
 - [Feedmob](https://feedmob.com/) / [ref](https://www.v2ex.com/t/495725)
+- [Focus Solutions](https://www.focussi.com/) / [ref](https://yizaoyiwan.com/discussions/12141)
 - [Growthhash](https://fanbi.io/) / [ref](https://www.v2ex.com/t/460188)
 - [杭州巴比特](http://www.8btc.com/) / [ref](https://ruby-china.org/topics/34882)
 - [杭州天车团队](https://ruby-china.org/tianche)
