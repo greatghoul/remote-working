@@ -339,6 +339,7 @@
 - [骐骥网络科技有限公司](http://ikiji.cn/) / [ref](https://forum.vuejs.org/t/topic/35100)
 - [简单心理](http://www.jiandanxinli.com/)
 - [锦匣科技](https://www.iiobox.com/)
+- [Jerry AI](https://getjerry.com/) / [ref](https://cnodejs.org/topic/5c23fb3e76c4964062a1e2f9)
 - [角马原力](https://www.zhihu.com/people/gnuforce/activities)
 - [Juicedata](https://juicefs.io/) / [ref](https://www.v2ex.com/t/463092)
 - [丕丕基科技](http://www.ppgtechnology.com/)
