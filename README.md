@@ -22,7 +22,6 @@
 - [外包平台](#outsource)
 - [远程团队](#teams)
 - [其它资源](#others)
-- [其它列表](#lists)
 
 ## <a name="about"></a> ⭐ 列表说明
 
@@ -369,22 +368,11 @@
 
 - [中囯远程工作者周刊](https://github.com/greatghoul/remote-weekly) - 分享中国远程工作资讯的电子周刊
 - [国内又有了新的远程工作机会](http://m.ruguoapp.com/topics/58a12fe772a4680014bdee24) - 一个即刻的提醒
-- [Nomad List](https://nomadlist.io/) - 最适宜生活和远程工作的城市排名，对比了生活成本，气候，网速等因素
-- [Amazing Home Offices](https://www.pinterest.com/workshifting/amazing-home-offices/) - 如果布置自己家里的办公环境，这里有很多参考
-- [remote-china](https://remote-china.tech) - 寻找中国最酷的远程工作
 - [远程手记](https://zhuanlan.zhihu.com/yidianyidi) - 关于远程，所有你想知道的，我知无不言
-
-[⬆︎返回目录](#toc)
-
-## <a name="lists"></a>其它列表
-
 - [怎样做一个只工作不上班的自由职业者](https://www.zhihu.com/collection/215602507) - 一个知乎收藏夹
-- [awesome-RemoteWork](https://github.com/hugo53/awesome-RemoteWork) - Resources for remote workers: approaches, hiring page, remote life and more.
-- [established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
-- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources.
-- [RemoteWork](https://github.com/fjbelchi/RemoteWork) - Useful information for remote workers
-- [remote-jobs](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
+- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources.
 - [NODESK](https://nodesk.co/) - A curated collection of resources for the digital nomad, remote worker and traveling professional.
+
 
 [⬆︎返回目录](#toc)
 
