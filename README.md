@@ -103,6 +103,7 @@
 
 #### 2018年
 
+- [快三年没有上过班了，我是如何养活自己的？](https://www.douban.com/note/692344948/)
 - [如何做到边旅行边工作？：现实是这样的](https://www.bilibili.com/video/av26441021/?redirectFrom=h5)
 - [关于「只工作不上班」的讨论](https://castro.fm/episode/oQ2umi)
 - [疯投圈 - 自由职业是生活的理想状态吗？](https://crazy.capital/21)
