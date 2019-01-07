@@ -6,6 +6,9 @@
 [![](https://img.shields.io/github/issues-pr-closed/greatghoul/remote-working.svg)](https://github.com/greatghoul/remote-working/pulls?q=is%3Apr+is%3Aclosed)
 [![](https://img.shields.io/github/issues-pr/greatghoul/remote-working.svg)](https://github.com/greatghoul/remote-working/pulls?q=is%3Aopen+is%3Apr)
 
+**列表说明**
+
+* 本列表只收录中国国内的资源或者对国内受众友好的国外资源
 * 如果你想关注更加时效性的信息 (比如**工作机会**) 
   请关注我的 [新浪微博](https://weibo.com/RemoteWorking)
   或者 [Telegram](https://t.me/remote_cn)
@@ -15,10 +18,23 @@
 * 如果你对远程工作感兴趣并想和我交朋友，欢迎添加我的微信 `greatghoul` (请注明: **远程工作者**)
 * 资料整理不易，如果我的工作帮助到了你，欢迎 [赞赏](https://greatghoul.github.io/donate-page/)
 
-> **广告** 想要及时了解国内最新的远程工作机会和资讯，请关注新浪微博“远程工作者”
-> https://weibo.com/RemoteWorking
+----
 
-## <a name="toc" href="#toc">目录</a>
+<small>( ads )</small>
+
+<h4 align="center">捷径社区</h4>
+
+<p align="center">
+  <a href="https://sharecuts.cn/">https://sharecuts.cn/</a>
+</p>
+
+<p align="center">
+  专注于发现和分享 Siri 捷径，让人们通过捷径探索 iOS 更大的世界
+</p>
+
+----
+
+## <a name="toc"></a> 目录
 
 - [文章和讨论](#articles)
 - [影音资料](#medias)
