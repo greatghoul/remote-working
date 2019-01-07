@@ -5,7 +5,7 @@
 > **广告** 想要及时了解国内最新的远程工作机会和资讯，请关注新浪微博“远程工作者”
 > https://weibo.com/RemoteWorking
 
-<h2 id="toc">目录：</h2>
+## <a name="toc" href="#toc">目录</a>
 
 - [⭐ 列表说明](#about)
 - [文章和讨论](#articles)
@@ -24,7 +24,7 @@
 - [其它资源](#others)
 - [贡献者列表](#contributors)
 
-<h2 id="about"> ⭐ 列表说明</h2>
+## <a name="about" href="#about"> ⭐ 列表说明</a>
 
 本列表专注于整理国内远程工作相关的信息
 
@@ -46,7 +46,7 @@
 [⬆︎返回目录](#toc)
 
 
-<h2 id="articles"><a name="articles" id="articles" href="#articles">文章和讨论</a></h2>
+## <a name="articles" href="#articles">文章和讨论</a>
 
 #### 2018年
 
@@ -100,7 +100,7 @@
 [⬅︎往年文章](articles/)  
 [⬆︎返回目录](#toc)
 
-<h2 id="medias">影音资料</h2>
+## <a name="medias" href="#medias">影音资料</a>
 
 #### 2018年
 
@@ -146,7 +146,7 @@
 
 [⬆︎返回目录](#toc)
 
-<h2 id="slides">演示文稿</h2>
+## <a name="slides" href="#slides">演示文稿</a>
 
 - [远程工作那些事儿](https://speakerdeck.com/yorzi/yuan-cheng-gong-zuo-na-xie-shi-er)
 - [远程工作你所不知道的那些事儿](http://vdisk.weibo.com/s/zby-x0TZj2PEy/1378093426)
@@ -154,14 +154,14 @@
 
 [⬆︎返回目录](#toc)
 
-<h2 id="reports">调查报告</h2>
+## <a name="reports" href="#reports">调查报告</a>
 
 - [远程工作元年 - 2015 国内远程工作群体报告 (上篇)](http://yizaoyiwan.com/discussions/733)
 - [远程工作元年 - 2015 国内远程工作群体报告 (下篇)](http://yizaoyiwan.com/discussions/747)
 
 [⬆︎返回目录](#toc)
 
-<h2 id="books">书籍</h2>
+## <a name="books" href="#books">书籍</a>
 
 - [游牧东京](https://book.douban.com/subject/26671488/) - 只工作，不上班，不需要房子，不需太多金钱，完全自由地生活！
 - [Remote - Office Not Required](http://37signals.com/remote) - [购买](http://www.amazon.com/Remote-Office-Not-Required/dp/0804137501)
@@ -175,13 +175,13 @@
 
 [⬆︎返回目录](#toc)
 
-<h2 id="events">线下聚会</h2>
+## <a name="events" href="#events">线下聚会</a>
 
 - [Crossover 线下聚会](https://www.google.com/search?newwindow=1&biw=1652&bih=960&tbs=qdr%3Ay&ei=dHpDW9WkGe6Iggf68pXoBA&q=%22Crossover%22+AND+%28%22%E7%BA%BF%E4%B8%8B%22+OR+%22Meetup%22%29&oq=%22Crossover%22+AND+%28%22%E7%BA%BF%E4%B8%8B%22+OR+%22Meetup%22%29&gs_l=psy-ab.3...9377.16102.0.16488.14.14.0.0.0.0.744.2438.3-4j1j0j1.6.0....0...1c.1.64.psy-ab..8.0.0....0.9t_0ipWjRLU) - Crossover 在中国举办的 Meetup 活动，场地一般在上海。
 
 [⬆︎返回目录](#toc)
 
-<h2 id="tools">工具和服务</h2>
+## <a name="tools" href="#tools">工具和服务</a>
 
 时间管理
 
@@ -217,7 +217,7 @@
 
 [⬆︎返回目录](#toc)
 
-<h2 id="jobs">招聘网站</h2>
+## <a name="jobs" href="#jobs">招聘网站</a>
 
 - [一早一晚招聘](http://yizaoyiwan.com/categories/employer) - 一早一晚社区的招聘版块
 - [Ruby China 招聘版块](https://www.google.com/search?newwindow=1&biw=1440&bih=732&tbs=qdr%3Ay%2Csbd%3A1&q=site%3Aruby-china.org+%22%E8%BF%9C%E7%A8%8B%22+%22%E6%8B%9B%E8%81%98%22&oq=site%3Aruby-china.org+%22%E8%BF%9C%E7%A8%8B%22+%22%E6%8B%9B%E8%81%98%22&gs_l=serp.3...4629.4629.0.4843.1.1.0.0.0.0.0.0..0.0....0...1c.1.64.serp..1.0.0.b2In-7U128I)
@@ -241,7 +241,7 @@
 
 [⬆︎返回目录](#toc)
 
-<h2 id="forum">交流社区</h2>
+## <a name="forum" href="#forum">交流社区</a>
 
 论坛和聊天工具群组等。
 
@@ -253,7 +253,7 @@
 - [豆瓣小组 - 英语兼职](https://www.douban.com/group/524795/)
 - [Upwork中国社群](https://www.kancloud.cn/jielinko/upwork-bbs/380491)
 
-<h2 id="blogs">博客媒体</h2>
+## <a name="blogs" href="#blogs">博客媒体</a>
 
 - [朝露](http://www.littledew.com/) - 自由工作生涯的探索之路
 - [Jarodise \| 数字游民部落](https://jarodise.com/) - 一个以数字游民（Digital Nomad)生活方式，Lifestyle Design方法论和环球旅行为主题的中文博客。
@@ -265,7 +265,7 @@
 - [Lonely Office](https://zhuanlan.zhihu.com/lonelyoffice) - 办公空间分享
 - [WorkspaceLovin](https://workspacelovin.com/) - 发现全世界最优雅的工作环境
 
-<h2 id="wechat"> 微信公众号</h2>
+## <a name="wechat" href="#wechat"> 微信公众号</a>
 
 - **FreelancerX** (`xfreelancer`) - 一个关于自由职业、数字游民、远程办公的公众号
 - **每日壹单** - 每日推送外包兼职信息
@@ -273,7 +273,7 @@
 
 [⬆︎返回目录](#toc)
 
-<h2 id="outsource">外包平台</h2>
+## <a name="outsource" href="#outsource">外包平台</a>
 
 - [码市](https://mart.coding.net)
 - [大鲲](https://pro.lagou.com/)
@@ -289,7 +289,7 @@
 
 [⬆︎返回目录](#toc)
 
-<h2 id="teams">远程团队</h2>
+## <a name="teams" href="#teams">远程团队</a>
 
 中国国内或者面向中国招聘的国外团队，这些团队有的是全员远程，有的是部分远程，还有的是允许部分时间远程，因为状态可能随着时间的变化，所以这里不具体标明。
 
@@ -367,7 +367,7 @@
 
 [⬆︎返回目录](#toc)
 
-<h2 id="others">其它资源</h2>
+## <a name="others" href="#others">其它资源</a>
 
 - [中囯远程工作者周刊](https://github.com/greatghoul/remote-weekly) - 分享中国远程工作资讯的电子周刊
 - [国内又有了新的远程工作机会](http://m.ruguoapp.com/topics/58a12fe772a4680014bdee24) - 一个即刻的提醒
@@ -379,7 +379,7 @@
 
 [⬆︎返回目录](#toc)
 
-<h2 id="contributors">贡献者列表</h2>
+## <a name="contributors" href="#contributors">贡献者列表</a>
 
 按提交次数排序的前十位贡献者，要查看所有的贡献者，请前往[此页面](https://github.com/greatghoul/remote-working/graphs/contributors)
 
