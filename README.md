@@ -1,13 +1,25 @@
-# 远程工作者
+# 中国远程工作资料大全
 
-分享国内远程工作相关的资料。
+[![HitCount](http://hits.dwyl.io/greatghoul/remote-working.svg)](http://hits.dwyl.io/greatghoul/remote-working)
+[![](https://img.shields.io/github/contributors/greatghoul/remote-working.svg)](https://github.com/greatghoul/remote-working/graphs/contributors)
+[![](https://img.shields.io/github/commits-since/greatghoul/remote-working/c862266.svg?label=commits)](https://github.com/greatghoul/remote-working/commits/master)
+[![](https://img.shields.io/github/issues-pr-closed/greatghoul/remote-working.svg)](https://github.com/greatghoul/remote-working/pulls?q=is%3Apr+is%3Aclosed)
+[![](https://img.shields.io/github/issues-pr/greatghoul/remote-working.svg)](https://github.com/greatghoul/remote-working/pulls?q=is%3Aopen+is%3Apr)
+
+* 如果你想关注更加时效性的信息 (比如**工作机会**) 
+  请关注我的 [新浪微博](https://weibo.com/RemoteWorking)
+  或者 [Telegram](https://t.me/remote_cn)
+* 如果对本列表有意见或者建议，
+  欢迎给我提 [Issue](https://github.com/greatghoul/remote-working/issues)
+  或者 [写邮件](mailto:greatghoul+remote@gmail.com) 反馈
+* 如果你对远程工作感兴趣并想和我交朋友，欢迎添加我的微信 `greatghoul` (请注明: **远程工作者**)
+* 资料整理不易，如果我的工作帮助到了你，欢迎 [赞赏](https://greatghoul.github.io/donate-page/)
 
 > **广告** 想要及时了解国内最新的远程工作机会和资讯，请关注新浪微博“远程工作者”
 > https://weibo.com/RemoteWorking
 
 ## <a name="toc" href="#toc">目录</a>
 
-- [⭐ 列表说明](#about)
 - [文章和讨论](#articles)
 - [影音资料](#medias)
 - [演示文稿](#slides)
@@ -23,28 +35,6 @@
 - [远程团队](#teams)
 - [其它资源](#others)
 - [贡献者列表](#contributors)
-
-## <a name="about" href="#about"> ⭐ 列表说明</a>
-
-本列表专注于整理国内远程工作相关的信息
-
-#### 想关注其它渠道？
-
-- [新浪微博](https://weibo.com/RemoteWorking)
-- [Telegram 频道](https://t.me/remote_cn)
-
-#### 想提意见或者建议？
-
-- 在 Github 提交 [Issue](https://github.com/greatghoul/remote-working/issues)
-- 联系我的微信 `greatghoul`，注明「远程工作者」
-- 给我写电子邮件 greatghoul+remote@gmail.com
-
-#### 想感谢我的努力？
-
-- [欢迎赞赏](https://greatghoul.github.io/donate-page/)
-
-[⬆︎返回目录](#toc)
-
 
 ## <a name="articles" href="#articles">文章和讨论</a>
 
