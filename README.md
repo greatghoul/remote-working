@@ -46,7 +46,7 @@
 [⬆︎返回目录](#toc)
 
 
-<h2 id="articles"><a name="articles">文章和讨论</a></h2>
+<h2 id="articles"><a name="articles" id="articles" href="#articles">文章和讨论</a></h2>
 
 #### 2018年
 
