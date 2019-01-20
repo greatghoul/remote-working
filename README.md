@@ -9,7 +9,7 @@
 **列表说明**
 
 * 本列表只收录中国国内的资源或者对国内受众友好的国外资源
-* 如果你想关注更加时效性的信息 (比如**工作机会**) 
+* 如果你想关注更加时效性的信息 (比如**工作机会**)
   请关注我的 [新浪微博](https://weibo.com/RemoteWorking)
   或者 [Telegram](https://t.me/remote_cn)
 * 如果对本列表有意见或者建议，
@@ -56,6 +56,7 @@
 
 #### 2018年
 
+- [关于「在全世界边玩边挣钱」的实操指南](https://www.douban.com/note/700181198/)
 - [聊聊远程办公的体验](https://laravel-china.org/articles/19944?)
 - [自由职业一周年我收获了什么](https://mp.weixin.qq.com/s/YuzDYpCQS7X8pSEX7lT9sg)
 - [有点疑惑远程办公模式在国内企业能被广泛采用吗](https://www.v2ex.com/t/512710)
@@ -103,7 +104,7 @@
 - [远程工作看起来理想，但其实有些压力你可能不会想到](https://www.qdaily.com/articles/48777.html)
 - [除了拖延，远程工作的压力还来自“不知道老板在想什么”](https://mp.weixin.qq.com/s/kmgFuuNIKcDW2dt2OuPHCA)
 
-[⬅︎往年文章](articles/)  
+[⬅︎往年文章](articles/)
 [⬆︎返回目录](#toc)
 
 ## <a name="medias" href="#medias">影音资料</a>
@@ -216,7 +217,7 @@
 
  - [墨社](https://mozzos.com/) - 即刻找到属于你的联合办公空间
  - [WORKFUN](http://www.wocation.cc/) - 边工作，边旅行
- 
+
 收款工具
 
  - [BufPay.com 独立开发者收款平台](https://bufpay.com/) - 个人可用的即时到账收款接口
