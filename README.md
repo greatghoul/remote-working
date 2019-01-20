@@ -303,7 +303,6 @@
 团队后面的 `ref` 链接为过往某个招聘记录，方便大家参考。
 
 - [艾迪福克斯](https://www.v2ex.com/t/344933)
-- [Arousal](https://www.arousal.io/) / [ref](http://yizaoyiwan.com/discussions/1580)
 - [Aries App](https://itunes.apple.com/us/developer/aries-app-inc/id383234937?mt=8) / [ref](https://www.v2ex.com/t/468849#reply13)
 - [Alta Labs](https://www.alta-labs.com/) / [ref](https://www.v2ex.com/t/469513)
 - [北京盛安德](http://www.shinetechsoftware.com/) / [ref](https://www.v2ex.com/t/432718)
@@ -347,7 +346,7 @@
 - [骐骥网络科技有限公司](http://ikiji.cn/) / [ref](https://forum.vuejs.org/t/topic/35100)
 - [简单心理](http://www.jiandanxinli.com/)
 - [锦匣科技](https://www.iiobox.com/)
-- [Jerry AI](https://getjerry.com/) / [ref](https://cnodejs.org/topic/5c23fb3e76c4964062a1e2f9)
+- [Jerry AI](https://getjerry.com/) / [ref](https://yizaoyiwan.com/discussions/12157)
 - [角马原力](https://www.zhihu.com/people/gnuforce/activities)
 - [Juicedata](https://juicefs.io/) / [ref](https://www.v2ex.com/t/463092)
 - [丕丕基科技](http://www.ppgtechnology.com/)
@@ -357,7 +356,6 @@
 - [RussellCloud](http://russellcloud.com/) / [ref](https://www.v2ex.com/t/434914)
 - [Strikingly](https://www.strikingly.com/)
 - [上海多阔 DOKO](https://www.doko.com/) / [ref](https://job.oschina.net/position/13523_165425_32018)
-- [上海环可电子科技](http://www.hcoiot.com/) / [ref](https://cnodejs.org/topic/5ba73c4837a6965f59051bea)
 - [手工客](http://www.sogoke.com/)
 - [数码荔枝](https://www.lizhi.io)
 - [深圳骐骥网络](https://www.lagou.com/gongsi/207072.html) / [ref](https://mp.weixin.qq.com/s/S4J-7-PXelaqPwpTT9iO3Q)
