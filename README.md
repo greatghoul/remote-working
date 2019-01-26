@@ -54,6 +54,10 @@
 
 ## <a name="articles" href="#articles">文章和讨论</a>
 
+#### 2019年
+
+- [自由职业第三年，患上拖延证，加上经济寒](https://yizaoyiwan.com/discussions/12148)
+
 #### 2018年
 
 - [关于「在全世界边玩边挣钱」的实操指南](https://www.douban.com/note/700181198/)
