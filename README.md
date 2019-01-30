@@ -250,6 +250,7 @@
 - [Vuejs jobs](https://vuejobs.com/?ref=vuejs) - 针对使用vue.js的前端开发这的岗位，有远程。
 - [WEMO](https://wemo.work/) - 寻找或者发布远程工作机会
 - [中画论坛 - 插画征稿招聘](http://bbs.chahua.org/thread.php?fid=8&page=1) - 经常会有插画师的远程全职或者兼职工作机会
+- [Slasify](https://slasify.com/) - 连结来自全球的遠程工作者组成跨领域的虚拟团队，为企业提供更灵活的人才运用場景
 
 [⬆︎返回目录](#toc)
 
