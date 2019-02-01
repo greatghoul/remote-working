@@ -25,7 +25,7 @@
 <h4 align="center">捷径社区</h4>
 
 <p align="center">
-  <a href="https://sharecuts.cn/">https://sharecuts.cn/</a>
+  <a href="https://sharecuts.cn/?utm_source=remote-working&utm_medium=referral">https://sharecuts.cn/</a>
 </p>
 
 <p align="center">
