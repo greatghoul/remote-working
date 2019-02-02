@@ -61,6 +61,7 @@
 
 #### 2018年
 
+- [两代人以后，游牧也许会变成社会的主流形态](http://www.inewsweek.cn/viewpoint/2018-11-13/4329.shtml)
 - [关于「在全世界边玩边挣钱」的实操指南](https://www.douban.com/note/700181198/)
 - [聊聊远程办公的体验](https://laravel-china.org/articles/19944?)
 - [自由职业一周年我收获了什么](https://mp.weixin.qq.com/s/YuzDYpCQS7X8pSEX7lT9sg)
