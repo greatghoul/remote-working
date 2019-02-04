@@ -56,6 +56,7 @@
 
 #### 2019年
 
+- [在车上居住了一年，我所重新认识的事](https://zhuanlan.zhihu.com/p/52680233)
 - [从间隔年到数字游民：22岁时环游中国，30岁开始边旅行边工作](https://mp.weixin.qq.com/s/e2ncLcfdyZdxkKOyScHgAw)
 - [自由职业第三年，患上拖延证，加上经济寒](https://yizaoyiwan.com/discussions/12148)
 
@@ -279,6 +280,7 @@
 - [Lonely Office](https://zhuanlan.zhihu.com/lonelyoffice) - 办公空间分享
 - [WorkspaceLovin](https://workspacelovin.com/) - 发现全世界最优雅的工作环境
 - [数字游民剑伟](https://i.loli.net/2019/01/27/5c4d190b8b4d9.jpg) - 数字游民生活方式践行者，记录边带娃边旅行工作的日常
+- [松木巴士 | 房车改装及游牧生活](https://zhuanlan.zhihu.com/c_155023320) - 房车改装和游牧生活经验分享
 
 ## <a name="wechat" href="#wechat"> 微信公众号</a>
 
