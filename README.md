@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="http://union.dangdang.com/transfer.php?from=P-338845&ad_type=10&sys_id=1&backurl=http%3A%2F%2Fproduct.dangdang.com%2F26314938.html"><strong>Remote</strong> - Office Not Required</a><br/>
-  注明分布式团队 37signals 远程协作的成功秘诀
+  分布式团队 37signals 远程协作的成功秘诀
 </p>
 
 ----
