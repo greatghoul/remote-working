@@ -22,14 +22,13 @@
 
 <small>( ads )</small>
 
-<h4 align="center">捷径社区</h4>
-
 <p align="center">
-  <a href="https://sharecuts.cn/?utm_source=remote-working&utm_medium=referral">https://sharecuts.cn/</a>
+  <a href="http://union.dangdang.com/transfer.php?from=P-338845&ad_type=10&sys_id=1&backurl=http%3A%2F%2Fproduct.dangdang.com%2F26314938.html"><img src="https://i.loli.net/2019/02/12/5c62ac5e4543d.jpg"></a>
 </p>
 
 <p align="center">
-  专注于发现和分享 Siri 捷径，让人们通过捷径探索 iOS 更大的世界
+  <a href="http://union.dangdang.com/transfer.php?from=P-338845&ad_type=10&sys_id=1&backurl=http%3A%2F%2Fproduct.dangdang.com%2F26314938.html"><strong>Remote</strong> - Office Not Required</a><br/>
+  注明分布式团队 37signals 远程协作的成功秘诀
 </p>
 
 ----
