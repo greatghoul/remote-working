@@ -18,21 +18,6 @@
 * 如果你对远程工作感兴趣并想和我交朋友，欢迎添加我的微信 `greatghoul` (请注明: **远程工作者**)
 * 资料整理不易，如果我的工作帮助到了你，欢迎 [赞赏](https://greatghoul.github.io/donate-page/)
 
-----
-
-<small>( ads )</small>
-
-<p align="center">
-  <a href="http://union.dangdang.com/transfer.php?from=P-338845&ad_type=10&sys_id=1&backurl=http%3A%2F%2Fproduct.dangdang.com%2F26314938.html"><img src="https://i.loli.net/2019/02/12/5c62ac5e4543d.jpg"></a>
-</p>
-
-<p align="center">
-  <a href="http://union.dangdang.com/transfer.php?from=P-338845&ad_type=10&sys_id=1&backurl=http%3A%2F%2Fproduct.dangdang.com%2F26314938.html"><strong>Remote</strong> - Office Not Required</a><br/>
-  分布式团队 37signals 远程协作的成功秘诀
-</p>
-
-----
-
 ## <a name="toc"></a> 目录
 
 - [文章和讨论](#articles)
