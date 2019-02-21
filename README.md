@@ -18,6 +18,12 @@
 * 如果你对远程工作感兴趣并想和我交朋友，欢迎添加我的微信 `greatghoul` (请注明: **远程工作者**)
 * 资料整理不易，如果我的工作帮助到了你，欢迎 [赞赏](https://greatghoul.github.io/donate-page/)
 
+---
+
+**[广告]** [公共 API 收集帖（长期更新）](https://sharecuts.cn/post/31?utm_source=remote-working&utm_medium=referral)
+
+---
+
 ## <a name="toc"></a> 目录
 
 - [文章和讨论](#articles)
