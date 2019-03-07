@@ -107,6 +107,10 @@
 
 ## <a name="medias" href="#medias">影音资料</a>
 
+#### 2019年
+
+- [180° 第十六期 • 自由全栈设计师丁一](https://anyway.fm/dingyi/)
+
 #### 2018年
 
 - [快三年没有上过班了，我是如何养活自己的？](https://www.douban.com/note/692344948/)
