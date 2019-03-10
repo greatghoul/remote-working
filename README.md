@@ -49,6 +49,7 @@
 - [在车上居住了一年，我所重新认识的事](https://zhuanlan.zhihu.com/p/52680233)
 - [从间隔年到数字游民：22岁时环游中国，30岁开始边旅行边工作](https://mp.weixin.qq.com/s/e2ncLcfdyZdxkKOyScHgAw)
 - [自由职业第三年，患上拖延证，加上经济寒](https://yizaoyiwan.com/discussions/12148)
+- [成为一名自流量生活的创业者](https://mp.weixin.qq.com/s/MeN9Z8A115JyLoPUphFGpg)
 
 #### 2018年
 
@@ -181,6 +182,7 @@
 - [自由职业设计师工作手册](https://book.douban.com/subject/5364376/) - 面向设计师的自由职业指南（对所有自由职业者都有很多借鉴作用）
 - [How to Find Your Dream Remote Job](https://remotive.typeform.com/to/RumqJ1)
 - [零工经济](https://book.douban.com/subject/27198025/) - 推动社会变革的引擎，从「企业-员工」，到「平台-个人」
+- [自流量生活](https://book.douban.com/subject/30310711/) - 将自己的生活方式放在首位，而非企业成长和利润增加
 
 [⬆︎返回目录](#toc)
 
