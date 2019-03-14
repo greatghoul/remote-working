@@ -20,7 +20,7 @@
 
 ---
 
-**[广告]** [公共 API 收集帖（长期更新）](https://sharecuts.cn/post/31?utm_source=remote-working&utm_medium=referral)
+**[广告]** 创建了一个讨论远程工作的豆瓣小组[远程工作者](https://www.douban.com/group/remoteworking/)，欢迎加入。
 
 ---
 
