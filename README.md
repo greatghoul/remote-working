@@ -260,6 +260,7 @@
 - [一早一晚](http://yizaoyiwan.com/)
 - [V2MM](https://v2mm.tech/)
 - [角马原力社区](http://www.gnuforce.com/community)
+- [豆瓣小组 - 远程工作者](https://www.douban.com/group/remoteworking)
 - [豆瓣小组 - 远程工作党](https://www.douban.com/group/freejobs/)
 - [豆瓣小组 - 兼职文案](https://www.douban.com/group/292715/)
 - [豆瓣小组 - 英语兼职](https://www.douban.com/group/524795/)
