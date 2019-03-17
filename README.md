@@ -46,6 +46,7 @@
 
 #### 2019年
 
+- [如何加入一家全职远程的公司](https://blog.meathill.com/tech/how-to-get-a-full-time-remote-job.html)
 - [在车上居住了一年，我所重新认识的事](https://zhuanlan.zhihu.com/p/52680233)
 - [从间隔年到数字游民：22岁时环游中国，30岁开始边旅行边工作](https://mp.weixin.qq.com/s/e2ncLcfdyZdxkKOyScHgAw)
 - [自由职业第三年，患上拖延证，加上经济寒](https://yizaoyiwan.com/discussions/12148)
