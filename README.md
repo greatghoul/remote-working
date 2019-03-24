@@ -46,6 +46,7 @@
 
 #### 2019年
 
+- [一点自由 | 阳志平 心志工具箱](https://mp.weixin.qq.com/s/-7uyue8y5XAgd56AoDQFZA)
 - [如何做好一个远程工作的Project Manager (项目管理人)？](https://mp.weixin.qq.com/s/4Az5QeSjqsQ13xpBjpedzw)
 - [如何加入一家全职远程的公司](https://blog.meathill.com/tech/how-to-get-a-full-time-remote-job.html)
 - [在车上居住了一年，我所重新认识的事](https://zhuanlan.zhihu.com/p/52680233)
