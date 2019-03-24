@@ -138,7 +138,7 @@
 
 #### 2015年
 
-- [Tower团队24个月的远程协作实践](http://www.infoq.com/cn/presentations/tower-team-24-months-remote-collaborative-practice)
+- [Tower团队24个月的远程协作实践](https://www.youtube.com/watch?v=ttx5Apnjsr4)
 - [How We Work Across Time Zones at Buffer](https://www.youtube.com/watch?v=TwOD0lAgTbo)
 
 
