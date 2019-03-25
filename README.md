@@ -325,6 +325,7 @@
 - [齿轮易创](https://chilunyc.com/)
 - [CuriosityChina](https://curiositychina.com/)
 - [CareerBuilder](https://www.careerbuilder.com/) / [ref](https://ruby-china.org/topics/37893)
+- [Civet AI](https://www.civetai.com/) / [ref](https://www.v2ex.com/t/547967)
 - [DeepDevelop](http://deepdevelop.com/)
 - [DEX DEV](https://www.dexdev.me/) / [ref](http://yizaoyiwan.com/discussions/1591)
 - [点占科技](https://www.dianzhantech.com/)
