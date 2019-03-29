@@ -375,6 +375,7 @@
 - [识墨笔记](https://itunes.apple.com/cn/app/%E8%AF%86%E5%A2%A8%E7%AC%94%E8%AE%B0-%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB-%E6%89%AB%E6%8F%8F-%E4%BA%91%E7%AC%94%E8%AE%B0/id1222111073?mt=8) / [ref](https://zhuanlan.zhihu.com/p/37862204)
 - [Techbay](http://www.techbay.club/)
 - [Thus 如是设计](http://thus.in/)
+- [猩际教育](https://www.apeuni.com/) / [ref](https://ruby-china.org/topics/38279)
 - [优帆远扬](https://yousails.com/)
 - [云印小站](http://printinn.cn/) / [ref](https://mp.weixin.qq.com/s/nG8Mr4jCGKapstuh15hG5w)
 - [极忆](https://imemoryer.com/) / [ref](https://www.v2ex.com/t/547238)
