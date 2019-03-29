@@ -56,6 +56,7 @@
 
 #### 2018年
 
+- [我的2018 – 自由开发者的一年](https://xinle.co/2018/12/28/%E6%88%91%E7%9A%842018-%E8%87%AA%E7%94%B1%E5%BC%80%E5%8F%91%E8%80%85%E7%9A%84%E4%B8%80%E5%B9%B4/)
 - [异地技术团队高效协作的经验分享](https://juejin.im/post/5c09d75b51882516cd70d87b)
 - [两代人以后，游牧也许会变成社会的主流形态](http://www.inewsweek.cn/viewpoint/2018-11-13/4329.shtml)
 - [关于「在全世界边玩边挣钱」的实操指南](https://www.douban.com/note/700181198/)
@@ -304,6 +305,7 @@
 - [云沃客](https://www.clouderwork.com/)
 - [自由驿站](https://ziyouyizhan.com/)
 - [Freelancer 中国](https://www.freelancer.cn/)
+- [TIANCAI](https://tiancai.pro/)
 
 [⬆︎返回目录](#toc)
 
