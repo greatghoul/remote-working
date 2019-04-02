@@ -200,16 +200,14 @@
 
 时间管理
 
- - [Toggl](https://toggl.com/) 免费的工作计时工具
- - [Focus Timer](http://goo.gl/607XJa) Mac 下一个简洁的番茄计时工具
- - [番茄土豆](https://pomotodo.com/) 结合了番茄（番茄工作法）与土豆（To-do List）的时间管理工具
+ - [Toggl](https://toggl.com/) - 免费的工作计时工具
+ - [Focus Timer](http://goo.gl/607XJa) - Mac 下一个简洁的番茄计时工具
+ - [番茄土豆](https://pomotodo.com/) - 结合了番茄（番茄工作法）与土豆（To-do List）的时间管理工具
 
 项目协作
 
  - [Trello](https://trello.com/) - 轻量级团队流程协作和列表管理平台
- - [Tower.im](https://tower.im/) - 简单，好用的团队协作工具
- - [风车](https://fengche.co/) - 简单高效的团队协作工具（原 Pragmatic.ly）
- - [Productivee](https://www.producteev.com/) - 和风车风格类似的团队协作工具
+ - [Tower](https://tower.im/) - 简单，好用的团队协作工具
  - [Teambiton](https://www.teambition.com/) - 类 Trello 的简单高效的项目协作工具
  - [Worktile](https://worktile.com/) - 让工作更简单
  - [tita](http://www.tita.com/) - 企业级的工作计划管理平台，其实我想说，它的首页真的好酷。
@@ -218,9 +216,8 @@
 
 沟通工具
 
- - [瀑布IM](https://pubu.im/) - 瀑布IM，让团队沟通再简单一点
- - [Zoom](https://zoom.us/) WebEx 创始人新创建的在线视频服务，多人视频很流畅
- - [小鱼易连](https://www.xylink.com)支持移动端、桌面端和微信小程序快速入会，提供高质量的视频会议服务。
+ - [Zoom](https://zoom.us/) - WebEx 创始人新创建的在线视频服务，多人视频很流畅
+ - [小鱼易连](https://www.xylink.com) - 支持移动端、桌面端和微信小程序快速入会，提供高质量的视频会议服务。
 
 工作场所
 
