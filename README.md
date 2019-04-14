@@ -268,6 +268,7 @@
 - [豆瓣小组 - 兼职文案](https://www.douban.com/group/292715/)
 - [豆瓣小组 - 英语兼职](https://www.douban.com/group/524795/)
 - [Upwork中国社群](https://www.kancloud.cn/jielinko/upwork-bbs/380491)
+- [远程客 - 远程工作社区](https://www.remoteman.cn/)
 
 ## <a name="blogs" href="#blogs">博客媒体</a>
 
@@ -282,6 +283,7 @@
 - [WorkspaceLovin](https://workspacelovin.com/) - 发现全世界最优雅的工作环境
 - [数字游民剑伟](https://i.loli.net/2019/01/27/5c4d190b8b4d9.jpg) - 数字游民生活方式践行者，记录边带娃边旅行工作的日常
 - [松木巴士 | 房车改装及游牧生活](https://zhuanlan.zhihu.com/c_155023320) - 房车改装和游牧生活经验分享
+- [远程客](https://yuanchengke.com/])
 
 ## <a name="wechat" href="#wechat"> 微信公众号</a>
 
