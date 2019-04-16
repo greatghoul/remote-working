@@ -116,6 +116,7 @@
 
 #### 2019年
 
+- [什么是远程工作，我是如何远程工作的？](https://www.bilibili.com/video/av49314633)
 - [180° 第十六期 • 自由全栈设计师丁一](https://anyway.fm/dingyi/)
 
 #### 2018年
