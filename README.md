@@ -27,7 +27,7 @@
 ## <a name="toc"></a> 目录
 
 - [文章和讨论](#articles)
-- [影音资料](#medias)
+- [影音资料](#media)
 - [演示文稿](#slides)
 - [调查报告](#reports)
 - [书籍](#books)
@@ -112,7 +112,7 @@
 [⬅︎往年文章](articles/)
 [⬆︎返回目录](#toc)
 
-## <a name="medias" href="#medias">影音资料</a>
+## <a name="media" href="#media">影音资料</a>
 
 #### 2019年
 
