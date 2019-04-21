@@ -270,7 +270,6 @@
 - [豆瓣小组 - 兼职文案](https://www.douban.com/group/292715/)
 - [豆瓣小组 - 英语兼职](https://www.douban.com/group/524795/)
 - [Upwork中国社群](https://www.kancloud.cn/jielinko/upwork-bbs/380491)
-- [远程客 - 远程工作社区](https://www.remoteman.cn/)
 
 ## <a name="blogs" href="#blogs">博客媒体</a>
 
