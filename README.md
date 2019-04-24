@@ -42,6 +42,7 @@
 
 #### 2019年
 
+- [为什么你老板还没有推行在家办公？一个传播学角度的解释](https://zhuanlan.zhihu.com/p/63501230)
 - [五年自由职业感悟：赚钱是最深刻的修行](https://zhuanlan.zhihu.com/p/61226226)
 - [一点自由 | 阳志平 心志工具箱](https://mp.weixin.qq.com/s/-7uyue8y5XAgd56AoDQFZA)
 - [如何做好一个远程工作的Project Manager (项目管理人)？](https://mp.weixin.qq.com/s/4Az5QeSjqsQ13xpBjpedzw)
