@@ -9,13 +9,9 @@
 **列表说明**
 
 * 本列表只收录中国国内的资源或者对国内受众友好的国外资源
-* 如果你想关注更加时效性的信息 (比如**工作机会**)
-  请关注我的 [新浪微博](https://weibo.com/RemoteWorking)
-  或者 [Telegram](https://t.me/remote_cn)
-* 如果对本列表有意见或者建议，
-  欢迎给我提 [Issue](https://github.com/greatghoul/remote-working/issues)
-  或者 [写邮件](mailto:greatghoul+remote@gmail.com) 反馈
-* 如果你对远程工作感兴趣并想和我交朋友，欢迎添加我的微信 `greatghoul` (请注明: **远程工作者**)
+* 关注 [新浪微博](https://weibo.com/RemoteWorking)
+  或者 [Telegram](https://t.me/remote_cn) 订阅**最新远程工作机会**
+* 如果对本列表有意见或者建议，欢迎给我提 [Issue](https://github.com/greatghoul/remote-working/issues)
 * 资料整理不易，如果我的工作帮助到了你，欢迎 [赞赏](https://greatghoul.github.io/donate-page/)
 
 ---
