@@ -42,6 +42,7 @@
 
 #### 2019年
 
+- [再次反省做课这件事](https://blog.meathill.com/share/continue-self-questioning-about-lecture.html)
 - [为什么你老板还没有推行在家办公？一个传播学角度的解释](https://zhuanlan.zhihu.com/p/63501230)
 - [五年自由职业感悟：赚钱是最深刻的修行](https://zhuanlan.zhihu.com/p/61226226)
 - [一点自由 | 阳志平 心志工具箱](https://mp.weixin.qq.com/s/-7uyue8y5XAgd56AoDQFZA)
@@ -314,6 +315,7 @@
 
 团队后面的 `ref` 链接为过往某个招聘记录，方便大家参考。
 
+- [OpenResty Inc](https://blog.openresty.com/cn/talnets/)
 - [艾迪福克斯](https://www.v2ex.com/t/344933)
 - [Aries App](https://itunes.apple.com/us/developer/aries-app-inc/id383234937?mt=8) / [ref](https://www.v2ex.com/t/468849#reply13)
 - [Alta Labs](https://www.alta-labs.com/) / [ref](https://www.v2ex.com/t/469513)
