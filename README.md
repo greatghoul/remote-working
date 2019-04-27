@@ -315,7 +315,6 @@
 
 团队后面的 `ref` 链接为过往某个招聘记录，方便大家参考。
 
-- [OpenResty Inc](https://blog.openresty.com/cn/talnets/)
 - [艾迪福克斯](https://www.v2ex.com/t/344933)
 - [Aries App](https://itunes.apple.com/us/developer/aries-app-inc/id383234937?mt=8) / [ref](https://www.v2ex.com/t/468849#reply13)
 - [Alta Labs](https://www.alta-labs.com/) / [ref](https://www.v2ex.com/t/469513)
@@ -358,6 +357,7 @@
 - [漫渔文化](https://www.zhipin.com/gongsi/2c695f7effb2037a1nRz3N26Eg~~.html?ka=company-intro) / [ref](https://www.zhipin.com/job_detail/4b6d6d75002244d01nJy3NW5ElM~.html)
 - [奈思设计](http://niceui.cn/)
 - [牛男网](https://www.neonan.com/)
+- [OpenResty Inc](https://openresty.com/) / [ref](https://blog.openresty.com/cn/talnets/)
 - [七牛](http://career.qiniu.com/aboutus.html)
 - [骐骥网络科技有限公司](http://ikiji.cn/) / [ref](https://forum.vuejs.org/t/topic/35100)
 - [简单心理](http://www.jiandanxinli.com/)
