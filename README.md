@@ -42,6 +42,7 @@
 
 #### 2019年
 
+- [再次反省做课这件事](https://blog.meathill.com/share/continue-self-questioning-about-lecture.html)
 - [为什么你老板还没有推行在家办公？一个传播学角度的解释](https://zhuanlan.zhihu.com/p/63501230)
 - [五年自由职业感悟：赚钱是最深刻的修行](https://zhuanlan.zhihu.com/p/61226226)
 - [一点自由 | 阳志平 心志工具箱](https://mp.weixin.qq.com/s/-7uyue8y5XAgd56AoDQFZA)
@@ -356,6 +357,7 @@
 - [漫渔文化](https://www.zhipin.com/gongsi/2c695f7effb2037a1nRz3N26Eg~~.html?ka=company-intro) / [ref](https://www.zhipin.com/job_detail/4b6d6d75002244d01nJy3NW5ElM~.html)
 - [奈思设计](http://niceui.cn/)
 - [牛男网](https://www.neonan.com/)
+- [OpenResty Inc](https://openresty.com/) / [ref](https://blog.openresty.com/cn/talnets/)
 - [七牛](http://career.qiniu.com/aboutus.html)
 - [骐骥网络科技有限公司](http://ikiji.cn/) / [ref](https://forum.vuejs.org/t/topic/35100)
 - [简单心理](http://www.jiandanxinli.com/)
