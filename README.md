@@ -234,23 +234,12 @@
 ## <a name="jobs" href="#jobs">招聘网站</a>
 
 - [一早一晚招聘](http://yizaoyiwan.com/categories/employer) - 一早一晚社区的招聘版块
-- [Ruby China 招聘版块](https://www.google.com/search?newwindow=1&biw=1440&bih=732&tbs=qdr%3Ay%2Csbd%3A1&q=site%3Aruby-china.org+%22%E8%BF%9C%E7%A8%8B%22+%22%E6%8B%9B%E8%81%98%22&oq=site%3Aruby-china.org+%22%E8%BF%9C%E7%A8%8B%22+%22%E6%8B%9B%E8%81%98%22&gs_l=serp.3...4629.4629.0.4843.1.1.0.0.0.0.0.0..0.0....0...1c.1.64.serp..1.0.0.b2In-7U128I)
-- [Laravel China 招聘版块](https://laravel-china.org/search?q=%E8%BF%9C%E7%A8%8B)
+- [Ruby China 招聘版块](https://ruby-china.org/jobs)
+- [Laravel 招聘版块](https://learnku.com/laravel/c/php-jobs)
 - [SegmentFault 招聘](https://segmentfault.com/jobs/search?remote=1) - SegmentFault 的招聘版块中支持按远程筛选
 - [七星远程](http://www.remotejob.cn/) - 远程工作招聘信息的聚合网站
 - [远程.work](http://yuancheng.work/) - 远程工作招聘信息的聚合网站
 - [Indeed \| 远程](https://cn.indeed.com/%E5%B7%A5%E4%BD%9C-%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC) - Indeed 远程办公版块，可以找到一些非研发类的远程工作
-- [We Work Remotely](https://weworkremotely.com/) - 寻找或者发布远程工作机会
-- [Stackoverflow Careers](https://stackoverflow.com/jobs/remote-developer-jobs) - Stackoverflow 的招聘频道，提供专门的过滤项来检索远程职位
-- [Work from Home](https://www.wfh.io/) - 国外一个发布远程招聘帖的网站，比较特色的是它会列出支持远程工作的公司列表
-- [Flex Jobs](https://www.flexjobs.com/) - Find Telecommuting Jobs and other great flexible jobs such as Part-Time jobs and Freelance work.
-- [Front-end Developer Job](http://frontenddeveloperjob.com/) - 国外前端工程师招聘网站，有不少支持远程的公司
-- [REMOTIVE JOBS](https://remotive.io/find-a-job/) - 国外的远程工作周刊网站新上线的招聘频道
-- [Remote Internships](http://www.internships.com/virtual) - 为学生提供 1-3 个月的远程实习职位
-- [Remote Ok](https://remoteok.io/) - 远程工作招聘网站，分为工作机会、创业团队和实习机会三个大块
-- [Remote Jobs Expert](https://www.remotejobsexpert.com) - 专门针对 Remote Jobs 的搜索引擎
-- [Vuejs jobs](https://vuejobs.com/?ref=vuejs) - 针对使用vue.js的前端开发这的岗位，有远程
-- [WEMO](https://wemo.work/) - 寻找或者发布远程工作机会
 - [中画论坛 - 插画征稿招聘](http://bbs.chahua.org/thread.php?fid=8&page=1) - 经常会有插画师的远程全职或者兼职工作机会
 - [Slasify](https://slasify.com/) - 连结来自全球的遠程工作者组成跨领域的虚拟团队，为企业提供更灵活的人才运用場景
 - [远程工作](https://job.solitud.es/) - 集合来自各个社区与网站上的远程机会
