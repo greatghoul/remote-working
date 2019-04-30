@@ -44,7 +44,7 @@
 
 - [再次反省做课这件事](https://blog.meathill.com/share/continue-self-questioning-about-lecture.html)
 - [为什么你老板还没有推行在家办公？一个传播学角度的解释](https://zhuanlan.zhihu.com/p/63501230)
-- [五年自由职业感悟：赚钱是最深刻的修行](https://zhuanlan.zhihu.com/p/61226226)
+- [五年自由职业感悟：赚钱是最深刻的修行](http://www.toutiaoba.com/thread-623887-1-1.html)
 - [一点自由 | 阳志平 心志工具箱](https://mp.weixin.qq.com/s/-7uyue8y5XAgd56AoDQFZA)
 - [如何做好一个远程工作的Project Manager (项目管理人)？](https://mp.weixin.qq.com/s/4Az5QeSjqsQ13xpBjpedzw)
 - [如何加入一家全职远程的公司](https://blog.meathill.com/tech/how-to-get-a-full-time-remote-job.html)
