@@ -42,6 +42,8 @@
 
 #### 2019年
 
+- [Upwork Review: 为什么这是一场毫无胜算的战争？-- 问题篇](https://mp.weixin.qq.com/s/IPXkyH9dvBnVO0YdpRKAFA)
+- [Upwork Review: 为什么这是一场毫无胜算的战争？-- 建议篇](https://mp.weixin.qq.com/s/1_OAOI5I6cYnqU0_r9SGcQ)
 - [再次反省做课这件事](https://blog.meathill.com/share/continue-self-questioning-about-lecture.html)
 - [为什么你老板还没有推行在家办公？一个传播学角度的解释](https://zhuanlan.zhihu.com/p/63501230)
 - [五年自由职业感悟：赚钱是最深刻的修行](http://www.toutiaoba.com/thread-623887-1-1.html)
