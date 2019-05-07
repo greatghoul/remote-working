@@ -231,6 +231,7 @@
 收款工具
 
  - [BufPay.com 独立开发者收款平台](https://bufpay.com/) - 个人可用的即时到账收款接口
+ - [Xorpay.com 支付平台](https://xorpay.com/) - 个人签约支付宝、微信支付宝接口，安全稳定，合法合规
 
 [⬆︎返回目录](#toc)
 
