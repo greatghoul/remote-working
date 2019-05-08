@@ -277,6 +277,7 @@
 - [数字游民剑伟](https://i.loli.net/2019/01/27/5c4d190b8b4d9.jpg) - 数字游民生活方式践行者，记录边带娃边旅行工作的日常
 - [松木巴士 | 房车改装及游牧生活](https://zhuanlan.zhihu.com/c_155023320) - 房车改装和游牧生活经验分享
 - [远程客](https://yuanchengke.com/])
+- [自由职业者俱乐部](https://tinyletter.com/bobjiang) - 一个分享自由职业者成长故事的邮件列表
 
 ## <a name="wechat" href="#wechat"> 微信公众号</a>
 
