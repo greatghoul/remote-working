@@ -372,6 +372,7 @@
 - [数码荔枝](https://www.lizhi.io)
 - [深圳骐骥网络](https://www.lagou.com/gongsi/207072.html) / [ref](https://mp.weixin.qq.com/s/S4J-7-PXelaqPwpTT9iO3Q)
 - [识墨笔记](https://itunes.apple.com/cn/app/%E8%AF%86%E5%A2%A8%E7%AC%94%E8%AE%B0-%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB-%E6%89%AB%E6%8F%8F-%E4%BA%91%E7%AC%94%E8%AE%B0/id1222111073?mt=8) / [ref](https://zhuanlan.zhihu.com/p/37862204)
+- [燧炻创新](https://fydeos.com/) / [ref](https://www.v2ex.com/t/562655)
 - [Techbay](http://www.techbay.club/)
 - [Thus 如是设计](http://thus.in/)
 - [猩际教育](https://www.apeuni.com/) / [ref](https://ruby-china.org/topics/38279)
