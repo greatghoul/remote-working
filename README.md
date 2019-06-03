@@ -42,6 +42,7 @@
 
 #### 2019年
 
+- [如何一边工作，一边周游世界？数字游民生活方式第一次问答分享会](https://mp.weixin.qq.com/s/7z0vGZxQrM8BTjMpBt4KGg)
 - [没想到 9102 年了程序员对远程办公接受度这么低](https://www.v2ex.com/t/568093?p=1)
 - [肉山的远程工作手记 篇三：槟城一周远程工作记](https://post.smzdm.com/p/a07m3q40/)
 - [Upwork Review: 为什么这是一场毫无胜算的战争？-- 问题篇](https://mp.weixin.qq.com/s/IPXkyH9dvBnVO0YdpRKAFA)
