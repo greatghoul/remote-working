@@ -42,6 +42,7 @@
 
 #### 2019年
 
+- [远程工作之痛 —— 这麽简单的功能你要六小时？](https://www.jianshu.com/p/19b86daad313)
 - [看完这本书，才意识到我为什么要死扛自由职业](https://mp.weixin.qq.com/s/rSusDM4-r5hxAG5TGgM4UQ)
 - [被动收入对自由工作的人有多重要](https://mp.weixin.qq.com/s/uf9v-bARQWlWPlNieEy0wg)
 - [如何一边工作，一边周游世界？数字游民生活方式第一次问答分享会](https://mp.weixin.qq.com/s/7z0vGZxQrM8BTjMpBt4KGg)
