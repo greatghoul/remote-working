@@ -331,6 +331,7 @@
 - [Civet AI](https://www.civetai.com/) / [ref](https://www.v2ex.com/t/547967)
 - [DeepDevelop](http://deepdevelop.com/)
 - [DEX DEV](https://www.dexdev.me/) / [ref](http://yizaoyiwan.com/discussions/1591)
+- [Dimension (徵才)](https://dimension.im/) / [ref](https://github.com/APBCD/jobs/issues/13)
 - [点占科技](https://www.dianzhantech.com/)
 - [大唐商旅](https://www.ly.com/)
 - [大连悦视光合科技](https://www.elephantbi.com/) / [ref](https://www.v2ex.com/t/521097)
