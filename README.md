@@ -329,6 +329,7 @@
 - [CuriosityChina](https://curiositychina.com/)
 - [CareerBuilder](https://www.careerbuilder.com/) / [ref](https://ruby-china.org/topics/37893)
 - [Civet AI](https://www.civetai.com/) / [ref](https://www.v2ex.com/t/547967)
+- [Coderbunker](https://www.coderbunker.com/) / [ref](https://github.com/greatghoul/remote-working/issues/186)
 - [DeepDevelop](http://deepdevelop.com/)
 - [DEX DEV](https://www.dexdev.me/) / [ref](http://yizaoyiwan.com/discussions/1591)
 - [Dimension (徵才)](https://dimension.im/) / [ref](https://github.com/APBCD/jobs/issues/13)
