@@ -370,6 +370,7 @@
 - [角马原力](https://www.zhihu.com/people/gnuforce/activities)
 - [Juicedata](https://juicefs.io/) / [ref](https://www.v2ex.com/t/463092)
 - [丕丕基科技](http://www.ppgtechnology.com/)
+- [泼辣修图](https://www.polarr.co/) / [ref](https://blog.polarr.co/how-polarr-organize-remote-teams/)
 - [ProtobiaTech](http://www.protobia.net/)
 - [轻芒](http://qingmang.me/about/) / [ref](https://www.v2ex.com/t/467945)
 - [ROGUE](http://www.rogue.group/)
