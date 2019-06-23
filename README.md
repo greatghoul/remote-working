@@ -42,6 +42,7 @@
 
 #### 2019年
 
+- [远程工作的四年](https://www.v2ex.com/t/575190)
 - [远程工作者的一天](https://blog.minghe.me/a-day-of-remote-worker/)
 - [远程工作之痛 —— 这麽简单的功能你要六小时？](https://www.jianshu.com/p/19b86daad313)
 - [看完这本书，才意识到我为什么要死扛自由职业](https://mp.weixin.qq.com/s/rSusDM4-r5hxAG5TGgM4UQ)
