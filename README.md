@@ -317,6 +317,8 @@
 
 团队后面的 `ref` 链接为过往某个招聘记录，方便大家参考。
 
+开发类
+
 - [艾迪福克斯](https://www.v2ex.com/t/344933)
 - [Aries App](https://itunes.apple.com/us/developer/aries-app-inc/id383234937?mt=8) / [ref](https://www.v2ex.com/t/468849#reply13)
 - [Alta Labs](https://www.alta-labs.com/) / [ref](https://www.v2ex.com/t/469513)
@@ -359,7 +361,6 @@
 - [冒险者科技 —— 码农的冒险旅程](http://www.36node.com) / [ref](https://www.v2ex.com/t/498162)
 - [谜底科技](http://www.miidii.tech/)
 - Merico / [ref](https://ruby-china.org/topics/37709)
-- [漫渔文化](https://www.zhipin.com/gongsi/2c695f7effb2037a1nRz3N26Eg~~.html?ka=company-intro) / [ref](https://www.zhipin.com/job_detail/4b6d6d75002244d01nJy3NW5ElM~.html)
 - [奈思设计](http://niceui.cn/)
 - [牛男网](https://www.neonan.com/)
 - [OpenResty Inc](https://openresty.com/) / [ref](https://blog.openresty.com/cn/talnets/)
@@ -385,7 +386,6 @@
 - [燧炻创新](https://fydeos.com/) / [ref](https://www.v2ex.com/t/562655)
 - [Techbay](http://www.techbay.club/)
 - [Thus 如是设计](http://thus.in/)
-- [猩际教育](https://www.apeuni.com/) / [ref](https://ruby-china.org/topics/38279)
 - [新小科技](https://xinxiao.xyz/) / [ref](https://www.v2ex.com/t/552304)
 - [优帆远扬](https://yousails.com/)
 - [云印小站](http://printinn.cn/) / [ref](https://mp.weixin.qq.com/s/nG8Mr4jCGKapstuh15hG5w)
@@ -397,6 +397,19 @@
 - [掌中云](https://www.zhangzhongyun.com/) / [ref](https://www.v2ex.com/t/565312)
 - [在御](https://zaiyu.co/)
 - [增长黑盒](http://growthbox.net/) / [ref](https://www.v2ex.com/t/575846)
+
+漫画类
+
+- [漫渔文化](https://www.zhipin.com/gongsi/2c695f7effb2037a1nRz3N26Eg~~.html?ka=company-intro) / [ref](https://www.zhipin.com/job_detail/4b6d6d75002244d01nJy3NW5ElM~.html)
+
+教育类
+
+- [猩际教育](https://www.apeuni.com/) / [ref](https://ruby-china.org/topics/38279)
+
+翻译类
+
+* [山东智慧译百信息技术有限公司](https://www.xmf.com/company/3156.html) / [ref](https://www.xmf.com/job/6176.html)
+
 
 [⬆︎返回目录](#toc)
 
