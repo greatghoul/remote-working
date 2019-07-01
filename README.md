@@ -16,7 +16,7 @@
 
 ---
 
-**[广告]** 创建了一个讨论远程工作的豆瓣小组[远程工作者](https://www.douban.com/group/remoteworking/)，欢迎加入。
+**[广告]** 【5折】Design+Code 绝佳的设计和编程在线教程 1 年订阅，￥356 ( 原价 108 美元 ) - [了解一下](https://j.youzan.com/tkpQyi)
 
 ---
 
