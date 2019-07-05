@@ -42,6 +42,7 @@
 
 #### 2019年
 
+- [远程工作和外包接案有什么不同？](https://zhuanlan.zhihu.com/p/72083042)
 - [远程工作的四年](https://www.v2ex.com/t/575190)
 - [远程工作者的一天](https://blog.minghe.me/a-day-of-remote-worker/)
 - [远程工作之痛 —— 这麽简单的功能你要六小时？](https://www.jianshu.com/p/19b86daad313)
