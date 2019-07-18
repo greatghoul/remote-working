@@ -356,6 +356,7 @@
 - [另客网](https://www.links123.com/) / [ref](http://yizaoyiwan.com/discussions/1617)
 - [lordless](http://lordless.io/) / [ref](https://mp.weixin.qq.com/s/omAvRg7xflFL7k5c3UVbSQ)
 - [LodeStream](https://lodestream.com/) / [ref](https://yizaoyiwan.com/discussions/12002)
+- [lnxprotocol](https://lnxprotocol.io/) / [ref](https://rust.cc/article?id=5010e335-3fad-40d9-b02e-82334d6f585e)
 - [墨刀](https://modao.cc/)
 - [美国信用卡指南](https://www.uscreditcardguide.com/zh/) / [ref](http://yizaoyiwan.com/discussions/1628)
 - [米扑科技](https://mimvp.com/) / [ref](https://mp.weixin.qq.com/s/Bno5cgL5h9fDbJ3UktnTwg)
