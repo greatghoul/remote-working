@@ -255,6 +255,7 @@
 - [中画论坛 - 插画征稿招聘](http://bbs.chahua.org/thread.php?fid=8&page=1) - 经常会有插画师的远程全职或者兼职工作机会
 - [Slasify](https://slasify.com/) - 连结来自全球的遠程工作者组成跨领域的虚拟团队，为企业提供更灵活的人才运用場景
 - [远程工作](https://job.solitud.es/) - 集合来自各个社区与网站上的远程机会
+- [小蜜蜂远程工作](https://www.xmf.com/) - 面向三线城市提供远程工作机会
 
 [⬆︎返回目录](#toc)
 
@@ -356,6 +357,7 @@
 - [另客网](https://www.links123.com/) / [ref](http://yizaoyiwan.com/discussions/1617)
 - [lordless](http://lordless.io/) / [ref](https://mp.weixin.qq.com/s/omAvRg7xflFL7k5c3UVbSQ)
 - [LodeStream](https://lodestream.com/) / [ref](https://yizaoyiwan.com/discussions/12002)
+- [lnxprotocol](https://lnxprotocol.io/) / [ref](https://rust.cc/article?id=5010e335-3fad-40d9-b02e-82334d6f585e)
 - [墨刀](https://modao.cc/)
 - [美国信用卡指南](https://www.uscreditcardguide.com/zh/) / [ref](http://yizaoyiwan.com/discussions/1628)
 - [米扑科技](https://mimvp.com/) / [ref](https://mp.weixin.qq.com/s/Bno5cgL5h9fDbJ3UktnTwg)
