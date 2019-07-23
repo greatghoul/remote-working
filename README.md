@@ -254,7 +254,7 @@
 - [Indeed \| 远程](https://cn.indeed.com/%E5%B7%A5%E4%BD%9C-%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC) - Indeed 远程办公版块，可以找到一些非研发类的远程工作
 - [中画论坛 - 插画征稿招聘](http://bbs.chahua.org/thread.php?fid=8&page=1) - 经常会有插画师的远程全职或者兼职工作机会
 - [Slasify](https://slasify.com/) - 连结来自全球的遠程工作者组成跨领域的虚拟团队，为企业提供更灵活的人才运用場景
-- [远程工作](https://job.solitud.es/) - 集合来自各个社区与网站上的远程机会
+- [打杂网](https://daza.net/) - 每日最新远程工作机会
 - [小蜜蜂远程工作](https://www.xmf.com/) - 面向三线城市提供远程工作机会
 
 [⬆︎返回目录](#toc)
