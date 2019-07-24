@@ -299,7 +299,6 @@
 ## <a name="outsource" href="#outsource">外包平台</a>
 
 - [码市](https://mart.coding.net)
-- [大鲲](https://pro.lagou.com/)
 - [英选](https://www.linktion.cn/ )
 - [程序员客栈](https://www.proginn.com/)
 - [厘米脚印](http://www.limijiaoyin.com/)
