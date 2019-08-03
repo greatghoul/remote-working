@@ -42,6 +42,8 @@
 
 #### 2019年
 
+- [如何找到时薪 80 美元的远程工作（一）](https://geekplux.com/2019/07/31/how-to-get-jobs-pay-80-dollars-per-hour-1/)
+- [如何找到时薪 80 美元的远程工作（二）](https://geekplux.com/2019/07/31/how-to-get-jobs-pay-80-dollars-per-hour-2/)
 - [远程工作和外包接案有什么不同？](https://zhuanlan.zhihu.com/p/72083042)
 - [远程工作的四年](https://www.v2ex.com/t/575190)
 - [远程工作者的一天](https://blog.minghe.me/a-day-of-remote-worker/)
