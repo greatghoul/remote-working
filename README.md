@@ -22,6 +22,7 @@
 
 ## <a name="toc"></a> 目录
 
+- [常见问题](#faq)
 - [文章和讨论](#articles)
 - [影音资料](#media)
 - [演示文稿](#slides)
@@ -38,10 +39,20 @@
 - [其它资源](#others)
 - [贡献者列表](#contributors)
 
+
+## <a name="faq" href="#faq">常见问题</a>
+
+怎么解决社保和纳税？
+
+- [各位对外远程开发者, 怎么管理个人所得税?](https://www.v2ex.com/t/588882)
+
+[⬆︎返回目录](#toc)
+
 ## <a name="articles" href="#articles">文章和讨论</a>
 
 #### 2019年
 
+- [各位对外远程开发者, 怎么管理个人所得税?](https://www.v2ex.com/t/588882)
 - [如何找到时薪 80 美元的远程工作（一）](https://geekplux.com/2019/07/31/how-to-get-jobs-pay-80-dollars-per-hour-1/)
 - [如何找到时薪 80 美元的远程工作（二）](https://geekplux.com/2019/07/31/how-to-get-jobs-pay-80-dollars-per-hour-2/)
 - [远程工作和外包接案有什么不同？](https://zhuanlan.zhihu.com/p/72083042)
