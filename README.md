@@ -56,6 +56,7 @@
 
 #### 2019年
 
+- [浅谈跨境跨区远程工作下的EoR劳务模式](https://zhuanlan.zhihu.com/p/77090241)
 - [各位对外远程开发者, 怎么管理个人所得税?](https://www.v2ex.com/t/588882)
 - [如何找到时薪 80 美元的远程工作（一）](https://geekplux.com/2019/07/31/how-to-get-jobs-pay-80-dollars-per-hour-1/)
 - [如何找到时薪 80 美元的远程工作（二）](https://geekplux.com/2019/07/31/how-to-get-jobs-pay-80-dollars-per-hour-2/)
