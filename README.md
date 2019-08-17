@@ -377,6 +377,7 @@
 - [imToken](https://token.im/careers)
 - [开发邦](http://www.kaifabang.com/) / [ref](https://mp.weixin.qq.com/s/Dy9S3ibPLdJ9sUbzW4-hRg)
 - [另客网](https://www.links123.com/) / [ref](http://yizaoyiwan.com/discussions/1617)
+- [量城科技](https://quanturban.com/) / [ref](https://www.v2ex.com/t/592017)
 - [lordless](http://lordless.io/) / [ref](https://mp.weixin.qq.com/s/omAvRg7xflFL7k5c3UVbSQ)
 - [LodeStream](https://lodestream.com/) / [ref](https://yizaoyiwan.com/discussions/12002)
 - [lnxprotocol](https://lnxprotocol.io/) / [ref](https://rust.cc/article?id=5010e335-3fad-40d9-b02e-82334d6f585e)
