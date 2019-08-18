@@ -350,6 +350,7 @@
 - [百分之八十](https://www.80percent.io/)
 - [Bento](https://makebento.com/) / [ref](https://www.v2ex.com/t/486904)
 - [BespinGlobal](https://www.bespinglobal.com/) / [ref](https://www.v2ex.com/t/495432)
+- [Byzan Team](https://github.com/Byzanteam/handbook) / [ref](https://www.v2ex.com/t/591973)
 - [彩程设计](https://tower.im/about_us)
 - [橙陌科技](https://www.cmcm.us/)
 - [程沛科技](https://www.extreamax.com/) / [ref](https://slasify.com/en/remote-job/5ca1ea4b52101826e601de3e)
