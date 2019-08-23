@@ -205,6 +205,7 @@
 
 ## <a name="reports" href="#reports">调查报告</a>
 
+- [不用上班，他们的生活过得怎么样？| KY调研：自由职业从业指南](https://mp.weixin.qq.com/s/cZC8qL1x9ksddARC7L7cvQ)
 - [远程工作元年 - 2015 国内远程工作群体报告 (上篇)](http://yizaoyiwan.com/discussions/733)
 - [远程工作元年 - 2015 国内远程工作群体报告 (下篇)](http://yizaoyiwan.com/discussions/747)
 
