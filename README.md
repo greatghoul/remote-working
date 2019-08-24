@@ -279,6 +279,7 @@
 - [中画论坛 - 插画征稿招聘](http://bbs.chahua.org/thread.php?fid=8&page=1) - 经常会有插画师的远程全职或者兼职工作机会
 - [Slasify](https://slasify.com/) - 连结来自全球的遠程工作者组成跨领域的虚拟团队，为企业提供更灵活的人才运用場景
 - [小蜜蜂远程工作](https://www.xmf.com/) - 面向三线城市提供远程工作机会
+- [好对友](https://ourwork.nework360.com/)
 
 [⬆︎返回目录](#toc)
 
