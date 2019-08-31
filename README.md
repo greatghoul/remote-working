@@ -416,7 +416,7 @@
 - [Techbay](http://www.techbay.club/)
 - [Thus 如是设计](http://thus.in/)
 - [新小科技](https://xinxiao.xyz/) / [ref](https://www.v2ex.com/t/552304)
-- [优帆远扬](https://yousails.com/)
+- [优帆远扬](https://yousails.com/) / [ref](https://learnku.com/laravel/t/33203)
 - [云印小站](http://printinn.cn/) / [ref](https://mp.weixin.qq.com/s/nG8Mr4jCGKapstuh15hG5w)
 - [极忆](https://imemoryer.com/) / [ref](https://www.v2ex.com/t/547238)
 - [铸匠科技](http://zjtech.cc/)
