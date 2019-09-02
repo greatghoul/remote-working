@@ -60,6 +60,7 @@
 
 #### 2019年
 
+- [远程一年的总结](https://www.v2ex.com/t/595749)
 - [写给远程工作一周年的日子](https://learnku.com/articles/32622)
 - [浅谈跨境跨区远程工作下的EoR劳务模式](https://zhuanlan.zhihu.com/p/77090241)
 - [各位对外远程开发者, 怎么管理个人所得税?](https://www.v2ex.com/t/588882)
