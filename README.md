@@ -60,6 +60,7 @@
 
 #### 2019年
 
+- [读《Remote2》聊聊远程工作](https://juejin.im/post/5d6bc1aff265da039f12cff6)
 - [远程一年的总结](https://www.v2ex.com/t/595749)
 - [写给远程工作一周年的日子](https://learnku.com/articles/32622)
 - [浅谈跨境跨区远程工作下的EoR劳务模式](https://zhuanlan.zhihu.com/p/77090241)
