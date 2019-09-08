@@ -314,6 +314,7 @@
 - [松木巴士 | 房车改装及游牧生活](https://zhuanlan.zhihu.com/c_155023320) - 房车改装和游牧生活经验分享
 - [远程客](https://yuanchengke.com/])
 - [自由职业者俱乐部](https://tinyletter.com/bobjiang) - 一个分享自由职业者成长故事的邮件列表
+- [远程与天边](https://blockflats.com/) - 聚合关于远程工作，独立开发者访谈，自由职业经历分享，增长黑客，盈利产品案例分析等信息，实践“只工作，不上班”的自由工作之路
 
 ## <a name="wechat" href="#wechat"> 微信公众号</a>
 
