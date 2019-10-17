@@ -277,7 +277,6 @@
 - [Ruby China 招聘版块](https://ruby-china.org/jobs)
 - [Laravel 招聘版块](https://learnku.com/laravel/c/php-jobs)
 - [SegmentFault 招聘](https://segmentfault.com/jobs/search?remote=1) - SegmentFault 的招聘版块中支持按远程筛选
-- [七星远程](http://www.remotejob.cn/) - 远程工作招聘信息的聚合网站
 - [远程.work](http://yuancheng.work/) - 远程工作招聘信息的聚合网站
 - [Indeed \| 远程](https://cn.indeed.com/%E5%B7%A5%E4%BD%9C-%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC) - Indeed 远程办公版块，可以找到一些非研发类的远程工作
 - [中画论坛 - 插画征稿招聘](http://bbs.chahua.org/thread.php?fid=8&page=1) - 经常会有插画师的远程全职或者兼职工作机会
