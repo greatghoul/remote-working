@@ -144,6 +144,7 @@
 - [记录009：远程工作需要注意什么-180107](https://mp.weixin.qq.com/s/JW2ZdfYwPiR_HJS9TatHMQ)
 - [远程工作看起来理想，但其实有些压力你可能不会想到](https://www.qdaily.com/articles/48777.html)
 - [除了拖延，远程工作的压力还来自“不知道老板在想什么”](https://mp.weixin.qq.com/s/kmgFuuNIKcDW2dt2OuPHCA)
+- [程序员远程工作那些事儿 Live 演讲稿](https://zhuanlan.zhihu.com/p/41159126)
 
 [⬅︎往年文章](articles/)
 [⬆︎返回目录](#toc)
@@ -164,6 +165,7 @@
 - [知乎Live - 业余时间赚钱的6种策略](https://www.zhihu.com/lives/870704471959822336)
 - [Cathy流浪记：如何变旅行边工作，成为数字游民](https://www.bilibili.com/video/av21642180/)
 - [不一·FM Vol. 02 吴博：用户遍布世界的自由 Web 设计师](https://www.lizhi.fm/49020635/2650025155245500422)
+- [知乎Live - 程序员远程工作那些事](https://www.zhihu.com/lives/1002975865147355136)
 
 #### 2017年
 
