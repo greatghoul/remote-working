@@ -379,6 +379,7 @@
 - [Focus Solutions](https://www.focussi.com/) / [ref](https://yizaoyiwan.com/discussions/12141)
 - [房智汇](https://housesigma.com) / [ref](https://www.v2ex.com/t/539071)
 - [Growthhash](https://fanbi.io/) / [ref](https://www.v2ex.com/t/460188)
+- [光速软件](https://www.velosoft.cn/) / [ref](https://www.v2ex.com/t/609288)
 - [杭州巴比特](http://www.8btc.com/) / [ref](https://ruby-china.org/topics/34882)
 - [杭州天车团队](https://ruby-china.org/tianche)
 - [杭州知鹏网络科技有限公司](http://www.xueshifudao.com/) / [ref](http://www.ciweishixi.com/job/detail-77466.html)
