@@ -460,6 +460,7 @@
 - [国内又有了新的远程工作机会](http://m.ruguoapp.com/topics/58a12fe772a4680014bdee24) - 一个即刻的提醒
 - [远程手记](https://zhuanlan.zhihu.com/yidianyidi) - 关于远程，所有你想知道的，我知无不言
 - [怎样做一个只工作不上班的自由职业者](https://www.zhihu.com/collection/215602507) - 一个知乎收藏夹
+- [专题-自由职业之路](https://github.com/efonmark/efonmark-blog/blob/master/04-%E4%B8%93%E9%A2%98/2019-11-04-%E4%B8%93%E9%A2%98-%E8%87%AA%E7%94%B1%E8%81%8C%E4%B8%9A%E4%B9%8B%E8%B7%AF.md)
 - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources.
 - [NODESK](https://nodesk.co/) - A curated collection of resources for the digital nomad, remote worker and traveling professional.
 
