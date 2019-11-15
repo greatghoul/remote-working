@@ -62,6 +62,7 @@
 
 #### 2019年
 
+- [也从（新人）雇主的角度谈谈远程工作](https://eleduck.com/posts/Pwwfyz)
 - [这是你希望的自由职业么](https://mp.weixin.qq.com/s/FdPj31F5zSdUP3MrtQCCNA)
 - [关于远程工作的一些思考](https://mp.weixin.qq.com/s/Z2qudLcK4i5DGaFaDdMLag)
 - [自由职人 | 姜赟：爱精酿玩乐队的程序员](https://mp.weixin.qq.com/s/3ALaKVq9capfzIoaAVDUnw)
