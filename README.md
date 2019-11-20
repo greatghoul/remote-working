@@ -45,7 +45,6 @@
 - [其它资源](#others)
 - [贡献者列表](#contributors)
 
-
 ## <a name="faq" href="#faq">常见问题</a>
 
 你是否适合远程工作？
@@ -62,6 +61,9 @@
 
 #### 2019年
 
+=======
+- [自我时间管理的前提是先建立「时间意识」| 电鸭访谈 x Rita](https://eleduck.com/posts/eVvfAa)
+- [再从（新人）雇主的角度谈谈远程工作的经历和坑](ttps://eleduck.com/posts/POGfwR)
 - [这是你希望的自由职业么](https://mp.weixin.qq.com/s/FdPj31F5zSdUP3MrtQCCNA)
 - [关于远程工作的一些思考](https://mp.weixin.qq.com/s/Z2qudLcK4i5DGaFaDdMLag)
 - [自由职人 | 姜赟：爱精酿玩乐队的程序员](https://mp.weixin.qq.com/s/3ALaKVq9capfzIoaAVDUnw)
