@@ -61,7 +61,7 @@
 
 #### 2019年
 
-=======
+- [有偿解题 - 记第一次发包](https://eleduck.com/posts/Mb2foM)
 - [自我时间管理的前提是先建立「时间意识」| 电鸭访谈 x Rita](https://eleduck.com/posts/eVvfAa)
 - [再从（新人）雇主的角度谈谈远程工作的经历和坑](ttps://eleduck.com/posts/POGfwR)
 - [这是你希望的自由职业么](https://mp.weixin.qq.com/s/FdPj31F5zSdUP3MrtQCCNA)
