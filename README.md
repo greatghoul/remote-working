@@ -18,11 +18,11 @@
 
 **[推广]**
 
-[HabitRPG](https://habitica.com/) 是一个 GTD 的工具，不过相比于传统的 GTD 工具，不同的是，它把待办事项游戏化，还可以组队打怪，更加有趣。
+**电鸭社区**是互联网创意工作者们交流充电的聚集地，我们倡导「只工作，不上班」的工作心态。
+上线5年以来，聚集了为数不少的互联网行业的创意工作者，主要以开发和设计为主。
+社区也是国内远程工作者、自由职业者和数字游民们经常出没的地方。
 
-我在 HabitRPG 中建立了名为 “远程工作者” 的小队，有兴趣的朋友朋友可以一起加入来玩玩。
-
-[**申请加入**](https://jinshuju.net/f/iAl7CN)
+[进入社区 >](https://eleduck.com/?utm_source=remote-working&utm_medium=banner&utm_campaign=github-promo)
 
 ---
 
