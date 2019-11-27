@@ -22,7 +22,7 @@
 上线5年以来，聚集了为数不少的互联网行业的创意工作者，主要以开发和设计为主。
 社区也是国内远程工作者、自由职业者和数字游民们经常出没的地方。
 
-[进入社区 >](https://eleduck.com/?utm_source=remote-working&utm_medium=banner&utm_campaign=github-promo)
+[进入社区 >](https://eleduck.com/?utm_source=remote-working&utm_medium=github-banner&utm_campaign=remote-working-eleduck)
 
 ---
 
