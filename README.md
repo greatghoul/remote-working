@@ -159,6 +159,7 @@
 
 #### 2019年
 
+- [ZiYo 开播闲聊：自由职业很环保](https://mp.weixin.qq.com/s/fLBOLozSUJCyLCl_zINJ_Q)
 - [煽风点火 ｜ 对谈中国数字游民社群群主Jarod，如何一边旅行一边赚钱？](https://mp.weixin.qq.com/s/NvxBscmozCIGGd6_whHcdg)
 - [什么是远程工作，我是如何远程工作的？](https://www.bilibili.com/video/av49314633)
 - [180° 第十六期 • 自由全栈设计师丁一](https://anyway.fm/dingyi/)
