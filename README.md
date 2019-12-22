@@ -310,6 +310,7 @@
 - [豆瓣小组 - 英语兼职](https://www.douban.com/group/524795/)
 - [Upwork中国社群](https://www.kancloud.cn/jielinko/upwork-bbs/380491)
 - [V2EX - 远程工作](https://www.v2ex.com/go/remote)
+- [脸书小组 - 台湾远程工作](https://www.facebook.com/groups/remotetaiwan/)
 
 ## <a name="blogs" href="#blogs">博客媒体</a>
 
