@@ -61,6 +61,7 @@
 
 #### 2019年
 
+- [一个三十多岁自由职业者的现实和未来](https://mp.weixin.qq.com/s/2L2NLsCP1-TTzWZCXE3PFA)
 - [想要遠距工作，你準備好了嗎?(上) | 超衝擊的五大難關](https://medium.com/remote-taiwan/%E6%83%B3%E8%A6%81%E9%81%A0%E8%B7%9D%E5%B7%A5%E4%BD%9C-%E4%BD%A0%E6%BA%96%E5%82%99%E5%A5%BD%E4%BA%86%E5%97%8E-%E4%B8%8A-%E8%B6%85%E8%A1%9D%E6%93%8A%E7%9A%84%E4%BA%94%E5%A4%A7%E9%9B%A3%E9%97%9C-8e6cb9096b86)
 - [数码游民之旅1 - 清迈](https://zhuanlan.zhihu.com/p/94636518)
 - [有偿解题 - 记第一次发包](https://eleduck.com/posts/Mb2foM)
@@ -328,6 +329,7 @@
 - [远程客](https://yuanchengke.com/])
 - [自由职业者俱乐部](https://tinyletter.com/bobjiang) - 一个分享自由职业者成长故事的邮件列表
 - [远程与天边](https://blockflats.com/) - 聚合关于远程工作，独立开发者访谈，自由职业经历分享，增长黑客，盈利产品案例分析等信息，实践“只工作，不上班”的自由工作之路
+- [艾莉森王](https://space.bilibili.com/14621086) - 艾莉森王的B站空间，数字游民 / 自我提升 / 瑜伽 / 成长
 
 ## <a name="wechat" href="#wechat"> 微信公众号</a>
 
