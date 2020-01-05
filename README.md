@@ -59,6 +59,10 @@
 
 ## <a name="articles" href="#articles">文章和讨论</a>
 
+#### 2010年
+
+- [如何攻克异地协作难题？看 Tower 的 72 个月远程工作实践](https://www.infoq.cn/article/swdsWXKasCMU0ePyBCSs?utm_source=rss&utm_medium=article)
+
 #### 2019年
 
 - [ZEIT.co 是什么样一个组织?](https://www.zhihu.com/question/59278159/answer/813629215)
