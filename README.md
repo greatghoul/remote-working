@@ -463,8 +463,11 @@
 
 翻译类
 
-* [山东智慧译百信息技术有限公司](https://www.xmf.com/company/3156.html) / [ref](https://www.xmf.com/job/6176.html)
+- [山东智慧译百信息技术有限公司](https://www.xmf.com/company/3156.html) / [ref](https://www.xmf.com/job/6176.html)
 
+其它
+
+- [北京萌爪科技](http://www.wecarepet.com/)
 
 [⬆︎返回目录](#toc)
 
