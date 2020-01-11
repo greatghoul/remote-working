@@ -468,6 +468,7 @@
 其它
 
 - [北京萌爪科技](http://www.wecarepet.com/)
+- [新义互联](https://adtalos.com) / [ref](https://www.v2ex.com/t/636871)
 
 [⬆︎返回目录](#toc)
 
