@@ -61,6 +61,7 @@
 
 #### 2020年
 
+- [想体验一下自由职业或远程办公？现在或许是个机会](https://mp.weixin.qq.com/s/gDaOSThvxIqJh3x2s-fklg)
 - [远程办公: 如何提高自制力？](https://ruby-china.org/topics/39469)
 - [推迟上班 & 远程上班的公司 和 坚持早来上班的公司 List](https://www.v2ex.com/t/640466)
 - [如何寻找一份远程工作](https://mp.weixin.qq.com/s/C3zKje3YBqKQ0XwKxyPpfg)
