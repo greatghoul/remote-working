@@ -61,6 +61,7 @@
 
 #### 2020年
 
+- [延迟上班别发愁，远程办公抗疫情！](https://mp.weixin.qq.com/s/HzlMCu9-s-jlRwBUlQknKw)
 - [不想员工冒着被感染的风险，但也不想公司面临危机，倒不如尝试远程工作？](https://mp.weixin.qq.com/s/DRy8YhQ662DHr65LdKszSA)
 - [Slasify的远程工作实战小贴士](https://eleduck.com/posts/PgYfnr)
 - [想体验一下自由职业或远程办公？现在或许是个机会](https://mp.weixin.qq.com/s/gDaOSThvxIqJh3x2s-fklg)
@@ -340,6 +341,7 @@
 - [自由职业者俱乐部](https://tinyletter.com/bobjiang) - 一个分享自由职业者成长故事的邮件列表
 - [远程与天边](https://blockflats.com/) - 聚合关于远程工作，独立开发者访谈，自由职业经历分享，增长黑客，盈利产品案例分析等信息，实践“只工作，不上班”的自由工作之路
 - [艾莉森王](https://space.bilibili.com/14621086) - 艾莉森王的B站空间，数字游民 / 自我提升 / 瑜伽 / 成长
+- [NataliaMok](https://nataliamok.com/) - 地理套利、生活方式设计
 
 ## <a name="wechat" href="#wechat"> 微信公众号</a>
 
