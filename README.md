@@ -61,6 +61,7 @@
 
 #### 2020年
 
+- [延迟上班别发愁，远程办公抗疫情！](https://mp.weixin.qq.com/s/HzlMCu9-s-jlRwBUlQknKw)
 - [不想员工冒着被感染的风险，但也不想公司面临危机，倒不如尝试远程工作？](https://mp.weixin.qq.com/s/DRy8YhQ662DHr65LdKszSA)
 - [Slasify的远程工作实战小贴士](https://eleduck.com/posts/PgYfnr)
 - [想体验一下自由职业或远程办公？现在或许是个机会](https://mp.weixin.qq.com/s/gDaOSThvxIqJh3x2s-fklg)
