@@ -61,6 +61,7 @@
 
 #### 2020年
 
+- [Slasify的远程工作实战小贴士](https://eleduck.com/posts/PgYfnr)
 - [想体验一下自由职业或远程办公？现在或许是个机会](https://mp.weixin.qq.com/s/gDaOSThvxIqJh3x2s-fklg)
 - [远程办公: 如何提高自制力？](https://ruby-china.org/topics/39469)
 - [推迟上班 & 远程上班的公司 和 坚持早来上班的公司 List](https://www.v2ex.com/t/640466)
