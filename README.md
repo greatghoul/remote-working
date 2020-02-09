@@ -61,6 +61,7 @@
 
 #### 2020年
 
+- [与其困在家里，不如思考一下互联网副业?](https://littledew.com/p/3265.html)
 - [PingCAP 的 5 年远程办公实践](https://mp.weixin.qq.com/s/alygC64BnIKbuuxBBZAOxA)
 - [MegaEase 的远程工作文化](https://coolshell.cn/articles/20765.html)
 - [延迟上班别发愁，远程办公抗疫情！](https://mp.weixin.qq.com/s/HzlMCu9-s-jlRwBUlQknKw)
