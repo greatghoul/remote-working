@@ -175,6 +175,10 @@
 
 ## <a name="media" href="#media">影音资料</a>
 
+#### 2020年
+
+- [回形针如何远程办公](https://mp.weixin.qq.com/s/J9RhOU-skEfcd_aHmk9OBA?)
+
 #### 2019年
 
 - [ZiYo 开播闲聊：自由职业很环保](https://mp.weixin.qq.com/s/fLBOLozSUJCyLCl_zINJ_Q)
