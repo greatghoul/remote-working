@@ -61,6 +61,7 @@
 
 #### 2020年
 
+- [远程工作的一些思考](https://zensky123.github.io/Some-thoughts-on-remote-working.html)
 - [远程办公: 如何边工作，边带孩子？](https://mp.weixin.qq.com/s/zIHpD_7v1AU1zSLNIECPbg)
 - [与其困在家里，不如思考一下互联网副业?](https://littledew.com/p/3265.html)
 - [PingCAP 的 5 年远程办公实践](https://mp.weixin.qq.com/s/alygC64BnIKbuuxBBZAOxA)
