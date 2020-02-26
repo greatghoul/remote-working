@@ -61,6 +61,7 @@
 
 #### 2020年
 
+- [远程办公如何保持高效？资深敏捷教练为你支招！](https://mp.weixin.qq.com/s/ycTMzU6c3EK633TMxYsZtw)
 - [远程工作的一些思考](https://zensky123.github.io/Some-thoughts-on-remote-working.html)
 - [远程办公: 如何边工作，边带孩子？](https://mp.weixin.qq.com/s/zIHpD_7v1AU1zSLNIECPbg)
 - [与其困在家里，不如思考一下互联网副业?](https://littledew.com/p/3265.html)
