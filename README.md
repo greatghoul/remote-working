@@ -61,6 +61,7 @@
 
 #### 2020年
 
+- [千万不要成为自由职业者 - 过来人经验](https://mp.weixin.qq.com/s/AKZVKQrv1hMdWxLipscGRg)
 - [现代文明社会就该长期在家办公](https://mp.weixin.qq.com/s/-lIyIlUkomWrlwUoW3b5lg)
 - [远程办公如何保持高效？资深敏捷教练为你支招！](https://mp.weixin.qq.com/s/ycTMzU6c3EK633TMxYsZtw)
 - [远程工作的一些思考](https://zensky123.github.io/Some-thoughts-on-remote-working.html)
