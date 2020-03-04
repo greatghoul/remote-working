@@ -1,5 +1,6 @@
 # 2017年文章
 
+- [如何进行远程设计冲刺——给远程办公团队的小窍门](https://mp.weixin.qq.com/s/-t-92thU3wuTSXmKxeoeeQ)
 - [2018年38种自由职业大盘点](http://www.wocation.cc/2017/12/15/123/)
 - [远程两年之后，工作生活小结](https://zhuanlan.zhihu.com/p/31884972)
 - [为什么越来越多的创业公司选择远程工作？](https://news.cnblogs.com/n/583905/)
