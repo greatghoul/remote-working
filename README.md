@@ -80,6 +80,7 @@
 
 #### 2019年
 
+- [【开怼吧】第37: 移动办公最终会取代传统办公模式吗？](https://bbs.sangfor.com.cn/forum.php?mod=viewthread&tid=67681)
 - [ZEIT.co 是什么样一个组织?](https://www.zhihu.com/question/59278159/answer/813629215)
 - [一个三十多岁自由职业者的现实和未来](https://mp.weixin.qq.com/s/2L2NLsCP1-TTzWZCXE3PFA)
 - [想要遠距工作，你準備好了嗎?(上) | 超衝擊的五大難關](https://medium.com/remote-taiwan/%E6%83%B3%E8%A6%81%E9%81%A0%E8%B7%9D%E5%B7%A5%E4%BD%9C-%E4%BD%A0%E6%BA%96%E5%82%99%E5%A5%BD%E4%BA%86%E5%97%8E-%E4%B8%8A-%E8%B6%85%E8%A1%9D%E6%93%8A%E7%9A%84%E4%BA%94%E5%A4%A7%E9%9B%A3%E9%97%9C-8e6cb9096b86)
