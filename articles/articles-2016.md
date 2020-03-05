@@ -1,5 +1,6 @@
 # 2016年文章
 
+- [低效？有时是因为没有找到对的地方去工作](https://3cwork.com/discussions/755)
 - [远程办公员工十年翻番 数字游民会成主流吗？](https://mp.weixin.qq.com/s/6bjdsBFBwba2JmZBWgJ7wg)
 - [为什么上班和下班已经过时](https://ruanyf.github.io/survivor/collapse/remote-work.html)
 - [做技术的，如何找到一个远程办公的工作？](https://www.zhihu.com/question/52118159/answer/136558447)
