@@ -16,13 +16,7 @@
 
 ---
 
-**[推广]**
-
-**电鸭社区**是互联网创意工作者们交流充电的聚集地，我们倡导「只工作，不上班」的工作心态。
-上线5年以来，聚集了为数不少的互联网行业的创意工作者，主要以开发和设计为主。
-社区也是国内远程工作者、自由职业者和数字游民们经常出没的地方。
-
-[进入社区 >](https://eleduck.com/?utm_source=remote-working&utm_medium=github-banner&utm_campaign=remote-working-eleduck)
+[**【远程战疫：全球远程职位精选001】全职远程 JS 全栈工程师（Filestage @德国）**](https://sourl.cn/abM3YW)
 
 ---
 
