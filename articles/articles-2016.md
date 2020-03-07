@@ -1,5 +1,6 @@
 # 2016年文章
 
+- [让开发者更开心、更高效的远程工作是否适合你呢？](https://juejin.im/entry/57c6881c165abd00667cca7a)
 - [低效？有时是因为没有找到对的地方去工作](https://3cwork.com/discussions/755)
 - [远程办公员工十年翻番 数字游民会成主流吗？](https://mp.weixin.qq.com/s/6bjdsBFBwba2JmZBWgJ7wg)
 - [为什么上班和下班已经过时](https://ruanyf.github.io/survivor/collapse/remote-work.html)
