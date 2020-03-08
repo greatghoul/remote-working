@@ -116,6 +116,7 @@
 
 #### 2018年
 
+- [没有管理者的公司是如何做决策的](https://www.infoq.cn/article/decisions-company-no-managers/)
 - [怎样带着你的工作去远方？](http://www.zwgl.com.cn/cn/66423170.html)
 - [我的2018 – 自由开发者的一年](https://xinle.co/2018/12/28/%E6%88%91%E7%9A%842018-%E8%87%AA%E7%94%B1%E5%BC%80%E5%8F%91%E8%80%85%E7%9A%84%E4%B8%80%E5%B9%B4/)
 - [异地技术团队高效协作的经验分享](https://juejin.im/post/5c09d75b51882516cd70d87b)
