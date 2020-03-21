@@ -307,7 +307,7 @@
 
 ## <a name="jobs" href="#jobs">招聘网站</a>
 
-- [一早一晚招聘](http://yizaoyiwan.com/categories/employer) - 一早一晚社区的招聘版块
+- [一早一晚招聘](https://3cwork.com/discussions?category=jobs) - 一早一晚社区的招聘版块
 - [Ruby China 招聘版块](https://ruby-china.org/jobs)
 - [Laravel 招聘版块](https://learnku.com/laravel/c/php-jobs)
 - [SegmentFault 招聘](https://segmentfault.com/jobs/search?remote=1) - SegmentFault 的招聘版块中支持按远程筛选
