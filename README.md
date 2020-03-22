@@ -55,6 +55,8 @@
 
 #### 2020年
 
+- [远程工作是成年人的游戏](https://terrytai.me/yuan-cheng-gong-zuo-shi-cheng-nian-ren-de-you-xi)
+- [远程 2 年、小米对讲机产品负责人 4 年 → 重启自由探索](https://eleduck.com/posts/6yGfOb)
 - [千万不要在床上工作，因为...](https://eleduck.com/posts/6QZfGA)
 - [千万不要成为自由职业者 - 过来人经验](https://mp.weixin.qq.com/s/AKZVKQrv1hMdWxLipscGRg)
 - [现代文明社会就该长期在家办公](https://mp.weixin.qq.com/s/-lIyIlUkomWrlwUoW3b5lg)
