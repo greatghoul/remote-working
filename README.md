@@ -192,6 +192,7 @@
 
 #### 2020年
 
+- [流动人口 #2: 听远程七年的程序员分享他的工作经历，一起探远程工作的未来](https://music.163.com/#/program?id=2066533937&userid=51139069)
 - [不可避免的远程办公 - 胡键 #GDG西安三月线上直播活动](https://www.bilibili.com/video/av94748858)
 - [回形针如何远程办公](https://mp.weixin.qq.com/s/J9RhOU-skEfcd_aHmk9OBA?)
 
