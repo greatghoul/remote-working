@@ -523,14 +523,14 @@
 
 贡献者 | 提交次数
 :----------- | -------:
-<img src="https://avatars1.githubusercontent.com/u/208966?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/greatghoul">greatghoul</a> | 555
-<img src="https://avatars0.githubusercontent.com/u/1465894?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/mittya">mittya</a> | 5
+<img src="https://avatars1.githubusercontent.com/u/208966?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/greatghoul">greatghoul</a> | 575
+<img src="https://avatars0.githubusercontent.com/u/1465894?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/mittya">mittya</a> | 6
 <img src="https://avatars2.githubusercontent.com/u/1574884?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/howiehu">howiehu</a> | 4
 <img src="https://avatars0.githubusercontent.com/u/29243953?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/naiba">naiba</a> | 3
 <img src="https://avatars1.githubusercontent.com/u/1734421?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/lankeren">lankeren</a> | 3
 <img src="https://avatars1.githubusercontent.com/u/6696864?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/fcode520">fcode520</a> | 3
-<img src="https://avatars2.githubusercontent.com/u/3357061?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/cestivan">cestivan</a> | 2
-<img src="https://avatars1.githubusercontent.com/u/9860748?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/WuHuaJi0">WuHuaJi0</a> | 2
+<img src="https://avatars0.githubusercontent.com/u/5461667?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/cnkevinlee">cnkevinlee</a> | 3
+<img src="https://avatars0.githubusercontent.com/u/2424092?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/VilenEera">VilenEera</a> | 2
 <img src="https://avatars0.githubusercontent.com/u/1961117?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/ychongsaytc">ychongsaytc</a> | 2
 <img src="https://avatars1.githubusercontent.com/u/1000669?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/JuanitoFatas">JuanitoFatas</a> | 2
 
