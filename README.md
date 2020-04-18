@@ -16,7 +16,18 @@
 
 ---
 
-[**【远程战疫：全球远程职位精选001】全职远程 JS 全栈工程师（Filestage @德国）**](https://sourl.cn/abM3YW)
+**[公益活动推广]**
+
+[1周时间，18个人，2000多口罩，我们能做到什么？](https://mp.weixin.qq.com/s/WON0OPn_l0-ESuF0hu2jAQ)
+
+- 2000个口罩：500来自捐赠，1500个是我们集中采购；
+- 捐款目前用掉2642元，还剩2538元；
+- 4个援助城市：加拿大#温哥华、渥太华、温尼伯、布兰登
+- 以每家平均收到10个口罩计算，这批口罩将帮助到200个华人家庭
+- 18个志愿者来自不同城市，职业各异，素不相识。
+
+> 这是一个远程协作的公益活动，除了物流等必须线下进行的活动外，其它协作都在线上完成，
+> 希望大家帮忙转发，帮助到更多的海外同胞。
 
 ---
 
@@ -55,6 +66,9 @@
 
 #### 2020年
 
+- [分享下自由工作的状态以及自己的思考](https://eleduck.com/posts/Mb2fvD)
+- [远程工作是成年人的游戏](https://terrytai.me/yuan-cheng-gong-zuo-shi-cheng-nian-ren-de-you-xi)
+- [远程 2 年、小米对讲机产品负责人 4 年 → 重启自由探索](https://eleduck.com/posts/6yGfOb)
 - [千万不要在床上工作，因为...](https://eleduck.com/posts/6QZfGA)
 - [千万不要成为自由职业者 - 过来人经验](https://mp.weixin.qq.com/s/AKZVKQrv1hMdWxLipscGRg)
 - [现代文明社会就该长期在家办公](https://mp.weixin.qq.com/s/-lIyIlUkomWrlwUoW3b5lg)
@@ -178,6 +192,7 @@
 
 #### 2020年
 
+- [流动人口 #2: 听远程七年的程序员分享他的工作经历，一起探远程工作的未来](https://music.163.com/#/program?id=2066533937&userid=51139069)
 - [不可避免的远程办公 - 胡键 #GDG西安三月线上直播活动](https://www.bilibili.com/video/av94748858)
 - [回形针如何远程办公](https://mp.weixin.qq.com/s/J9RhOU-skEfcd_aHmk9OBA?)
 
@@ -421,7 +436,7 @@
 - [Tian Pan](https://tianpan.co/about/) / [ref](https://tianpan.co/careers)
 - [imToken](https://token.im/careers)
 - [开发邦](http://www.kaifabang.com/) / [ref](https://mp.weixin.qq.com/s/Dy9S3ibPLdJ9sUbzW4-hRg)
-- [另客网](https://www.links123.com/) / [ref](http://yizaoyiwan.com/discussions/1617)
+- [双语帮](https://www.bilingo.com/) / [ref](https://www.v2ex.com/t/642691)
 - [量城科技](https://quanturban.com/) / [ref](https://www.v2ex.com/t/592017)
 - [lordless](http://lordless.io/) / [ref](https://mp.weixin.qq.com/s/omAvRg7xflFL7k5c3UVbSQ)
 - [LodeStream](https://lodestream.com/) / [ref](https://yizaoyiwan.com/discussions/12002)
@@ -508,14 +523,14 @@
 
 贡献者 | 提交次数
 :----------- | -------:
-<img src="https://avatars1.githubusercontent.com/u/208966?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/greatghoul">greatghoul</a> | 555
-<img src="https://avatars0.githubusercontent.com/u/1465894?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/mittya">mittya</a> | 5
+<img src="https://avatars1.githubusercontent.com/u/208966?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/greatghoul">greatghoul</a> | 575
+<img src="https://avatars0.githubusercontent.com/u/1465894?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/mittya">mittya</a> | 6
 <img src="https://avatars2.githubusercontent.com/u/1574884?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/howiehu">howiehu</a> | 4
 <img src="https://avatars0.githubusercontent.com/u/29243953?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/naiba">naiba</a> | 3
 <img src="https://avatars1.githubusercontent.com/u/1734421?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/lankeren">lankeren</a> | 3
 <img src="https://avatars1.githubusercontent.com/u/6696864?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/fcode520">fcode520</a> | 3
-<img src="https://avatars2.githubusercontent.com/u/3357061?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/cestivan">cestivan</a> | 2
-<img src="https://avatars1.githubusercontent.com/u/9860748?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/WuHuaJi0">WuHuaJi0</a> | 2
+<img src="https://avatars0.githubusercontent.com/u/5461667?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/cnkevinlee">cnkevinlee</a> | 3
+<img src="https://avatars0.githubusercontent.com/u/2424092?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/VilenEera">VilenEera</a> | 2
 <img src="https://avatars0.githubusercontent.com/u/1961117?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/ychongsaytc">ychongsaytc</a> | 2
 <img src="https://avatars1.githubusercontent.com/u/1000669?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/JuanitoFatas">JuanitoFatas</a> | 2
 
