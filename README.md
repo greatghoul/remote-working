@@ -66,6 +66,7 @@
 
 #### 2020年
 
+- [一些个人为美国公司远程工作的经验分享 -- 工作部分](https://eleduck.com/posts/ea4fOq)
 - [一个远程工作者的思考与分享](https://eleduck.com/posts/6N0fgr)
 - [分享下自由工作的状态以及自己的思考](https://eleduck.com/posts/Mb2fvD)
 - [远程工作是成年人的游戏](https://terrytai.me/yuan-cheng-gong-zuo-shi-cheng-nian-ren-de-you-xi)
