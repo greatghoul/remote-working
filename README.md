@@ -66,6 +66,7 @@
 
 #### 2020年
 
+- [机械设计师的远程工作之路](https://zhuanlan.zhihu.com/p/61558139)
 - [一些个人为美国公司远程工作的经验分享 -- 工作部分](https://eleduck.com/posts/ea4fOq)
 - [一个远程工作者的思考与分享](https://eleduck.com/posts/6N0fgr)
 - [分享下自由工作的状态以及自己的思考](https://eleduck.com/posts/Mb2fvD)
