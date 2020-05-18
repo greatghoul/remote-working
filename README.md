@@ -66,6 +66,7 @@
 
 #### 2020年
 
+- [如何 4 步找到理想的远程工作](https://eleduck.com/posts/qzfjjR)
 - [作为自由职业者，我的近况](https://eleduck.com/posts/gYf8vQ)
 - [机械设计师的远程工作之路](https://zhuanlan.zhihu.com/p/61558139)
 - [一些个人为美国公司远程工作的经验分享 -- 工作部分](https://eleduck.com/posts/ea4fOq)
