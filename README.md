@@ -66,6 +66,7 @@
 
 #### 2020年
 
+- [如何在 Upwork 上开启自由之路](https://eleduck.com/posts/JpfxZ5)
 - [如何 4 步找到理想的远程工作](https://eleduck.com/posts/qzfjjR)
 - [作为自由职业者，我的近况](https://eleduck.com/posts/gYf8vQ)
 - [机械设计师的远程工作之路](https://zhuanlan.zhihu.com/p/61558139)
