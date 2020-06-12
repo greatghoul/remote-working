@@ -69,6 +69,7 @@
 - [如何在 Upwork 上开启自由之路](https://eleduck.com/posts/JpfxZ5)
 - [如何 4 步找到理想的远程工作](https://eleduck.com/posts/qzfjjR)
 - [作为自由职业者，我的近况](https://eleduck.com/posts/gYf8vQ)
+- [同时区的同事一个都没有！Buffer 成员是如何全球远程协作的？](https://eleduck.com/posts/ZXfOr0)
 - [机械设计师的远程工作之路](https://zhuanlan.zhihu.com/p/61558139)
 - [一些个人为美国公司远程工作的经验分享 -- 工作部分](https://eleduck.com/posts/ea4fOq)
 - [一个远程工作者的思考与分享](https://eleduck.com/posts/6N0fgr)
@@ -329,6 +330,7 @@
 ## <a name="jobs" href="#jobs">招聘网站</a>
 
 - [一早一晚招聘](https://3cwork.com/discussions?category=jobs) - 一早一晚社区的招聘版块
+- [无涯远程工作](https://www.wuya.work/) - 国内外适合国人的远程职位推荐
 - [Ruby China 招聘版块](https://ruby-china.org/jobs)
 - [Laravel 招聘版块](https://learnku.com/laravel/c/php-jobs)
 - [SegmentFault 招聘](https://segmentfault.com/jobs/search?remote=1) - SegmentFault 的招聘版块中支持按远程筛选
