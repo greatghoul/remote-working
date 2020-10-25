@@ -61,6 +61,7 @@
 
 #### 2020年
 
+- [2020，虽然没等到富婆问我长短，但我依然爱情事业双丰收啊！](https://eleduck.com/posts/EQfB0L)
 - [小伙坐班 10 年头快秃了，终于在电鸭上找到一份远程全职工作](https://eleduck.com/posts/98fvg3)
 - [如何在 Upwork 上开启自由之路](https://eleduck.com/posts/JpfxZ5)
 - [如何 4 步找到理想的远程工作](https://eleduck.com/posts/qzfjjR)
