@@ -6,6 +6,16 @@
 [![](https://img.shields.io/github/issues-pr-closed/greatghoul/remote-working.svg)](https://github.com/greatghoul/remote-working/pulls?q=is%3Apr+is%3Aclosed)
 [![](https://img.shields.io/github/issues-pr/greatghoul/remote-working.svg)](https://github.com/greatghoul/remote-working/pulls?q=is%3Aopen+is%3Apr)
 
+---
+
+我把远程工作者的 github 仓库 https://github.com/greatghoul/remote-working 搬迁到了语雀云 https://www.yuque.com/greatghoul/remote
+
+基于以下一些原因：编辑更加方便（无需通过 git），文档格式更加丰富（md 格式有限），传播更加容易，支持评论。
+
+本列表停止更新
+
+---
+
 **列表说明**
 
 * 本列表只收录中国国内的资源或者对国内受众友好的国外资源
@@ -13,18 +23,6 @@
   或者 [Telegram](https://t.me/remote_cn) 订阅**最新远程工作机会**
 * 如果对本列表有意见或者建议，欢迎给我提 [Issue](https://github.com/greatghoul/remote-working/issues)
 * 资料整理不易，如果我的工作帮助到了你，欢迎 [赞赏](https://greatghoul.github.io/donate-page/)
-
----
-
-**[广而告之]**
-
-[电鸭社区远程人才库终于来了！！加入我们，帮你拿到远程工作 Offer](https://eleduck.com/posts/oQfjxr)
-
-远程人才库解决什么问题？
-
-> 一方面，国内的优质远程机会不多，海外的远程机会多一些，但是大部分却因为外语问题望而却步；另一方面，不少常年远程的团队以及刚开始尝试远程的团队，却纷纷向我们诉苦：优秀的远程员工难找、简历的筛选成本高、薪资及社保难统一处理等；
-
----
 
 ## <a name="toc"></a> 目录
 
