@@ -1,4 +1,4 @@
-#文章
+# 文章
 
 <a name="hTKqZ"></a>
 ## 2022年
@@ -120,8 +120,7 @@
 - [推迟上班 & 远程上班的公司 和 坚持早来上班的公司 List](https://www.v2ex.com/t/640466)
 - [如何寻找一份远程工作](https://mp.weixin.qq.com/s/C3zKje3YBqKQ0XwKxyPpfg)
 - [如何攻克异地协作难题？看 Tower 的 72 个月远程工作实践](https://www.infoq.cn/article/swdsWXKasCMU0ePyBCSs?utm_source=rss&utm_medium=article)
-<a name="535a8ac4eddd79b7b1ea2a4795fc1349"></a>
-## 
+
 <a name="47b140b227ef1ac5dd22da765c154e94"></a>
 ## 2019年
 
@@ -167,8 +166,7 @@
 - [自由职业第三年，患上拖延证，加上经济寒](https://yizaoyiwan.com/discussions/12148)
 - [成为一名自流量生活的创业者](https://mp.weixin.qq.com/s/MeN9Z8A115JyLoPUphFGpg)
 - [【开怼吧】第37: 移动办公最终会取代传统办公模式吗？](http://bbs.sangfor.com.cn/forum.php?mod=viewthread&tid=67681)
-<a name="b1d03172d5c93aaac5f2b7abaa6250e8"></a>
-## 
+
 <a name="f87fcb0de2402ca1e420eb1253579ec3"></a>
 ## 2018年
 
@@ -227,8 +225,7 @@
 - [除了拖延，远程工作的压力还来自“不知道老板在想什么”](https://mp.weixin.qq.com/s/kmgFuuNIKcDW2dt2OuPHCA)
 - [程序员远程工作那些事儿 Live 演讲稿](https://zhuanlan.zhihu.com/p/41159126)
 - [快三年没有上过班了，我是如何养活自己的？](https://www.douban.com/note/692344948/)
-<a name="c7231697b51f164e114b9e95eb936454"></a>
-## 
+
 <a name="8fb37f46cf50b0aa0cde92f6d1ab5a37"></a>
 ## 2017年
 
@@ -403,9 +400,6 @@
 
 - [关于家庭办公的一些数据](http://www.ifanr.com/134017) - 对 Mashable 网站发布的 OnlineDegress.com 的一副信息图的解读，其中包含一些在家办公的数据。
 - [团队成员都在异地办公有哪些优劣？](https://www.zhihu.com/question/20011303) - 知乎问题《团队成员都在异地办公有哪些优劣？》中叶玎玎的回答，远程团队的组建比较推荐已经有一定熟悉度的成员构成，这样协作起来会更加默契。为了提高默契度，推荐定时团建，另外远程因为沟通成本更高，所以沟通时大家也都更加谨慎，反而可能效果更好。
-
-
-
 <a name="1940f869c1cd1bdff65f9047ced6e83e"></a>
-## [<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />](http://www.bbc.co.uk/ukchina/simp/uk_life/on_britain/110615_suping_big_city_traffic.shtml)
+## [<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />](http://www.bbc.co.uk/ukchina/simp/uk_life/on_britain/110615_suping_big_city_traffic.shtml)
 
