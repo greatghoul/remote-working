@@ -8,11 +8,7 @@
 
 ---
 
-我把远程工作者的 github 仓库 https://github.com/greatghoul/remote-working 搬迁到了语雀云 https://www.yuque.com/greatghoul/remote
-
-基于以下一些原因：编辑更加方便（无需通过 git），文档格式更加丰富（md 格式有限），传播更加容易，支持评论。
-
-本列表停止更新
+本列表内容同步自语雀云知识库：[远程工作者](https://www.yuque.com/greatghoul/remote)
 
 ---
 
