@@ -340,7 +340,7 @@
 - [说说我对不同独立开发者接单渠道的体验](http://yizaoyiwan.com/discussion/491/)
 - [小宁关于SOHO的经验总结](https://mp.weixin.qq.com/s?__biz=MzAwMTI2MDA4MQ==&mid=210579167&idx=1&sn=96fc70685a44c7466a99e095f5727042&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
 - [远程工作的那些事事非非，你怎么看？](https://mp.weixin.qq.com/s/xxSO2I6vlxLJ4MtR6HpqTQ)
-- [如何使自由职业者有全职工作](http://blog.techbay.club/post/ru-he-shi-zi-you-zhi-ye-zhe-you-quan-zhi-gong-zuo)
+- [如何使自由职业者有全职工作](https://web.archive.org/web/20170708091155/http://blog.techbay.club/post/ru-he-shi-zi-you-zhi-ye-zhe-you-quan-zhi-gong-zuo) - 一个人没填的精力和时间是有限的，全职工作和兼职工作经常可以相互受益，但是也偶尔在交付时间上面会有冲突。要解决好这一点，就需要透明，激情，时间管理，驱动力，以及“咖啡”。本文还提供了一份[转型自由职业的指南](https://skillcrush.com/blog/earn-more-money-freelancing-for-beginners/)，很有参考性。
 - [再出发](https://web.archive.org/web/20150826085049/http://yizaoyiwan.com/discussion/481/) - 作者从 topcoder 正式入坑自由职业，收入不菲，后来金融危机，项目减少，收入也随之降低，意识到还是得有自己的客户源，开始慢慢淡出专做国内的外包，再到自己搭建团队。整个过程中，topcoder 的管理经验起到了很大的作用。
 - [一个远程外包自由职业者的经历和经验](https://web.archive.org/web/20170611224441/http://www.yizaoyiwan.com/discussion/474) - 作者自由职业七年有余，文章介绍了自己在国外的平台接单的一些经验和看法，以及应对印度等国家低价竞争的一些策略。
 - [从 300 万到 1000 万，DeepDevelop 外包业务第二阶段总结](https://web.archive.org/web/20160814133643/http://yizaoyiwan.com/discussion/460/) - 接[上篇](https://web.archive.org/web/20190316100239/https://yizaoyiwan.com/discussion/79/)，改变想法，除了标准化之外，还有其它的路，深度参与客户项目进行开发。一边摸索一边前进，这个阶段，更新了团队结构，让团队能有更大的厂长空间，同时也给团队成员更大的自由度，让他们与公司和客户一起成长。
