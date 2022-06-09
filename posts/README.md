@@ -5,6 +5,8 @@
 <a name="hTKqZ"></a>
 ## 2022年
 
+- [同步语雀云知识库《远程工作者》到 Github 仓库](https://anl.gg/sync-yuque-to-github) - 《远程工作者》资源列表的由来以及迁移经历，本文还分享了一个从语雀同步内容到 github 的简单方法。
+- [要倒苦水，谁没有 -- 如何避免成为一个不好的远程开发](https://eleduck.com/posts/5BfNxN) - 从企业的角度讲，远程工作的开发人员应该如何和雇主沟通才能更有效率和效果。
 - [地点自由、不想加班，小伙伴找了份海外的远程工作](https://mp.weixin.qq.com/s/E3GhKiO4klA-oPNTQhNwrg) - 一位新晋远程工作者 @warm_water 的经历分享，想了解远程工作，就花很多时间去和很多从业者交谈，汲取经验，不断的打磨自己，最终成功远程，非常的有韧性。
 - [远程办公的编程模型](https://mp.weixin.qq.com/s/7pqHbr6im8CrwPaTkehrWA) - 视频流服务 Tubi 团队疫情之下远程工作的实践经验，将分布式团队的工作和编程中的分布式系统的理念结合起来，让整个团队有效的运转。
 - [远程办公参与开源项目如何协作？](https://mp.weixin.qq.com/s/kNullP8P3_plKjEsL5XT0Q) - 远程工作5个月使用的各种工具的总结，很多都给出了不错的免费或者开源替代品。
