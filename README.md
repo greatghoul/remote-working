@@ -1,15 +1,12 @@
 # 说明
 
-
 - 本列表短网址：[https://anl.gg/remote](https://anl.gg/remote)
 - 本列表主要用于整理中国国内的资源或者对国内受众友好的国外资源
 - 本列表主要在[语雀云知识库](https://www.yuque.com/greatghoul/remote)进行维护，会自动同步至 [Github 仓库](https://github.com/greatghoul/remote)
 - 关注 [新浪微博](https://weibo.com/RemoteWorking) 或者 [Telegram](https://t.me/remote_cn) 订阅**最新远程工作机会**
 - 如果对本列表有意见或者建议，欢迎在语雀云文档下的评论区或者 [Github Issues](https://github.com/greatghoul/remote/issues) 中讨论
-- 如果有远程工作相关的资源推荐，欢迎提交到[这个表单](https://www.yuque.com/forms/share/c11bd87d-2187-43d6-8855-e6206e57da82)
-- 欢迎添加我的个人微信一起交流远程工作的方方面面
-   - 微信 **greatghoul**
-   - 备注 **远程**
+- 如果有远程工作相关的资源推荐，欢迎通过[表单](https://www.yuque.com/forms/share/c11bd87d-2187-43d6-8855-e6206e57da82)或者 [Github Issue](https://github.com/greatghoul/remote-working/issues/new?assignees=greatghoul&labels=%E8%B5%84%E6%BA%90%E6%8E%A8%E8%8D%90&template=------.md&title=%5B%E8%B5%84%E6%BA%90%E6%8E%A8%E8%8D%90%5D+) 提交
+- 欢迎添加我的个人微信一起交流远程工作的方方面面，微信号 **greatghoul** (请备注**远程**)
 <a name="ltVhQ"></a>
 ## 目录
 
