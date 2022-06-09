@@ -15,15 +15,15 @@
 ## 目录
 
 - [问题](issues) - 整理远程工作中经常会遇到的问题，以及比较有价值的讨论
-- [文章](/greatghoul/remote/posts) - 收集整理历年远程工作相关的经验文章
-- [团队](/greatghoul/remote/teams) - 收集整理在国内招聘过的远程团队
-- [视频](/greatghoul/remote/videos) - 收集整理远程工作相关的视频节目和频道
-- [播客](/greatghoul/remote/podcasts) - 收集整理远程工作相关的播客和其它音频节目
-- [站点](/greatghoul/remote/sites) - 整理远程相关的博客、媒体，微信公众号等站点
-- [报告](/greatghoul/remote/reports) - 收集整理远程相关的调查报告
-- [书籍](/greatghoul/remote/books) - 收集整理远程工作相关的书籍、指南文档等资源
-- [工具](/greatghoul/remote/tools) - 收集整理有助于远程办公沟通协作的各种工具和服务
-- [其它](/greatghoul/remote/others) - 其它和远程相关的资源
+- [文章](posts) - 收集整理历年远程工作相关的经验文章
+- [团队](teams) - 收集整理在国内招聘过的远程团队
+- [视频](videos) - 收集整理远程工作相关的视频节目和频道
+- [播客](podcasts) - 收集整理远程工作相关的播客和其它音频节目
+- [站点](sites) - 整理远程相关的博客、媒体，微信公众号等站点
+- [报告](reports) - 收集整理远程相关的调查报告
+- [书籍](books) - 收集整理远程工作相关的书籍、指南文档等资源
+- [工具](tools) - 收集整理有助于远程办公沟通协作的各种工具和服务
+- [其它](others) - 其它和远程相关的资源
 
 <a name="aG0TL"></a>
 ## 贡献者
