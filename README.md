@@ -14,7 +14,7 @@
 <a name="ltVhQ"></a>
 ## 目录
 
-- [问题](../issues) - 整理远程工作中经常会遇到的问题，以及比较有价值的讨论
+- [问题](issues) - 整理远程工作中经常会遇到的问题，以及比较有价值的讨论
 - [文章](/greatghoul/remote/posts) - 收集整理历年远程工作相关的经验文章
 - [团队](/greatghoul/remote/teams) - 收集整理在国内招聘过的远程团队
 - [视频](/greatghoul/remote/videos) - 收集整理远程工作相关的视频节目和频道
