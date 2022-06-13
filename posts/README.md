@@ -23,6 +23,7 @@
 <a name="111abca79ac66b1e861a72166ec3765c"></a>
 ## 2021年
 
+- [程序员“只工作不上班”的三种方式](https://eleduck.com/posts/XNfLox) - 三种程序员远程工作的形式介绍，全职远程，自由职业以及独立开发，作者目前出于自由职业阶段，给出了一些避坑的建议
 - [你好鸭 #42 | 在开源社区远程三年，我把工作变成了一种生活方式](https://mp.weixin.qq.com/s/F_eUhqeugDMt5ye-v4jMgg) - 来源：电鸭社区；国际化团队 Freecodecamp 如何远程协作的访谈。受访者 Miya 有一句话我觉得特别赞：我们早起，加班都不是因为要自律，而是真的想要去做好那些有意义的事情。
 - ["逃离"帝都计划，Done！](https://mp.weixin.qq.com/s/x8jQ54FNt-uqkvaRb_QLSw) - 来源：小蘿蔔丁； 找到心仪的远程功工作，从京东离职，跑到向往的大理，和自己的爱好生活在一起。  
 - [论F*ck-You Money的在生活方式设计中的重要性](https://mp.weixin.qq.com/s/gCRIIjh8yFtjxgGrqjpmtQ)
@@ -341,7 +342,7 @@
 - [如何去管理一个远程工作团队](http://tech2ipo.com/101330)
 - [说说我对不同独立开发者接单渠道的体验](http://yizaoyiwan.com/discussion/491/)
 - [小宁关于SOHO的经验总结](https://mp.weixin.qq.com/s?__biz=MzAwMTI2MDA4MQ==&mid=210579167&idx=1&sn=96fc70685a44c7466a99e095f5727042&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
-- [远程工作的那些事事非非，你怎么看？](https://mp.weixin.qq.com/s/xxSO2I6vlxLJ4MtR6HpqTQ)
+- [远程工作的那些事事非非，你怎么看？](https://mp.weixin.qq.com/s/xxSO2I6vlxLJ4MtR6HpqTQ) - 针对一些远程相关的研究报告和论文的解读。远程办公虽好，程度还请适量。保持工作和生活的一定分隔及相对平衡，才是最最重要的。
 - [如何使自由职业者有全职工作](https://web.archive.org/web/20170708091155/http://blog.techbay.club/post/ru-he-shi-zi-you-zhi-ye-zhe-you-quan-zhi-gong-zuo) - 一个人没填的精力和时间是有限的，全职工作和兼职工作经常可以相互受益，但是也偶尔在交付时间上面会有冲突。要解决好这一点，就需要透明，激情，时间管理，驱动力，以及“咖啡”。本文还提供了一份[转型自由职业的指南](https://skillcrush.com/blog/earn-more-money-freelancing-for-beginners/)，很有参考性。
 - [再出发](https://web.archive.org/web/20150826085049/http://yizaoyiwan.com/discussion/481/) - 作者从 topcoder 正式入坑自由职业，收入不菲，后来金融危机，项目减少，收入也随之降低，意识到还是得有自己的客户源，开始慢慢淡出专做国内的外包，再到自己搭建团队。整个过程中，topcoder 的管理经验起到了很大的作用。
 - [一个远程外包自由职业者的经历和经验](https://web.archive.org/web/20170611224441/http://www.yizaoyiwan.com/discussion/474) - 作者自由职业七年有余，文章介绍了自己在国外的平台接单的一些经验和看法，以及应对印度等国家低价竞争的一些策略。
