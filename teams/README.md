@@ -34,6 +34,7 @@
 - [齿轮易创](https://chilunyc.com/) - 咨询外包 / Python / [相关招聘](https://learnku.com/python/t/63379)
 - [Jibble](https://www.jibble.io/) - 人力资源 / .Net, C# / [相关招聘](https://www.v2ex.com/t/819758)
 - [Brix Labs](https://www.brixlabs.ai/) - 欧美外包，区块链 / 游戏 / [相关招聘](https://www.v2ex.com/t/843374)
+- [法本信息](https://www.zhipin.com/gongsi/95b4b47ef9141c671nd52ty_.html?ka=job-detail-company-logo_custompage) - 技术咨询 / Vue, React / [相关招聘](https://www.zhipin.com/job_detail/f387314d98e7a1ef1XZ53tq8E1FR.html)
 
 <a name="t1arv"></a>
 ### 企业服务
@@ -82,6 +83,7 @@
 - [Parent Lab](https://www.parentlab.com/) - 儿童教育 / 运营 / [相关招聘](https://eleduck.com/posts/5BfmX7)
 - [橘子数学](http://www.mathcrowd.cn/) - 数学题库组卷解决方案 / React, LaTeX  / [相关招聘](https://eleduck.com/posts/jAf2BV)
 - [沪江教育](https://www.hujiang.com/about/) - 外语教育 / 运营 / [相关招聘](https://www.sohu.com/a/474535097_124372)
+- [领格](https://www.lingoace.com/) - 少儿外语 / 中文, 英文 / [相关招聘](https://www.zhipin.com/job_detail/8045ff108d2957011n1y2NS_FlVU.html)
 
 <a name="UZjbT"></a>
 ### 效率工具
