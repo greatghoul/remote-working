@@ -341,7 +341,7 @@
 - [现在有公司要远程工作的员工么？](https://ruby-china.org/topics/27614)
 - [如何去管理一个远程工作团队](http://tech2ipo.com/101330)
 - [说说我对不同独立开发者接单渠道的体验](http://yizaoyiwan.com/discussion/491/)
-- [小宁关于SOHO的经验总结](https://mp.weixin.qq.com/s?__biz=MzAwMTI2MDA4MQ==&mid=210579167&idx=1&sn=96fc70685a44c7466a99e095f5727042&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
+- [小宁关于SOHO的经验总结](https://mp.weixin.qq.com/s?__biz=MzAwMTI2MDA4MQ==&mid=210579167&idx=1&sn=96fc70685a44c7466a99e095f5727042&3rd=MzA3MDU4NTYzMw==&scene=6#rd) - 作者结合自己的两段 soho 经历讲了 soho 的一些优势和弊端。要 soho 还是需要有一定的客群积累，同时在于客户合作时，也要有一定的自保手段。你也需要去自己适应一个人，soho 时时间会被冲淡，在时间管理方面，作者给了详尽的建议。
 - [远程工作的那些事事非非，你怎么看？](https://mp.weixin.qq.com/s/xxSO2I6vlxLJ4MtR6HpqTQ) - 针对一些远程相关的研究报告和论文的解读。远程办公虽好，程度还请适量。保持工作和生活的一定分隔及相对平衡，才是最最重要的。
 - [如何使自由职业者有全职工作](https://web.archive.org/web/20170708091155/http://blog.techbay.club/post/ru-he-shi-zi-you-zhi-ye-zhe-you-quan-zhi-gong-zuo) - 一个人没填的精力和时间是有限的，全职工作和兼职工作经常可以相互受益，但是也偶尔在交付时间上面会有冲突。要解决好这一点，就需要透明，激情，时间管理，驱动力，以及“咖啡”。本文还提供了一份[转型自由职业的指南](https://skillcrush.com/blog/earn-more-money-freelancing-for-beginners/)，很有参考性。
 - [再出发](https://web.archive.org/web/20150826085049/http://yizaoyiwan.com/discussion/481/) - 作者从 topcoder 正式入坑自由职业，收入不菲，后来金融危机，项目减少，收入也随之降低，意识到还是得有自己的客户源，开始慢慢淡出专做国内的外包，再到自己搭建团队。整个过程中，topcoder 的管理经验起到了很大的作用。
