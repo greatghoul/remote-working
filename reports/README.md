@@ -2,6 +2,11 @@
 
 收集整理远程相关的调查报告。
 
+<a name="WOzXG"></a>
+## 2022 年
+
+- [智联招聘：中国远程居家办公发展报告](http://www.199it.com/archives/1446965.html)
+
 <a name="yEWXq"></a>
 ## 2021年
 
