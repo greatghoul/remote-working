@@ -2,11 +2,6 @@
 
 整理远程工作中经常会遇到的问题，以及比较有价值的讨论。
 
-<a name="eh955"></a>
-## 工作时间
-
-- [远程工作的计时问题](https://eleduck.com/posts/QZfbZd)
-
 <a name="L1sx5"></a>
 ## 工作保障
 
