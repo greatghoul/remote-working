@@ -339,7 +339,7 @@
 - [严俊羿 | 自由是最大的向往](http://yizaoyiwan.com/stories/6)
 - [不想去办公室？设计师远程工作必读指南！](http://www.uisdc.com/freelancer-remote-work-guideline#)
 - [现在有公司要远程工作的员工么？](https://ruby-china.org/topics/27614)
-- [如何去管理一个远程工作团队](http://tech2ipo.com/101330)
+- [如何去管理一个远程工作团队](https://web.archive.org/web/20151016093719/http://tech2ipo.com/101330) - 鼓励远程团队时如何扬长避短，作者的团队每年会集体填一个表格，让全员反思和总结。他们也会制定年度和季度计划，以及周计划，抓住重点目标。作为领导者，需要有同理心，耐心，新人以及组织能力，这样才能管理好一个远程团队。
 - [说说我对不同独立开发者接单渠道的体验](https://web.archive.org/web/20150826085156/http://yizaoyiwan.com/discussion/491/) - 作为一个自由职业者，作者经历了猪八戒，eLance 这样的程序员农贸市场，经历过朋友介绍的不稳定状态，也经历过码市，应选等平台，本文主要介绍这些平台的体验。
 - [小宁关于SOHO的经验总结](https://mp.weixin.qq.com/s?__biz=MzAwMTI2MDA4MQ==&mid=210579167&idx=1&sn=96fc70685a44c7466a99e095f5727042&3rd=MzA3MDU4NTYzMw==&scene=6#rd) - 作者结合自己的两段 soho 经历讲了 soho 的一些优势和弊端。要 soho 还是需要有一定的客群积累，同时在于客户合作时，也要有一定的自保手段。你也需要去自己适应一个人，soho 时时间会被冲淡，在时间管理方面，作者给了详尽的建议。
 - [远程工作的那些事事非非，你怎么看？](https://mp.weixin.qq.com/s/xxSO2I6vlxLJ4MtR6HpqTQ) - 针对一些远程相关的研究报告和论文的解读。远程办公虽好，程度还请适量。保持工作和生活的一定分隔及相对平衡，才是最最重要的。
