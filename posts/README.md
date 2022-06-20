@@ -335,8 +335,7 @@
 - [Teleport：我们提供远程工作需要的一切，创业的你尽情满世界招人吧](https://36kr.com/p/5035452)
 - [「天涯若比邻」如何用 Tower 远程协作开发产品](https://mp.weixin.qq.com/s/0eShaqfc77tu9x3apaZ4RA)
 - [一个自由撰稿人可以用哪些方式赚钱](http://www.managershare.com/post/195875)
-- [提升远程团队战斗力的 11 种方法](http://tech2ipo.com/10026456)
-- [创业团队不需要office，大家都远程工作，are you fxxx kidding me?](http://www.yizaoyiwan.com/discussions/623)
+- [提升远程团队战斗力的 11 种方法](https://web.archive.org/web/20170429052935/http://tech2ipo.com/10026456) - 来自 YEC 的 11 家创业公司创始人分享了他们管理远程团队的经验心得，涉及沟通，管理，工具，团建等多个方面。其中沟通是重中之重。
 - [严俊羿 | 自由是最大的向往](https://web.archive.org/web/20170717114704/http://yizaoyiwan.com/stories/6) - 在昆明自由职业的 Web 开发，为北京的一家公司远程办公，互联网从业者，最大的优势就是距离，以及时间安排的自由。但是远程办公，沟通方面面临这巨大的挑战，沟通肯定是有损耗的。工作之余，严俊羿还会做一些木工（个人兴趣）。
 - [不想去办公室？设计师远程工作必读指南！](http://www.uisdc.com/freelancer-remote-work-guideline#)- 一位设计师写的远程工作指南，从团队，时间，分布式，业务，待遇，沟通协作等多个方面介绍了远程工作，并给出一些协作上的建议。
 - [如何去管理一个远程工作团队](https://web.archive.org/web/20151016093719/http://tech2ipo.com/101330) - 鼓励远程团队时如何扬长避短，作者的团队每年会集体填一个表格，让全员反思和总结。他们也会制定年度和季度计划，以及周计划，抓住重点目标。作为领导者，需要有同理心，耐心，新人以及组织能力，这样才能管理好一个远程团队。
