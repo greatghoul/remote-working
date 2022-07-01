@@ -317,7 +317,7 @@
 - [什么样的人适合远程工作？](http://pmjane.com/post/shi-yao-yang-de-ren-gua-he-yuan-cheng-gong-zuo#fb_new_comment)
 - [刚看招聘，看到了远程办公的，突然有了下述想法](https://www.v2ex.com/t/261858)
 - [远程办公快来拯救苦哈哈的“大忙人”](https://mp.weixin.qq.com/s/Vf_X5EukOcTXrLfPN3WaqQ)
-- [远程办公是一种怎样的体验？我们实验了一下](https://mp.weixin.qq.com/s/wT6GY_O9rzMgeoz-bbMJcA)
+- [远程办公是一种怎样的体验？我们实验了一下](https://mp.weixin.qq.com/s/wT6GY_O9rzMgeoz-bbMJcA) - 简聊团队针远程工作的一个小实验，通过实验，了解到了远程办公为员工和企业带来的好处以及一些问题。比如节省开销，提高效率，比如沟通阻碍，团队感弱化。
 - [什么样的人适合做远程工作](https://www.jianshu.com/p/c9bf5634191b) - 程序员客栈总结过往项目，从什么样的人适合远程工作和如何提升远程合作的成功率两方面介绍了远程工作的成功经验。
 - [做一名「从容的远程工作者」](http://www.jianshu.com/p/d66ba14aa9d8) - 想成为一名从容的远程工作者，需要具备的几个条件，个人能力，自信心，生活和工作态度。远程不是绝对的脱离人群，不是百分百的自由，更不是逃避和欺瞒，这些是对远程工作应有的基本认识。
 - [作为程序员从自由职业到远程工作三年记](https://yanjunyi.com/blog/posts/freelance-3-years) - 一边旅行一边工作可能并没有想象中的那么美好，对于自由职业者，项目来源也是一个很重要的问题，要做好自我宣传，树立个人品牌。逐渐积累，机会才会更多。相比之下，全职远程可能更稳定一些。自由职业并不一定自由，时间可能由客户的 deadline 决定。
