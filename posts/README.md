@@ -313,8 +313,7 @@
 - [自由职业者们，请留意自己的心理和精神健康](https://littledew.com/blog/p/2551.html)
 - [因本地网络、法律风险被一家支持远程工作的国外公司拒了](https://www.v2ex.com/t/278338)
 - [五年的远程工作带给我的酸甜苦辣](http://www.ifanr.com/646923)
-- [你离自由工作还有多远？](http://yizaoyiwan.com/discussions/820)
-- [什么样的人适合远程工作？](http://pmjane.com/post/shi-yao-yang-de-ren-gua-he-yuan-cheng-gong-zuo#fb_new_comment)
+- [你离自由工作还有多远？](https://web.archive.org/web/20160530033611/http://yizaoyiwan.com/discussions/820) - 作者对自由职业的理解：是可以相对自由的支配自己的时间，而不是指有很多闲时间；自由要先学会自立和自制；自由职业，收入并不是唯一追求。
 - [刚看招聘，看到了远程办公的，突然有了下述想法](https://www.v2ex.com/t/261858) - 一篇在二三线城市组件远程团队服务一线城市公司的讨论，评论区比较热闹，2016年和2022年相比，大家的担忧没有特别大的不同，远程的道路依然十分艰难。
 - [远程办公是一种怎样的体验？我们实验了一下](https://mp.weixin.qq.com/s/wT6GY_O9rzMgeoz-bbMJcA) - 简聊团队针远程工作的一个小实验，通过实验，了解到了远程办公为员工和企业带来的好处以及一些问题。比如节省开销，提高效率，比如沟通阻碍，团队感弱化。
 - [什么样的人适合做远程工作](https://www.jianshu.com/p/c9bf5634191b) - 程序员客栈总结过往项目，从什么样的人适合远程工作和如何提升远程合作的成功率两方面介绍了远程工作的成功经验。
