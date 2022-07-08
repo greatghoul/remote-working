@@ -27,7 +27,7 @@
 - [程序员“只工作不上班”的三种方式](https://eleduck.com/posts/XNfLox) - 三种程序员远程工作的形式介绍，全职远程，自由职业以及独立开发，作者目前出于自由职业阶段，给出了一些避坑的建议
 - [你好鸭 #42 | 在开源社区远程三年，我把工作变成了一种生活方式](https://mp.weixin.qq.com/s/F_eUhqeugDMt5ye-v4jMgg) - 来源：电鸭社区；国际化团队 Freecodecamp 如何远程协作的访谈。受访者 Miya 有一句话我觉得特别赞：我们早起，加班都不是因为要自律，而是真的想要去做好那些有意义的事情。
 - ["逃离"帝都计划，Done！](https://mp.weixin.qq.com/s/x8jQ54FNt-uqkvaRb_QLSw) - 来源：小蘿蔔丁； 找到心仪的远程功工作，从京东离职，跑到向往的大理，和自己的爱好生活在一起。  
-- [论F*ck-You Money的在生活方式设计中的重要性](https://mp.weixin.qq.com/s/gCRIIjh8yFtjxgGrqjpmtQ)
+- [论F*ck-You Money的在生活方式设计中的重要性](https://mp.weixin.qq.com/s/gCRIIjh8yFtjxgGrqjpmtQ) -  F*ck-You Money 是一笔可以给你最基本的生存安全感的资金，这笔钱应该能够保障在完全不工作的状态下依然可以正常生活至少1-2年。它的意义在于，可以让你对自己讨厌的工作或者人说f*ck you，或者在没有收入的情况下，从容地重零开创一项新的事业。
 - [远程工作如何与同事相处的3个小技巧](https://eleduck.com/posts/OGfADd) - 如何与陌生的同事远程相处，主动破冰，周期性交流，区分公事和闲聊。
 - [你好鸭 #41 | 从“民科”隐士到远程架构师的蜕变。](https://mp.weixin.qq.com/s/IwjRvj8OF4ZAgMmbGMVwtQ)
 - [自由职业者的大生意](https://mp.weixin.qq.com/s/2JmM1oQ3GZZgiaF-c27Jbw)
@@ -305,7 +305,7 @@
 - [远程工作才是实现 高效工作&幸福生活 的有效途径](https://www.jianshu.com/p/ba06a2d0d681)
 - [fir.im Weekly - 聊聊让人向往的远程开发工作](https://gold.xitu.io/entry/5779ef492e958a22d8b3f5e8)
 - [细数那些适合自由工作的职业技能（二）](https://littledew.com/blog/p/2609.html)
-- [细数那些适合自由工作的职业技能（一）](https://littledew.com/blog/p/2602.html)
+- [细数那些适合自由工作的职业技能（一）](https://littledew.com/p/2602) - 盘点一些适合自由职业的技能：写作文案、技术支持、翻译、搜索引擎广告营销、社交网络营销、网页/UI设计。
 - [远程协作开发，你能驾驭么？](https://mp.weixin.qq.com/s/32e72Hzmk4V7p9aPx6BSew) - 远程协作开发需要注意的几个关键点：需要全员认可这种模式，重叠时间，合理使用协作工具，信息透明，必要的实时交流。
 - [社区访谈：自由职业者与远程工作那些事](https://github.com/yncoder/yncoder.github.io/issues/27) - 一篇访谈节目的整理稿，访谈对象是自由职业者严俊羿，访谈内容涉及如何成为自由职业者，自由职业者的生活，从自由职业到远程办公等。
 - [自由软件开发者的十点注意事项](https://blog.ashchan.com/archive/2016/06/26/ten-things-freelancer-should-know/) - Tearhour 86 期的内容重新整理，分为十点，作为节目内容的补充。涵盖信任、沟通、提升等多个方面。
