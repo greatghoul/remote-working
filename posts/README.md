@@ -15,8 +15,8 @@
 - [数字游民生活图鉴：宇宙的尽头不只有大厂、考公和躺平](https://mp.weixin.qq.com/s/2ta55lwu23TwUQIH6V-f7A) - 对一些数字游民的访谈，虽然困难，自由无价。
 - [工作了5年后，我决定逃离大厂，回到家乡](https://mp.weixin.qq.com/s/9EyjjwZpovcA2XUh80w28Q) - Brix 团队 iOS 工程师的远程工作体验，从开始的兼职过度到全职，新奇→不适→爽！
 - [关于远程](https://ruby-china.org/topics/42128) - 对于作者而言，远程意味着更多的可支配时间，更少的干扰，更多的薪资，但同时，孤独，沟通，自控方面也有了新的挑战。远程是把双刃剑，需要不断的自我调整。
-- [设计师远程工作指北（下）- 全职远程篇](https://eleduck.com/posts/1nf5V8)
-- [设计师远程工作指北（上）- 自由职业篇](https://eleduck.com/posts/njfK2x)
+- [设计师远程工作指北（下）- 全职远程篇](https://eleduck.com/posts/1nf5V8) - 一个远程工作扫盲贴，远程工作的不同之处，判断自己是否适合远程工作，去哪里找远程工作，以及信任与沟通，工作与生活与健康的问题。
+- [设计师远程工作指北（上）- 自由职业篇](https://eleduck.com/posts/njfK2x) - 自由设计师的一些经验总结，涉及客源、避坑、收款、沟通以及困境等多个方面。
 - [自由职业 3 年复盘（下）](https://mp.weixin.qq.com/s/kni4nCi1wI3krHNyHW16Ow) - 作者作为自由译者，工作三年的总结，本文从收入、休息、社交、安全感、自由、成就、尊重、发展等方面详细阐述了自由译者的现状与得失，如果你想从事自由译者，肯定会有很大帮助。
 - [自由职业 3 年复盘（上）](https://mp.weixin.qq.com/s/2Ngzam00K8thcO4UbDGytA) - 作为一个自由译者，作者的阶段概括为锄田、出苗、开花和结果，这篇文章主要开花和结果。在这两个时期，从焦虑到客服焦虑，走出了很重要的一步。
 - [如何进行高效的远程会议?](https://eleduck.com/posts/jAfJwJ) - 提前准备，控制主题，限制时间，同步结果和行动。
@@ -76,7 +76,7 @@
 - [在家办公怎么保持健康呢？](https://eleduck.com/posts/OGfwVk)
 - [等不及退休，放弃稳定，活成自由职业 | 大智来信021](https://mp.weixin.qq.com/s/jDOYXGolXjF5dl3A00RgZw)
 - [远程办公8年](https://qianyong.me/eight-years-remote-work/)
-- [檀林：数字游民时代来临，你做好准备了吗？](https://mp.weixin.qq.com/s/KJH0EUE4snmT6hw098Rxww)
+- [檀林：数字游民时代来临，你做好准备了吗？](https://mp.weixin.qq.com/s/KJH0EUE4snmT6hw098Rxww) - 随着交通和网络的进步，数字游民越来越不受地域的限制，同时企业的边界也越来越开放，数字游民可以边旅行，边工作，边度家，边学习，边交友，是一种全球化生活方式。数字游民会给各行各业带来一些新的挑战和机会。
 
 <a name="245a2b2e031e85b650f43b4e871a8e27"></a>
 ## 2020年
@@ -306,10 +306,9 @@
 - [fir.im Weekly - 聊聊让人向往的远程开发工作](https://gold.xitu.io/entry/5779ef492e958a22d8b3f5e8)
 - [细数那些适合自由工作的职业技能（二）](https://littledew.com/blog/p/2609.html)
 - [细数那些适合自由工作的职业技能（一）](https://littledew.com/blog/p/2602.html)
-- [远程协作开发，你能驾驭么？](http://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=2650712459&idx=1&sn=5843a04a5a585f67fe6ff8f9b3c039a5#wechat_redirect)
-- [社区访谈：自由职业者与远程工作那些事](https://github.com/yncoder/yncoder.github.io/issues/27)
-- [自由软件开发者的十点注意事项](https://blog.ashchan.com/archive/2016/06/26/ten-things-freelancer-should-know/)
-- [为什么国内公司远程办公发展滞后？](https://www.zhihu.com/question/47284405)
+- [远程协作开发，你能驾驭么？](https://mp.weixin.qq.com/s/32e72Hzmk4V7p9aPx6BSew) - 远程协作开发需要注意的几个关键点：需要全员认可这种模式，重叠时间，合理使用协作工具，信息透明，必要的实时交流。
+- [社区访谈：自由职业者与远程工作那些事](https://github.com/yncoder/yncoder.github.io/issues/27) - 一篇访谈节目的整理稿，访谈对象是自由职业者严俊羿，访谈内容涉及如何成为自由职业者，自由职业者的生活，从自由职业到远程办公等。
+- [自由软件开发者的十点注意事项](https://blog.ashchan.com/archive/2016/06/26/ten-things-freelancer-should-know/) - Tearhour 86 期的内容重新整理，分为十点，作为节目内容的补充。涵盖信任、沟通、提升等多个方面。
 - [自由职业者们，请留意自己的心理和精神健康](https://zhuanlan.zhihu.com/p/21354715) - 人们往往会关注和憧憬自由职业者灵活的工作方式，而哪些常常因为各种原因造成的精神健康问题却没有引起足够的关注，这或许也是你决定是否要开始你的自由职业生涯必须要考虑的因素之一，你能处理好吗？
 - [五年的远程工作带给我的酸甜苦辣](http://www.ifanr.com/646923) - 作者远程5年的感悟，远程工作需要好好规划时间，但是需要规划的又不仅仅是时间，也可能是你私人生活，以及社交活动。网上哪些酷炫的远程方式可能并没有那么美好，陷入幻想前，你需要做写功课了解现实。
 - [你离自由工作还有多远？](https://web.archive.org/web/20160530033611/http://yizaoyiwan.com/discussions/820) - 作者对自由职业的理解：是可以相对自由的支配自己的时间，而不是指有很多闲时间；自由要先学会自立和自制；自由职业，收入并不是唯一追求。
