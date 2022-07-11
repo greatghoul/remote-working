@@ -30,7 +30,7 @@
 - [论F*ck-You Money的在生活方式设计中的重要性](https://mp.weixin.qq.com/s/gCRIIjh8yFtjxgGrqjpmtQ) -  F*ck-You Money 是一笔可以给你最基本的生存安全感的资金，这笔钱应该能够保障在完全不工作的状态下依然可以正常生活至少1-2年。它的意义在于，可以让你对自己讨厌的工作或者人说f*ck you，或者在没有收入的情况下，从容地重零开创一项新的事业。
 - [远程工作如何与同事相处的3个小技巧](https://eleduck.com/posts/OGfADd) - 如何与陌生的同事远程相处，主动破冰，周期性交流，区分公事和闲聊。
 - [你好鸭 #41 | 从“民科”隐士到远程架构师的蜕变。](https://mp.weixin.qq.com/s/IwjRvj8OF4ZAgMmbGMVwtQ) - 一位生活在中国东北，为一家美国公司远程工作的架构师的访谈，告别 996，更自由的支配时间，非常适用于痴迷技术的人。
-- [自由职业者的大生意](https://mp.weixin.qq.com/s/2JmM1oQ3GZZgiaF-c27Jbw)
+- [自由职业者的大生意](https://mp.weixin.qq.com/s/2JmM1oQ3GZZgiaF-c27Jbw) - 数字游民的数量逐年稳步增长，但疫情加速了这个过程，让许多旅游目的地，住宿业，当地企业和旅游局措手不及。为服务远程办公，普吉岛退出沙盒计划。
 - [什么是数字游民生活方式？(后疫情时代升级版扫盲贴)](https://mp.weixin.qq.com/s/vnsjOoF3zR3IQL7WCOJY6Q) - 来源：数字游民部落；作者每年更新一次的数字游民科普文章，每次都有更深的体会。
 - [阿绵的自由频道 | 开发者与设计师如何组队实现远程工作与游牧生活| 你好鸭 #40](https://mp.weixin.qq.com/s/C192k-DpZcAOuArbG-sL5A)
 - [让Work-Life Balance(工作与生活平衡）成为一个伪命题](https://mp.weixin.qq.com/s/7OPvd_na-m9RuL11JB2PPQ)
@@ -302,8 +302,7 @@
 - [从自由到自律，一个远程工作者的自述](https://www.v2ex.com/t/301743)
 - [远程工作者怎么保证自己的工作效率](https://zhuanlan.zhihu.com/p/22069695)
 - [英文不够好，适合做国外哪些远程 remote 的工作？](https://www.v2ex.com/t/296749)
-- [远程工作才是实现 高效工作&幸福生活 的有效途径](https://www.jianshu.com/p/ba06a2d0d681)
-- [fir.im Weekly - 聊聊让人向往的远程开发工作](https://gold.xitu.io/entry/5779ef492e958a22d8b3f5e8)
+- [远程工作才是实现 高效工作&幸福生活 的有效途径](https://knightsj.github.io/2016/07/11/%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C%E6%89%8D%E6%98%AF%E5%AE%9E%E7%8E%B0%E9%AB%98%E6%95%88%E5%B7%A5%E4%BD%9C%E5%92%8C%E5%B9%B8%E7%A6%8F%E7%94%9F%E6%B4%BB%E7%9A%84%E6%9C%89%E6%95%88%E9%80%94%E5%BE%84-%E8%AF%BB%E3%80%8A%E9%87%8D%E6%9D%A52%E3%80%8B%E6%9C%89%E6%84%9F/) - 远程工作所能带来的好处太多了：节省通勤的时间和金钱，更好规划员工自己的生活，更加正确地衡量员工的能力和工作态度。而这些优势，能够吸引更多世界各地的人才，让一群优秀的团队成员合作，是取得巅峰绩效的关键。
 - [细数那些适合自由工作的职业技能（二）](https://littledew.com/p/2609) - 盘点一些适合自由这也的技能：搜索引擎优化、平面设计、编程、在线教学、外贸电子商务、联署项目（Affiliate Program）、经营博客、自由摄影师。
 - [细数那些适合自由工作的职业技能（一）](https://littledew.com/p/2602) - 盘点一些适合自由职业的技能：写作文案、技术支持、翻译、搜索引擎广告营销、社交网络营销、网页/UI设计。
 - [远程协作开发，你能驾驭么？](https://mp.weixin.qq.com/s/32e72Hzmk4V7p9aPx6BSew) - 远程协作开发需要注意的几个关键点：需要全员认可这种模式，重叠时间，合理使用协作工具，信息透明，必要的实时交流。
