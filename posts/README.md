@@ -32,8 +32,7 @@
 - [你好鸭 #41 | 从“民科”隐士到远程架构师的蜕变。](https://mp.weixin.qq.com/s/IwjRvj8OF4ZAgMmbGMVwtQ) - 一位生活在中国东北，为一家美国公司远程工作的架构师的访谈，告别 996，更自由的支配时间，非常适用于痴迷技术的人。
 - [自由职业者的大生意](https://mp.weixin.qq.com/s/2JmM1oQ3GZZgiaF-c27Jbw) - 数字游民的数量逐年稳步增长，但疫情加速了这个过程，让许多旅游目的地，住宿业，当地企业和旅游局措手不及。为服务远程办公，普吉岛退出沙盒计划。
 - [什么是数字游民生活方式？(后疫情时代升级版扫盲贴)](https://mp.weixin.qq.com/s/vnsjOoF3zR3IQL7WCOJY6Q) - 来源：数字游民部落；作者每年更新一次的数字游民科普文章，每次都有更深的体会。
-- [阿绵的自由频道 | 开发者与设计师如何组队实现远程工作与游牧生活| 你好鸭 #40](https://mp.weixin.qq.com/s/C192k-DpZcAOuArbG-sL5A)
-- [让Work-Life Balance(工作与生活平衡）成为一个伪命题](https://mp.weixin.qq.com/s/7OPvd_na-m9RuL11JB2PPQ)
+- [让Work-Life Balance(工作与生活平衡）成为一个伪命题](https://mp.weixin.qq.com/s/7OPvd_na-m9RuL11JB2PPQ) - 信息技术革命极大的改善了我们的沟通，联系和协作的模式，让“为自己而工作”变成可能，我们应该逐渐摒弃 Work-Life Balance 的思维定式，而把 Sprint-Leisure Balance 作为更值得追求的理想工作状态。
 - [要工资也要自由！自由职业真的是大势所趋](https://mp.weixin.qq.com/s/VUiyGoC2Bg3iUiwlxVd-wA)
 - [你好鸭 #36 | iOS开发者的远程生活：睡眠充足带来的是一天满满的元气。](https://mp.weixin.qq.com/s/qL1wsfbs_9K7T5qOuJ76Vw)
 - [一场糟糕的远程面试体验](https://eleduck.com/posts/dDfokV)
@@ -301,7 +300,7 @@
 - [9 个城市的远程协作办公，如何让 15 人团队整体创收过千万？](http://www.jianshu.com/p/348c6397c98a)
 - [从自由到自律，一个远程工作者的自述](https://www.v2ex.com/t/301743)
 - [远程工作者怎么保证自己的工作效率](https://zhuanlan.zhihu.com/p/22069695)
-- [英文不够好，适合做国外哪些远程 remote 的工作？](https://www.v2ex.com/t/296749)
+- [V2 的伙伴们有多少是远程办公的？分享下经验好么？](https://www.v2ex.com/t/296749) - v2ex 一个讨论帖子，大家分享自己如何找到的远程工作，以及简单的体验。
 - [远程工作才是实现 高效工作&幸福生活 的有效途径](https://knightsj.github.io/2016/07/11/%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C%E6%89%8D%E6%98%AF%E5%AE%9E%E7%8E%B0%E9%AB%98%E6%95%88%E5%B7%A5%E4%BD%9C%E5%92%8C%E5%B9%B8%E7%A6%8F%E7%94%9F%E6%B4%BB%E7%9A%84%E6%9C%89%E6%95%88%E9%80%94%E5%BE%84-%E8%AF%BB%E3%80%8A%E9%87%8D%E6%9D%A52%E3%80%8B%E6%9C%89%E6%84%9F/) - 远程工作所能带来的好处太多了：节省通勤的时间和金钱，更好规划员工自己的生活，更加正确地衡量员工的能力和工作态度。而这些优势，能够吸引更多世界各地的人才，让一群优秀的团队成员合作，是取得巅峰绩效的关键。
 - [细数那些适合自由工作的职业技能（二）](https://littledew.com/p/2609) - 盘点一些适合自由这也的技能：搜索引擎优化、平面设计、编程、在线教学、外贸电子商务、联署项目（Affiliate Program）、经营博客、自由摄影师。
 - [细数那些适合自由工作的职业技能（一）](https://littledew.com/p/2602) - 盘点一些适合自由职业的技能：写作文案、技术支持、翻译、搜索引擎广告营销、社交网络营销、网页/UI设计。
