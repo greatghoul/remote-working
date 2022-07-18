@@ -37,7 +37,7 @@
 - [你好鸭 #36 | iOS开发者的远程生活：睡眠充足带来的是一天满满的元气。](https://mp.weixin.qq.com/s/qL1wsfbs_9K7T5qOuJ76Vw) - 作者曾经做过一个计算，自己坐班时，两年的通勤时间加起来竟然多大 96 天，后来远程后，通勤就0成本了，这些时间可以做很多事情，健身，联系英语，培养兴趣爱好等等。
 - [你好鸭 #32 | 从国企程序媛，到130人远程团队的管理者](https://mp.weixin.qq.com/s/927f6fSU9r9JfAqf_G5Lww) - nauhil 是一名稳定的远程团队的管理者，目前他们团队已经有 130 多人了。不用 996 不用通勤打卡，不用无意义的加班，可以有时间去管理自己的健康。作为跨国团队，时差和语言是一项很大的挑战，所以沟通中尽可能准确的表达信息，这对远程的成员有很高的要求。
 - [“不会画图请找我”的自由职业周记](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU0MzA0MjExMQ==&action=getalbum&album_id=1720997024822575108&scene=173&from_msgid=2247484167&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
-- [你好鸭 #28 | 我的八年远程生活源于Drupal](https://eleduck.com/posts/Ygf05q)
+- [你好鸭 #28 | 我的八年远程生活源于Drupal](https://eleduck.com/posts/Ygf05q) - 受访者远程8年，是一名 Drupal 开发者，生活在偏远的西北地区，远程工作改变了他的生活。不但工资非常丰厚，更是有富余的时间投入到家庭和健身等事情上面。
 - [自由职业是996的避难所？](https://c.m.163.com/news/a/GIE2RC6M0552HPSZ.html)
 - [你好鸭 #26 | 我是半生不熟，远程工作和诗一样的生活我都想要。](https://eleduck.com/posts/L5f4V0)
 - [老板们不希望你远程工作的真正原因](https://36kr.com/p/1363341684770179)
@@ -295,7 +295,7 @@
 - [Lonely Office—逃离办公室小格子的正确姿势](https://zhuanlan.zhihu.com/p/21901601)
 - [未来，在家工作在什么时候可以普及？](https://www.zhihu.com/question/50965940)
 - [作为程序员从自由职业到远程工作三年记](http://yanjunyi.com/blog/posts/freelance-3-years)
-- [一年多远程工作带给我的感悟](https://github.com/siddontang/blog/blob/master/2016/my-remote-work.md)
+- [一年多远程工作带给我的感悟](https://github.com/siddontang/blog/blob/master/2016/my-remote-work.md) - 作者 PingCAP 除了创始人之外的第一个员工，公司支持远程工作，让作者即使身在珠海，依然可以为这家北京的公司服务。相比咖啡厅，作者选择在家办公，并且配备了适合自己的设备，他的工作是维护开源项目，每天可以和世界各地的程序员交流。
 - [9 个城市的远程协作办公，如何让 15 人团队整体创收过千万？](http://www.jianshu.com/p/348c6397c98a)- ifanr 对 DeepDevelop CEO 周彦亮的访谈，讲述了创建一早一晚社区的初衷，以及 DeepDevelop 团队的背景以及状态：精英化、小型化、分布式。
 - [从自由到自律，一个远程工作者的自述](https://www.v2ex.com/t/301743) - 作者曾经就职于一家游戏公司，无休止的加班带来的身体疲惫不堪让他重新思考究竟想要什么，最终决定自由职业，自由职业并没有表面上那么美好，会面临许多问题，本文便是分享这些问题的解法。
 - [远程工作者怎么保证自己的工作效率](https://zhuanlan.zhihu.com/p/22069695) - 提高自己在家办公的效率，是一个系统性的功能成，没有任何一个鸡精能够救人于水火，其核心就是建立自己的规则。[[备份]](https://drive.google.com/file/d/1KL-SgIdy6vqoB0OhYniRziSZ-1PavWi7/view?usp=sharing)
