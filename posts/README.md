@@ -41,7 +41,7 @@
 - [自由职业是996的避难所？](https://c.m.163.com/news/a/GIE2RC6M0552HPSZ.html) - 一个简单的自由职业调查，147人中，14.96%的受访者现在是自由职业，或者曾经有相关经理。而另外的 85.04% 中，63.95% 想要成为自由职业者。然而其中只有 1/4 的人有计划实现自由职业。剩余的人中：资源不足、能力不足、害怕收入等保障不足是主要阻碍。
 - [你好鸭 #26 | 我是半生不熟，远程工作和诗一样的生活我都想要。](https://eleduck.com/posts/L5f4V0)
 - [老板们不希望你远程工作的真正原因](https://36kr.com/p/1363341684770179) - 一个聪明的企业应该感激有人能在不到8小时的时间内完成任务，这意味着他们可以在更短的时间内为你做更多的事情，如果他们做的是非竞争性的副业，也许你应该给他们更多的工资，以避免他们离职去全身体的投入副业之中。或者，为他们选择用自己的时间为你工作而感到高兴。
-- [只工作，不上班，自由职业的爱与痛](https://mp.weixin.qq.com/s/iYooblm6gQd9jENKrSWVUA)
+- [只工作，不上班，自由职业的爱与痛](https://mp.weixin.qq.com/s/iYooblm6gQd9jENKrSWVUA) - 自由职业本身需要极强的能力和自制力，需要你自律，做事有规则，善于学习，耐得住孤独寂寞，懂的调节情绪，内心够强大。相比上班，自由职业更考验个人综合能力。
 - [一些关于独立开发者的片段（2）](https://mp.weixin.qq.com/s/JpbEvWGtcRmx9GymzHFGTw)
 - [一些关于独立开发者的片段](https://mp.weixin.qq.com/s/SjnbCq_Wtfz9YhMBKVWhRw)
 - [程序员“只工作不上班”的三种方式](https://eleduck.com/posts/XNfLox)
@@ -73,7 +73,7 @@
 - [你好鸭 #08 | 从美国到中国，从远程到旅居，From 0 to Top Rated on Upwork！](https://eleduck.com/posts/3Efrab)
 - [在家办公怎么保持健康呢？](https://eleduck.com/posts/OGfwVk)
 - [等不及退休，放弃稳定，活成自由职业 | 大智来信021](https://mp.weixin.qq.com/s/jDOYXGolXjF5dl3A00RgZw)
-- [远程办公8年](https://qianyong.me/eight-years-remote-work/)
+- [远程办公8年](https://web.archive.org/web/20210725200650/https://qianyong.me/eight-years-remote-work/) - 作者从一场意外的生病作为契机，在病愈后开始给公司远程办公，公司员工来自于9个城市4个国家，3个失去，是一个典型的分布式团队。负责汽车设备的制造以及项目落地。这样的跨国跨失去合作为他们解决了很多棘手的问题。得以快速像响应，及时交付。
 - [檀林：数字游民时代来临，你做好准备了吗？](https://mp.weixin.qq.com/s/KJH0EUE4snmT6hw098Rxww) - 随着交通和网络的进步，数字游民越来越不受地域的限制，同时企业的边界也越来越开放，数字游民可以边旅行，边工作，边度家，边学习，边交友，是一种全球化生活方式。数字游民会给各行各业带来一些新的挑战和机会。
 
 <a name="245a2b2e031e85b650f43b4e871a8e27"></a>
@@ -290,8 +290,8 @@
 - [远程办公员工十年翻番 数字游民会成主流吗？](https://mp.weixin.qq.com/s/6bjdsBFBwba2JmZBWgJ7wg)
 - [为什么上班和下班已经过时](https://ruanyf.github.io/survivor/collapse/remote-work.html)
 - [做技术的，如何找到一个远程办公的工作？](https://www.zhihu.com/question/52118159/answer/136558447)
-- [2016 年年度总结-远程工作一年半后](http://yizaoyiwan.com/discussions/1064)
-- [做一个自由职业者是怎样一番体验？](https://zhuanlan.zhihu.com/p/23350767)
+- [2016 年年度总结-远程工作一年半后](https://web.archive.org/web/20170630101259/http://yizaoyiwan.com/discussions/1064) - 远程工作后，生活在大理再到成都，期间出过几次远门，比如参加程度的 Ruby China 大会。得以和同事见面。作者是一个 Ruby 开发者，在 Ruby 社区，也有很多交流。
+- [做一个自由职业者是怎样一番体验？](https://zhuanlan.zhihu.com/p/23350767) - 几乎每一个非自由职业者对自由职业的瞎想都是天马行空的，或许是吧想象的重点全部都放在自由上，自动忽略了职业两个字。作者在本文中分享了两种不一样的半自由职业体验。
 - [Lonely Office—逃离办公室小格子的正确姿势](https://zhuanlan.zhihu.com/p/21901601) - 用3小时的痛苦通勤时间换来最多5小时的有效工作时间，有没有人觉得这很荒唐？作者所在的丕丕基科技是一个远程团队，他热衷于在不同的咖啡厅、西餐厅工作，逃离办公室小格子，享受更佳舒适的办公氛围。本文是他挑选工作场所的心得，很详细很有参考价值。
 - [未来，在家工作在什么时候可以普及？ - 梯谷的回答](https://www.zhihu.com/question/50965940/answer/190694651)作者打算离开北京，回到程度，和老板提了离职后，老板说可以尝试远程办公，从此开启了远程生涯，借助各种优质的协作工具，让开发人员的远程变得容易。
 - [一年多远程工作带给我的感悟](https://github.com/siddontang/blog/blob/master/2016/my-remote-work.md) - 作者 PingCAP 除了创始人之外的第一个员工，公司支持远程工作，让作者即使身在珠海，依然可以为这家北京的公司服务。相比咖啡厅，作者选择在家办公，并且配备了适合自己的设备，他的工作是维护开源项目，每天可以和世界各地的程序员交流。
