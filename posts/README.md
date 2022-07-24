@@ -123,7 +123,7 @@
 - [远程办公: 如何提高自制力？](https://ruby-china.org/topics/39469)
 - [推迟上班 & 远程上班的公司 和 坚持早来上班的公司 List](https://www.v2ex.com/t/640466)
 - [如何寻找一份远程工作](https://mp.weixin.qq.com/s/C3zKje3YBqKQ0XwKxyPpfg)
-- [如何攻克异地协作难题？看 Tower 的 72 个月远程工作实践](https://www.infoq.cn/article/swdsWXKasCMU0ePyBCSs?utm_source=rss&utm_medium=article)
+- [如何攻克异地协作难题？看 Tower 的 72 个月远程工作实践](https://www.infoq.cn/article/swdsWXKasCMU0ePyBCSs?utm_source=rss&utm_medium=article) - 12 月 9 日，TGO鲲鹏会武汉分会成功组织了第一次小组活动。在此次小组活动中，Tower 联合创始人 & TGO 鲲鹏会武汉分会会员徐峥带来了《Tower 团队 72 个月远程协作实践》的精彩分享。在分享过程中，徐峥分享了 Tower 的成长经历，以及 72 个月远程工作的成功实践经验。
 
 <a name="47b140b227ef1ac5dd22da765c154e94"></a>
 ## 2019年
