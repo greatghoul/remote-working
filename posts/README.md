@@ -175,8 +175,7 @@
 <a name="f87fcb0de2402ca1e420eb1253579ec3"></a>
 ## 2018年
 
-- [自由职业的这两年](https://news.cnblogs.com/n/593861/)
-- [没有管理者的公司是如何做决策的](https://www.infoq.cn/article/decisions-company-no-managers/)
+- [没有管理者的公司是如何做决策的](https://www.infoq.cn/article/decisions-company-no-managers/) - 分布式团队需要具备有效的远程沟通环境。自我管理的公司需要让每个员工拥有一个安全的决策环境。通过分派责任和在一起有效率地工作可以培养相互信任。让普通员工提出一个想法并实现它，共同创造公司的未来，从而降低人员流动率。扁平和全透明的商业模型意味着客户的满意度和公司的成长。
 - [怎样带着你的工作去远方？](http://www.zwgl.com.cn/cn/66423170.html)
 - [我的2018 – 自由开发者的一年](https://xinle.co/2018/12/28/%E6%88%91%E7%9A%842018-%E8%87%AA%E7%94%B1%E5%BC%80%E5%8F%91%E8%80%85%E7%9A%84%E4%B8%80%E5%B9%B4/)
 - [异地技术团队高效协作的经验分享](https://juejin.im/post/5c09d75b51882516cd70d87b)
