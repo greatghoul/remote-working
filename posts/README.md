@@ -233,7 +233,7 @@
 <a name="8fb37f46cf50b0aa0cde92f6d1ab5a37"></a>
 ## 2017年
 
-- [云工作时代，如何实现远程协作？](https://mp.weixin.qq.com/s/pEzdSZ-8PqyTBj9BZ84-pQ)
+- [云工作时代，如何实现远程协作？](https://mp.weixin.qq.com/s/pEzdSZ-8PqyTBj9BZ84-pQ) - 重来2的读书笔记，总结了 15 条。最后一条：“优秀到不可被忽视”，其实无论是不是远程办公，都是很好的建议。
 - [如何进行远程设计冲刺——给远程办公团队的小窍门](https://mp.weixin.qq.com/s/-t-92thU3wuTSXmKxeoeeQ)
 - [2018年38种自由职业大盘点](http://www.wocation.cc/2017/12/15/123/)
 - [远程两年之后，工作生活小结](https://zhuanlan.zhihu.com/p/31884972)
