@@ -43,7 +43,7 @@
 - [老板们不希望你远程工作的真正原因](https://36kr.com/p/1363341684770179) - 一个聪明的企业应该感激有人能在不到8小时的时间内完成任务，这意味着他们可以在更短的时间内为你做更多的事情，如果他们做的是非竞争性的副业，也许你应该给他们更多的工资，以避免他们离职去全身体的投入副业之中。或者，为他们选择用自己的时间为你工作而感到高兴。
 - [只工作，不上班，自由职业的爱与痛](https://mp.weixin.qq.com/s/iYooblm6gQd9jENKrSWVUA) - 自由职业本身需要极强的能力和自制力，需要你自律，做事有规则，善于学习，耐得住孤独寂寞，懂的调节情绪，内心够强大。相比上班，自由职业更考验个人综合能力。
 - [一些关于独立开发者的片段（2）](https://mp.weixin.qq.com/s/JpbEvWGtcRmx9GymzHFGTw)
-- [一些关于独立开发者的片段](https://mp.weixin.qq.com/s/SjnbCq_Wtfz9YhMBKVWhRw)
+- [一些关于独立开发者的片段](https://mp.weixin.qq.com/s/SjnbCq_Wtfz9YhMBKVWhRw) - 独立开发和自由职业以及远程工作是不同的概念，独立开发追求长期利益，但是也不推荐初期就全职投入。目前 iOS 独立开发因为平台便利，相对占优。
 - [程序员“只工作不上班”的三种方式](https://eleduck.com/posts/XNfLox)
 - [自由职业并不自由](https://mp.weixin.qq.com/s/z6G3Jn817JgiDtGGLwxlOA)
 - [新冠疫情引发第六次工业革命！全球10亿打工人起身反抗工作奴役](https://mp.weixin.qq.com/s/kzPapH-pqKksEOByaYfOjA)
@@ -281,7 +281,7 @@
 <a name="86ec6f70e30de526d5f60c51c715de98"></a>
 ## 2016年
 
-- [关于远程协作，我和我的团队都做了些什么](https://zhuanlan.zhihu.com/p/21804170)
+- [关于远程协作，我和我的团队都做了些什么](https://zhuanlan.zhihu.com/p/21804170) - 风泽科技是一个全员远程团队，对于提高成员之间的协作效率，他们尝试了多种解决方案。在团队和个人方面，根据风泽的实践经验，作者推荐了一些工具组合。
 - [为什么很多人愿意去咖啡馆工作？](https://zhuanlan.zhihu.com/p/22140391)
 - [让开发者更开心、更高效的远程工作是否适合你呢？](https://juejin.im/entry/57c6881c165abd00667cca7a)
 - [如果这些问题让你梦想破灭，那么你可能不适合远程工作](https://juejin.im/entry/572293475bbb50006274156b)
