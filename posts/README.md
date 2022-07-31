@@ -130,7 +130,7 @@
 
 - [我这个垃圾的成长经历，以及接下来的独立开发者之路](https://eleduck.com/posts/6N0f8y) - 作者高一辍学，从厂工，电销等职业一路跌跌撞撞走上了开发者的道路，和电脑打交到比和人打交道容易。自学的路很艰辛，但是积累却终有成效。最终在一个小城市成为以为自由职业的开发者。自由的滋味不好受，但作者有自己的坚持，因为自由也是快乐的。
 - [自由职业开发者如何打造个人品牌](https://mp.weixin.qq.com/s/YyytenH38jT_YbCFQS3HlA) - 软件行业发展如火如荼，这对于自由职业者来说有利有弊，你免不了要和更多的人进行竞争，为了避免成为廉价的劳动力，你需要打造个人品牌以避免被取代。
-- [你好鸭 #05《BadJohnny | 一个自由工作者的时间管理》](https://eleduck.com/posts/ez1fZ0)
+- [你好鸭 #05《BadJohnny | 一个自由工作者的时间管理》](https://eleduck.com/posts/ez1fZ0) - 这是一篇访谈，受访者是一名 Envato Market 的 Wordpress 主题作者。自由职业的他，在有了小孩后，一度手忙脚乱。后来改为4-11点工作，其余全部为生活时间，以便于有专注的时间，也有足够多的陪伴孩子的时间。
 - [你好鸭 #03 | 自由工作十多年，自我时间管理与时间意识](https://eleduck.com/posts/eVvfAa)
 - [ZEIT.co 是什么样一个组织?](https://www.zhihu.com/question/59278159/answer/813629215)
 - [一个三十多岁自由职业者的现实和未来](https://mp.weixin.qq.com/s/2L2NLsCP1-TTzWZCXE3PFA)
