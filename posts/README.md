@@ -5,6 +5,7 @@
 <a name="hTKqZ"></a>
 ## 2022年
 
+- [我不喜欢在远程工作中的哪些方面 ](https://www.priconceptions.com/notebook/remote-jobs-bad)- 作者进行了一段时间的远程工作生活后，列举了一些关于远程工作不好的地方。比如日程安排不稳定、纪律方面的问题、不容易和同事做朋友等。关于这篇文章的内容，在[ ycombinator ](https://news.ycombinator.com/item?id=32197174)上也有不同网友发表了自己的观点。(via [pr](https://github.com/greatghoul/remote-working/pull/289/files))
 - [在外企远程办公是什么体验？ | 社区征文](https://xie.infoq.cn/article/222d0e83ffdf570656142dd32) - 在外企远程工作的经验分享，从工具，语言，信息安全，工作效率，沟通，生活，开发环境等做了详细介绍。值得一提的是，作者所在的公司的开发环境都是在云桌面上进行的，与大多数公司都不想同。文章最后，对于远程工作的得失，作者的文字也非常精彩。
 - [同步语雀云知识库《远程工作者》到 Github 仓库](https://anl.gg/sync-yuque-to-github) - 《远程工作者》资源列表的由来以及迁移经历，本文还分享了一个从语雀同步内容到 github 的简单方法。
 - [要倒苦水，谁没有 -- 如何避免成为一个不好的远程开发](https://eleduck.com/posts/5BfNxN) - 从企业的角度讲，远程工作的开发人员应该如何和雇主沟通才能更有效率和效果。
