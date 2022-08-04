@@ -289,7 +289,7 @@
 - [低效？有时是因为没有找到对的地方去工作](https://3cwork.com/discussions/755)
 - [远程办公员工十年翻番 数字游民会成主流吗？](https://mp.weixin.qq.com/s/6bjdsBFBwba2JmZBWgJ7wg)
 - [为什么上班和下班已经过时](https://ruanyf.github.io/survivor/collapse/remote-work.html)
-- [做技术的，如何找到一个远程办公的工作？](https://www.zhihu.com/question/52118159/answer/136558447)
+- [做技术的，如何找到一个远程办公的工作？](https://www.zhihu.com/question/52118159/answer/136558447) - 作为一名开发者，如何利用 Google 搜索找到心仪的远程工作机会，这也是我分享远程工作机会一直在用的方法。
 - [2016 年年度总结-远程工作一年半后](https://web.archive.org/web/20170630101259/http://yizaoyiwan.com/discussions/1064) - 远程工作后，生活在大理再到成都，期间出过几次远门，比如参加程度的 Ruby China 大会。得以和同事见面。作者是一个 Ruby 开发者，在 Ruby 社区，也有很多交流。
 - [做一个自由职业者是怎样一番体验？](https://zhuanlan.zhihu.com/p/23350767) - 几乎每一个非自由职业者对自由职业的瞎想都是天马行空的，或许是吧想象的重点全部都放在自由上，自动忽略了职业两个字。作者在本文中分享了两种不一样的半自由职业体验。
 - [Lonely Office—逃离办公室小格子的正确姿势](https://zhuanlan.zhihu.com/p/21901601) - 用3小时的痛苦通勤时间换来最多5小时的有效工作时间，有没有人觉得这很荒唐？作者所在的丕丕基科技是一个远程团队，他热衷于在不同的咖啡厅、西餐厅工作，逃离办公室小格子，享受更佳舒适的办公氛围。本文是他挑选工作场所的心得，很详细很有参考价值。
