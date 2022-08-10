@@ -2,6 +2,11 @@
 
 收集整理历年远程工作相关的经验文章，其中一些早年的文章链接已经失效，可以找到快照的，我会替换成 Web Archive 服务的快照链接，**如果你无法打开 Web Archive 的链接, 可能得考虑使用代理来访问**。
 
+<a name="vxZlw"></a>
+## 系列
+
+- [“不会画图请找我”的自由职业周记](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU0MzA0MjExMQ==&action=getalbum&album_id=1720997024822575108&scene=173&from_msgid=2247484167&from_itemidx=1&count=3&nolastread=1#wechat_redirect) - 一位从事R语言画图和分析的自由这也者的自由职业记录。
+
 <a name="hTKqZ"></a>
 ## 2022年
 
@@ -37,16 +42,15 @@
 - [要工资也要自由！自由职业真的是大势所趋](https://mp.weixin.qq.com/s/VUiyGoC2Bg3iUiwlxVd-wA) - 跳出 996 的束缚，成为一名自由职业者的一些建议。首先需要有价值的一技之长，然后才能循序渐进，从 996 中脱身出来。这个过程，你需要保持良好的心态。
 - [你好鸭 #36 | iOS开发者的远程生活：睡眠充足带来的是一天满满的元气。](https://mp.weixin.qq.com/s/qL1wsfbs_9K7T5qOuJ76Vw) - 作者曾经做过一个计算，自己坐班时，两年的通勤时间加起来竟然多大 96 天，后来远程后，通勤就0成本了，这些时间可以做很多事情，健身，联系英语，培养兴趣爱好等等。
 - [你好鸭 #32 | 从国企程序媛，到130人远程团队的管理者](https://mp.weixin.qq.com/s/927f6fSU9r9JfAqf_G5Lww) - nauhil 是一名稳定的远程团队的管理者，目前他们团队已经有 130 多人了。不用 996 不用通勤打卡，不用无意义的加班，可以有时间去管理自己的健康。作为跨国团队，时差和语言是一项很大的挑战，所以沟通中尽可能准确的表达信息，这对远程的成员有很高的要求。
-- [“不会画图请找我”的自由职业周记](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU0MzA0MjExMQ==&action=getalbum&album_id=1720997024822575108&scene=173&from_msgid=2247484167&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 - [你好鸭 #28 | 我的八年远程生活源于Drupal](https://eleduck.com/posts/Ygf05q) - 受访者远程8年，是一名 Drupal 开发者，生活在偏远的西北地区，远程工作改变了他的生活。不但工资非常丰厚，更是有富余的时间投入到家庭和健身等事情上面。
 - [自由职业是996的避难所？](https://c.m.163.com/news/a/GIE2RC6M0552HPSZ.html) - 一个简单的自由职业调查，147人中，14.96%的受访者现在是自由职业，或者曾经有相关经理。而另外的 85.04% 中，63.95% 想要成为自由职业者。然而其中只有 1/4 的人有计划实现自由职业。剩余的人中：资源不足、能力不足、害怕收入等保障不足是主要阻碍。
 - [你好鸭 #26 | 我是半生不熟，远程工作和诗一样的生活我都想要。](https://eleduck.com/posts/L5f4V0)
 - [老板们不希望你远程工作的真正原因](https://36kr.com/p/1363341684770179) - 一个聪明的企业应该感激有人能在不到8小时的时间内完成任务，这意味着他们可以在更短的时间内为你做更多的事情，如果他们做的是非竞争性的副业，也许你应该给他们更多的工资，以避免他们离职去全身体的投入副业之中。或者，为他们选择用自己的时间为你工作而感到高兴。
 - [只工作，不上班，自由职业的爱与痛](https://mp.weixin.qq.com/s/iYooblm6gQd9jENKrSWVUA) - 自由职业本身需要极强的能力和自制力，需要你自律，做事有规则，善于学习，耐得住孤独寂寞，懂的调节情绪，内心够强大。相比上班，自由职业更考验个人综合能力。
-- [一些关于独立开发者的片段（2）](https://mp.weixin.qq.com/s/JpbEvWGtcRmx9GymzHFGTw)
+- [一些关于独立开发者的片段（2）](https://mp.weixin.qq.com/s/JpbEvWGtcRmx9GymzHFGTw) - 如果你掌握了远程的机会或者独立开发的能力，下降到任何一个非一线或者新一线城市，都可以获得幸福感的巨大提升。做外包和独立开发，分别追求长期和短期收益，只要合情合法，都指的尊重。
 - [一些关于独立开发者的片段](https://mp.weixin.qq.com/s/SjnbCq_Wtfz9YhMBKVWhRw) - 独立开发和自由职业以及远程工作是不同的概念，独立开发追求长期利益，但是也不推荐初期就全职投入。目前 iOS 独立开发因为平台便利，相对占优。
-- [程序员“只工作不上班”的三种方式](https://eleduck.com/posts/XNfLox)
-- [自由职业并不自由](https://mp.weixin.qq.com/s/z6G3Jn817JgiDtGGLwxlOA)
+- [程序员“只工作不上班”的三种方式](https://eleduck.com/posts/XNfLox) - 对于程序员而言，有三中形式可以远程工作：远程全职、自由职业或远程兼职、独立开发。本文对着三中方式作了简单的介绍。
+- [自由职业并不自由](https://mp.weixin.qq.com/s/z6G3Jn817JgiDtGGLwxlOA) - 想要舒服的自由职业并不容易，你需要有足够多的积累，才能获得相应的筹码，而且自由职业也没有想象中的那么自由。你最大的敌人可能是你自己。
 - [新冠疫情引发第六次工业革命！全球10亿打工人起身反抗工作奴役](https://mp.weixin.qq.com/s/kzPapH-pqKksEOByaYfOjA)
 - [7月复盘 | 那件不用坚持的小事，叫自律](https://mp.weixin.qq.com/s/LOHEQ-HMdlGnt8UVnUFGhw)
 - [只工作，不上班，自由职业的爱与痛](https://mp.weixin.qq.com/s/iYooblm6gQd9jENKrSWVUA)
@@ -64,7 +68,7 @@
 - [Working remotely 1 - 远程工作哪家强](https://zhuanlan.zhihu.com/p/374987002)
 - [你好鸭 #16 | 我是邱建，电鸭最早的核心共建者，远程八年，体验如下](https://eleduck.com/posts/ARfnBO)
 - [你好鸭 #15 | 在国外拿了绿卡买了房，最终却选择回到国内老家远程的男人](https://eleduck.com/posts/W9faqy)
-- [你好鸭 #14 | 工作之外想干啥干啥，这是远程最有价值的福利](https://eleduck.com/posts/gYfd9k)
+- [你好鸭 #14 | 工作之外想干啥干啥，这是远程最有价值的福利](https://eleduck.com/posts/gYfd9k) - 电鸭的访谈，受访者在经历了公司高强度的加班之后，萌生了远程的想法。最终付诸实施后，过上了自己想要的生活：在工作时间之外完全掌握自己的时间。
 - [你好鸭 #13 | 八年远程，一儿一女，这大概是我见过最爱折腾工作区的男子](https://eleduck.com/posts/0XfkEq)
 - [你好鸭 #12 | 找远程和谈恋爱差不多，合适永远比将就重要](https://eleduck.com/posts/Ygfk3l)
 - [你好鸭 #11 | 大学开始远程工作，我没上过一天班](https://eleduck.com/posts/EQfBzz)
