@@ -9,6 +9,13 @@
 ### Youtube
 
 - [nono不上班](https://www.youtube.com/channel/UC2NnoiophS5coaaBPSV80bw) - 赚钱不坐班 - nono的幸福生活
+- [Ben Awad](https://www.youtube.com/c/BenAwad97/videos) - Mock Interview - 海外远程面试
+- [Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g/videos) - Mock Interview - 海外远程面试
+
+<a name="Cn61F"></a>
+### Bilibili
+
+- [不顽强的巴豆](https://space.bilibili.com/33311079/video) - 海外求职经历、工作体验
 
 <a name="Lr25r"></a>
 ## 视频节目

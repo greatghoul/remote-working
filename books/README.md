@@ -16,6 +16,7 @@
 - [零工经济](https://book.douban.com/subject/27198025/) - 推动社会变革的引擎，从「企业-员工」，到「平台-个人」
 - [自流量生活](https://book.douban.com/subject/30310711/) - 将自己的生活方式放在首位，而非企业成长和利润增加
 - [只工作，不上班](https://book.douban.com/subject/34839849/) - 一些自由职业者的采访记录
+- [每周工作4小时](https://book.douban.com/subject/3006483/) - 告别朝九晚五。从观念到行为，彻底改变你的工作方式和生活方式
 
 <a name="cKtcQ"></a>
 ## 指南

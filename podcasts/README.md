@@ -7,6 +7,7 @@
 
 - [数字游民指北](https://www.xiaoyuzhoufm.com/podcast/5ebfe0c4418a84a0468b5f1d) - 数字游民/自由职业/远程办公/在线创业者，需要听的人物故事与所需的干货工具资讯都在这里
 - [数字游民](https://www.xiaoyuzhoufm.com/podcast/626da563bf39836fd02b79ed) - 数字游民部落作者的播客，生活方式设计方法论
+- [小人物](https://anobody.im/podcast/) - 海外求职者的经历分享、对话
 
 <a name="TYDvH"></a>
 ## 博客节目

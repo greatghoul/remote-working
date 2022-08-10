@@ -14,6 +14,7 @@
 - [豆瓣小组 - 英语兼职](https://www.douban.com/group/524795/) - 面向英语翻译类的兼职机会交流
 - [豆瓣小组 - 自由职业理想同盟](https://www.douban.com/group/33544/) -  多以兼职工作机会为主，有很多非 IT 类的兼职
 - [V2EX - 远程工作](https://www.v2ex.com/go/remote) - 偶尔有远程相关的讨论和工作机会
+- [V2EX - 酷工作](https://www.v2ex.com/?tab=jobs) - 经常有远程相关工作机会
 - [脸书小组 - 台湾远程工作](https://www.facebook.com/groups/remotetaiwan/) - 台湾的远程工作脸书专页
 - [数字游民指南](https://www.nomadguide.cn/) - 数字游民社区，提倡 [远程办公、环游世界] 的自由生活方式
 - [深海牧鲸](https://www.yuque.com/greatghoul/remote/ekpgl6) - 自由职业相关的微信小程序，小程序中有交流版块
@@ -71,6 +72,8 @@
 - [画师联盟](http://www.huashilm.com/job?jobType=2) - 发布画师兼职或全职工作机会，可以按是否可远程进行筛选
 - [~~一早一晚招聘~~](https://3cwork.com/discussions?category=remote)~~ - 一早一晚社区的招聘版块~~<br />网站已下线, 由电鸭社区取而代之
 - [~~SegmentFault 招聘~~](https://segmentfault.com/jobs/search?remote=1)~~ - SegmentFault 的招聘版块中支持按远程筛选<br />~~目前已不再支持筛选
+- [Go语言中文网 招聘版块](https://studygolang.com/go/jobs) - 经常有Golang、区块链相关的远程工作机会
+- [GoCN社区 招聘版块](https://gocn.vip/jobs) - 偶尔有Golang相关的远程工作机会
 
 <a name="hAY3C"></a>
 ## 用工平台
@@ -90,3 +93,5 @@
 - [圆领](https://www.yuanling.com/)
 - [云队友](https://www.duiyou360.com/)
 - [小蜜蜂远程工作](https://www.xmf.com/)
+- [RemoteOK](https://remoteok.com/) - 海外远程工作招聘平台
+- [We Work Remotely](https://weworkremotely.com/) - 海外远程工作招聘平台
