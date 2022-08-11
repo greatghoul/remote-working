@@ -10,6 +10,7 @@
 <a name="hTKqZ"></a>
 ## 2022年
 
+- [数字和非数字的游民，选择在这里抵抗内耗](https://mp.weixin.qq.com/s/EAEUx7RALnJrNrc2o2Mx0g) - 浙江安吉，白茶原产地的乡村里，出现了也许是中国第一个成规模的数字游民基地。开始运营的半年时间里，有一百人此的年轻人曾经来到这里。这里不仅有一般意义上的数字游民，比如程序员、设计师等工作不受时空限制的职业人士，也有用游牧精神生活着的手艺人。
 - [我不喜欢在远程工作中的哪些方面 ](https://www.priconceptions.com/notebook/remote-jobs-bad)- 作者进行了一段时间的远程工作生活后，列举了一些关于远程工作不好的地方。比如日程安排不稳定、纪律方面的问题、不容易和同事做朋友等。关于这篇文章的内容，在[ ycombinator ](https://news.ycombinator.com/item?id=32197174)上也有不同网友发表了自己的观点。(via [pr](https://github.com/greatghoul/remote-working/pull/289/files))
 - [在外企远程办公是什么体验？ | 社区征文](https://xie.infoq.cn/article/222d0e83ffdf570656142dd32) - 在外企远程工作的经验分享，从工具，语言，信息安全，工作效率，沟通，生活，开发环境等做了详细介绍。值得一提的是，作者所在的公司的开发环境都是在云桌面上进行的，与大多数公司都不想同。文章最后，对于远程工作的得失，作者的文字也非常精彩。
 - [同步语雀云知识库《远程工作者》到 Github 仓库](https://anl.gg/sync-yuque-to-github) - 《远程工作者》资源列表的由来以及迁移经历，本文还分享了一个从语雀同步内容到 github 的简单方法。
@@ -51,7 +52,7 @@
 - [一些关于独立开发者的片段](https://mp.weixin.qq.com/s/SjnbCq_Wtfz9YhMBKVWhRw) - 独立开发和自由职业以及远程工作是不同的概念，独立开发追求长期利益，但是也不推荐初期就全职投入。目前 iOS 独立开发因为平台便利，相对占优。
 - [程序员“只工作不上班”的三种方式](https://eleduck.com/posts/XNfLox) - 对于程序员而言，有三中形式可以远程工作：远程全职、自由职业或远程兼职、独立开发。本文对着三中方式作了简单的介绍。
 - [自由职业并不自由](https://mp.weixin.qq.com/s/z6G3Jn817JgiDtGGLwxlOA) - 想要舒服的自由职业并不容易，你需要有足够多的积累，才能获得相应的筹码，而且自由职业也没有想象中的那么自由。你最大的敌人可能是你自己。
-- [新冠疫情引发第六次工业革命！全球10亿打工人起身反抗工作奴役](https://mp.weixin.qq.com/s/kzPapH-pqKksEOByaYfOjA)
+- [新冠疫情引发第六次工业革命！全球10亿打工人起身反抗工作奴役](https://mp.weixin.qq.com/s/kzPapH-pqKksEOByaYfOjA) - 近几年，有越来越多的人成为数字游民，已经期间，这个趋势甚至有所加速，许多公司默许了远程工作，除了一份不受制于人的工作，不签证和税务也是量大问题，尤其是疫情之下。
 - [7月复盘 | 那件不用坚持的小事，叫自律](https://mp.weixin.qq.com/s/LOHEQ-HMdlGnt8UVnUFGhw)
 - [只工作，不上班，自由职业的爱与痛](https://mp.weixin.qq.com/s/iYooblm6gQd9jENKrSWVUA)
 - [我是张卫，人在青岛，远程五年啦 | No.24 你好鸭#远程工作者](https://mp.weixin.qq.com/s/Jc0kdw6B_Zy-BCKyIfjfHQ)
