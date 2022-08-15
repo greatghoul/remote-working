@@ -10,8 +10,8 @@
 <a name="hTKqZ"></a>
 ## 2022年
 
-- [好的工作，可以没有工位](https://a10khaznyg.feishu.cn/docs/doccn7UxrLhCpUVzIL4eKMWuuEd#cDmGpA) - Brix Lab团队对远程工作的介绍、说明 (via [CcccFz]())
-- [程序员远程办公在二三线城市陪女友和家人是一种什么体验 - 麦田里的程序员的回答](https://www.zhihu.com/question/338872533/answer/2427624374) - 一个远程工作者，在农村老家办公的田园生活分享，同时也是一个关于工作、生活、陪伴、兴趣相互平衡的案例。 (via [CcccFz]())
+- [好的工作，可以没有工位](https://a10khaznyg.feishu.cn/docs/doccn7UxrLhCpUVzIL4eKMWuuEd#cDmGpA) - Brix Lab团队对远程工作的介绍、说明。 (via [CcccFz](https://github.com/CcccFz))
+- [程序员远程办公在二三线城市陪女友和家人是一种什么体验 - 麦田里的程序员的回答](https://www.zhihu.com/question/338872533/answer/2427624374) - 一个远程工作者，在农村老家办公的田园生活分享，同时也是一个关于工作、生活、陪伴、兴趣相互平衡的案例。 (via [CcccFz](https://github.com/CcccFz))
 - [今年找远程工作的经历](https://eleduck.com/posts/98fGka) - 作者分享了自己找远程工作的经历，其中面试的公司拒绝求职者的体验给人很深的印象，好的 HR 会给你明确的时间安排和反馈，而不是拖字诀或者笼统的回复。对于出于尊重的交流，即使被拒，也会觉得这是一次友好的面试。
 - [数字和非数字的游民，选择在这里抵抗内耗](https://mp.weixin.qq.com/s/EAEUx7RALnJrNrc2o2Mx0g) - 浙江安吉，白茶原产地的乡村里，出现了也许是中国第一个成规模的数字游民基地。开始运营的半年时间里，有一百人此的年轻人曾经来到这里。这里不仅有一般意义上的数字游民，比如程序员、设计师等工作不受时空限制的职业人士，也有用游牧精神生活着的手艺人。
 - [我不喜欢在远程工作中的哪些方面 ](https://www.priconceptions.com/notebook/remote-jobs-bad)- 作者进行了一段时间的远程工作生活后，列举了一些关于远程工作不好的地方。比如日程安排不稳定、纪律方面的问题、不容易和同事做朋友等。关于这篇文章的内容，在[ ycombinator ](https://news.ycombinator.com/item?id=32197174)上也有不同网友发表了自己的观点。(via [pr](https://github.com/greatghoul/remote-working/pull/289/files))
