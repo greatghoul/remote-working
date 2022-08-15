@@ -5,10 +5,8 @@
 <a name="paeI0"></a>
 ## 视频频道
 
-<a name="iRHDO"></a>
-### Youtube
-
 - [nono不上班](https://www.youtube.com/channel/UC2NnoiophS5coaaBPSV80bw) - 赚钱不坐班 - nono的幸福生活
+- [不顽强的巴豆](https://space.bilibili.com/33311079/video) - 作者是一个在芬兰居家办公的程序员，频道主要分享海外求职经历、工作体验 (via [CcccFz](https://github.com/CcccFz))
 
 <a name="Lr25r"></a>
 ## 视频节目
