@@ -11,5 +11,5 @@
 - [NODESK](https://nodesk.co/) - A curated collection of resources for the digital nomad, remote worker and traveling professional.
 - [remote-jobs](https://github.com/remoteintech/remote-jobs) - 半远程或完全远程公司的列表
 - [open-source-jobs](https://github.com/t9tio/open-source-jobs) - 提供工作的开源项目列表
-- [We Work Remotely](https://weworkremotely.com/) - 海外远程工作招聘平台 (via [CcccFz](https://github.com/CcccFz))
-- [RemoteOK](https://remoteok.com/) - 海外远程工作招聘平台 (via [CcccFz](https://github.com/CcccFz))
+- [We Work Remotely](https://weworkremotely.com/) - 海外远程工作招聘平台 ( via [CcccFz](https://github.com/CcccFz) )
+- [RemoteOK](https://remoteok.com/) - 海外远程工作招聘平台 ( via [CcccFz](https://github.com/CcccFz) )
