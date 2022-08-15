@@ -10,6 +10,9 @@
 <a name="hTKqZ"></a>
 ## 2022年
 
+- [好的工作，可以没有工位](https://a10khaznyg.feishu.cn/docs/doccn7UxrLhCpUVzIL4eKMWuuEd#cDmGpA) - Brix Lab团队对远程工作的介绍、说明 (via [CcccFz]())
+- [程序员远程办公在二三线城市陪女友和家人是一种什么体验 - 麦田里的程序员的回答](https://www.zhihu.com/question/338872533/answer/2427624374) - 一个远程工作者，在农村老家办公的田园生活分享，同时也是一个关于工作、生活、陪伴、兴趣相互平衡的案例。 (via [CcccFz]())
+- [今年找远程工作的经历](https://eleduck.com/posts/98fGka) - 作者分享了自己找远程工作的经历，其中面试的公司拒绝求职者的体验给人很深的印象，好的 HR 会给你明确的时间安排和反馈，而不是拖字诀或者笼统的回复。对于出于尊重的交流，即使被拒，也会觉得这是一次友好的面试。
 - [数字和非数字的游民，选择在这里抵抗内耗](https://mp.weixin.qq.com/s/EAEUx7RALnJrNrc2o2Mx0g) - 浙江安吉，白茶原产地的乡村里，出现了也许是中国第一个成规模的数字游民基地。开始运营的半年时间里，有一百人此的年轻人曾经来到这里。这里不仅有一般意义上的数字游民，比如程序员、设计师等工作不受时空限制的职业人士，也有用游牧精神生活着的手艺人。
 - [我不喜欢在远程工作中的哪些方面 ](https://www.priconceptions.com/notebook/remote-jobs-bad)- 作者进行了一段时间的远程工作生活后，列举了一些关于远程工作不好的地方。比如日程安排不稳定、纪律方面的问题、不容易和同事做朋友等。关于这篇文章的内容，在[ ycombinator ](https://news.ycombinator.com/item?id=32197174)上也有不同网友发表了自己的观点。(via [pr](https://github.com/greatghoul/remote-working/pull/289/files))
 - [在外企远程办公是什么体验？ | 社区征文](https://xie.infoq.cn/article/222d0e83ffdf570656142dd32) - 在外企远程工作的经验分享，从工具，语言，信息安全，工作效率，沟通，生活，开发环境等做了详细介绍。值得一提的是，作者所在的公司的开发环境都是在云桌面上进行的，与大多数公司都不想同。文章最后，对于远程工作的得失，作者的文字也非常精彩。
@@ -53,8 +56,8 @@
 - [程序员“只工作不上班”的三种方式](https://eleduck.com/posts/XNfLox) - 对于程序员而言，有三中形式可以远程工作：远程全职、自由职业或远程兼职、独立开发。本文对着三中方式作了简单的介绍。
 - [自由职业并不自由](https://mp.weixin.qq.com/s/z6G3Jn817JgiDtGGLwxlOA) - 想要舒服的自由职业并不容易，你需要有足够多的积累，才能获得相应的筹码，而且自由职业也没有想象中的那么自由。你最大的敌人可能是你自己。
 - [新冠疫情引发第六次工业革命！全球10亿打工人起身反抗工作奴役](https://mp.weixin.qq.com/s/kzPapH-pqKksEOByaYfOjA) - 近几年，有越来越多的人成为数字游民，已经期间，这个趋势甚至有所加速，许多公司默许了远程工作，除了一份不受制于人的工作，不签证和税务也是量大问题，尤其是疫情之下。
-- [7月复盘 | 那件不用坚持的小事，叫自律](https://mp.weixin.qq.com/s/LOHEQ-HMdlGnt8UVnUFGhw)
-- [只工作，不上班，自由职业的爱与痛](https://mp.weixin.qq.com/s/iYooblm6gQd9jENKrSWVUA)
+- [7月复盘 | 那件不用坚持的小事，叫自律](https://mp.weixin.qq.com/s/LOHEQ-HMdlGnt8UVnUFGhw) - 在我们无法坚持一件事的时候，往往是我们没有办法享受它，或者没有找到合适的方式让自己快乐的做这件事，保持新鲜感。
+- [只工作，不上班，自由职业的爱与痛](https://mp.weixin.qq.com/s/iYooblm6gQd9jENKrSWVUA) - 自由职业本身需要极强的能力和自制力，需要你自律，做事有规则，善于学习，耐得住孤独寂寞，懂的调节情绪，内心强大，相比上班，自由职业更考研人的个人综合能力。
 - [我是张卫，人在青岛，远程五年啦 | No.24 你好鸭#远程工作者](https://mp.weixin.qq.com/s/Jc0kdw6B_Zy-BCKyIfjfHQ)
 - [No.23 你好鸭#远程工作者 | 我是Karthus，目前在一家区块链公司远程](https://mp.weixin.qq.com/s/KUyZ0opnx6y85DfM2ZWojQ)
 - [2021年10种自由职业大盘点](https://mp.weixin.qq.com/s/JjVte4xCohh8UYZBRlB7-w)
