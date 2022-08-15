@@ -71,9 +71,9 @@
 - [画师联盟](http://www.huashilm.com/job?jobType=2) - 发布画师兼职或全职工作机会，可以按是否可远程进行筛选
 - [~~一早一晚招聘~~](https://3cwork.com/discussions?category=remote)~~ - 一早一晚社区的招聘版块~~<br />网站已下线, 由电鸭社区取而代之
 - [~~SegmentFault 招聘~~](https://segmentfault.com/jobs/search?remote=1)~~ - SegmentFault 的招聘版块中支持按远程筛选<br />~~目前已不再支持筛选
-- [V2EX酷工作](https://www.v2ex.com/?tab=jobs) - 经常有远程相关工作机会（和已有的“V2EX - 远程工作”不一样，这个会更好） (via [CcccFz]())
-- [Go语言中文网 招聘版块](https://studygolang.com/go/jobs) - 经常有Golang、区块链相关的远程工作机会 (via [CcccFz]())
-- [GoCN社区 招聘版块](https://gocn.vip/jobs) - 偶尔有Golang相关的远程工作机会 (via [CcccFz]())
+- [V2EX酷工作](https://www.v2ex.com/?tab=jobs) - 经常有远程相关工作机会（和已有的“V2EX - 远程工作”不一样，这个会更好） ( via [CcccFz]() )
+- [Go语言中文网 招聘版块](https://studygolang.com/go/jobs) - 经常有Golang、区块链相关的远程工作机会 ( via [CcccFz]() )
+- [GoCN社区 招聘版块](https://gocn.vip/jobs) - 偶尔有Golang相关的远程工作机会 ( via [CcccFz]() )
 
 <a name="hAY3C"></a>
 ## 用工平台
