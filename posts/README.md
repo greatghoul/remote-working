@@ -60,7 +60,7 @@
 - [只工作，不上班，自由职业的爱与痛](https://mp.weixin.qq.com/s/iYooblm6gQd9jENKrSWVUA) - 自由职业本身需要极强的能力和自制力，需要你自律，做事有规则，善于学习，耐得住孤独寂寞，懂的调节情绪，内心强大，相比上班，自由职业更考研人的个人综合能力。
 - [我是张卫，人在青岛，远程五年啦 | No.24 你好鸭#远程工作者](https://mp.weixin.qq.com/s/Jc0kdw6B_Zy-BCKyIfjfHQ) - 电鸭访谈，受访者张卫是一名远程工作了五年的程序员，生活在青岛，虽然是远程，但是张卫比较偏好固定的时间和地点工作，以提高效率。
 - [No.23 你好鸭#远程工作者 | 我是Karthus，目前在一家区块链公司远程](https://mp.weixin.qq.com/s/KUyZ0opnx6y85DfM2ZWojQ) - 电鸭的访谈，受访者 Karthus 是一名 iOS 工程师，从事区块链相关工作。从北京返回家乡昆明远程工作。因为政策的考虑，很多区块链公司选择远程办公，自然有了很多机会。
-- [2021年10种自由职业大盘点](https://mp.weixin.qq.com/s/JjVte4xCohh8UYZBRlB7-w)
+- [2021年10种自由职业大盘点](https://mp.weixin.qq.com/s/JjVte4xCohh8UYZBRlB7-w) - 十种适合自由职业的职业盘点：自由撰稿人，设计师，视频自媒体，摄影摄像师，翻译，插画师，产品体验官，配音录音师，心理咨询师，程序员。
 - [No.22 你好鸭#远程工作者 | 我是胖鱼，爱撸铁健身，和大家聊聊我的开源和远程经历](https://mp.weixin.qq.com/s/gYlkLXoApdIVNYVdd5ey3A)
 - [自由职业者必须具备的五个特质，你拥有几个？](https://mp.weixin.qq.com/s/ihzujXXzTzywUMdu2Ug0Ow)
 - [我做自由职业第四年](https://eleduck.com/posts/x0fJo5)
