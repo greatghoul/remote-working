@@ -62,16 +62,12 @@
 - [No.23 你好鸭#远程工作者 | 我是Karthus，目前在一家区块链公司远程](https://mp.weixin.qq.com/s/KUyZ0opnx6y85DfM2ZWojQ) - 电鸭的访谈，受访者 Karthus 是一名 iOS 工程师，从事区块链相关工作。从北京返回家乡昆明远程工作。因为政策的考虑，很多区块链公司选择远程办公，自然有了很多机会。
 - [2021年10种自由职业大盘点](https://mp.weixin.qq.com/s/JjVte4xCohh8UYZBRlB7-w) - 十种适合自由职业的职业盘点：自由撰稿人，设计师，视频自媒体，摄影摄像师，翻译，插画师，产品体验官，配音录音师，心理咨询师，程序员。
 - [No.22 你好鸭#远程工作者 | 我是胖鱼，爱撸铁健身，和大家聊聊我的开源和远程经历](https://mp.weixin.qq.com/s/gYlkLXoApdIVNYVdd5ey3A) - 电鸭的访谈，受访者胖鱼是一名运营，虽然是女生，但是兴趣爱好比较偏向那孩子。因为疫情，胖鱼开始了远程工作。因为之前已经有一部分远程的经验，所以节奏上没什么问题。时间把控上更自由，除了工作，还会给自己安排一些力量训练。胖鱼也会使用四象限法来安排自己的工作，保证效率。
-- [自由职业者必须具备的五个特质，你拥有几个？](https://mp.weixin.qq.com/s/ihzujXXzTzywUMdu2Ug0Ow)
-- [我做自由职业第四年](https://eleduck.com/posts/x0fJo5)
-- [No.21 你好鸭#海外工作者 | 我是VeryCB，2018 年离开北京来到奥克兰](https://eleduck.com/posts/W9f3nY)
-- [No.20 你好鸭#海外工作者 | 我是薄荷，在加拿大整整九年了](https://eleduck.com/posts/v5fyaD)
-- [你好鸭 #19 | 我是刘二狗，感谢远程，感谢我世界第一可爱的仙女老婆](https://eleduck.com/posts/dDfoJR)
-- [你好鸭 #17 | 远程工作终于带给了我梦寐以求的 Work-Life Balance](https://eleduck.com/posts/jAfoym)
-- [如何找到一份远程工作：完整的指南](https://www.nomadguide.cn/archives/32133.html)
-- [Working remotely 1 - 远程工作哪家强](https://zhuanlan.zhihu.com/p/374987002)
-- [你好鸭 #16 | 我是邱建，电鸭最早的核心共建者，远程八年，体验如下](https://eleduck.com/posts/ARfnBO)
-- [你好鸭 #15 | 在国外拿了绿卡买了房，最终却选择回到国内老家远程的男人](https://eleduck.com/posts/W9faqy)
+- [我做自由职业第四年](https://eleduck.com/posts/x0fJo5) - 作者是一名全栈开发，这是他自由职业四年的总结。从工作台的配置，到日常的工作和学习和生活。其中工作台的配置非常亮眼。
+- [你好鸭 #19 | 我是刘二狗，感谢远程，感谢我世界第一可爱的仙女老婆](https://eleduck.com/posts/dDfoJR) - 电鸭的访谈，受访者刘二狗是一名 Ruby 工程师，远程后离开深圳回到厦门，终于不用再和女朋友异地恋了。刘二狗比较能折腾，从工作台到其它软硬件，都精心打磨，甚至包括狗粮。
+- [你好鸭 #17 | 远程工作终于带给了我梦寐以求的 Work-Life Balance](https://eleduck.com/posts/jAfoym) - 电鸭的访谈，受访者陈小一是一名全栈开发，也负责团队管理工作。经历非常丰富，从桌面应用到游戏，到全栈，再到前端开发。从事过坐班、自由职业，全职远程。远程带给他的是梦寐以求的 Work Life Balance。
+- [Working remotely 1 - 远程工作哪家强](https://zhuanlan.zhihu.com/p/374987002) - 作者结合自己四年远程的体验和新的，讲了IT行业国内外远程工作的现状。一些初创公司相对来说对远程比较友好，可以多多点进他们的招聘页面观察观察。
+- [你好鸭 #16 | 我是邱建，电鸭最早的核心共建者，远程八年，体验如下](https://eleduck.com/posts/ARfnBO) - 电鸭的访谈，受访者 greatghoul 是一位远程 8 年的后端开发，远程工作给他了更多的自由时间可以兼顾家庭，以及学习和提升。greatghoul 也有参与电鸭社区的共建，8年来也一直在整理 "远程工作者" 这个列表。
+- [你好鸭 #15 | 在国外拿了绿卡买了房，最终却选择回到国内老家远程的男人](https://eleduck.com/posts/W9faqy) - 电鸭的访谈，受访者 Alex 是一名 DevOps 工程师，从事区块链行业。Alex 在国外拿了绿卡买了房，但是耐不住寂寞，在找到国外的远程工作之后，又回到国内生活，也遇到了自己的另一半。
 - [你好鸭 #14 | 工作之外想干啥干啥，这是远程最有价值的福利](https://eleduck.com/posts/gYfd9k) - 电鸭的访谈，受访者在经历了公司高强度的加班之后，萌生了远程的想法。最终付诸实施后，过上了自己想要的生活：在工作时间之外完全掌握自己的时间。
 - [你好鸭 #13 | 八年远程，一儿一女，这大概是我见过最爱折腾工作区的男子](https://eleduck.com/posts/0XfkEq)
 - [你好鸭 #12 | 找远程和谈恋爱差不多，合适永远比将就重要](https://eleduck.com/posts/Ygfk3l)
