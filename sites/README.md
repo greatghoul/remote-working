@@ -74,6 +74,8 @@
 - [V2EX酷工作](https://www.v2ex.com/?tab=jobs) - 经常有远程相关工作机会（和已有的“V2EX - 远程工作”不一样，这个会更好） ( via [CcccFz]() )
 - [Go语言中文网 招聘版块](https://studygolang.com/go/jobs) - 经常有Golang、区块链相关的远程工作机会 ( via [CcccFz]() )
 - [GoCN社区 招聘版块](https://gocn.vip/jobs) - 偶尔有Golang相关的远程工作机会 ( via [CcccFz]() )
+- [Rust语言中文社区 招聘板块](https://rustcc.cn/section?id=fed6b7de-0a74-48eb-8988-1978858c9b35) - 经常有Rust相关的远程工作机会 ( via [CcccFz]() )
+- [登链社区 | 远程板块](https://learnblockchain.cn/index.php/jobs/71/%E8%BF%9C%E7%A8%8B) - 聚焦于区块链相关工作的网站，具有远程工作板块 ( via [CcccFz]() )
 
 <a name="hAY3C"></a>
 ## 用工平台
@@ -93,3 +95,4 @@
 - [圆领](https://www.yuanling.com/)
 - [云队友](https://www.duiyou360.com/)
 - [小蜜蜂远程工作](https://www.xmf.com/)
+- [Brix中文网站](https://zh.joinbrix.com/) - BrixLabs团队运营的远程工作招聘平台 ( via [CcccFz](https://github.com/CcccFz) )
