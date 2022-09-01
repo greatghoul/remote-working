@@ -85,9 +85,9 @@
 
 - [旅居世界五年没车房没存款，我后悔了吗？|告别996的人](https://mp.weixin.qq.com/s/kud9mc1Kmp_lmSz8-CwM-g) - 来源：数字游民指北； 文章回答了想要入行自由职业的人的很多头疼的问题，或许不是唯一解法，但是很有效。  
 - [推荐一个远程社区，电鸭](https://mp.weixin.qq.com/s/ndY1pOkh61d3MU-xHFh60A) - 在作者眼中，自己做内容，是很艰难的，所以对于电鸭社区，在疫情之下，多方建立链接，为大家寻找远程机会很是钦佩。
-- [WFH 半年了，我们收集了大家所有的苦水](https://mp.weixin.qq.com/s/4OHFgkH7rWsnUlooTPgrZA)
-- [我做自由职业这3年](https://eleduck.com/posts/Vvfo71)
-- [如何找到一份远程办公的工作？](https://zhuanlan.zhihu.com/p/217815242)
+- [WFH 半年了，我们收集了大家所有的苦水](https://mp.weixin.qq.com/s/4OHFgkH7rWsnUlooTPgrZA) - 疫情之下的远程工作，多少有点畸形，大家多多少少有些苦水要倒，比如生活和工作界限模糊，缺少社交，以及没了一些福利等等。
+- [我做自由职业这3年](https://eleduck.com/posts/Vvfo71) - 自由职业的三年，作者经历过印度客户，创业客户以及教育相关的行业。作业建议，就日常工作而言，主动，认真，负责的去做事更为重要。
+- [如何找到一份远程办公的工作？](https://zhuanlan.zhihu.com/p/217815242) - 作者整理了一些找远程工作机会的方法，从平台，到社区，到招聘网站，都有简单的介绍及避坑的建议。
 - [关于远程的管理模式](https://eleduck.com/posts/pqfgJy)
 - [远程工作对开发者有哪些特质要求](https://eleduck.com/posts/N0fpAL)
 - [远程工作下的思考：如何提高自己的工作效率？](https://mp.weixin.qq.com/s/kULANKkZUQ6yKSLCKAflIQ)
