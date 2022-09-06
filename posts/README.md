@@ -136,9 +136,9 @@
 - [自由职业开发者如何打造个人品牌](https://mp.weixin.qq.com/s/YyytenH38jT_YbCFQS3HlA) - 软件行业发展如火如荼，这对于自由职业者来说有利有弊，你免不了要和更多的人进行竞争，为了避免成为廉价的劳动力，你需要打造个人品牌以避免被取代。
 - [你好鸭 #05《BadJohnny | 一个自由工作者的时间管理》](https://eleduck.com/posts/ez1fZ0) - 这是一篇访谈，受访者是一名 Envato Market 的 Wordpress 主题作者。自由职业的他，在有了小孩后，一度手忙脚乱。后来改为4-11点工作，其余全部为生活时间，以便于有专注的时间，也有足够多的陪伴孩子的时间。
 - [你好鸭 #03 | 自由工作十多年，自我时间管理与时间意识](https://eleduck.com/posts/eVvfAa) - Rita 是问题领域的自由职业者，自由工作之初，眼里只有工作，忽略了健康和生活品质，慢慢就因此产生了厌倦，停工一年，进行反思后，开始把休息放到和工作同等重要的地位，找到了自己的节奏。
-- [ZEIT.co 是什么样一个组织?](https://www.zhihu.com/question/59278159/answer/813629215)
-- [一个三十多岁自由职业者的现实和未来](https://mp.weixin.qq.com/s/2L2NLsCP1-TTzWZCXE3PFA)
-- [想要遠距工作，你準備好了嗎?(上) | 超衝擊的五大難關](https://medium.com/remote-taiwan/%E6%83%B3%E8%A6%81%E9%81%A0%E8%B7%9D%E5%B7%A5%E4%BD%9C-%E4%BD%A0%E6%BA%96%E5%82%99%E5%A5%BD%E4%BA%86%E5%97%8E-%E4%B8%8A-%E8%B6%85%E8%A1%9D%E6%93%8A%E7%9A%84%E4%BA%94%E5%A4%A7%E9%9B%A3%E9%97%9C-8e6cb9096b86)
+- [ZEIT.co 是什么样一个组织?](https://www.zhihu.com/question/59278159/answer/813629215) - zeit.co, 现在交 vercel，也是一个远程团队，成员包括很多知名库的作者，本文简单提及了他们工作的一些日常。
+- [一个三十多岁自由职业者的现实和未来](https://zhuanlan.zhihu.com/p/99225102) - 20多岁的自由职业者，生存下去永远是首要的目标，为了支撑这个目标，需要逐渐积累各方面的能力，30多岁可能会更注重尊严，要保住自己的尊严，相比于做什么，怎么做可能是更需要投入思考的事情。
+- [想要遠距工作，你準備好了嗎?(上) | 超衝擊的五大難關](https://medium.com/remote-taiwan/%E6%83%B3%E8%A6%81%E9%81%A0%E8%B7%9D%E5%B7%A5%E4%BD%9C-%E4%BD%A0%E6%BA%96%E5%82%99%E5%A5%BD%E4%BA%86%E5%97%8E-%E4%B8%8A-%E8%B6%85%E8%A1%9D%E6%93%8A%E7%9A%84%E4%BA%94%E5%A4%A7%E9%9B%A3%E9%97%9C-8e6cb9096b86) - 作者根据自己的亲身经历，总结了远程工作中的一些难点，包括沟通，孤单感，界限，干扰等等。
 - [数码游民之旅1 - 清迈](https://zhuanlan.zhihu.com/p/94636518)
 - [有偿解题 - 记第一次发包](https://eleduck.com/posts/Mb2foM)
 - [自我时间管理的前提是先建立「时间意识」| 电鸭访谈 x Rita](https://eleduck.com/posts/eVvfAa)
