@@ -141,9 +141,8 @@
 - [想要遠距工作，你準備好了嗎?(上) | 超衝擊的五大難關](https://medium.com/remote-taiwan/%E6%83%B3%E8%A6%81%E9%81%A0%E8%B7%9D%E5%B7%A5%E4%BD%9C-%E4%BD%A0%E6%BA%96%E5%82%99%E5%A5%BD%E4%BA%86%E5%97%8E-%E4%B8%8A-%E8%B6%85%E8%A1%9D%E6%93%8A%E7%9A%84%E4%BA%94%E5%A4%A7%E9%9B%A3%E9%97%9C-8e6cb9096b86) - 作者根据自己的亲身经历，总结了远程工作中的一些难点，包括沟通，孤单感，界限，干扰等等。
 - [数码游民之旅1 - 清迈](https://zhuanlan.zhihu.com/p/94636518) - 作者是一名数字游民，本文介绍了他日常使用的工具，在清迈住宿、办公，饮食等一些基本情况和开销等。
 - [有偿解题 - 记第一次发包](https://eleduck.com/posts/Mb2foM) - 作者在遇到一个算法难题时，想到了悬赏解题，于是使用3000元预算做了一次尝试，值得注意的是，作者为他的算法做了专门可以执行用例的网页以检验结果。本以为会比较坎坷，没想到出奇的顺利。
-- [再从（新人）雇主的角度谈谈远程工作的经历和坑](https://eleduck.com/posts/POGfwR)
-- [这是你希望的自由职业么](https://mp.weixin.qq.com/s/FdPj31F5zSdUP3MrtQCCNA)
-- [关于远程工作的一些思考](https://mp.weixin.qq.com/s/Z2qudLcK4i5DGaFaDdMLag)
+- [再从（新人）雇主的角度谈谈远程工作的经历和坑](https://eleduck.com/posts/POGfwR) - 作者从高中开始自学编程，后来一路也经历了很多项目和技术，但是毕业时却对程序员厌倦了，后来自己创业，通过一些通过一些平台找过外包，结果都差强人意。踩过很多坑，总体来说，远程不适合新手。
+- [这是你希望的自由职业么](https://mp.weixin.qq.com/s/FdPj31F5zSdUP3MrtQCCNA) - 一个人能做的事情是有限的，自由职业并不是外人看的那么轻松，每天也要不断的工作和学习，需要有很好的节奏，才能有相对稳定的产出。作者拿写公众号作为例子，详述了其中的艰辛，以及自己成长的方式。
 - [自由职人 | 姜赟：爱精酿玩乐队的程序员](https://mp.weixin.qq.com/s/3ALaKVq9capfzIoaAVDUnw)
 - [读《Remote2》聊聊远程工作](https://juejin.im/post/5d6bc1aff265da039f12cff6)
 - [远程一年的总结](https://www.v2ex.com/t/595749)
