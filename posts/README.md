@@ -146,9 +146,6 @@
 - [自由职人 | 姜赟：爱精酿玩乐队的程序员](https://mp.weixin.qq.com/s/3ALaKVq9capfzIoaAVDUnw) - 姜赟是以为生活在海口的程序员，目前自由职业，对于作者而言，写程序除了能力的提升，最大的收获能够真正改变人，帮助人的喜悦带来的成就感。借助一些接单平台，作者得以在家乡自由职业，从项目中提升自己的技术。工作之余，还会玩玩原创音乐和精酿啤酒。
 - [读《Remote2》聊聊远程工作](https://juejin.im/post/5d6bc1aff265da039f12cff6) - 作者结合自己远程一年的工作感悟，谈了谈 Remote 2 中的一些观点，涉及环境，沟通，时间管理等几个方面。
 - [远程一年的总结](https://www.v2ex.com/t/595749) - 作者从上海回到上东老家远程工作，本文介绍了他寻找远程工作机会，以及远程协作中的一些经验。还有最重要的：生活和健康。
-- [写给远程工作一周年的日子](https://learnku.com/articles/32622)
-- [浅谈跨境跨区远程工作下的EoR劳务模式](https://zhuanlan.zhihu.com/p/77090241)
-- [各位对外远程开发者, 怎么管理个人所得税?](https://www.v2ex.com/t/588882)
 - [如何找到时薪 80 美元的远程工作（一）](https://geekplux.com/2019/07/31/how-to-get-jobs-pay-80-dollars-per-hour-1/)
 - [如何找到时薪 80 美元的远程工作（二）](https://geekplux.com/2019/07/31/how-to-get-jobs-pay-80-dollars-per-hour-2/)
 - [远程工作和外包接案有什么不同？](https://zhuanlan.zhihu.com/p/72083042)
