@@ -88,9 +88,8 @@
 - [WFH 半年了，我们收集了大家所有的苦水](https://mp.weixin.qq.com/s/4OHFgkH7rWsnUlooTPgrZA) - 疫情之下的远程工作，多少有点畸形，大家多多少少有些苦水要倒，比如生活和工作界限模糊，缺少社交，以及没了一些福利等等。
 - [我做自由职业这3年](https://eleduck.com/posts/Vvfo71) - 自由职业的三年，作者经历过印度客户，创业客户以及教育相关的行业。作业建议，就日常工作而言，主动，认真，负责的去做事更为重要。
 - [如何找到一份远程办公的工作？](https://zhuanlan.zhihu.com/p/217815242) - 作者整理了一些找远程工作机会的方法，从平台，到社区，到招聘网站，都有简单的介绍及避坑的建议。
-- [关于远程的管理模式](https://eleduck.com/posts/pqfgJy)
-- [远程工作对开发者有哪些特质要求](https://eleduck.com/posts/N0fpAL)
-- [远程工作下的思考：如何提高自己的工作效率？](https://mp.weixin.qq.com/s/kULANKkZUQ6yKSLCKAflIQ)
+- [远程工作对开发者有哪些特质要求](https://eleduck.com/posts/N0fpAL) - 本文讨论了远程工作者需要的一些特制，比如时间管理，沟通方式，自律等等。
+- [远程工作下的思考：如何提高自己的工作效率？](https://mp.weixin.qq.com/s/kULANKkZUQ6yKSLCKAflIQ) - 疫情之下，很多第一次接触远程办公的小伙伴，都会有这样一个感觉：比平时上班更忙，更累，效率更低。明明工作环境更加舒适，自由，为什么反而没什么热情工作，工作效率更低了呢？
 - [一个自由职业者的2020年终复盘](https://mp.weixin.qq.com/s/gNB7HDR7WV7AJwAZmxAJxA)
 - [疫情下的自由职业者半年复盘报告](https://mp.weixin.qq.com/s/IZI9fp8kwDMZUkE6cZrC7w)
 - [HR如何准备好远程招聘工作(一）](https://zhuanlan.zhihu.com/p/184602549)
