@@ -7,11 +7,18 @@
 
 - [远程工作的合同性质](https://eleduck.com/posts/pqfJAW)
 - [对自由职业而言，自己交社保和找代理挂靠社保相比哪个更划算？](https://www.zhihu.com/question/22557823)
+- [浅谈跨境跨区远程工作下的EoR劳务模式]()
 
 <a name="Hc9aU"></a>
 ## 税务问题
 
 - [独立开发者公司资质与税务工作](https://www.yuque.com/docs/share/ead0211d-dfb1-4a91-a443-5ef9715d3e94#fmMA0)
+- [各位对外远程开发者, 怎么管理个人所得税? ](https://www.v2ex.com/t/588882?p=1)
+
+<a name="dp3Cb"></a>
+## 团队管理
+
+- [关于远程的管理模式](https://eleduck.com/posts/pqfgJy)
 
 <a name="knNMy"></a>
 ## 境外远程工作
