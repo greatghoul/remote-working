@@ -92,10 +92,7 @@
 - [远程工作下的思考：如何提高自己的工作效率？](https://mp.weixin.qq.com/s/kULANKkZUQ6yKSLCKAflIQ) - 疫情之下，很多第一次接触远程办公的小伙伴，都会有这样一个感觉：比平时上班更忙，更累，效率更低。明明工作环境更加舒适，自由，为什么反而没什么热情工作，工作效率更低了呢？
 - [一个自由职业者的2020年终复盘](https://mp.weixin.qq.com/s/gNB7HDR7WV7AJwAZmxAJxA) - 2020年，作者花了很大的力气来做自律这件事，首先从早睡早起开始锻炼。然后是时间管理、复盘、运动、阅读、情绪管理等等。 不过我最认同的一个是：允许自己消耗情绪。人不是机器，如果真的想休息，就好好休息，放空自己。
 - [疫情下的自由职业者半年复盘报告](https://mp.weixin.qq.com/s/IZI9fp8kwDMZUkE6cZrC7w) - 作者复盘了疫情开始半年的自由职业情况，包括财务、工作、成长和亲密关系。疫情让作者原本的收入渠道收到很大的影响，不得不重新思考自己的职业之路，进行调整和修正。这篇文章是很棒的自我思考的例子。
-- [HR如何准备好远程招聘工作(一）](https://zhuanlan.zhihu.com/p/184602549)
-- [HR如何准备好远程招聘工作(二）](https://zhuanlan.zhihu.com/p/185747643)
-- [HR如何准备好远程招聘工作(三）](https://zhuanlan.zhihu.com/p/187061874)
-- [HR如何准备好远程招聘工作(四）](https://zhuanlan.zhihu.com/p/188319494)
+- HR如何准备好远程招聘工作 [其一](https://zhuanlan.zhihu.com/p/184602549) / [其二](https://zhuanlan.zhihu.com/p/185747643) / [其三](https://zhuanlan.zhihu.com/p/187061874) / [其四](https://zhuanlan.zhihu.com/p/188319494) - 面向 HR 的一些远程招聘工作的经验介绍（注意，是指远程招聘，并非招聘的职位是远程工作）
 - [程序员独立接单需要注意的问题](https://mp.weixin.qq.com/s/lLZ0ZTEp9prvPYf2-kjUEg)
 - [2020，我的远程工作元年](https://eleduck.com/posts/dDfznY)
 - [2020，虽然没等到富婆问我长短，但我依然爱情事业双丰收啊！](https://eleduck.com/posts/EQfB0L)
