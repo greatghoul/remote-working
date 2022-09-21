@@ -96,3 +96,4 @@
 - [云队友](https://www.duiyou360.com/)
 - [小蜜蜂远程工作](https://www.xmf.com/)
 - [Brix中文网站](https://zh.joinbrix.com/) - BrixLabs团队运营的远程工作招聘平台 ( via [CcccFz](https://github.com/CcccFz) )
+- [TalentOrg](http://www.talentorg.cn/) - 远程工作平台，提供北美的远程工作机会 ( via Sky )
