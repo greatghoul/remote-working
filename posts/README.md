@@ -94,7 +94,7 @@
 - [疫情下的自由职业者半年复盘报告](https://mp.weixin.qq.com/s/IZI9fp8kwDMZUkE6cZrC7w) - 作者复盘了疫情开始半年的自由职业情况，包括财务、工作、成长和亲密关系。疫情让作者原本的收入渠道收到很大的影响，不得不重新思考自己的职业之路，进行调整和修正。这篇文章是很棒的自我思考的例子。
 - HR如何准备好远程招聘工作 [其一](https://zhuanlan.zhihu.com/p/184602549) / [其二](https://zhuanlan.zhihu.com/p/185747643) / [其三](https://zhuanlan.zhihu.com/p/187061874) / [其四](https://zhuanlan.zhihu.com/p/188319494) - 面向 HR 的一些远程招聘工作的经验介绍（注意，是指远程招聘，并非招聘的职位是远程工作）
 - [程序员独立接单需要注意的问题](https://mp.weixin.qq.com/s/lLZ0ZTEp9prvPYf2-kjUEg) - 不少做技术的出来单干或者自由职业之后，一开始难免要靠接一些外包项目来维持收入，如果有些问题没有提前商量好，在合作的过程中很容易给自己埋坑或者发生不愉快的事情。作者根据自己的血泪经验总结了一下，也许可以为你提供一份排坑参考，也仅供参考而非行动指南。
-- [2020，我的远程工作元年](https://eleduck.com/posts/dDfznY)
+- [2020，我的远程工作元年](https://eleduck.com/posts/dDfznY) - 作者决定远程办公的职业发展方向有好几方面的原因，但是真正行动，是在疫情之后，工作节奏的打乱，让他果断辞职，开始全力冲刺远程办公，最终找到心仪的工作。
 - [2020，虽然没等到富婆问我长短，但我依然爱情事业双丰收啊！](https://eleduck.com/posts/EQfB0L)
 - [小伙坐班 10 年头快秃了，终于在电鸭上找到一份远程全职工作](https://eleduck.com/posts/98fvg3)
 - [如何在 Upwork 上开启自由之路](https://eleduck.com/posts/JpfxZ5)
