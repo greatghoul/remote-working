@@ -10,6 +10,7 @@
 <a name="hTKqZ"></a>
 ## 2022年
 
+- [“从上海到海南，一位Ruby工程师的远程实践”——100个远程工作者](https://mp.weixin.qq.com/s/XLvxDqEsm0qm-fJ0WSqxuA) - SAI 是以为 Ruby 工程师，因为上海疫情，他无法每月几次回家和家人团聚，而郑州本地有没有好的互联网公司，从薪水和技术栈都契合他的要求。最终远程工作给了他一种新的突破点。本文分享了他找远程工作、面试以及适应等方面的经历和经验。（via Sky）
 - [好的工作，可以没有工位](https://a10khaznyg.feishu.cn/docs/doccn7UxrLhCpUVzIL4eKMWuuEd#cDmGpA) - Brix Lab团队对远程工作的介绍、说明。( via [CcccFz](https://github.com/CcccFz) )
 - [程序员远程办公在二三线城市陪女友和家人是一种什么体验 - 麦田里的程序员的回答](https://www.zhihu.com/question/338872533/answer/2427624374) - 一个远程工作者，在农村老家办公的田园生活分享，同时也是一个关于工作、生活、陪伴、兴趣相互平衡的案例。 ( via [CcccFz](https://github.com/CcccFz) )
 - [今年找远程工作的经历](https://eleduck.com/posts/98fGka) - 作者分享了自己找远程工作的经历，其中面试的公司拒绝求职者的体验给人很深的印象，好的 HR 会给你明确的时间安排和反馈，而不是拖字诀或者笼统的回复。对于出于尊重的交流，即使被拒，也会觉得这是一次友好的面试。
