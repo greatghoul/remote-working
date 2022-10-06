@@ -17,6 +17,7 @@
 - [脸书小组 - 台湾远程工作](https://www.facebook.com/groups/remotetaiwan/) - 台湾的远程工作脸书专页
 - [数字游民指南](https://www.nomadguide.cn/) - 数字游民社区，提倡 [远程办公、环游世界] 的自由生活方式
 - [深海牧鲸](https://www.yuque.com/greatghoul/remote/ekpgl6) - 自由职业相关的微信小程序，小程序中有交流版块
+- [Upwork China](https://community.upwork.com/t5/Upwork-China/gh-p/UpworkChina) - Upwork 官方的中国社区，需要有 upwork 账户才可以访问
 <a name="YWHfL"></a>
 ### 不再维护的
 
