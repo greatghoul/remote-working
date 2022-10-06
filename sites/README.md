@@ -9,6 +9,7 @@
 ### 活跃中的
 
 - [**电鸭社区**](https://eleduck.com/)** - 非常活跃，国内最大的远程工作交流社区**
+- [豆瓣小组 - 远程工作者](https://www.douban.com/group/remoteworking) - 本列表的豆瓣小组
 - [豆瓣小组 - 远程工作党](https://www.douban.com/group/freejobs/) - 多以兼职工作机会为主，有很多非 IT 类的兼职
 - [豆瓣小组 - 兼职文案](https://www.douban.com/group/292715/) - 面向文案工作的兼职机会交流
 - [豆瓣小组 - 英语兼职](https://www.douban.com/group/524795/) - 面向英语翻译类的兼职机会交流
@@ -21,7 +22,7 @@
 <a name="YWHfL"></a>
 ### 不再维护的
 
-- [豆瓣小组 - 远程工作者](https://www.douban.com/group/remoteworking) - 本列表的豆瓣小组，已经不再维护
+- <br />
 <a name="pGZQA"></a>
 ### 关闭的
 
