@@ -101,7 +101,7 @@
 - [如何在 Upwork 上开启自由之路](https://eleduck.com/posts/JpfxZ5) - 作者自2020年初接触upwork，已经走通整体流程，在可以预见的未来，会将 Upwork 作为接单的主力平台之一。这篇文章会把遇到的一些障碍以及解决方案向大家分享。
 - [如何 4 步找到理想的远程工作](https://eleduck.com/posts/qzfjjR) - 近年来，越来越多的人选择放弃朝九晚五的工作，转而在家工作。《哈佛商业评论》一项研究发现：在家工作可以消除干扰，提高工作效率。但是，如果你不知道该找什么样的远程工作，也不知道该怎么找，就很难去改变现状。
 - [作为自由职业者，我的近况](https://eleduck.com/posts/gYf8vQ) - 作者自由职业一段时间后进行的一次复盘，介绍了他接手两个项目的经历，以及对于自由职业的一些思考。复盘的内容尚且不提，作者复盘的思路非常值得学习: 目标，结果，分析，以及洞察。
-- [同时区的同事一个都没有！Buffer 成员是如何全球远程协作的？](https://eleduck.com/posts/ZXfOr0)
+- [同时区的同事一个都没有！Buffer 成员是如何全球远程协作的？](https://eleduck.com/posts/ZXfOr0) - 一篇译文，Buffer 员工 Michael Eckstein 的远程工作经历分享，当时公司没有任何其他人和他在同一个时区，文中介绍了 Michael 的种种感受和体会，和一些 Buffer 团队的趣闻，值得一读。
 - [机械设计师的远程工作之路](https://zhuanlan.zhihu.com/p/61558139)
 - [一些个人为美国公司远程工作的经验分享 -- 工作部分](https://eleduck.com/posts/ea4fOq)
 - [一个远程工作者的思考与分享](https://eleduck.com/posts/6N0fgr)
