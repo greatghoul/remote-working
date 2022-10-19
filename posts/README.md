@@ -103,7 +103,7 @@
 - [作为自由职业者，我的近况](https://eleduck.com/posts/gYf8vQ) - 作者自由职业一段时间后进行的一次复盘，介绍了他接手两个项目的经历，以及对于自由职业的一些思考。复盘的内容尚且不提，作者复盘的思路非常值得学习: 目标，结果，分析，以及洞察。
 - [同时区的同事一个都没有！Buffer 成员是如何全球远程协作的？](https://eleduck.com/posts/ZXfOr0) - 一篇译文，Buffer 员工 Michael Eckstein 的远程工作经历分享，当时公司没有任何其他人和他在同一个时区，文中介绍了 Michael 的种种感受和体会，和一些 Buffer 团队的趣闻，值得一读。
 - [机械设计师的远程工作之路](https://zhuanlan.zhihu.com/p/61558139) - 越来越多的人从事灵活用工，远程工作或者数字游民，要成为这样的人，你需要在工作习惯，独特技能，心理健康等方面比较优秀。除了软件开发人员和营销设计人员，机械设计师也适合远程工作。
-- [一些个人为美国公司远程工作的经验分享 -- 工作部分](https://eleduck.com/posts/ea4fOq)
+- [一些个人为美国公司远程工作的经验分享 -- 工作部分](https://eleduck.com/posts/ea4fOq) - 作者分享自己在Toptal工作的经历, toptal 有三种不同的工作时间类型，分别是时薪制，兼职以及全职。都是每两周结算一次。另外其匹配工作的方式也比较有趣。
 - [一个远程工作者的思考与分享](https://eleduck.com/posts/6N0fgr)
 - [分享下自由工作的状态以及自己的思考](https://eleduck.com/posts/Mb2fvD)
 - [远程工作是成年人的游戏](https://terrytai.me/yuan-cheng-gong-zuo-shi-cheng-nian-ren-de-you-xi)
