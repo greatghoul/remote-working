@@ -105,8 +105,8 @@
 - [机械设计师的远程工作之路](https://zhuanlan.zhihu.com/p/61558139) - 越来越多的人从事灵活用工，远程工作或者数字游民，要成为这样的人，你需要在工作习惯，独特技能，心理健康等方面比较优秀。除了软件开发人员和营销设计人员，机械设计师也适合远程工作。
 - [一些个人为美国公司远程工作的经验分享 -- 工作部分](https://eleduck.com/posts/ea4fOq) - 作者分享自己在Toptal工作的经历, toptal 有三种不同的工作时间类型，分别是时薪制，兼职以及全职。都是每两周结算一次。另外其匹配工作的方式也比较有趣。
 - [一个远程工作者的思考与分享](https://eleduck.com/posts/6N0fgr) - 作者是一个远程工作10多年的老码农，我们分享了他觉得远程工作好的地方，以及它的局限性，对于远程工作者需要有什么样的要求，并给出了一些自己的建议。
-- [分享下自由工作的状态以及自己的思考](https://eleduck.com/posts/Mb2fvD)
-- [远程工作是成年人的游戏](https://terrytai.me/yuan-cheng-gong-zuo-shi-cheng-nian-ren-de-you-xi)
+- [分享下自由工作的状态以及自己的思考](https://eleduck.com/posts/Mb2fvD) - 疫情的影响，公司解散，作者终于下定决心自由职业，结合自己的经验，作者介绍了工作的稳定性、来源、费用结算以及一些存在的问题。
+- [远程工作是成年人的游戏](https://web.archive.org/web/20220617034548/https://terrytai.me/yuan-cheng-gong-zuo-shi-cheng-nian-ren-de-you-xi) - 远程十年的经验：信任令人感动，但信任也不是免费的，你需要对得起这份信任。
 - [远程 2 年、小米对讲机产品负责人 4 年 → 重启自由探索](https://eleduck.com/posts/6yGfOb)
 - [千万不要在床上工作，因为...](https://eleduck.com/posts/6QZfGA)
 - [千万不要成为自由职业者 - 过来人经验](https://mp.weixin.qq.com/s/AKZVKQrv1hMdWxLipscGRg)
