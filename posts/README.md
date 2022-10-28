@@ -108,7 +108,7 @@
 - [分享下自由工作的状态以及自己的思考](https://eleduck.com/posts/Mb2fvD) - 疫情的影响，公司解散，作者终于下定决心自由职业，结合自己的经验，作者介绍了工作的稳定性、来源、费用结算以及一些存在的问题。
 - [远程工作是成年人的游戏](https://web.archive.org/web/20220617034548/https://terrytai.me/yuan-cheng-gong-zuo-shi-cheng-nian-ren-de-you-xi) - 远程十年的经验：信任令人感动，但信任也不是免费的，你需要对得起这份信任。
 - [远程 2 年、小米对讲机产品负责人 4 年 → 重启自由探索](https://eleduck.com/posts/6yGfOb) - 作者是一位设计师，经历过国内好几个知名远程团队（包括电鸭前身一早一晚的团队），本文介绍了他 Solo 时靠独立网站主题持续收入；在微博连续几次找到远程工作的经历；以及在小米生态工作以及最后离开自己创业的经历。
-- [千万不要在床上工作，因为...](https://eleduck.com/posts/6QZfGA)
+- [千万不要在床上工作，因为...](https://eleduck.com/posts/6QZfGA) - 在家办公时，最好给自己配置比较舒服的办公环境，并且合理的规划时间。不要在床上办公，因为大脑会认为床上是休息的地方，就会处理不活跃状态。文章还分享了如何有效控制会议时间的技巧。
 - [千万不要成为自由职业者 - 过来人经验](https://mp.weixin.qq.com/s/AKZVKQrv1hMdWxLipscGRg)
 - [现代文明社会就该长期在家办公](https://mp.weixin.qq.com/s/-lIyIlUkomWrlwUoW3b5lg)
 - [远程办公如何保持高效？资深敏捷教练为你支招！](https://mp.weixin.qq.com/s/ycTMzU6c3EK633TMxYsZtw)
