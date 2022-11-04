@@ -111,8 +111,7 @@
 - [远程 2 年、小米对讲机产品负责人 4 年 → 重启自由探索](https://eleduck.com/posts/6yGfOb) - 作者是一位设计师，经历过国内好几个知名远程团队（包括电鸭前身一早一晚的团队），本文介绍了他 Solo 时靠独立网站主题持续收入；在微博连续几次找到远程工作的经历；以及在小米生态工作以及最后离开自己创业的经历。
 - [千万不要在床上工作，因为...](https://eleduck.com/posts/6QZfGA) - 在家办公时，最好给自己配置比较舒服的办公环境，并且合理的规划时间。不要在床上办公，因为大脑会认为床上是休息的地方，就会处理不活跃状态。文章还分享了如何有效控制会议时间的技巧。
 - [千万不要成为自由职业者 - 过来人经验](https://mp.weixin.qq.com/s/AKZVKQrv1hMdWxLipscGRg) - 作者周金根是一个自由职业者，敏捷布道师，本文是他直播分享的 PPT 导出版本。是对自由职业一个比较全面的解读。
-- [现代文明社会就该长期在家办公](https://mp.weixin.qq.com/s/-lIyIlUkomWrlwUoW3b5lg)
-- [远程办公如何保持高效？资深敏捷教练为你支招！](https://mp.weixin.qq.com/s/ycTMzU6c3EK633TMxYsZtw)
+- [远程办公如何保持高效？资深敏捷教练为你支招！](https://mp.weixin.qq.com/s/ycTMzU6c3EK633TMxYsZtw) - 远程协作对于 Scrum 团队在有裨益，但团队领导需要让每位队员明白如何有效的合作、保持步调统一，同时协调解决各种问题。本文建议的配置是：基本设施 + 工作协议。
 - [远程工作的一些思考](https://zensky123.github.io/Some-thoughts-on-remote-working.html)
 - 远程办公: 如何边工作，边带孩子？
 - [与其困在家里，不如思考一下互联网副业?](https://littledew.com/p/3265.html)
