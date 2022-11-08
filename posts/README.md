@@ -112,8 +112,7 @@
 - [千万不要在床上工作，因为...](https://eleduck.com/posts/6QZfGA) - 在家办公时，最好给自己配置比较舒服的办公环境，并且合理的规划时间。不要在床上办公，因为大脑会认为床上是休息的地方，就会处理不活跃状态。文章还分享了如何有效控制会议时间的技巧。
 - [千万不要成为自由职业者 - 过来人经验](https://mp.weixin.qq.com/s/AKZVKQrv1hMdWxLipscGRg) - 作者周金根是一个自由职业者，敏捷布道师，本文是他直播分享的 PPT 导出版本。是对自由职业一个比较全面的解读。
 - [远程办公如何保持高效？资深敏捷教练为你支招！](https://mp.weixin.qq.com/s/ycTMzU6c3EK633TMxYsZtw) - 远程协作对于 Scrum 团队在有裨益，但团队领导需要让每位队员明白如何有效的合作、保持步调统一，同时协调解决各种问题。本文建议的配置是：基本设施 + 工作协议。
-- [远程工作的一些思考](https://zensky123.github.io/Some-thoughts-on-remote-working.html)
-- 远程办公: 如何边工作，边带孩子？
+- [远程办公: 如何边工作，边带孩子？](https://mednoter.com/remote-worker-takes-care-of-kid.html) - 妻子驻院工作，作者需要独立带娃，本文是他的一些经验分享。合理分配上班和陪娃的时间，定好规矩，锻炼自己的自控能力，以及孩子的独立生活能力。
 - [与其困在家里，不如思考一下互联网副业?](https://littledew.com/p/3265.html)
 - [PingCAP 的 5 年远程办公实践](https://mp.weixin.qq.com/s/alygC64BnIKbuuxBBZAOxA)
 - [MegaEase 的远程工作文化](https://coolshell.cn/articles/20765.html)
