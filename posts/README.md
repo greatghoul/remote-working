@@ -10,6 +10,8 @@
 <a name="hTKqZ"></a>
 ## 2022年
 
+- [自由职业9月复盘 | 慢一点，就是快一点](https://zhuanlan.zhihu.com/p/261403068) - 作者自由职业节奏上的变化，刻意让自己慢下来，放弃“时间管理”，追求劳逸结合。在正确的路上慢慢来，也许是实现长远目标最快的方式。
+- [关于远程工作是如何找到我的这事](https://www.v2ex.com/t/893707) - 作者被公司裁员，但是因为自己的一个开源播放器，收到了一个国外公司的远程机会，通过 upwork 进行协作（甚至公司付了作者的服务费部分）
 - [人在国内年入 12 万美元欧洲远程工作四年经验分享](https://v2ex.com/t/890820) - 作者2018年开始，给卢森堡一家公司远程至今，日常写 Java 和 Groovy，目前年入 12 万美元，本文是他的经历和经验分享。本文是一个系列，应该还有后续。
 - [“从上海到海南，一位Ruby工程师的远程实践”——100个远程工作者](https://mp.weixin.qq.com/s/XLvxDqEsm0qm-fJ0WSqxuA) - SAI 是以为 Ruby 工程师，因为上海疫情，他无法每月几次回家和家人团聚，而郑州本地有没有好的互联网公司，从薪水和技术栈都契合他的要求。最终远程工作给了他一种新的突破点。本文分享了他找远程工作、面试以及适应等方面的经历和经验。（via Sky）
 - [好的工作，可以没有工位](https://a10khaznyg.feishu.cn/docs/doccn7UxrLhCpUVzIL4eKMWuuEd#cDmGpA) - Brix Lab团队对远程工作的介绍、说明。( via [CcccFz](https://github.com/CcccFz) )
@@ -113,7 +115,7 @@
 - [千万不要成为自由职业者 - 过来人经验](https://mp.weixin.qq.com/s/AKZVKQrv1hMdWxLipscGRg) - 作者周金根是一个自由职业者，敏捷布道师，本文是他直播分享的 PPT 导出版本。是对自由职业一个比较全面的解读。
 - [远程办公如何保持高效？资深敏捷教练为你支招！](https://mp.weixin.qq.com/s/ycTMzU6c3EK633TMxYsZtw) - 远程协作对于 Scrum 团队在有裨益，但团队领导需要让每位队员明白如何有效的合作、保持步调统一，同时协调解决各种问题。本文建议的配置是：基本设施 + 工作协议。
 - [远程办公: 如何边工作，边带孩子？](https://mednoter.com/remote-worker-takes-care-of-kid.html) - 妻子驻院工作，作者需要独立带娃，本文是他的一些经验分享。合理分配上班和陪娃的时间，定好规矩，锻炼自己的自控能力，以及孩子的独立生活能力。
-- [与其困在家里，不如思考一下互联网副业?](https://littledew.com/p/3265.html)
+- [与其困在家里，不如思考一下互联网副业?](https://zhuanlan.zhihu.com/p/105675295) - 互联网行业对远程工作有着友好的支持，疫情隔离也可以相对轻松的转为线上办公，但是一些行业对线下依赖较强，隔离几乎就等于失业。不如趁着隔离，思考下自己的职业生涯，看看是不是可以开启一份副业。本文给了一些简单的指导。
 - [PingCAP 的 5 年远程办公实践](https://mp.weixin.qq.com/s/alygC64BnIKbuuxBBZAOxA)
 - [MegaEase 的远程工作文化](https://coolshell.cn/articles/20765.html)
 - [延迟上班别发愁，远程办公抗疫情！](https://mp.weixin.qq.com/s/HzlMCu9-s-jlRwBUlQknKw)
