@@ -116,7 +116,7 @@
 - [远程办公如何保持高效？资深敏捷教练为你支招！](https://mp.weixin.qq.com/s/ycTMzU6c3EK633TMxYsZtw) - 远程协作对于 Scrum 团队在有裨益，但团队领导需要让每位队员明白如何有效的合作、保持步调统一，同时协调解决各种问题。本文建议的配置是：基本设施 + 工作协议。
 - [远程办公: 如何边工作，边带孩子？](https://mednoter.com/remote-worker-takes-care-of-kid.html) - 妻子驻院工作，作者需要独立带娃，本文是他的一些经验分享。合理分配上班和陪娃的时间，定好规矩，锻炼自己的自控能力，以及孩子的独立生活能力。
 - [与其困在家里，不如思考一下互联网副业?](https://zhuanlan.zhihu.com/p/105675295) - 互联网行业对远程工作有着友好的支持，疫情隔离也可以相对轻松的转为线上办公，但是一些行业对线下依赖较强，隔离几乎就等于失业。不如趁着隔离，思考下自己的职业生涯，看看是不是可以开启一份副业。本文给了一些简单的指导。
-- [PingCAP 的 5 年远程办公实践](https://mp.weixin.qq.com/s/alygC64BnIKbuuxBBZAOxA) - PingCAP 实践了近五年的工程师远程 办公，本文是其经验分享。包括管理、计划、工具等方面。
+- [PingCAP 的 5 年远程办公实践](https://mp.weixin.qq.com/s/alygC64BnIKbuuxBBZAOxA) - PingCAP 实践了近五年的工程师远程 办公，本文是其经验分享。包括管理、计划、工具、自动化等方面。
 - [MegaEase 的远程工作文化](https://coolshell.cn/articles/20765.html)
 - [延迟上班别发愁，远程办公抗疫情！](https://mp.weixin.qq.com/s/HzlMCu9-s-jlRwBUlQknKw)
 - [不想员工冒着被感染的风险，但也不想公司面临危机，倒不如尝试远程工作？](https://mp.weixin.qq.com/s/DRy8YhQ662DHr65LdKszSA)
