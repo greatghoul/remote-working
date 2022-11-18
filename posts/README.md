@@ -119,8 +119,7 @@
 - [与其困在家里，不如思考一下互联网副业?](https://zhuanlan.zhihu.com/p/105675295) - 互联网行业对远程工作有着友好的支持，疫情隔离也可以相对轻松的转为线上办公，但是一些行业对线下依赖较强，隔离几乎就等于失业。不如趁着隔离，思考下自己的职业生涯，看看是不是可以开启一份副业。本文给了一些简单的指导。
 - [PingCAP 的 5 年远程办公实践](https://mp.weixin.qq.com/s/alygC64BnIKbuuxBBZAOxA) - PingCAP 实践了近五年的工程师远程 办公，本文是其经验分享。包括管理、计划、工具、自动化等方面。
 - [MegaEase 的远程工作文化](https://coolshell.cn/articles/20765.html) - 酷壳作者陈皓的创业公司 MegaEase 的远程工作经验分享。以管理的角度，从宏观管理和微观实践两方面进行了非常细致的分享。远程工作并不是目的，但是远程工作会逼迫管理者面对管理的本质问题。
-- [延迟上班别发愁，远程办公抗疫情！](https://mp.weixin.qq.com/s/HzlMCu9-s-jlRwBUlQknKw)
-- [不想员工冒着被感染的风险，但也不想公司面临危机，倒不如尝试远程工作？](https://mp.weixin.qq.com/s/DRy8YhQ662DHr65LdKszSA)
+- [不想员工冒着被感染的风险，但也不想公司面临危机，倒不如尝试远程工作？](https://mp.weixin.qq.com/s/DRy8YhQ662DHr65LdKszSA) - 作者公司远程协作的经验，包括工具的使用，情绪管理和自律。本文还简单的介绍了相对收的概念，单纯的高工资并不一定能代表什么。
 - [Slasify的远程工作实战小贴士](https://eleduck.com/posts/PgYfnr)
 - [想体验一下自由职业或远程办公？现在或许是个机会](https://mp.weixin.qq.com/s/gDaOSThvxIqJh3x2s-fklg)
 - [远程办公: 如何提高自制力？](https://ruby-china.org/topics/39469)
