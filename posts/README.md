@@ -122,7 +122,7 @@
 - [MegaEase 的远程工作文化](https://coolshell.cn/articles/20765.html) - 酷壳作者陈皓的创业公司 MegaEase 的远程工作经验分享。以管理的角度，从宏观管理和微观实践两方面进行了非常细致的分享。远程工作并不是目的，但是远程工作会逼迫管理者面对管理的本质问题。
 - [不想员工冒着被感染的风险，但也不想公司面临危机，倒不如尝试远程工作？](https://mp.weixin.qq.com/s/DRy8YhQ662DHr65LdKszSA) - 作者公司远程协作的经验，包括工具的使用，情绪管理和自律。本文还简单的介绍了相对收的概念，单纯的高工资并不一定能代表什么。
 - [Slasify的远程工作实战小贴士](https://eleduck.com/posts/PgYfnr) - Slasify 从 2016 年开始全员远程工作，本文是分享他们管理以及协作中的一些小技巧，涉及工作时间，目标管理，沟通和会议等等。
-- [想体验一下自由职业或远程办公？现在或许是个机会](https://mp.weixin.qq.com/s/gDaOSThvxIqJh3x2s-fklg)
+- [想体验一下自由职业或远程办公？现在或许是个机会](https://mp.weixin.qq.com/s/gDaOSThvxIqJh3x2s-fklg) - 作者远程工作一年的感悟，与很多程序员的梦想不同，作者更喜欢在家里上班，因为更舒服，工作台的配置也可以有很大的选择空间。文章也谈到了时间安排，沟通和旅行方面的做法和看法。
 - [远程办公: 如何提高自制力？](https://ruby-china.org/topics/39469)
 - [推迟上班 & 远程上班的公司 和 坚持早来上班的公司 List](https://www.v2ex.com/t/640466)
 - [如何寻找一份远程工作](https://mp.weixin.qq.com/s/C3zKje3YBqKQ0XwKxyPpfg)
