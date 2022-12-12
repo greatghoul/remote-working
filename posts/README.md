@@ -148,9 +148,7 @@
 - [如何找到时薪 80 美元的远程工作（二）](https://geekplux.com/2019/07/31/how-to-get-jobs-pay-80-dollars-per-hour-2/) - 作者找到了一份80美金的远程工作，本篇主要介绍如何拿到高薪，打铁还得自身硬，关键还是提升自己的知识水平。从英语、技能、效率、谈判、合同、收款等方便做了介绍。
 - [远程工作和外包接案有什么不同？](https://zhuanlan.zhihu.com/p/72083042) - 很多人分不清远程和外包的区别，本文就法律关系、工时和休假管理等多个方面进行了对比。
 - [远程工作的四年](https://www.v2ex.com/t/575190) - 因为大学和创业期间远程办公的经历，让作者相信，离开北京回到家乡，依然可以通过远程工作过上自己想要的生活。远程的好处是显而易见的，但是也有一些自己的问题，比如亲友的认同问题。
-- [远程工作者的一天](https://blog.minghe.me/a-day-of-remote-worker/)
-- [远程工作之痛 —— 这麽简单的功能你要六小时？](https://www.jianshu.com/p/19b86daad313)
-- [看完这本书，才意识到我为什么要死扛自由职业](https://mp.weixin.qq.com/s/rSusDM4-r5hxAG5TGgM4UQ)
+- [看完这本书，才意识到我为什么要死扛自由职业](https://mp.weixin.qq.com/s/rSusDM4-r5hxAG5TGgM4UQ) - 自主、专精和目的这三大因素驱使作者坚持自由职业的道路。其中最初始的驱动力就是对时间的自主支配上。
 - [被动收入对自由工作的人有多重要](https://mp.weixin.qq.com/s/uf9v-bARQWlWPlNieEy0wg)
 - [如何一边工作，一边周游世界？数字游民生活方式第一次问答分享会](https://mp.weixin.qq.com/s/7z0vGZxQrM8BTjMpBt4KGg)
 - [没想到 9102 年了程序员对远程办公接受度这么低](https://www.v2ex.com/t/568093?p=1)
