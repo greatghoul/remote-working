@@ -125,8 +125,6 @@
 - [Slasify的远程工作实战小贴士](https://eleduck.com/posts/PgYfnr) - Slasify 从 2016 年开始全员远程工作，本文是分享他们管理以及协作中的一些小技巧，涉及工作时间，目标管理，沟通和会议等等。
 - [想体验一下自由职业或远程办公？现在或许是个机会](https://mp.weixin.qq.com/s/gDaOSThvxIqJh3x2s-fklg) - 作者远程工作一年的感悟，与很多程序员的梦想不同，作者更喜欢在家里上班，因为更舒服，工作台的配置也可以有很大的选择空间。文章也谈到了时间安排，沟通和旅行方面的做法和看法。
 - [远程办公: 如何提高自制力？](https://ruby-china.org/topics/39469) - 远程办公听上去很舒服，其实很挑战自己的自制力，古人说，君子慎独，可见独处时管住自己何其困难。作者文中结合自己的经验，介绍了一些行之有效的方法。
-- [推迟上班 & 远程上班的公司 和 坚持早来上班的公司 List](https://www.v2ex.com/t/640466)
-- [如何寻找一份远程工作](https://mp.weixin.qq.com/s/C3zKje3YBqKQ0XwKxyPpfg)
 - [如何攻克异地协作难题？看 Tower 的 72 个月远程工作实践](https://www.infoq.cn/article/swdsWXKasCMU0ePyBCSs?utm_source=rss&utm_medium=article) - 12 月 9 日，TGO鲲鹏会武汉分会成功组织了第一次小组活动。在此次小组活动中，Tower 联合创始人 & TGO 鲲鹏会武汉分会会员徐峥带来了《Tower 团队 72 个月远程协作实践》的精彩分享。在分享过程中，徐峥分享了 Tower 的成长经历，以及 72 个月远程工作的成功实践经验。
 
 <a name="47b140b227ef1ac5dd22da765c154e94"></a>
@@ -146,10 +144,10 @@
 - [自由职人 | 姜赟：爱精酿玩乐队的程序员](https://mp.weixin.qq.com/s/3ALaKVq9capfzIoaAVDUnw) - 姜赟是以为生活在海口的程序员，目前自由职业，对于作者而言，写程序除了能力的提升，最大的收获能够真正改变人，帮助人的喜悦带来的成就感。借助一些接单平台，作者得以在家乡自由职业，从项目中提升自己的技术。工作之余，还会玩玩原创音乐和精酿啤酒。
 - [读《Remote2》聊聊远程工作](https://juejin.im/post/5d6bc1aff265da039f12cff6) - 作者结合自己远程一年的工作感悟，谈了谈 Remote 2 中的一些观点，涉及环境，沟通，时间管理等几个方面。
 - [远程一年的总结](https://www.v2ex.com/t/595749) - 作者从上海回到上东老家远程工作，本文介绍了他寻找远程工作机会，以及远程协作中的一些经验。还有最重要的：生活和健康。
-- [如何找到时薪 80 美元的远程工作（一）](https://geekplux.com/2019/07/31/how-to-get-jobs-pay-80-dollars-per-hour-1/)
-- [如何找到时薪 80 美元的远程工作（二）](https://geekplux.com/2019/07/31/how-to-get-jobs-pay-80-dollars-per-hour-2/)
-- [远程工作和外包接案有什么不同？](https://zhuanlan.zhihu.com/p/72083042)
-- [远程工作的四年](https://www.v2ex.com/t/575190)
+- [如何找到时薪 80 美元的远程工作（一）](https://geekplux.com/2019/07/31/how-to-get-jobs-pay-80-dollars-per-hour-1/) - 作者找到了一份80美金的远程工作，本篇主要介绍他如何找到远程工作，文章中列出了很多途径，无论是对新人还是老手，相信都会有一定的帮助。
+- [如何找到时薪 80 美元的远程工作（二）](https://geekplux.com/2019/07/31/how-to-get-jobs-pay-80-dollars-per-hour-2/) - 作者找到了一份80美金的远程工作，本篇主要介绍如何拿到高薪，打铁还得自身硬，关键还是提升自己的知识水平。从英语、技能、效率、谈判、合同、收款等方便做了介绍。
+- [远程工作和外包接案有什么不同？](https://zhuanlan.zhihu.com/p/72083042) - 很多人分不清远程和外包的区别，本文就法律关系、工时和休假管理等多个方面进行了对比。
+- [远程工作的四年](https://www.v2ex.com/t/575190) - 因为大学和创业期间远程办公的经历，让作者相信，离开北京回到家乡，依然可以通过远程工作过上自己想要的生活。远程的好处是显而易见的，但是也有一些自己的问题，比如亲友的认同问题。
 - [远程工作者的一天](https://blog.minghe.me/a-day-of-remote-worker/)
 - [远程工作之痛 —— 这麽简单的功能你要六小时？](https://www.jianshu.com/p/19b86daad313)
 - [看完这本书，才意识到我为什么要死扛自由职业](https://mp.weixin.qq.com/s/rSusDM4-r5hxAG5TGgM4UQ)
