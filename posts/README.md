@@ -149,8 +149,7 @@
 - [远程工作和外包接案有什么不同？](https://zhuanlan.zhihu.com/p/72083042) - 很多人分不清远程和外包的区别，本文就法律关系、工时和休假管理等多个方面进行了对比。
 - [远程工作的四年](https://www.v2ex.com/t/575190) - 因为大学和创业期间远程办公的经历，让作者相信，离开北京回到家乡，依然可以通过远程工作过上自己想要的生活。远程的好处是显而易见的，但是也有一些自己的问题，比如亲友的认同问题。
 - [看完这本书，才意识到我为什么要死扛自由职业](https://mp.weixin.qq.com/s/rSusDM4-r5hxAG5TGgM4UQ) - 自主、专精和目的这三大因素驱使作者坚持自由职业的道路。其中最初始的驱动力就是对时间的自主支配上。
-- [被动收入对自由工作的人有多重要](https://mp.weixin.qq.com/s/uf9v-bARQWlWPlNieEy0wg)
-- [如何一边工作，一边周游世界？数字游民生活方式第一次问答分享会](https://mp.weixin.qq.com/s/7z0vGZxQrM8BTjMpBt4KGg)
+- [如何一边工作，一边周游世界？数字游民生活方式第一次问答分享会](https://mp.weixin.qq.com/s/7z0vGZxQrM8BTjMpBt4KGg) - 作者是一位资深数字游民，这篇分享中介绍了一些数据游戏如何赚钱，有哪些通用的技能，以及生活方面的一些问题。文中也有很多签证方面的经验分享。
 - [没想到 9102 年了程序员对远程办公接受度这么低](https://www.v2ex.com/t/568093?p=1)
 - [肉山的远程工作手记 篇三：槟城一周远程工作记](https://post.smzdm.com/p/a07m3q40/)
 - [Upwork Review: 为什么这是一场毫无胜算的战争？-- 问题篇](https://mp.weixin.qq.com/s/IPXkyH9dvBnVO0YdpRKAFA)
