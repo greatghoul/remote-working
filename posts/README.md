@@ -151,7 +151,7 @@
 - [看完这本书，才意识到我为什么要死扛自由职业](https://mp.weixin.qq.com/s/rSusDM4-r5hxAG5TGgM4UQ) - 自主、专精和目的这三大因素驱使作者坚持自由职业的道路。其中最初始的驱动力就是对时间的自主支配上。
 - [如何一边工作，一边周游世界？数字游民生活方式第一次问答分享会](https://mp.weixin.qq.com/s/7z0vGZxQrM8BTjMpBt4KGg) - 作者是一位资深数字游民，这篇分享中介绍了一些数据游戏如何赚钱，有哪些通用的技能，以及生活方面的一些问题。文中也有很多签证方面的经验分享。
 - [没想到 9102 年了程序员对远程办公接受度这么低](https://www.v2ex.com/t/568093?p=1) - 关于远程工作的一篇讨论，大家根据自己的条件讨论了远程的优点和缺点。其实比较突出的是干扰、信任以及平衡的问题。
-- [肉山的远程工作手记 篇三：槟城一周远程工作记](https://post.smzdm.com/p/a07m3q40/)
+- [肉山的远程工作手记 篇三：槟城一周远程工作记](https://post.smzdm.com/p/a07m3q40/) - 边旅行边工作是很多人的梦想，本文作者介绍了自己的一次在槟城的成功的旅行办公的经验，包括环境，网络，办公地等多个方面。
 - [Upwork Review: 为什么这是一场毫无胜算的战争？-- 问题篇](https://mp.weixin.qq.com/s/IPXkyH9dvBnVO0YdpRKAFA)
 - [Upwork Review: 为什么这是一场毫无胜算的战争？-- 建议篇](https://mp.weixin.qq.com/s/1_OAOI5I6cYnqU0_r9SGcQ)
 - [再次反省做课这件事](https://blog.meathill.com/share/continue-self-questioning-about-lecture.html)
