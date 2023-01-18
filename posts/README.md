@@ -6,6 +6,12 @@
 ## 系列
 
 - [“不会画图请找我”的自由职业周记](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU0MzA0MjExMQ==&action=getalbum&album_id=1720997024822575108&scene=173&from_msgid=2247484167&from_itemidx=1&count=3&nolastread=1#wechat_redirect) - 一位从事R语言画图和分析的自由这也者的自由职业记录。
+<a name="QvEPA"></a>
+### 
+<a name="ZHOza"></a>
+## 2023年
+
+- [只要人们继续追求自由的答案，这一切都将永不停止！——记我的远程之路](https://eleduck.com/posts/82fBAB) - 经历的几年的职场生活，作者不断思考“为什么我一点都不快乐”，直到一个机会出现，回到家乡，回到父母的身边开始远程办公，有了更多自我的时间。才体会到了难得的自由和快乐。
 
 <a name="hTKqZ"></a>
 ## 2022年
@@ -154,7 +160,7 @@
 - [没想到 9102 年了程序员对远程办公接受度这么低](https://www.v2ex.com/t/568093?p=1) - 关于远程工作的一篇讨论，大家根据自己的条件讨论了远程的优点和缺点。其实比较突出的是干扰、信任以及平衡的问题。
 - [肉山的远程工作手记 篇三：槟城一周远程工作记](https://post.smzdm.com/p/a07m3q40/) - 边旅行边工作是很多人的梦想，本文作者介绍了自己的一次在槟城的成功的旅行办公的经验，包括环境，网络，办公地等多个方面。
 - [Upwork Review: 为什么这是一场毫无胜算的战争？-- 问题篇](https://mp.weixin.qq.com/s/IPXkyH9dvBnVO0YdpRKAFA) - 作者是一名自由职业者，本文是一篇翻译的文章，但是包含了一些结合自身的解读，主要谈及自由职业（平台）面临的一些现实问题：恶性循环。
-- [Upwork Review: 为什么这是一场毫无胜算的战争？-- 建议篇](https://mp.weixin.qq.com/s/1_OAOI5I6cYnqU0_r9SGcQ)
+- [Upwork Review: 为什么这是一场毫无胜算的战争？-- 建议篇](https://mp.weixin.qq.com/s/1_OAOI5I6cYnqU0_r9SGcQ) - 优秀的雇主可以用有竞争力的价格吸引优秀的人才，以及用项目经理来节省时间和多钱，优秀的自由职业者也应该去多尝试推荐，SEO等其它媒介和平台，而不是只盯着 Upwork 们。
 - [再次反省做课这件事](https://blog.meathill.com/share/continue-self-questioning-about-lecture.html)
 - [为什么你老板还没有推行在家办公？一个传播学角度的解释](https://zhuanlan.zhihu.com/p/63501230)
 - [五年自由职业感悟：赚钱是最深刻的修行](http://www.toutiaoba.com/thread-623887-1-1.html)
