@@ -161,7 +161,7 @@
 - [肉山的远程工作手记 篇三：槟城一周远程工作记](https://post.smzdm.com/p/a07m3q40/) - 边旅行边工作是很多人的梦想，本文作者介绍了自己的一次在槟城的成功的旅行办公的经验，包括环境，网络，办公地等多个方面。
 - [Upwork Review: 为什么这是一场毫无胜算的战争？-- 问题篇](https://mp.weixin.qq.com/s/IPXkyH9dvBnVO0YdpRKAFA) - 作者是一名自由职业者，本文是一篇翻译的文章，但是包含了一些结合自身的解读，主要谈及自由职业（平台）面临的一些现实问题：恶性循环。
 - [Upwork Review: 为什么这是一场毫无胜算的战争？-- 建议篇](https://mp.weixin.qq.com/s/1_OAOI5I6cYnqU0_r9SGcQ) - 优秀的雇主可以用有竞争力的价格吸引优秀的人才，以及用项目经理来节省时间和多钱，优秀的自由职业者也应该去多尝试推荐，SEO等其它媒介和平台，而不是只盯着 Upwork 们。
-- [再次反省做课这件事](https://blog.meathill.com/share/continue-self-questioning-about-lecture.html)
+- [再次反省做课这件事](https://blog.meathill.com/share/continue-self-questioning-about-lecture.html) - 作者从以前的离职后，投身知识付费行业，但是遇到了非常大的问题，踩了一年多的坑，本文是他的一些经验教训的总结。
 - [为什么你老板还没有推行在家办公？一个传播学角度的解释](https://zhuanlan.zhihu.com/p/63501230)
 - [五年自由职业感悟：赚钱是最深刻的修行](http://www.toutiaoba.com/thread-623887-1-1.html)
 - [一点自由 | 阳志平 心志工具箱](https://mp.weixin.qq.com/s/-7uyue8y5XAgd56AoDQFZA)
