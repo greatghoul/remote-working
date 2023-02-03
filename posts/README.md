@@ -162,8 +162,8 @@
 - [Upwork Review: 为什么这是一场毫无胜算的战争？-- 问题篇](https://mp.weixin.qq.com/s/IPXkyH9dvBnVO0YdpRKAFA) - 作者是一名自由职业者，本文是一篇翻译的文章，但是包含了一些结合自身的解读，主要谈及自由职业（平台）面临的一些现实问题：恶性循环。
 - [Upwork Review: 为什么这是一场毫无胜算的战争？-- 建议篇](https://mp.weixin.qq.com/s/1_OAOI5I6cYnqU0_r9SGcQ) - 优秀的雇主可以用有竞争力的价格吸引优秀的人才，以及用项目经理来节省时间和多钱，优秀的自由职业者也应该去多尝试推荐，SEO等其它媒介和平台，而不是只盯着 Upwork 们。
 - [再次反省做课这件事](https://blog.meathill.com/share/continue-self-questioning-about-lecture.html) - 作者从以前的离职后，投身知识付费行业，但是遇到了非常大的问题，踩了一年多的坑，本文是他的一些经验教训的总结。
-- [为什么你老板还没有推行在家办公？一个传播学角度的解释](https://zhuanlan.zhihu.com/p/63501230)
-- [五年自由职业感悟：赚钱是最深刻的修行](http://www.toutiaoba.com/thread-623887-1-1.html)
+- [为什么你老板还没有推行在家办公？一个传播学角度的解释](https://zhuanlan.zhihu.com/p/63501230) - 媒介即信息，在传递信息时，如果媒介选用不当，甚至可能扭曲原意。而远程的媒介相对就比较单一，如果表达能力或者理解能力不足，是很辛苦的。对于交流，文章对照小区社交，提出了同城远程的一种形式，值得借鉴。
+- [五年自由职业感悟：赚钱是最深刻的修行](https://lusongsong.com/info/post/11550.html) - 自由职业的基础是拥有一项可以持久赚钱的技能，要体验诗和远方的快乐，你必须先经历苟且。作为自由职业者，还需要具备的基本素养：自律。自由职业者还需要给自己寻找解压的兴趣来排遣孤独。
 - [一点自由 | 阳志平 心志工具箱](https://mp.weixin.qq.com/s/-7uyue8y5XAgd56AoDQFZA)
 - [如何做好一个远程工作的Project Manager (项目管理人)？](https://mp.weixin.qq.com/s/4Az5QeSjqsQ13xpBjpedzw)
 - [如何加入一家全职远程的公司](https://blog.meathill.com/tech/how-to-get-a-full-time-remote-job.html)
