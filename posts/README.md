@@ -5,7 +5,7 @@
 <a name="vxZlw"></a>
 ## 系列
 
-- [“不会画图请找我”的自由职业周记](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU0MzA0MjExMQ==&action=getalbum&album_id=1720997024822575108&scene=173&from_msgid=2247484167&from_itemidx=1&count=3&nolastread=1#wechat_redirect) - 一位从事R语言画图和分析的自由这也者的自由职业记录。
+- [“不会画图请找我”的自由职业周记](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU0MzA0MjExMQ==&action=getalbum&album_id=1720997024822575108&scene=173&from_msgid=2247484167&from_itemidx=1&count=3&nolastread=1#wechat_redirect) - 一位从事R语言画图和分析的自由职业者的自由职业记录。
 <a name="QvEPA"></a>
 ### 
 <a name="ZHOza"></a>
