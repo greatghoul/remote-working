@@ -164,8 +164,8 @@
 - [再次反省做课这件事](https://blog.meathill.com/share/continue-self-questioning-about-lecture.html) - 作者从以前的离职后，投身知识付费行业，但是遇到了非常大的问题，踩了一年多的坑，本文是他的一些经验教训的总结。
 - [为什么你老板还没有推行在家办公？一个传播学角度的解释](https://zhuanlan.zhihu.com/p/63501230) - 媒介即信息，在传递信息时，如果媒介选用不当，甚至可能扭曲原意。而远程的媒介相对就比较单一，如果表达能力或者理解能力不足，是很辛苦的。对于交流，文章对照小区社交，提出了同城远程的一种形式，值得借鉴。
 - [五年自由职业感悟：赚钱是最深刻的修行](https://lusongsong.com/info/post/11550.html) - 自由职业的基础是拥有一项可以持久赚钱的技能，要体验诗和远方的快乐，你必须先经历苟且。作为自由职业者，还需要具备的基本素养：自律。自由职业者还需要给自己寻找解压的兴趣来排遣孤独。
-- [一点自由 | 阳志平 心志工具箱](https://mp.weixin.qq.com/s/-7uyue8y5XAgd56AoDQFZA)
-- [如何做好一个远程工作的Project Manager (项目管理人)？](https://mp.weixin.qq.com/s/4Az5QeSjqsQ13xpBjpedzw)
+- [一点自由 | 阳志平 心志工具箱](https://mp.weixin.qq.com/s/-7uyue8y5XAgd56AoDQFZA)- 阳志平与同学对于自由职业的讨论整理而成的文章。从公司和员工的角度看，用工成本高涨，传统组织结构老化，价值观不同多种因素导致自由职业者越来越多。对于期待成为自由职业的朋友，作者也列出了一些常见的误区，提出了一些基本的条件以及建议。
+- [如何做好一个远程工作的Project Manager (项目管理人)？](https://mp.weixin.qq.com/s/4Az5QeSjqsQ13xpBjpedzw)- Slasify 的一篇文章，如何做好一个远程工作的项目经理，从基本能力，里程管理，管理预算、团队和客户等多个方面加以说明。
 - [如何加入一家全职远程的公司](https://blog.meathill.com/tech/how-to-get-a-full-time-remote-job.html)
 - [在车上居住了一年，我所重新认识的事](https://zhuanlan.zhihu.com/p/52680233)
 - [从间隔年到数字游民：22岁时环游中国，30岁开始边旅行边工作](https://mp.weixin.qq.com/s/e2ncLcfdyZdxkKOyScHgAw)
@@ -394,4 +394,3 @@
 - [团队成员都在异地办公有哪些优劣？](https://www.zhihu.com/question/20011303) - 知乎问题《团队成员都在异地办公有哪些优劣？》中叶玎玎的回答，远程团队的组建比较推荐已经有一定熟悉度的成员构成，这样协作起来会更加默契。为了提高默契度，推荐定时团建，另外远程因为沟通成本更高，所以沟通时大家也都更加谨慎，反而可能效果更好。
 <a name="1940f869c1cd1bdff65f9047ced6e83e"></a>
 ## [<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />](http://www.bbc.co.uk/ukchina/simp/uk_life/on_britain/110615_suping_big_city_traffic.shtml)
-
