@@ -166,8 +166,8 @@
 - [五年自由职业感悟：赚钱是最深刻的修行](https://lusongsong.com/info/post/11550.html) - 自由职业的基础是拥有一项可以持久赚钱的技能，要体验诗和远方的快乐，你必须先经历苟且。作为自由职业者，还需要具备的基本素养：自律。自由职业者还需要给自己寻找解压的兴趣来排遣孤独。
 - [一点自由 | 阳志平 心志工具箱](https://mp.weixin.qq.com/s/-7uyue8y5XAgd56AoDQFZA)- 阳志平与同学对于自由职业的讨论整理而成的文章。从公司和员工的角度看，用工成本高涨，传统组织结构老化，价值观不同多种因素导致自由职业者越来越多。对于期待成为自由职业的朋友，作者也列出了一些常见的误区，提出了一些基本的条件以及建议。
 - [如何做好一个远程工作的Project Manager (项目管理人)？](https://mp.weixin.qq.com/s/4Az5QeSjqsQ13xpBjpedzw)- Slasify 的一篇文章，如何做好一个远程工作的项目经理，从基本能力，里程管理，管理预算、团队和客户等多个方面加以说明。
-- [如何加入一家全职远程的公司](https://blog.meathill.com/tech/how-to-get-a-full-time-remote-job.html)
-- [在车上居住了一年，我所重新认识的事](https://zhuanlan.zhihu.com/p/52680233)
+- [如何加入一家全职远程的公司](https://blog.meathill.com/tech/how-to-get-a-full-time-remote-job.html)- 要胜任一份全职远程的工作，你不但需要有独立工作的能力，尤其是缺少一些信息的前提下，独立工作的能力。此外，远程工作需要你有一定的自律能力，并且并不轻松。
+- [在车上居住了一年，我所重新认识的事](https://zhuanlan.zhihu.com/p/52680233) - 作者开始房车游民生活后的一些感想，比如打破了一些对“家”的固有的观念，作者认为安全和安全感是两个东西，安全是客观的，安全感是自己的，是一种适应环境，应对风险，接受后果的能力。文章对于极简生活、与人交流方面也有很深入的思考。
 - [从间隔年到数字游民：22岁时环游中国，30岁开始边旅行边工作](https://mp.weixin.qq.com/s/e2ncLcfdyZdxkKOyScHgAw)
 - [自由职业第三年，患上拖延证，加上经济寒](https://yizaoyiwan.com/discussions/12148)
 - [成为一名自流量生活的创业者](https://mp.weixin.qq.com/s/MeN9Z8A115JyLoPUphFGpg)
