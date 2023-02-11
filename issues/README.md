@@ -7,9 +7,10 @@
 
 - [远程工作的合同性质](https://eleduck.com/posts/pqfJAW)
 - [对自由职业而言，自己交社保和找代理挂靠社保相比哪个更划算？](https://www.zhihu.com/question/22557823)
-- [浅谈跨境跨区远程工作下的EoR劳务模式]()
+- [浅谈跨境跨区远程工作下的EoR劳务模式](https://zhuanlan.zhihu.com/p/77090241)
 - [程序员独立接单需要注意的问题](https://mp.weixin.qq.com/s/lLZ0ZTEp9prvPYf2-kjUEg)
 - [被裁后，远程工作了一年，找到工作后入职连续被拒](https://v2ex.com/t/912777)
+- [我在广州当主播——灵活就业人员参加社保医保指南](https://zhangqi.zhubai.love/posts/2179268116000444416)
 
 <a name="Hc9aU"></a>
 ## 税务问题
