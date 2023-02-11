@@ -168,8 +168,8 @@
 - [如何做好一个远程工作的Project Manager (项目管理人)？](https://mp.weixin.qq.com/s/4Az5QeSjqsQ13xpBjpedzw)- Slasify 的一篇文章，如何做好一个远程工作的项目经理，从基本能力，里程管理，管理预算、团队和客户等多个方面加以说明。
 - [如何加入一家全职远程的公司](https://blog.meathill.com/tech/how-to-get-a-full-time-remote-job.html)- 要胜任一份全职远程的工作，你不但需要有独立工作的能力，尤其是缺少一些信息的前提下，独立工作的能力。此外，远程工作需要你有一定的自律能力，并且并不轻松。
 - [在车上居住了一年，我所重新认识的事](https://zhuanlan.zhihu.com/p/52680233) - 作者开始房车游民生活后的一些感想，比如打破了一些对“家”的固有的观念，作者认为安全和安全感是两个东西，安全是客观的，安全感是自己的，是一种适应环境，应对风险，接受后果的能力。文章对于极简生活、与人交流方面也有很深入的思考。
-- [从间隔年到数字游民：22岁时环游中国，30岁开始边旅行边工作](https://mp.weixin.qq.com/s/e2ncLcfdyZdxkKOyScHgAw)
-- [自由职业第三年，患上拖延证，加上经济寒](https://yizaoyiwan.com/discussions/12148)
+- [从间隔年到数字游民：22岁时环游中国，30岁开始边旅行边工作](https://mp.weixin.qq.com/s/e2ncLcfdyZdxkKOyScHgAw)- 作者毕业后就开始作为背包客旅行，之后也开过青旅，创过业，凭借这自己多年积累的经验，最终成为了一名数字游民。
+- [自由职业第三年，患上拖延证，加上经济寒](https://eleduck.com/posts/6N0fNP) - 作者自由职业三年的总结，包括了技术支持以及创业项目的得失，以及自己的状态和教训，面对的危机以及准备。
 - [成为一名自流量生活的创业者](https://mp.weixin.qq.com/s/MeN9Z8A115JyLoPUphFGpg)
 - [【开怼吧】第37: 移动办公最终会取代传统办公模式吗？](http://bbs.sangfor.com.cn/forum.php?mod=viewthread&tid=67681)
 
