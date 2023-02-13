@@ -196,6 +196,7 @@
 ### 翻译
 
 - [智慧译百](https://www.xmf.com/company/3156.html) - 翻译服务 / [相关招聘](https://www.xmf.com/job/6176.html)
+- [屯良翻译](https://www.zhipin.com/gongsi/2024852a462ee9c81nN90t-9E1c~.html) - 医药翻译 / [相关招聘](https://m.597.com/job/2257f35382569.html)
 
 <a name="EyPeI"></a>
 ### 数据
