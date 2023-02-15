@@ -6,14 +6,14 @@
 ## 系列
 
 - [“不会画图请找我”的自由职业周记](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU0MzA0MjExMQ==&action=getalbum&album_id=1720997024822575108&scene=173&from_msgid=2247484167&from_itemidx=1&count=3&nolastread=1#wechat_redirect) - 一位从事R语言画图和分析的自由职业者的自由职业记录。
-<a name="QvEPA"></a>
-### 
-<a name="ZHOza"></a>
+
+<a name="2023"></a>
 ## 2023年
 
 - [只要人们继续追求自由的答案，这一切都将永不停止！——记我的远程之路](https://eleduck.com/posts/82fBAB) - 经历的几年的职场生活，作者不断思考“为什么我一点都不快乐”，直到一个机会出现，回到家乡，回到父母的身边开始远程办公，有了更多自我的时间。才体会到了难得的自由和快乐。
+- [远程工作如何促进多样性、公平性和包容性 (DEI)](https://eleduck.com/posts/oQf2YA) - 远程工作模式可以更好的让公司适应多元，平等和包容的需求，消除人才和招聘人员之间的障碍，正确应对性别歧视，年龄，种族，信仰，文化等问题，帮助企业留存更多人才。
 
-<a name="hTKqZ"></a>
+<a name="2022"></a>
 ## 2022年
 
 - [远程3年体验](https://eleduck.com/posts/82fBnp) - 作者远程工作3年的经验分享，主要是与国外同事的合作经验，英语，沟通，表达等都有一些特点。
@@ -42,7 +42,7 @@
 - [自由职业 3 年复盘（上）](https://mp.weixin.qq.com/s/2Ngzam00K8thcO4UbDGytA) - 作为一个自由译者，作者的阶段概括为锄田、出苗、开花和结果，这篇文章主要开花和结果。在这两个时期，从焦虑到客服焦虑，走出了很重要的一步。
 - [如何进行高效的远程会议?](https://eleduck.com/posts/jAfJwJ) - 提前准备，控制主题，限制时间，同步结果和行动。
 
-<a name="111abca79ac66b1e861a72166ec3765c"></a>
+<a name="2021"></a>
 ## 2021年
 
 - [程序员“只工作不上班”的三种方式](https://eleduck.com/posts/XNfLox) - 三种程序员远程工作的形式介绍，全职远程，自由职业以及独立开发，作者目前出于自由职业阶段，给出了一些避坑的建议
