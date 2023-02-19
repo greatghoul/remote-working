@@ -35,6 +35,7 @@
 - [Jibble](https://www.jibble.io/) - 人力资源 / .Net, C# / [相关招聘](https://www.v2ex.com/t/819758)
 - [Brix Labs](https://www.brixlabs.ai/) - 欧美外包，区块链 / 游戏 / [相关招聘](https://www.v2ex.com/t/843374)
 - [法本信息](https://www.zhipin.com/gongsi/95b4b47ef9141c671nd52ty_.html?ka=job-detail-company-logo_custompage) - 技术咨询 / Vue, React / [相关招聘](https://www.zhipin.com/job_detail/f387314d98e7a1ef1XZ53tq8E1FR.html)
+- [每联每](http://www.mtscloud.com/) - [相关招聘](https://www.jobeast.com/jobs/205823.html)
 
 <a name="t1arv"></a>
 ### 企业服务
@@ -59,11 +60,13 @@
 - [~~杭州知鹏网络科技有限公司~~](http://www.xueshifudao.com/) - 跨境电商 / [相关招聘](http://www.ciweishixi.com/job/detail-77466.html)
 - [Castlery](https://www.castlery.com) - 跨境电商 / Ruby / [相关招聘](https://ruby-china.org/topics/41538)
 - [陆本速递](https://www.luben.com.au) - 仓储，物流，跨境电商 / Java / [相关招聘](https://yuancheng.work/2447.html)
+- [麦田守望](https://www.maitianshouwang.com) - 烘焙，门店管理 / Java / [相关招聘](https://www.v2ex.com/t/912762)
 
 <a name="EVQk4"></a>
 ### 通信
 
 - [Mavenir Systems](https://www.mavenir.com/) - 电信通信设备 / Kubernetes, Istio, Envoy / [相关招聘](https://www.zhipin.com/job_detail/a94e45c1a7ef48c31XV50t66FlZQ.html)
+- [Rakuten 日本乐天公司](https://travel.rakuten.co.jp/) - 酒店管理 / 日企 / [相关招聘](https://eleduck.com/posts/a4fDlK)
 
 <a name="jN6Zf"></a>
 ### 酒店
