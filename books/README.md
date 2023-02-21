@@ -2,7 +2,6 @@
 
 收集整理远程工作相关的书籍、指南文档等资源。
 
-<a name="wdDXa"></a>
 ## 书籍
 
 - [游牧东京](https://book.douban.com/subject/26671488/) - 只工作，不上班，不需要房子，不需太多金钱，完全自由地生活！
@@ -19,8 +18,8 @@
 - [Gitlab 2021 年远程工作报告](https://gitlab.lookbookhq.com/all-remote/remote-work-report) - Gitlab 2021 年远程工作报告。( via [Guanngxu](https://github.com/Guanngxu) )
 - [每周工作4小时](https://book.douban.com/subject/3006483/) - 告别朝九晚五。从观念到行为，彻底改变你的工作方式和生活方式。 ( via [CcccFz]() )
 
-<a name="cKtcQ"></a>
 ## 指南
 
 - [远程办公团队沟通与协作手册](https://mp.weixin.qq.com/s/mTReSIZ1-DyMzkzrpa2WvQ) - 由未来工作研究员发布的给企业管理人员的远程办公指导手册，内容很有参考性
 - [一人公司方法论](https://github.com/easychen/one-person-businesses-methodology)
+- [企业灵活办公指南：弹性坐班、灵活用工与远程工作](https://eleduck.com/posts/a4fmm5) - 电鸭社区出品的企业灵活办公指南
