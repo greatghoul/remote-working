@@ -268,8 +268,8 @@
 - [如何在分布式团队实现敏捷](http://www.infoq.com/cn/articles/be-agile-distributed-teams)
 - [《重来2》：远程工作不再遥远？](https://www.kawabangga.com/posts/1929)
 - [IT领域哪些技能适合自由职业?](https://www.zhihu.com/question/55975833)
-- [远程办公如何执行才能效率高，这家公司做了典范](http://36kr.com/p/5064061.html)
-- [远程工作、协作最佳实践？](https://ruby-china.org/topics/32316)
+- [远程办公如何执行才能效率高，这家公司做了典范](http://36kr.com/p/5064061.html) - StackOverflow 的远程优先文化以及她们的一些实践。会议让大家更有参与感与归属感，聊天工具、项目协作工具以及文档协作工具让异步沟通更加轻松。此外，他们也会分享生活又保持底线。
+- [远程工作、协作最佳实践？](https://ruby-china.org/topics/32316)- Ruby China 上面关于远程工作工具和协作的一些讨论，大家分享各自团队的一些经验。
 
 ## 2016年
 
