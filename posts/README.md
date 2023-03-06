@@ -265,9 +265,8 @@
 - [远程工作的7大挑战](https://www.lizhi.io/blog/7-Biggest-Remote-Work-Challenges/)
 - [在海滩上写代码：一个技术团队在泰国海岛远程工作的经历](https://mp.weixin.qq.com/s/IBKpB8f7SMmnlGB6Cr6gDQ)
 - [Tower 团队 48 个月远程实践](https://zhuanlan.zhihu.com/p/26031654)
-- [如何在分布式团队实现敏捷](http://www.infoq.com/cn/articles/be-agile-distributed-teams)
-- [《重来2》：远程工作不再遥远？](https://www.kawabangga.com/posts/1929)
-- [IT领域哪些技能适合自由职业?](https://www.zhihu.com/question/55975833)
+- [如何在分布式团队实现敏捷](http://www.infoq.com/cn/articles/be-agile-distributed-teams) - 分布式团队如何进行敏捷实践，本文通过文化、组织、产品、团队、架构、工程实践、沟通和工具八个板块进行了讨论。
+- [《重来2》：远程工作不再遥远？](https://www.kawabangga.com/posts/1929) - 对于远程工作而言，拿一线城市工资在三线城市生活，是完全有可能实现的。如何进行《重来2》这本书里面有很多实践的经验。不过作者认为，最大的挑战还是建立信任。
 - [远程办公如何执行才能效率高，这家公司做了典范](http://36kr.com/p/5064061.html) - StackOverflow 的远程优先文化以及她们的一些实践。会议让大家更有参与感与归属感，聊天工具、项目协作工具以及文档协作工具让异步沟通更加轻松。此外，他们也会分享生活又保持底线。
 - [远程工作、协作最佳实践？](https://ruby-china.org/topics/32316)- Ruby China 上面关于远程工作工具和协作的一些讨论，大家分享各自团队的一些经验。
 
