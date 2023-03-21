@@ -264,7 +264,7 @@
 - [回到办公室吧，远程工作并不如看起来那么完美](https://mp.weixin.qq.com/s/Ud2abeNI4TPgJS2MYYYbXA)
 - [接受远程办公对公司有什么好处？](http://www.jiemian.com/article/1328889.html)
 - [远程工作的7大挑战](https://www.lizhi.io/blog/7-Biggest-Remote-Work-Challenges/)
-- [在海滩上写代码：一个技术团队在泰国海岛远程工作的经历](https://mp.weixin.qq.com/s/IBKpB8f7SMmnlGB6Cr6gDQ)
+- [在海滩上写代码：一个技术团队在泰国海岛远程工作的经历](https://mp.weixin.qq.com/s/IBKpB8f7SMmnlGB6Cr6gDQ)- 方式，他们的首要目标是幸福感而不是利润，他们团队选择在泰国的一个美丽小岛上面工作。本文从衣食住行，工作，社交，学习等多个方面介绍了他们的经验。
 - [Tower 团队 48 个月远程实践](https://zhuanlan.zhihu.com/p/26031654) - 古灵在 2017 年在成都中生代技术大会上的分享，Tower 团队远程办公的实践经验，比如如何招人，注重设计和节奏等等，对于什么样的团队适合远程工作，作者也给出了中肯的建议。
 - [如何在分布式团队实现敏捷](http://www.infoq.com/cn/articles/be-agile-distributed-teams) - 分布式团队如何进行敏捷实践，本文通过文化、组织、产品、团队、架构、工程实践、沟通和工具八个板块进行了讨论。
 - [《重来2》：远程工作不再遥远？](https://www.kawabangga.com/posts/1929) - 对于远程工作而言，拿一线城市工资在三线城市生活，是完全有可能实现的。如何进行《重来2》这本书里面有很多实践的经验。不过作者认为，最大的挑战还是建立信任。
