@@ -260,8 +260,6 @@
 - [TED 团队告诉你：如何突破远程办公的局限](https://weibo.com/ttarticle/p/show?id=2309404129081133260111)
 - [自由职业 -> 硅谷初创-上海团队的全职工作](https://zhuanlan.zhihu.com/p/27830954)
 - [如何成为一位远程开发者](http://gitbook.cn/books/5952f77b94b141525e125cba/index.html)
-- [远程办公两年的体会](https://www.yuanmas.com/info/4py2j0lNyb.html)
-- [回到办公室吧，远程工作并不如看起来那么完美](https://mp.weixin.qq.com/s/Ud2abeNI4TPgJS2MYYYbXA)
 - [接受远程办公对公司有什么好处？](http://www.jiemian.com/article/1328889.html)- FlexJobs 的意向调查显示，雇主通过远程办公获得的三个突出的好处是：找到更高素质的候选人，建立更强的管理团队，填补技能空白。
 - [远程工作的7大挑战](https://www.lizhi.io/blog/7-Biggest-Remote-Work-Challenges/)- 数码荔枝团队的远程实践过程中遇到的一些问题：容易过劳，优先级混乱，环境干扰，缺乏社交，招聘，等等。
 - [在海滩上写代码：一个技术团队在泰国海岛远程工作的经历](https://mp.weixin.qq.com/s/IBKpB8f7SMmnlGB6Cr6gDQ)- 方式，他们的首要目标是幸福感而不是利润，他们团队选择在泰国的一个美丽小岛上面工作。本文从衣食住行，工作，社交，学习等多个方面介绍了他们的经验。
