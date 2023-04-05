@@ -242,7 +242,6 @@
 - [在 Stack Overflow 远程办公是什么体验？](https://zhuanlan.zhihu.com/p/30391199)
 - [我是如何利用「3/2/2/1工作模式」让远程工作更高效的？](https://36kr.com/p/5098606.html)
 - [如何成功发挥远程工作价值？信任和机会平等缺一不可](http://36kr.com/p/5097277.html)
-- [TED 团队告诉你：如何突破远程办公的局限](https://weibo.com/ttarticle/p/show?id=2309404129081133260111)
 - [换城市不换工作，如何向公司申请调往分部？](http://news.mbalib.com/story/239800)
 - [Hello, World！我的房车编程生活，已经 150 天了](http://blog.jobbole.com/112606/)
 - [自由难得请珍惜，3招摆脱在家办公的“小确丧”](http://posts.careerengine.us/p/59e0031073e5f36c51a90603?from=latest-posts-panel&type=title)
@@ -255,10 +254,8 @@
 - [“百城万人”残疾人远程就业公益项目](https://mp.weixin.qq.com/s/5gMTNPOcLH-yoN7BmvgAOA)
 - [孤独狩猎——选择自由职业的年轻人们](https://www.douban.com/note/633805058/)
 - [4个月的远程经验分享 奶爸的远程工作之路](https://zhuanlan.zhihu.com/p/28653189)
-- [远程工作时，员工该如何协调与领导之间关系？](http://36kr.com/p/5085175.html)
-- [年纪越大写代码越慢](https://www.v2ex.com/t/384472)
-- [TED 团队告诉你：如何突破远程办公的局限](https://weibo.com/ttarticle/p/show?id=2309404129081133260111)
-- [自由职业 -> 硅谷初创-上海团队的全职工作](https://zhuanlan.zhihu.com/p/27830954)
+- [远程工作时，员工该如何协调与领导之间关系？](http://36kr.com/p/5085175.html) - 远程办公会遇到一个困境，员工和领导当面交流的次数会降低，想要和老板建立良好的关系，证明你的价值会很难。以下的六项措施可以帮助你，让老板看到你对公司的贡献。
+- [TED 团队告诉你：如何突破远程办公的局限](https://www.zhihu.com/column/p/27885940) - TED团队总部在纽约，成员分散在另外六个州和两个国家，团队每隔四个月相聚一次，本文是他们团队给大家的八条建议。
 - [如何成为一位远程开发者](http://gitbook.cn/books/5952f77b94b141525e125cba/index.html) - 作者是一位全栈工程师，入坑远程是从一个小的跨国团队开始的，结合自己的经验，介绍了如何成为远程开发者，包括分工，沟通以及如何做准备等等。
 - [接受远程办公对公司有什么好处？](http://www.jiemian.com/article/1328889.html)- FlexJobs 的意向调查显示，雇主通过远程办公获得的三个突出的好处是：找到更高素质的候选人，建立更强的管理团队，填补技能空白。
 - [远程工作的7大挑战](https://www.lizhi.io/blog/7-Biggest-Remote-Work-Challenges/)- 数码荔枝团队的远程实践过程中遇到的一些问题：容易过劳，优先级混乱，环境干扰，缺乏社交，招聘，等等。
