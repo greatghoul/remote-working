@@ -250,8 +250,8 @@
 - [在家工作时怎样能保持效率？这里有一份简单的指南](http://www.qdaily.com/articles/45761.html)
 - [自由职业的利与弊](http://yizaoyiwan.com/discussions/1450)
 - [科技 | 远程办公成为现实：合理性与可持续性受到质疑](https://mp.weixin.qq.com/s/RcwdKt2GGxQBu0Ah_1YcEA)
-- [远程办公 当梦想成为现实](http://paper.people.com.cn/rmrbhwb/html/2017-09/11/content_1804329.htm)
-- [“百城万人”残疾人远程就业公益项目](https://mp.weixin.qq.com/s/5gMTNPOcLH-yoN7BmvgAOA)
+- [远程办公 当梦想成为现实](http://paper.people.com.cn/rmrbhwb/html/2017-09/11/content_1804329.htm) - 人民日报海外版对于远程办公的一篇文章，提到了远程办公的国际形势，优势以及问题。
+- [“百城万人”残疾人远程就业公益项目](https://mp.weixin.qq.com/s/5gMTNPOcLH-yoN7BmvgAOA) - “百城万人”残疾人远程就业公益项目，是由深圳市郑卫宁慈善基金会联动社会各届爱心资源共同推动实施的全国性大型公益项目。
 - [孤独狩猎——选择自由职业的年轻人们](https://www.douban.com/note/633805058/) - 要成为自由职业者，知识，技能，生存能力，自律，意志缺一不可。本文分享了三个自由者的经历：漫画家白茶，电影编导李宁，化妆师春天。
 - [4个月的远程经验分享 奶爸的远程工作之路](https://zhuanlan.zhihu.com/p/28653189) - 成为奶爸之后，作者辞职在家做独立开发，后来又加入一家公司远程工作，本文介绍他的日常时间规划，以及健身，社交等方面的问题。
 - [远程工作时，员工该如何协调与领导之间关系？](http://36kr.com/p/5085175.html) - 远程办公会遇到一个困境，员工和领导当面交流的次数会降低，想要和老板建立良好的关系，证明你的价值会很难。以下的六项措施可以帮助你，让老板看到你对公司的贡献。
