@@ -248,8 +248,8 @@
 - [远程办公的趋势面临拐点 众多大企业让员工重返办公室](https://mp.weixin.qq.com/s/MphC1dRZT34bzq4VXwymWA)
 - [远程办公，你需要克服这些困难](https://mp.weixin.qq.com/s/zvWMgiHWlWk-bQju4V-eoQ)
 - [在家工作时怎样能保持效率？这里有一份简单的指南](http://www.qdaily.com/articles/45761.html)
-- [自由职业的利与弊](http://yizaoyiwan.com/discussions/1450)
-- [科技 | 远程办公成为现实：合理性与可持续性受到质疑](https://mp.weixin.qq.com/s/RcwdKt2GGxQBu0Ah_1YcEA)
+- [自由职业的利与弊](https://blog.meathill.com/career/good-and-bad-parts-of-freelance.html) - 很多开发者都向往自由职业或者独立开发，但是真要想投身其中，还是要三思而后行。本文作者自己的经历，从自由，财务，机会，环境，成长等方面分享了自由职业的利弊。如果你真要下水，作者也给出了一些意见和建议。
+- [科技 | 远程办公成为现实：合理性与可持续性受到质疑](https://mp.weixin.qq.com/s/RcwdKt2GGxQBu0Ah_1YcEA) - 在中国的二孩环境下，灵活就业可以有效缓解家庭的冲突，而远程工作的优势是显而易见的，但是推广之路并非一帆风顺。
 - [远程办公 当梦想成为现实](http://paper.people.com.cn/rmrbhwb/html/2017-09/11/content_1804329.htm) - 人民日报海外版对于远程办公的一篇文章，提到了远程办公的国际形势，优势以及问题。
 - [“百城万人”残疾人远程就业公益项目](https://mp.weixin.qq.com/s/5gMTNPOcLH-yoN7BmvgAOA) - “百城万人”残疾人远程就业公益项目，是由深圳市郑卫宁慈善基金会联动社会各届爱心资源共同推动实施的全国性大型公益项目。
 - [孤独狩猎——选择自由职业的年轻人们](https://www.douban.com/note/633805058/) - 要成为自由职业者，知识，技能，生存能力，自律，意志缺一不可。本文分享了三个自由者的经历：漫画家白茶，电影编导李宁，化妆师春天。
