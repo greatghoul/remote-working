@@ -247,7 +247,7 @@
 - [自由难得请珍惜，3招摆脱在家办公的“小确丧”](http://posts.careerengine.us/p/59e0031073e5f36c51a90603?from=latest-posts-panel&type=title)
 - [远程办公的趋势面临拐点 众多大企业让员工重返办公室](https://mp.weixin.qq.com/s/MphC1dRZT34bzq4VXwymWA)
 - [远程办公，你需要克服这些困难](https://mp.weixin.qq.com/s/zvWMgiHWlWk-bQju4V-eoQ)
-- [在家工作时怎样能保持效率？这里有一份简单的指南](http://www.qdaily.com/articles/45761.html)
+- [在家工作时怎样能保持效率？这里有一份简单的指南](https://github.com/greatghoul/remote-working/discussions/316) - 因为一场飓风，作者开始了远程工作，不过她的生活逐渐出现很多问题，为此尝试做了一些改变来保持工作和生活的平衡，比如即使在家，也注重形象，区分工作和生活区域等等。
 - [自由职业的利与弊](https://blog.meathill.com/career/good-and-bad-parts-of-freelance.html) - 很多开发者都向往自由职业或者独立开发，但是真要想投身其中，还是要三思而后行。本文作者自己的经历，从自由，财务，机会，环境，成长等方面分享了自由职业的利弊。如果你真要下水，作者也给出了一些意见和建议。
 - [科技 | 远程办公成为现实：合理性与可持续性受到质疑](https://mp.weixin.qq.com/s/RcwdKt2GGxQBu0Ah_1YcEA) - 在中国的二孩环境下，灵活就业可以有效缓解家庭的冲突，而远程工作的优势是显而易见的，但是推广之路并非一帆风顺。
 - [远程办公 当梦想成为现实](http://paper.people.com.cn/rmrbhwb/html/2017-09/11/content_1804329.htm) - 人民日报海外版对于远程办公的一篇文章，提到了远程办公的国际形势，优势以及问题。
