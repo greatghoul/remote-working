@@ -247,7 +247,7 @@
 - [换城市不换工作，如何向公司申请调往分部？](http://news.mbalib.com/story/239800)
 - [Hello, World！我的房车编程生活，已经 150 天了](http://blog.jobbole.com/112606/)
 - [自由难得请珍惜，3招摆脱在家办公的“小确丧”](http://posts.careerengine.us/p/59e0031073e5f36c51a90603?from=latest-posts-panel&type=title)
-- [远程办公的趋势面临拐点 众多大企业让员工重返办公室](https://mp.weixin.qq.com/s/MphC1dRZT34bzq4VXwymWA)
+- [远程办公的趋势面临拐点 众多大企业让员工重返办公室](http://qnck.cyol.com/html/2017-10/11/nw.D110000qnck_20171011_1-07.htm) - IBM 将员工召回办公室，让人们对远程办公的忧虑增加了，远程办公是否效率更高，也成了众多媒体争论的热点，相比办公室，远程的员工普遍更不愿意频繁沟通，这可能给技术带来屏障。
 - [远程办公，你需要克服这些困难](https://mp.weixin.qq.com/s/zvWMgiHWlWk-bQju4V-eoQ) - 作者在体验了一年远程办公后遇到的一些问题，个人时间管理，工作和生活的分离，失去动力等等，当然，作者也给出了一些应对的建议。
 - [在家工作时怎样能保持效率？这里有一份简单的指南](https://github.com/greatghoul/remote-working/discussions/316) - 因为一场飓风，作者开始了远程工作，不过她的生活逐渐出现很多问题，为此尝试做了一些改变来保持工作和生活的平衡，比如即使在家，也注重形象，区分工作和生活区域等等。
 - [自由职业的利与弊](https://blog.meathill.com/career/good-and-bad-parts-of-freelance.html) - 很多开发者都向往自由职业或者独立开发，但是真要想投身其中，还是要三思而后行。本文作者自己的经历，从自由，财务，机会，环境，成长等方面分享了自由职业的利弊。如果你真要下水，作者也给出了一些意见和建议。
