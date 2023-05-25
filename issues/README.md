@@ -17,6 +17,7 @@
 
 - [独立开发者公司资质与税务工作](https://www.yuque.com/docs/share/ead0211d-dfb1-4a91-a443-5ef9715d3e94#fmMA0)
 - [各位对外远程开发者, 怎么管理个人所得税? ](https://www.v2ex.com/t/588882?p=1)
+- [我给你做项目，你却找我开发票？——独立开发者如何处理税务问题？](https://eleduck.com/posts/mbfjL1)
 
 <a name="guan-li"></a>
 ## 团队管理
