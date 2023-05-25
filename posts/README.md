@@ -246,7 +246,7 @@
 - [我是如何利用「3/2/2/1工作模式」让远程工作更高效的？](https://36kr.com/p/5098606.html)
 - [如何成功发挥远程工作价值？信任和机会平等缺一不可](http://36kr.com/p/5097277.html)
 - [换城市不换工作，如何向公司申请调往分部？](http://news.mbalib.com/story/239800)
-- [Hello, World！我的房车编程生活，已经 150 天了](http://blog.jobbole.com/112606/)
+- [Hello, World！我的房车编程生活，已经 150 天了](https://github.com/greatghoul/remote-working/discussions/320) - 作者离开柏林，驾驶着房车，访问了 6 个国家，行驶了超过 1.2 万公里，一边结识有趣的人，一边编程，随性的享受每一天的生活。作者的分享中，节能和环保是一个非常吸引人的主题。
 - [自由难得请珍惜，3招摆脱在家办公的“小确丧”](http://posts.careerengine.us/p/59e0031073e5f36c51a90603?from=latest-posts-panel&type=title)
 - [远程办公的趋势面临拐点 众多大企业让员工重返办公室](http://qnck.cyol.com/html/2017-10/11/nw.D110000qnck_20171011_1-07.htm) - IBM 将员工召回办公室，让人们对远程办公的忧虑增加了，远程办公是否效率更高，也成了众多媒体争论的热点，相比办公室，远程的员工普遍更不愿意频繁沟通，这可能给技术带来屏障。
 - [远程办公，你需要克服这些困难](https://mp.weixin.qq.com/s/zvWMgiHWlWk-bQju4V-eoQ) - 作者在体验了一年远程办公后遇到的一些问题，个人时间管理，工作和生活的分离，失去动力等等，当然，作者也给出了一些应对的建议。
