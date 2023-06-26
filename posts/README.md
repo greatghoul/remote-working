@@ -234,13 +234,13 @@
 ## 2017年
 
 - [云工作时代，如何实现远程协作？](https://mp.weixin.qq.com/s/pEzdSZ-8PqyTBj9BZ84-pQ) - 重来2的读书笔记，总结了 15 条。最后一条：“优秀到不可被忽视”，其实无论是不是远程办公，都是很好的建议。
-- [如何进行远程设计冲刺——给远程办公团队的小窍门](https://mp.weixin.qq.com/s/-t-92thU3wuTSXmKxeoeeQ)
+- [如何进行远程设计冲刺——给远程办公团队的小窍门](https://mp.weixin.qq.com/s/-t-92thU3wuTSXmKxeoeeQ) - 远程冲刺并不是最理想的情况，也不是最好的情况，但它绝对是可行的。《设计冲刺》一书的作者 Jake Knapp 的这篇文章能带来一些启发。
 - [2018年38种自由职业大盘点](http://www.wocation.cc/2017/12/15/123/)
 - [远程两年之后，工作生活小结](https://zhuanlan.zhihu.com/p/31884972)
 - [为什么越来越多的创业公司选择远程工作？](https://news.cnblogs.com/n/583905/)
 - [一些自由职业的观点](http://yizaoyiwan.com/discussions/1515)
 - [新趋势：远程办公正在失宠](https://www.ljsw.io/dedao/2017-11-29/iE.html)
-- [人生逆天技能：如何扭曲主观时空，一辈子活成 N 辈子？](https://www.xiaohui.com/weekly/another-life.htm)
+- [人生逆天技能：如何扭曲主观时空，一辈子活成 N 辈子？](https://www.xiaohui.com/weekly/another-life.htm) - 机械黄金时间，是指花在为实现自动运转系统而进行的创造性工作的时间，而不是为生意打工或者处理日常事务的时间。程序员小辉的这篇文章是对自己 SOHO 的实践经验的分享。
 - [要挖掘隐藏的人才，你需要建立远程办公机制](http://www.cplus.cc/create/news/info/id/20171115163258eff05e125a604bacb1.shtml)
 - [在家工作？大所将拥抱远程工作模式？](https://mp.weixin.qq.com/s/CMmpTUOVpZIQ5n21H_tPDA)
 - [远程协作办公](https://vinurs.me/2017/11/04/telecommuting-work/)
