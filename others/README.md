@@ -13,3 +13,4 @@
 - [open-source-jobs](https://github.com/t9tio/open-source-jobs) - 提供工作的开源项目列表
 - [We Work Remotely](https://weworkremotely.com/) - 海外远程工作招聘平台 ( via [CcccFz](https://github.com/CcccFz) )
 - [RemoteOK](https://remoteok.com/) - 海外远程工作招聘平台 ( via [CcccFz](https://github.com/CcccFz) )
+- [Remote from China](https://remotefrom.cn/) - 这是一个由个人维护的支持在中国远程工作的公司的列表。
