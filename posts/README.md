@@ -230,12 +230,12 @@
 - [除了拖延，远程工作的压力还来自“不知道老板在想什么”](https://mp.weixin.qq.com/s/kmgFuuNIKcDW2dt2OuPHCA)
 - [程序员远程工作那些事儿 Live 演讲稿](https://zhuanlan.zhihu.com/p/41159126)
 - [快三年没有上过班了，我是如何养活自己的？](https://www.douban.com/note/692344948/)
+- [2018年38种自由职业大盘点](https://www.sohu.com/a/238015148_100178796) - 总结了各种支持远程办公的职业病做了简单介绍
 
 ## 2017年
 
 - [云工作时代，如何实现远程协作？](https://mp.weixin.qq.com/s/pEzdSZ-8PqyTBj9BZ84-pQ) - 重来2的读书笔记，总结了 15 条。最后一条：“优秀到不可被忽视”，其实无论是不是远程办公，都是很好的建议。
 - [如何进行远程设计冲刺——给远程办公团队的小窍门](https://mp.weixin.qq.com/s/-t-92thU3wuTSXmKxeoeeQ) - 远程冲刺并不是最理想的情况，也不是最好的情况，但它绝对是可行的。《设计冲刺》一书的作者 Jake Knapp 的这篇文章能带来一些启发。
-- [2018年38种自由职业大盘点](http://www.wocation.cc/2017/12/15/123/)
 - [远程两年之后，工作生活小结](https://zhuanlan.zhihu.com/p/31884972)
 - [为什么越来越多的创业公司选择远程工作？](https://news.cnblogs.com/n/583905/)
 - [一些自由职业的观点](http://yizaoyiwan.com/discussions/1515)
@@ -244,7 +244,7 @@
 - [要挖掘隐藏的人才，你需要建立远程办公机制](http://www.cplus.cc/create/news/info/id/20171115163258eff05e125a604bacb1.shtml)
 - [在家工作？大所将拥抱远程工作模式？](https://mp.weixin.qq.com/s/CMmpTUOVpZIQ5n21H_tPDA)
 - [远程协作办公](https://vinurs.me/2017/11/04/telecommuting-work/)
-- [在 Stack Overflow 远程办公是什么体验？](https://zhuanlan.zhihu.com/p/30391199)
+- [在 Stack Overflow 远程办公是什么体验？](https://zhuanlan.zhihu.com/p/30391199) - Stack Overflow 的远程办公经验分享，包括雇佣靠谱的人，以公司层面为员工办公提供技术、法律以及设备支持，会议写作以及团建的技巧等。
 - [我是如何利用「3/2/2/1工作模式」让远程工作更高效的？](https://36kr.com/p/5098606.html) - 作者经过三个月的远程工作体验，找到了适合自己的节奏，按照 3/2/2/1 分割时间的工作模式。合理的时间分割，可以保持工作效率的同时，有能让大脑充分的休息。
 - [如何成功发挥远程工作价值？信任和机会平等缺一不可](http://36kr.com/p/5097277.html) - 虽然有些巨头公司取消了远程办公的支持，作者仍旧认为企业不应该忽视远程办公的趋势。想要吸收更多优质的人才，那么对远程雇员也提供各种优惠将会是一个好的选择。作者认为，远程协作要能成功，主要在于信任和机会平等。这对这两点，本文做了详细的阐述。
 - [换城市不换工作，如何向公司申请调往分部？](http://news.mbalib.com/story/239800) - 有的人渴望到一个新的环境中工作和生活，如果你所在的公司有多个分部，或者支持远程工作，如何说服老板让自己进行调动呢？作者就四方面给出了建议。
