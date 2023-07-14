@@ -227,8 +227,7 @@
 - [Coding 技术小馆 | 远程办公工作流分享](https://mp.weixin.qq.com/s/a74QUuHQztZZD_BDzlYCoA)
 - [记录009：远程工作需要注意什么-180107](https://mp.weixin.qq.com/s/JW2ZdfYwPiR_HJS9TatHMQ)
 - [远程工作看起来理想，但其实有些压力你可能不会想到](https://www.qdaily.com/articles/48777.html)
-- [除了拖延，远程工作的压力还来自“不知道老板在想什么”](https://mp.weixin.qq.com/s/kmgFuuNIKcDW2dt2OuPHCA)
-- [程序员远程工作那些事儿 Live 演讲稿](https://zhuanlan.zhihu.com/p/41159126)
+- [除了拖延，远程工作的压力还来自“不知道老板在想什么”](https://mp.weixin.qq.com/s/kmgFuuNIKcDW2dt2OuPHCA)- 远程工作也有不少弊端，没有人一直盯着的自由，对拖延症患者来说就是灾难，此外沟通也是一个影响很大的因素，尤其是对有沟通障碍的人来说。
 - [快三年没有上过班了，我是如何养活自己的？](https://www.douban.com/note/692344948/) - 作者从网络英语教师开始自由职业解决了旅居的温饱问题，然后利用闲暇时间做一些语言方面的创作，慢慢有了起色，这些都为后面成为数字游民打好了基础，英语在这其中也起到了非常有力的支撑。
 - [2018年38种自由职业大盘点](https://www.sohu.com/a/238015148_100178796) - 总结了各种支持远程办公的职业病做了简单介绍
 
