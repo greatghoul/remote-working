@@ -219,9 +219,8 @@
 - [自由职业者成功指南](https://mp.weixin.qq.com/s?__biz=MjM5NzY4MzQyMQ==&mid=2650083419&idx=1&sn=9f8271a10e5c1fdecd39d5a0f1ab1ccf)
 - [记一次参加 CrossOver Meetup 的经历](https://segmentfault.com/a/1190000013648364)
 - [9个关于远程工作的事实和谣言](https://nozbe.com/zh-cn/blog/remote-work-facts-myths/)
-- [远程办公:隔离工作是怎样的感受?](https://mp.weixin.qq.com/s/tTLtwUtarwesClJy_7Pj6w)
-- [远程与职场性别“歧视”](https://zhuanlan.zhihu.com/p/33933314?group_id=950149420143042560)
-- [2017远程办公生活](https://zhuanlan.zhihu.com/p/33766794?)
+- [远程办公:隔离工作是怎样的感受?](https://mp.weixin.qq.com/s/tTLtwUtarwesClJy_7Pj6w)- 本文分析了几个远程相关的问题，包括远程对于员工内心的影响，不利因素，管理者的挑战等。
+- [2017远程办公生活](https://zhuanlan.zhihu.com/p/33766794?)- 作者有出差和同事远程协作的经验，所以顺利的在家也可以远程办公，本文分享了他远程办公的日常节奏。对于远程的优劣和经验，作者也有写自己的看法。
 - [自由职业第二年，迷茫之上，蒙逼未满](https://eleduck.com/posts/P98flM) - 作者自由职业两年的总结，主要是讲一些比较难受的地方，比如团队建设，天花板，生活质量。给新入行的自由职业者了一些建议，比如报价和路线。
 - [中年猿远程办公半月记](https://www.v2ex.com/t/429129)- 作者远程工作半个月一边工作一边带孩子的感受分享，其中有一条值得深思：对于一个本身并不是分散办公的公司，如果你远程，那基本意味着你从核心的脱出。
 - [远程二三事](https://medium.com/@vorya/%E8%BF%9C%E7%A8%8B%E4%BA%8C%E4%B8%89%E4%BA%8B-8a33a7f69091) - 作者对于远程工作的一些建议，包括衣食住行，以及要保持良好的状态，你需要做的一些努力。
