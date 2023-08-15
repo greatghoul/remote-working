@@ -216,9 +216,9 @@
 - [一次编程，到处旅行](https://www.v2ex.com/t/443094)
 - [硅谷高级工程师自述：我是怎样远程工作4年的](https://zhuanlan.zhihu.com/p/34731605?group_id=967903367560970240)
 - [如何成为一个Freelancer程序员？](https://www.jianshu.com/p/693529f2e026)
-- [自由职业者成功指南](https://mp.weixin.qq.com/s?__biz=MjM5NzY4MzQyMQ==&mid=2650083419&idx=1&sn=9f8271a10e5c1fdecd39d5a0f1ab1ccf)
 - [记一次参加 CrossOver Meetup 的经历](https://segmentfault.com/a/1190000013648364)
-- [9个关于远程工作的事实和谣言](https://nozbe.com/zh-cn/blog/remote-work-facts-myths/)
+- [自由职业者成功指南](https://mp.weixin.qq.com/s/UsejWoXKhZtXX2bdkamgFw) - 对于自由职业者，没有项目时空虚，接到项目时兴奋，要做好这行需要严谨，专业和灵巧。面对困难，成功的自由职业者有一些共通的对策，通过与场所，习惯意义和他人建立联结，他们能够承受工作中的情绪起伏，并从自由钟获得能量和灵感。
+- [9个关于远程工作的事实和谣言](https://nozbe.com/zh-cn/blog/remote-work-facts-myths/)- 对于远程工作，大家了解的情报中有多少是真实的，有多少是误解呢？本文针对其中一些问题进行了探讨，包括收入，健康，社交，自由等。
 - [远程办公:隔离工作是怎样的感受?](https://mp.weixin.qq.com/s/tTLtwUtarwesClJy_7Pj6w)- 本文分析了几个远程相关的问题，包括远程对于员工内心的影响，不利因素，管理者的挑战等。
 - [2017远程办公生活](https://zhuanlan.zhihu.com/p/33766794?)- 作者有出差和同事远程协作的经验，所以顺利的在家也可以远程办公，本文分享了他远程办公的日常节奏。对于远程的优劣和经验，作者也有写自己的看法。
 - [自由职业第二年，迷茫之上，蒙逼未满](https://eleduck.com/posts/P98flM) - 作者自由职业两年的总结，主要是讲一些比较难受的地方，比如团队建设，天花板，生活质量。给新入行的自由职业者了一些建议，比如报价和路线。
