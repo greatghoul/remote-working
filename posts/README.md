@@ -214,7 +214,7 @@
 - [自由职业者们 还好吗 回顾我的 2011 ～ 2018](https://www.v2ex.com/t/451341)
 - [自由工作者必看的书《The Year Without Pants》](https://xiaozhuanlan.com/topic/0635981247)
 - [一次编程，到处旅行](https://www.v2ex.com/t/443094)
-- [硅谷高级工程师自述：我是怎样远程工作4年的](https://zhuanlan.zhihu.com/p/34731605?group_id=967903367560970240)
+- [硅谷高级工程师自述：我是怎样远程工作4年的](https://zhuanlan.zhihu.com/p/43379668) - 作者是Stripe的高级研发工程师，深思熟虑了很久才开始尝试远程工作。本文是她在从利弊，沟通协作，职业发展等方面给的一些建议，
 - [如何成为一个Freelancer程序员？](https://cloud.tencent.com/developer/article/1191033) - Kevin Zhang 是一位全栈专家，从坐班时就开始半自由职业工作，最后兼职收入远超全职。本文是他自由职业时的经验分享。从接触，到尝试，到入坑，其中 elance 和 freelancer.com 的经验比较详细，值得一读。
 - [记一次参加 CrossOver Meetup 的经历](https://segmentfault.com/a/1190000013648364)- crossover 是一个海外的外包公司，成员全员远程，这篇文章是作者参加他们 Meetup 的总结，主要讲了国内参与外国公司远程工作的弊端，比如时区，交流，社保等。
 - [自由职业者成功指南](https://mp.weixin.qq.com/s/UsejWoXKhZtXX2bdkamgFw) - 对于自由职业者，没有项目时空虚，接到项目时兴奋，要做好这行需要严谨，专业和灵巧。面对困难，成功的自由职业者有一些共通的对策，通过与场所，习惯意义和他人建立联结，他们能够承受工作中的情绪起伏，并从自由钟获得能量和灵感。
