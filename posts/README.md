@@ -211,7 +211,7 @@
 - [48% 的美国劳动力不用朝九晚五，提早过上了“财富自由式”生活](https://www.doko.com/podcasts/006-biz/remote-work-digital-nomads-shengwei-zhao.php)
 - [我是怎么找到新媒体工作的](https://www.jianshu.com/p/d7151c77c4e4)
 - [我只带一台笔记本上路，全职工作和环球旅行两不耽误](http://dajia.qq.com/original/wuguojie/ad180522.html)
-- [自由职业者们 还好吗 回顾我的 2011 ～ 2018](https://www.v2ex.com/t/451341)
+- [自由职业者们 还好吗 回顾我的 2011 ～ 2018](https://www.v2ex.com/t/451341) - 作者是自由职业者，根据自己的经历，感觉最大的错误就是离开了圈子，脱节严重，导致在合作方面出现了各种问题。
 - [自由工作者必看的书《The Year Without Pants》](https://xiaozhuanlan.com/topic/0635981247) - 本文是《The Year Without Pants》这本书的读后感，书的作者是 WordPress 的员工，本书是他在家办公的经验分享，建立信任，自由和分享。
 - [硅谷高级工程师自述：我是怎样远程工作4年的](https://zhuanlan.zhihu.com/p/43379668) - 作者是Stripe的高级研发工程师，深思熟虑了很久才开始尝试远程工作。本文是她在从利弊，沟通协作，职业发展等方面给的一些建议，
 - [如何成为一个Freelancer程序员？](https://cloud.tencent.com/developer/article/1191033) - Kevin Zhang 是一位全栈专家，从坐班时就开始半自由职业工作，最后兼职收入远超全职。本文是他自由职业时的经验分享。从接触，到尝试，到入坑，其中 elance 和 freelancer.com 的经验比较详细，值得一读。
