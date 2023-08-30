@@ -210,7 +210,7 @@
 - [自由职业者的现状：为了摆脱束缚，你愿意承受多少焦虑？](https://36kr.com/p/5141498.html)
 - [48% 的美国劳动力不用朝九晚五，提早过上了“财富自由式”生活](https://www.doko.com/podcasts/006-biz/remote-work-digital-nomads-shengwei-zhao.php)
 - [我是怎么找到新媒体工作的](https://www.jianshu.com/p/d7151c77c4e4)
-- [我只带一台笔记本上路，全职工作和环球旅行两不耽误](http://dajia.qq.com/original/wuguojie/ad180522.html)
+- [我只带一台笔记本上路，全职工作和环球旅行两不耽误](https://web.archive.org/web/20180526143428/http://dajia.qq.com/original/wuguojie/ad180522.html) - 作者经历过数字游民，最后过渡全职远程，本文介绍了他游民的经理，日常的装备，以及拿回自己人生的选择权的经验。
 - [自由职业者们 还好吗 回顾我的 2011 ～ 2018](https://www.v2ex.com/t/451341) - 作者是自由职业者，根据自己的经历，感觉最大的错误就是离开了圈子，脱节严重，导致在合作方面出现了各种问题。
 - [自由工作者必看的书《The Year Without Pants》](https://xiaozhuanlan.com/topic/0635981247) - 本文是《The Year Without Pants》这本书的读后感，书的作者是 WordPress 的员工，本书是他在家办公的经验分享，建立信任，自由和分享。
 - [硅谷高级工程师自述：我是怎样远程工作4年的](https://zhuanlan.zhihu.com/p/43379668) - 作者是Stripe的高级研发工程师，深思熟虑了很久才开始尝试远程工作。本文是她在从利弊，沟通协作，职业发展等方面给的一些建议，
