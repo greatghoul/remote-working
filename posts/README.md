@@ -207,8 +207,7 @@
 - [当我们在聊远程办公的时候，我们在聊些什么？](https://mp.weixin.qq.com/s/WwhIrAHczTPMFEUYIuY2KQ)
 - [三十有三了 by 数字游民部落博主](https://mp.weixin.qq.com/s/IKs1JfyExaHCaXXvWXxroA)
 - [1年的独立开发者生活](https://mp.weixin.qq.com/s/aTZ8jW26hOYFFb2GGd9MmQ)
-- [自由职业者的现状：为了摆脱束缚，你愿意承受多少焦虑？](https://36kr.com/p/5141498.html)
-- [48% 的美国劳动力不用朝九晚五，提早过上了“财富自由式”生活](https://www.doko.com/podcasts/006-biz/remote-work-digital-nomads-shengwei-zhao.php)
+- [自由职业者的现状：为了摆脱束缚，你愿意承受多少焦虑？](https://36kr.com/p/5141498.html)- 优秀的独立工作者面对压力，会采取一些策略，深化联结，给自己建立保持环境，持续输出。
 - [我是怎么找到新媒体工作的](https://www.jianshu.com/p/d7151c77c4e4) - 作者是一名自由撰稿人，本文分享他作为新媒体运营远程工作经验，一方面是如何提升软硬技能，一方面是如何寻找远程机会以及通过面试。
 - [我只带一台笔记本上路，全职工作和环球旅行两不耽误](https://web.archive.org/web/20180526143428/http://dajia.qq.com/original/wuguojie/ad180522.html) - 作者经历过数字游民，最后过渡全职远程，本文介绍了他游民的经理，日常的装备，以及拿回自己人生的选择权的经验。
 - [自由职业者们 还好吗 回顾我的 2011 ～ 2018](https://www.v2ex.com/t/451341) - 作者是自由职业者，根据自己的经历，感觉最大的错误就是离开了圈子，脱节严重，导致在合作方面出现了各种问题。
