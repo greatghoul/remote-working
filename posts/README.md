@@ -206,7 +206,7 @@
 - [实现远程办公的9个要点](http://m.gnuforce.com/news/detail?id=100)
 - [当我们在聊远程办公的时候，我们在聊些什么？](https://mp.weixin.qq.com/s/WwhIrAHczTPMFEUYIuY2KQ)
 - [三十有三了 by 数字游民部落博主](https://mp.weixin.qq.com/s/IKs1JfyExaHCaXXvWXxroA)
-- [1年的独立开发者生活](https://mp.weixin.qq.com/s/aTZ8jW26hOYFFb2GGd9MmQ)
+- [1年的独立开发者生活](https://mp.weixin.qq.com/s/aTZ8jW26hOYFFb2GGd9MmQ) - 作者 Larry 开始独立开发一年，发现其实它是最难做的职业，自律和坚持对于每个自由职业者来说太重要了，不断设计开发产品的同时，还必须不断学习。
 - [自由职业者的现状：为了摆脱束缚，你愿意承受多少焦虑？](https://36kr.com/p/5141498.html)- 优秀的独立工作者面对压力，会采取一些策略，深化联结，给自己建立保持环境，持续输出。
 - [我是怎么找到新媒体工作的](https://www.jianshu.com/p/d7151c77c4e4) - 作者是一名自由撰稿人，本文分享他作为新媒体运营远程工作经验，一方面是如何提升软硬技能，一方面是如何寻找远程机会以及通过面试。
 - [我只带一台笔记本上路，全职工作和环球旅行两不耽误](https://web.archive.org/web/20180526143428/http://dajia.qq.com/original/wuguojie/ad180522.html) - 作者经历过数字游民，最后过渡全职远程，本文介绍了他游民的经理，日常的装备，以及拿回自己人生的选择权的经验。
