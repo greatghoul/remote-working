@@ -205,7 +205,7 @@
 - [毕业五年，她从月薪2500的贸易员到最高月收入28万的自由职业者](https://36kr.com/p/5147258.html)
 - [实现远程办公的9个要点](http://m.gnuforce.com/news/detail?id=100)
 - [当我们在聊远程办公的时候，我们在聊些什么？](https://mp.weixin.qq.com/s/WwhIrAHczTPMFEUYIuY2KQ)
-- [三十有三了 by 数字游民部落博主](https://mp.weixin.qq.com/s/IKs1JfyExaHCaXXvWXxroA)
+- [三十有三了 by 数字游民部落博主](https://mp.weixin.qq.com/s/IKs1JfyExaHCaXXvWXxroA) - 内容创业者通过自己的内容给予受众的价值最终会在某个时间节点以某种形式（物质或者非物质）返还回来，这也是内容创业者可以获取稳定被动收入根本前提。
 - [1年的独立开发者生活](https://mp.weixin.qq.com/s/aTZ8jW26hOYFFb2GGd9MmQ) - 作者 Larry 开始独立开发一年，发现其实它是最难做的职业，自律和坚持对于每个自由职业者来说太重要了，不断设计开发产品的同时，还必须不断学习。
 - [自由职业者的现状：为了摆脱束缚，你愿意承受多少焦虑？](https://36kr.com/p/5141498.html)- 优秀的独立工作者面对压力，会采取一些策略，深化联结，给自己建立保持环境，持续输出。
 - [我是怎么找到新媒体工作的](https://www.jianshu.com/p/d7151c77c4e4) - 作者是一名自由撰稿人，本文分享他作为新媒体运营远程工作经验，一方面是如何提升软硬技能，一方面是如何寻找远程机会以及通过面试。
