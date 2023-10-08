@@ -204,8 +204,7 @@
 - [1分钟知识锦囊 | 怎么找到一份远程工作？](https://36kr.com/p/5150624.html)
 - [重新定义自由职业，区块链能做什么？](http://www.chidaolian.com/article-6686-1)
 - [自由工作周刊第1期：未来已经在那儿了，只不过若隐若现而已](https://zhuanlan.zhihu.com/p/42643528)
-- [毕业五年，她从月薪2500的贸易员到最高月收入28万的自由职业者](https://36kr.com/p/5147258.html)
-- [实现远程办公的9个要点](http://m.gnuforce.com/news/detail?id=100)
+- [毕业五年，她从月薪2500的贸易员到最高月收入28万的自由职业者](https://36kr.com/p/5147258.html) - 一个自由职业者者的故事，在北京依靠写作副业积累，带来人生改变。坚持写作给她带来了很多衍生机会。自由职业稳定后，她每天工作2-3小时，剩余时间用于享受生活。
 - [当我们在聊远程办公的时候，我们在聊些什么？](https://mp.weixin.qq.com/s/WwhIrAHczTPMFEUYIuY2KQ) - 阅读《Remote - Office Not Required》 后的一些感想，涉及通勤，地理套利，远程工作的形式，效率和管理等。
 - [三十有三了 by 数字游民部落博主](https://mp.weixin.qq.com/s/IKs1JfyExaHCaXXvWXxroA) - 内容创业者通过自己的内容给予受众的价值最终会在某个时间节点以某种形式（物质或者非物质）返还回来，这也是内容创业者可以获取稳定被动收入根本前提。
 - [1年的独立开发者生活](https://mp.weixin.qq.com/s/aTZ8jW26hOYFFb2GGd9MmQ) - 作者 Larry 开始独立开发一年，发现其实它是最难做的职业，自律和坚持对于每个自由职业者来说太重要了，不断设计开发产品的同时，还必须不断学习。
