@@ -115,6 +115,7 @@
 - [SUSE](https://www.suse.com/) - 集群服务 / Python, C / [相关招聘](https://ruby-china.org/topics/42262)
 - [Very Good Graphics](https://verygoodgraphics.com/) - 图形学设计工具 / C++ / [相关招聘](https://v2ex.com/t/848142)
 - [RustDesk](https://github.com/rustdesk) - 远程桌面软件 / Rust, C++ / [相关招聘](https://learnku.com/rust/t/76543)
+- [RingCentral 铃盛](https://www.ringcentral.com/) - 音视频解决方案 / QoS, C, C++, QA / [相关招聘](http://www.52im.net/thread-3828-1-1.html)
 
 <a name="Xtheg"></a>
 ### CMS
