@@ -154,7 +154,7 @@
 - [CREAM](https://www.creamandpartners.com/) -  数字资产 / Web3, Rust, Golang 等 / [相关招聘](https://www.v2ex.com/t/856156)
 - [Mest](https://mest.io/) - 钱包 / [相关招聘](https://www.v2ex.com/t/913148)
 - [RSS3](https://rss3.io) - 信息流产品 / React, Next.js, Java, Swift / [相关招聘](https://www.v2ex.com/t/915044)
-
+- [Integral](https://integral.link) - DeFi / [相关招聘](https://www.v2ex.com/t/834582)
 
 <a name="gulT4"></a>
 ### 旅游
