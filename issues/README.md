@@ -11,13 +11,14 @@
 - [被裁后，远程工作了一年，找到工作后入职连续被拒](https://v2ex.com/t/912777)
 - [我在广州当主播——灵活就业人员参加社保医保指南](https://zhangqi.zhubai.love/posts/2179268116000444416)
 
-## 税务问题
+## 财务与税务问题
 
 - [独立开发者公司资质与税务工作](https://www.yuque.com/docs/share/ead0211d-dfb1-4a91-a443-5ef9715d3e94#fmMA0)
 - [各位对外远程开发者, 怎么管理个人所得税? ](https://www.v2ex.com/t/588882?p=1)
 - [我给你做项目，你却找我开发票？——独立开发者如何处理税务问题？](https://eleduck.com/posts/mbfjL1)
 - [【经验分享】关于境外收入纳税申报 | 电鸭社区](https://eleduck.com/posts/oQfg7v)
 - [我需要向有境外远程工作经验的前辈们请教点问题 | 电鸭社区](https://eleduck.com/posts/OGfwZV)
+- [远程工作，汇款到国内银行，理由如何填写](https://eleduck.com/posts/njfgDx)
 
 ## 团队管理
 
