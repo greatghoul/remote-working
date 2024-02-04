@@ -6,6 +6,10 @@
 
 - [“不会画图请找我”的自由职业周记](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU0MzA0MjExMQ==&action=getalbum&album_id=1720997024822575108&scene=173&from_msgid=2247484167&from_itemidx=1&count=3&nolastread=1#wechat_redirect) - 一位从事R语言画图和分析的自由职业者的自由职业记录。
 
+## 2024年
+
+- [如何找到一份兼职远程工作？](https://eleduck.com/posts/W9fZ8J) - 如何找到兼职的远程工作，尤其是在电鸭这个平台上，作者给出了几点建议，比如主动联系，扩展技术栈，组队等等。
+
 ## 2023年
 
 - [从一事无成到全职远程，长文记录电鸭如何改变十八线小镇青年的人生🌈](https://eleduck.com/posts/v5fGbZ) - 作者生活在一个山区小镇，居家全职远程开发，本文是分享他工作十年远程六年的五个阶段的心路历程。颓废，转型，升级，回归初心，非常的励志。
