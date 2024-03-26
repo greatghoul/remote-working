@@ -193,7 +193,9 @@
 ### 文娱
 
 - [漫渔文化](https://www.zhipin.com/gongsi/2c695f7effb2037a1nRz3N26Eg~~.html?ka=company-intro) - 漫画 / 主笔，勾线 / [相关招聘](https://www.zhipin.com/job_detail/4b6d6d75002244d01nJy3NW5ElM~.html)
-- [掌中云](https://www.zhangzhongyun.com/) - 小说，漫画，游戏 / PHP / [相关招聘](https://www.v2ex.com/t/565312) 
+- [掌中云](https://www.zhangzhongyun.com/) - 小说，漫画，游戏 / PHP / [相关招聘](https://www.v2ex.com/t/565312)
+- [Reedsy](https://reedsy.com/) - 电子书出版 / Nodejs, Vue / [相关招聘](https://eleduck.com/posts/XNfZp1)
+
 
 <a name="WZaJr"></a>
 ### 游戏
