@@ -14,3 +14,4 @@
 - [We Work Remotely](https://weworkremotely.com/) - 海外远程工作招聘平台 ( via [CcccFz](https://github.com/CcccFz) )
 - [RemoteOK](https://remoteok.com/) - 海外远程工作招聘平台 ( via [CcccFz](https://github.com/CcccFz) )
 - [Remote from China](https://remotefrom.cn/) - 这是一个由个人维护的支持在中国远程工作的公司的列表。
+- [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china) - 支持远程办公的中国公司
