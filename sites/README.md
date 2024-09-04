@@ -19,6 +19,7 @@
 - [数字游民指南](https://www.nomadguide.cn/) - 数字游民社区，提倡 [远程办公、环游世界] 的自由生活方式
 - [深海牧鲸](https://www.yuque.com/greatghoul/remote/ekpgl6) - 自由职业相关的微信小程序，小程序中有交流版块
 - [Upwork China](https://community.upwork.com/t5/Upwork-China/gh-p/UpworkChina) - Upwork 官方的中国社区，需要有 upwork 账户才可以访问
+
 <a name="YWHfL"></a>
 ### 不再维护的
 
@@ -78,6 +79,7 @@
 - [GoCN社区 招聘版块](https://gocn.vip/jobs) - 偶尔有Golang相关的远程工作机会 ( via [CcccFz]() )
 - [Rust语言中文社区 招聘板块](https://rustcc.cn/section?id=fed6b7de-0a74-48eb-8988-1978858c9b35) - 经常有Rust相关的远程工作机会 ( via [CcccFz]() )
 - [登链社区 | 远程板块](https://learnblockchain.cn/index.php/jobs/71/%E8%BF%9C%E7%A8%8B) - 聚焦于区块链相关工作的网站，具有远程工作板块 ( via [CcccFz]() )
+- [轻松游牧](https://easynomad.cn/) - 收录了电鸭，V2EX，Hacker News，Linkedin 的远程招聘信息
 
 <a name="hAY3C"></a>
 ## 用工平台
