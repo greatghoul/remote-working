@@ -179,7 +179,8 @@
 <a name="A1WIb"></a>
 ### 生活服务
 
-- [Lime](https://www.li.me/) - 共享出行 / Ruby / [相关招聘](https://www.v2ex.com/t/809357) 
+- [Lime](https://www.li.me/) - 共享出行 / Ruby / [相关招聘](https://www.v2ex.com/t/809357)
+- [nat Inc.](https://www.natincs.com/) - 建筑建模 / Three.js / [相关招聘](https://eleduck.com/posts/ARfwXK)
 
 <a name="uxcYS"></a>
 ### 房产
