@@ -8,6 +8,7 @@
 
 ## 2024年
 
+- [面试远程工作必问的关键问题及注意事项](https://blog.axiaoxin.com/post/remote-job-questions/#google_vignette) - 作者整理了一些面试者应该关心的问题以及远程的注意事项。
 - [5年远程，分享一点经验给大家](https://eleduck.com/posts/QZfN3X) - 海外远程如何做，如何找，以及目前热门的领域。
 - [应聘美国公司远程工作过程和总结](https://eleduck.com/posts/OGfOkb) - 非常详尽的面试总结，对于想要面试外企远程职位的朋友很有帮助。
 - [总结&设计分享｜自由职业一年，好像更爱工作了](https://eleduck.com/posts/4lfByk) - 自由设计师介绍如何获取和筛选项目以及如何沟通和报价。
