@@ -118,6 +118,7 @@
 - [RustDesk](https://github.com/rustdesk) - 远程桌面软件 / Rust, C++ / [相关招聘](https://learnku.com/rust/t/76543)
 - [RingCentral 铃盛](https://www.ringcentral.com/) - 音视频解决方案 / QoS, C, C++, QA / [相关招聘](http://www.52im.net/thread-3828-1-1.html)
 - [CloudPilot AI](https://www.cloudpilot.ai/) - 开源项目 / Typescript, React / [相关招聘](https://v2ex.com/t/1078373)
+- [Tasktag](https://www.tasktag.com/) - 项目管理工具 / Ruby on Rails / [相关招聘](https://www.tasktag.com/)
 
 <a name="Xtheg"></a>
 ### CMS
