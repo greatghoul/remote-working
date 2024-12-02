@@ -81,6 +81,7 @@
 - [Rust语言中文社区 招聘板块](https://rustcc.cn/section?id=fed6b7de-0a74-48eb-8988-1978858c9b35) - 经常有Rust相关的远程工作机会 ( via [CcccFz]() )
 - [登链社区 | 远程板块](https://learnblockchain.cn/index.php/jobs/71/%E8%BF%9C%E7%A8%8B) - 聚焦于区块链相关工作的网站，具有远程工作板块 ( via [CcccFz]() )
 - [轻松游牧](https://easynomad.cn/) - 收录了电鸭，V2EX，Hacker News，Linkedin 的远程招聘信息
+- [W3OFFER](https://w3offer.com/) - 分享remote职位/海外硕博/海外机会
 
 <a name="hAY3C"></a>
 ## 用工平台
