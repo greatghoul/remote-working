@@ -95,6 +95,7 @@
 
 - [XMind](https://www.xmind.cn/j) - 思维导图 / TypeScript, Node.js, Swift, Kotlin / [相关招聘](https://eleduck.com/posts/Jpf8Y9)
 - [Zine](https://zine.la/) - 写作排版应用 / Django / [相关招聘](https://www.v2ex.com/t/655474)
+- [Gety](https://www.gety.ai/) - 本地AI搜索引擎 / Rust, Python / [相关招聘](https://www.v2ex.com/t/1081634)
 
 <a name="QR2G5"></a>
 ### 开发工具和服务
