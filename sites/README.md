@@ -82,6 +82,7 @@
 - [登链社区 | 远程板块](https://learnblockchain.cn/index.php/jobs/71/%E8%BF%9C%E7%A8%8B) - 聚焦于区块链相关工作的网站，具有远程工作板块 ( via [CcccFz]() )
 - [轻松游牧](https://easynomad.cn/) - 收录了电鸭，V2EX，Hacker News，Linkedin 的远程招聘信息
 - [W3OFFER](https://w3offer.com/) - 分享remote职位/海外硕博/海外机会
+- [码上工作](https://open.nancheng.fun/remote/) - 聚合国内外优质远程工作线索
 
 <a name="hAY3C"></a>
 ## 用工平台
