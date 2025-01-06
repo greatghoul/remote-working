@@ -6,6 +6,10 @@
 
 - [“不会画图请找我”的自由职业周记](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU0MzA0MjExMQ==&action=getalbum&album_id=1720997024822575108&scene=173&from_msgid=2247484167&from_itemidx=1&count=3&nolastread=1#wechat_redirect) - 一位从事R语言画图和分析的自由职业者的自由职业记录。
 
+## 2025年
+
+- [远程工作劳动纠纷经验分享](https://zhuanlan.zhihu.com/p/16159868327) - 通过劳务派遣远程工作遇到劳务纠纷的经历分享，关于远程工作如何保障自己合法权益，作者也给出了几点建议。涉事公司也给出了[回应](https://zhuanlan.zhihu.com/p/16209458479)。
+
 ## 2024年
 
 - [面试远程工作必问的关键问题及注意事项](https://blog.axiaoxin.com/post/remote-job-questions/#google_vignette) - 作者整理了一些面试者应该关心的问题以及远程的注意事项。
