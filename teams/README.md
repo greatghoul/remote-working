@@ -159,6 +159,7 @@
 - [Mest](https://mest.io/) - 钱包 / [相关招聘](https://www.v2ex.com/t/913148)
 - [RSS3](https://rss3.io) - 信息流产品 / React, Next.js, Java, Swift / [相关招聘](https://www.v2ex.com/t/915044)
 - [Integral](https://integral.link) - DeFi / [相关招聘](https://www.v2ex.com/t/834582)
+- [AltLayer](https://www.altlayer.io/) - 开发者服务 / Go, Rust / [相关招聘](https://github.com/rebase-network/who-is-hiring/issues/663)
 
 <a name="gulT4"></a>
 ### 旅游
