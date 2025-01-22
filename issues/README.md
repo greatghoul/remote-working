@@ -19,6 +19,7 @@
 - [【经验分享】关于境外收入纳税申报 | 电鸭社区](https://eleduck.com/posts/oQfg7v)
 - [我需要向有境外远程工作经验的前辈们请教点问题 | 电鸭社区](https://eleduck.com/posts/OGfwZV)
 - [远程工作，汇款到国内银行，理由如何填写](https://eleduck.com/posts/njfgDx)
+- [自由职业者如何定价？揭秘项目外包的收费秘密](https://eleduck.com/posts/njfn8o)
 
 ## 团队管理
 
