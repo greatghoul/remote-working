@@ -10,6 +10,7 @@
 - [程序员独立接单需要注意的问题](https://mp.weixin.qq.com/s/lLZ0ZTEp9prvPYf2-kjUEg)
 - [被裁后，远程工作了一年，找到工作后入职连续被拒](https://v2ex.com/t/912777)
 - [我在广州当主播——灵活就业人员参加社保医保指南](https://zhangqi.zhubai.love/posts/2179268116000444416)
+- [分享一下关于个人给公司兼职时,合同,发票与税方面的经验](https://eleduck.com/posts/kRfg5Q)
 
 ## 财务与税务问题
 
@@ -20,6 +21,7 @@
 - [我需要向有境外远程工作经验的前辈们请教点问题 | 电鸭社区](https://eleduck.com/posts/OGfwZV)
 - [远程工作，汇款到国内银行，理由如何填写](https://eleduck.com/posts/njfgDx)
 - [自由职业者如何定价？揭秘项目外包的收费秘密](https://eleduck.com/posts/njfn8o)
+- [分享一下关于个人给公司兼职时,合同,发票与税方面的经验](https://eleduck.com/posts/kRfg5Q)
 
 ## 团队管理
 
