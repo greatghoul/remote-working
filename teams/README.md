@@ -245,6 +245,7 @@
 - [~~云印小站~~](http://printinn.cn/) - 云打印 / Python / [相关招聘](https://mp.weixin.qq.com/s/nG8Mr4jCGKapstuh15hG5w)
 - 最美团队 - 最美应用 / [相关线索](http://blog.zuimeia.com/guan-yu-yuan-cheng-ban-gong/)
 - [奇绩创坛](https://www.miracleplus.com/about/) - 投资 / Ruby, Vue, React, AWS / [相关招聘](https://eleduck.com/posts/VvfY0x)
+- [立芯恒方](https://ledatech.cn/) - 物联网，智能家居，工业自动化 / [相关招聘](https://www.zhipin.com/job_detail/9ad7f460ffe4a5901X183N-7EVBW.html)
 
 <a name="SOMDu"></a>
 ### 贡献者
