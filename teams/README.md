@@ -7,7 +7,7 @@
 ### 咨询和外包
 
 - [北京盛安德](https://www.shinetechsoftware.com/) - 欧美外包 / Java, Angular / [相关招聘](https://www.v2ex.com/t/432718)
-- [橙陌科技](https://www.cmcm.us/) - 电商，生活服务 / Ruby, PHP, Vue, React / [相关招聘](https://learnku.com/php/t/49568)
+- [~~橙陌科技~~](https://www.cmcm.us/) - 电商，生活服务 / Ruby, PHP, Vue, React / [相关招聘](https://learnku.com/php/t/49568)
 - [~~DeepDevelop~~](http://deepdevelop.com/) - 外包，自营产品 / Ruby, PHP / [相关招聘](https://ruby-china.org/topics/30642)
 - [~~DEX DEV~~](https://www.dexdev.me/) - 外包 / Node.js, Python / [相关招聘](https://3cwork.com/discussions/1591)
 - [点占科技](https://www.dianzhantech.com/) - 外包 / 小程序 / [相关招聘](https://3cwork.com/discussions/12125)
