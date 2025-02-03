@@ -120,6 +120,7 @@
 - [RingCentral 铃盛](https://www.ringcentral.com/) - 音视频解决方案 / QoS, C, C++, QA / [相关招聘](http://www.52im.net/thread-3828-1-1.html)
 - [CloudPilot AI](https://www.cloudpilot.ai/) - 开源项目 / Typescript, React / [相关招聘](https://v2ex.com/t/1078373)
 - [Tasktag](https://www.tasktag.com/) - 项目管理工具 / Ruby on Rails / [相关招聘](https://www.tasktag.com/)
+- [快猫星云](https://flashcat.cloud/about/#team) - 云原生监控平台 / [相关招聘](https://hk.v2ex.com/t/1102998)
 
 <a name="Xtheg"></a>
 ### CMS
