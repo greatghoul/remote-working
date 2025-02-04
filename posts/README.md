@@ -12,9 +12,9 @@
 
 ## 2024年
 
-- [Upwork 手册，从入门到专家（3） —— 如何在 Upwork 上找到一份长期远程工作 | 电鸭社区](https://eleduck.com/posts/VvfvRj) - 详细介绍 Upwork Job Post 的各个关键信息，以及如何识别优质的 Fixed Price 和 Hourly 项目
-- [Upwork 手册，从入门到专家（2） —— Profile Photo 最佳实践 | 电鸭社区](https://eleduck.com/posts/XNfKro) - 如何设置 Upwork 头像给雇主留下专业，清晰的印象
-- [Upwork 手册，从入门到专家（1） —— 建立自己 100% 的 Profile | 电鸭社区](https://eleduck.com/posts/5BfDwX) - 如何写好 Upwork Profile，包括 Title，价格和自我介绍以及过往作品
+- [Upwork 手册，从入门到专家（3） —— 如何在 Upwork 上找到一份长期远程工作](https://eleduck.com/posts/VvfvRj) - 详细介绍 Upwork Job Post 的各个关键信息，以及如何识别优质的 Fixed Price 和 Hourly 项目
+- [Upwork 手册，从入门到专家（2） —— Profile Photo 最佳实践](https://eleduck.com/posts/XNfKro) - 如何设置 Upwork 头像给雇主留下专业，清晰的印象
+- [Upwork 手册，从入门到专家（1） —— 建立自己 100% 的 Profile](https://eleduck.com/posts/5BfDwX) - 如何写好 Upwork Profile，包括 Title，价格和自我介绍以及过往作品
 - [远程工作 还行！](https://m.toutiao.com/is/AGGTzH6avcc/) - 作者毕业后经历了一场失败的创业后，找了份普通坐班工作，但是通勤很长，因为不想孩子和自己一样从小在“单亲”环境中长大，于是留出三个月 gap 来思考和调整，最终他选择了远程，这不是一个容易做出的决定，但这个决定让他的生活多了很多可能性。
 - [高杰：远程工作8年，平衡了工作与生活，但仍然对收入感到焦虑](https://m.toutiao.com/is/T8qhoB08dZ8/) - 作者是程序员客栈最早一批用户，因为通勤太长和孩子的原因选择远程，虽然兼顾了家庭，但是接单的工作并不总是一直饱和，收入达不到预期。作者在文中给出一些远程接单的建议，比如和坐班不同，沟通时要考虑对方和你的信息是否匹配。
 - [面试远程工作必问的关键问题及注意事项](https://blog.axiaoxin.com/post/remote-job-questions/#google_vignette) - 作者整理了一些面试者应该关心的问题以及远程的注意事项。
