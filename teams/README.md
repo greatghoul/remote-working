@@ -15,7 +15,7 @@
 - [~~风泽科技~~](http://www.fenzotech.com/) - 外包，自营产品 / Java / [相关招聘](https://yuancheng.work/31.html)
 - [Tian Pan](https://tianpan.co/about/) - 外包，自营产品 / TS, RN, React/ [相关招聘](https://tianpan.co/careers)
 - [开发邦](http://www.kaifabang.com/) - 外包 / [相关招聘](https://mp.weixin.qq.com/s/Dy9S3ibPLdJ9sUbzW4-hRg)
-- [冒险者科技](http://www.36node.com/) - 外包 / Python, Go, React / [相关招聘](https://www.v2ex.com/t/498162)
+- [~~冒险者科技~~](http://www.36node.com/) - 外包 / Python, Go, React / [相关招聘](https://www.v2ex.com/t/498162)
 - [骐骥网络科技有限公司](http://ikiji.cn/) - 外包 / 小程序 / [相关招聘](https://forum.vuejs.org/t/topic/35100)
 - [~~锦匣科技~~](https://www.iiobox.com/) - 设计，外包 / [相关招聘](https://3cwork.com/companies/34)
 - [ProtobiaTech](http://www.protobia.net/) - 外包 / Laravel, React / [相关招聘](https://3cwork.com/discussions/1397)
