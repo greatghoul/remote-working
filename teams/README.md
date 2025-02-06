@@ -24,7 +24,7 @@
 - [Wiredcraft](https://wiredcraft.com/) - 外包 / Node.js / [相关招聘](https://v2ex.com/t/617521)
 - [Techbay](http://www.techbay.club/) - 对美外包，广告分析 / Ruby / [相关招聘](https://ruby-china.org/topics/33277)
 - [Thus 如是设计](https://thuscn.com/) - 设计，外包 / [相关招聘](https://eleduck.com/posts/2Lf1Qy)
-- [优帆远扬](https://yousails.com/) - 外包 / Java, PHP, Python, Go, Flutter, Android, iOS, Vue / [相关招聘](https://learnku.com/laravel/t/33203) 
+- [~~优帆远扬~~](https://yousails.com/) - 外包 / Java, PHP, Python, Go, Flutter, Android, iOS, Vue / [相关招聘](https://learnku.com/laravel/t/33203) 
 - [在御](https://zaiyu.co/) - 设计，外包 / [相关招聘](https://3cwork.com/discussions/807)
 - [Coderbunker](https://www.coderbunker.com/) - 外包，自由职业平台 / [相关招聘](https://github.com/greatghoul/remote-working/issues/186)
 - [DevHub](https://devhub.co/) - 2021 ~ / 澳洲外包 / Ruby on Rails / [相关招聘](https://ruby-china.org/topics/41290)
