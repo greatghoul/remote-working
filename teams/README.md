@@ -28,7 +28,7 @@
 - [在御](https://zaiyu.co/) - 设计，外包 / [相关招聘](https://3cwork.com/discussions/807)
 - [Coderbunker](https://www.coderbunker.com/) - 外包，自由职业平台 / [相关招聘](https://github.com/greatghoul/remote-working/issues/186)
 - [DevHub](https://devhub.co/) - 2021 ~ / 澳洲外包 / Ruby on Rails / [相关招聘](https://ruby-china.org/topics/41290)
-- [北京恳维科技](https://jobs.51job.com/all/co4254340.html) - 运营推广 / [相关招聘](https://jobs.51job.com/jingdezhen/104002985.html)
+- [北京恳维科技](https://www.tianyancha.com/company/93094209) - 运营推广 / [相关招聘](http://www.zhaopin123.net/sy/Job/12453040.html)
 - [瓴里网络科技](https://www.yuanling.com/) - 人力资源 / [相关招聘](https://www.liepin.com/job/1935822473.shtml)
 - [YW Vision](https://ywvision.com/) - 外包 / PHP / [相关招聘](https://learnku.com/laravel/t/62495)
 - [齿轮易创](https://chilunyc.com/) - 咨询外包 / Python / [相关招聘](https://learnku.com/python/t/63379)
