@@ -1,7 +1,9 @@
 # 团队
 
 中国国内或者面向中国招聘的国外团队，这些团队有的是全员远程，有的是部分远程，还有的是允许部分时间远程，因为状态可能随着时间的变化，所以这里不具体标明。
-<a name="LbPxd"></a>
+
+团队列表会同步到 https://remote-info.cn/teams
+
 ### 
 <a name="L3R4T"></a>
 ### 咨询和外包
@@ -246,6 +248,7 @@
 - 最美团队 - 最美应用 / [相关线索](http://blog.zuimeia.com/guan-yu-yuan-cheng-ban-gong/)
 - [奇绩创坛](https://www.miracleplus.com/about/) - 投资 / Ruby, Vue, React, AWS / [相关招聘](https://eleduck.com/posts/VvfY0x)
 - [立芯恒方](https://ledatech.cn/) - 物联网，智能家居，工业自动化 / [相关招聘](https://www.zhipin.com/job_detail/9ad7f460ffe4a5901X183N-7EVBW.html)
+- [Xometry](https://www.xometry.com/) - 工业采购平台，供应链市场；技术栈 Ruby on Rails / [相关招聘](https://www.v2ex.com/t/1109892)
 
 <a name="SOMDu"></a>
 ### 贡献者
