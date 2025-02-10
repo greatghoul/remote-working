@@ -33,7 +33,7 @@
 - [YW Vision](https://ywvision.com/) - 外包 / PHP / [相关招聘](https://learnku.com/laravel/t/62495)
 - [齿轮易创](https://chilunyc.com/) - 咨询外包 / Python / [相关招聘](https://learnku.com/python/t/63379)
 - [Jibble](https://www.jibble.io/) - 人力资源 / .Net, C# / [相关招聘](https://www.v2ex.com/t/819758)
-- [Brix Labs](https://www.brixlabs.ai/) - 欧美外包，区块链 / 游戏 / [相关招聘](https://www.v2ex.com/t/843374)
+- [Brix Labs](https://joinbrix.com/) - 欧美外包，区块链 / 游戏 / [相关招聘](https://www.v2ex.com/t/843374)
 - [法本信息](https://www.zhipin.com/gongsi/95b4b47ef9141c671nd52ty_.html?ka=job-detail-company-logo_custompage) - 技术咨询 / Vue, React / [相关招聘](https://www.zhipin.com/job_detail/f387314d98e7a1ef1XZ53tq8E1FR.html)
 - [每联每](http://www.mtscloud.com/) - [相关招聘](https://www.jobeast.com/jobs/205823.html)
 - [Bridgy](https://www.onbridgy.com/) - 咨询，人力资源 / DevOps, Python / [相关招聘](https://v2ex.com/t/923849)
