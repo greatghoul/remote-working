@@ -226,6 +226,10 @@
 - [增长黑盒](http://growthbox.net/) - 数据，爬虫 / Python / [相关招聘](https://www.v2ex.com/t/575846)
 - [极限科技](https://infinilabs.com/) - 实时搜索，数据分析 / Rust, Golang, C, C++ / [相关招聘](https://eleduck.com/posts/5BfGxZ)
 
+### AI
+
+- [Vyro.ai](https://vyro.ai/) - AI内容生成产品 / Golang，Postgres，Cassandra / [相关招聘](https://learnku.com/go/t/89261)
+
 <a name="mCkUy"></a>
 ### 其他
 
