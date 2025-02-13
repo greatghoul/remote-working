@@ -44,7 +44,7 @@
 ### 企业服务
 
 - [Wiredcraft](http://enterpriseomni.com/) - 电商解决方案 / [相关招聘](https://eleduck.com/posts/qzfvWn)
-- [CuriosityChina](https://curiositychina.com/) - CRM, 电商, Golang / [相关招聘](https://hk.v2ex.com/t/470691)
+- [~~CuriosityChina~~](https://curiositychina.com/) - CRM, 电商, Golang / [相关招聘](https://hk.v2ex.com/t/470691)
 - [Aries App](https://itunes.apple.com/us/developer/aries-app-inc/id383234937?mt=8) - CRM, 电子表单 / Python, Vue, React, React Native / [相关招聘](https://www.v2ex.com/t/468849)
 - [彩程设计](https://tower.im/about_us) - 项目管理工具 / Ruby / [相关招聘](https://3cwork.com/discussions/323)
 - [CareerBuilder](https://www.careerbuilder.com/) - HR 服务 / Ruby, Angular, Node / [相关招聘](https://ruby-china.org/topics/37893)
