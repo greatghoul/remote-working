@@ -47,7 +47,7 @@
 - [~~CuriosityChina~~](https://curiositychina.com/) - CRM, 电商, Golang / [相关招聘](https://hk.v2ex.com/t/470691)
 - [Aries App](https://www.waiverforever.com/) - CRM, 电子表单 / Python, Vue, React, React Native / [相关招聘](https://www.v2ex.com/t/468849)
 - [彩程设计](https://mycolorway.com/) - 项目管理工具 / Ruby / [相关招聘](https://3cwork.com/discussions/323)
-- [CareerBuilder](https://www.careerbuilder.com/) - HR 服务 / Ruby, Angular, Node / [相关招聘](https://www.v2ex.com/t/108682)
+- [~~CareerBuilder~~](https://www.careerbuilder.com/) - HR 服务 / Ruby, Angular, Node / [相关招聘](https://www.v2ex.com/t/108682)
 - [Civet AI](https://www.civetai.com/) - AI 客服产品 / Python, React / [相关招聘](https://www.v2ex.com/t/547967)
 - [~~风车团队~~](https://fengcheco.com/about) - 项目协作工具 / [相关介绍](https://fengche.co/about)
 - [禅道](https://www.zentao.net/) - 项目管理 / PHP / [相关招聘](https://www.zentao.net/page/80191.mhtml)
