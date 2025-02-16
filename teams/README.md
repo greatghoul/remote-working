@@ -53,7 +53,7 @@
 - [禅道](https://www.zentao.net/) - 项目管理 / PHP / [相关招聘](https://www.zentao.net/page/80191.mhtml)
 - [十方智汇 (Slasify)](https://slasify.com/en/) - 人力资源服务 / React, TypeScript / [相关招聘](https://www.zhipin.com/job_detail/1b79c2a74a6f8a8d1nd639S4ElJQ.html)
 - [Remote](https://remote.com) - 人力资源 / [相关链接](https://www.notion.so/remotecom/Remote-Handbook-a3439c6ccaac4d5f8c7515c357345c11)
-- 多纵（武汉）科技有限公司 -  移动互联网解决方案 / iOS / [相关招聘](http://www.billgatesjobs.com/zhaopin/61946.html)
+- [~~多纵（武汉）科技有限公司~~](https://aiqicha.baidu.com/company_basic_29323071561729	) -  移动互联网解决方案 / iOS / [相关招聘](http://www.billgatesjobs.com/zhaopin/61946.html)
 - [探鸽](https://tange.ai/) - 物联网，云服务 / C++, Python, iOS / [相关招聘](https://www.v2ex.com/t/843584) 
 - [WorkStream](http://www.workstream.us/) - 人力资源 / React / [相关招聘](https://ruby-china.org/topics/42414)
 
