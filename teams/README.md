@@ -62,7 +62,7 @@
 
 - [~~杭州知鹏网络科技有限公司~~](http://www.xueshifudao.com/) - 跨境电商 / [相关招聘](http://www.ciweishixi.com/job/detail-77466.html)
 - [Castlery](https://www.castlery.com) - 跨境电商 / Ruby / [相关招聘](https://ruby-china.org/topics/41538)
-- [陆本速递](https://www.luben.com.au) - 仓储，物流，跨境电商 / Java / [相关招聘](https://yuancheng.work/2447.html)
+- [~~陆本速递~~](https://www.luben.com.au) - 仓储，物流，跨境电商 / Java / [相关招聘](https://yuancheng.work/2447.html)
 - [麦田守望](https://www.maitianshouwang.com) - 烘焙，门店管理 / Java / [相关招聘](https://www.v2ex.com/t/912762)
 - [爱已达科技](https://www.zhipin.com/gongsi/b18b7de37eb1247b1nd72t25FFo~.html) - 跨境电商公司 / PHP, PrestaShop / [相关招聘](https://eleduck.com/posts/ZXfo84)
 
