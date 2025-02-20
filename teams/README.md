@@ -70,12 +70,6 @@
 ### 通信
 
 - [Mavenir Systems](https://www.mavenir.com/) - 电信通信设备 / Kubernetes, Istio, Envoy / [相关招聘](https://www.zhipin.com/job_detail/a94e45c1a7ef48c31XV50t66FlZQ.html)
-- [Rakuten 日本乐天公司](https://travel.rakuten.co.jp/) - 酒店管理 / 日企 / [相关招聘](https://eleduck.com/posts/a4fDlK)
-
-<a name="jN6Zf"></a>
-### 酒店
-
-- [Airhost](https://airhost.co/) - 酒店SaaS / Ruby, React, Type Script, Flutter, QA / [相关招聘](https://eleduck.com/posts/Bafgw1) 
 
 <a name="H2nYZ"></a>
 ### 保险
@@ -165,9 +159,11 @@
 - [AltLayer](https://www.altlayer.io/) - 开发者服务 / Go, Rust / [相关招聘](https://github.com/rebase-network/who-is-hiring/issues/663)
 
 <a name="gulT4"></a>
-### 旅游
+### 文旅酒店
 
 - [大唐商旅](https://www.ly.com/) - 旅游 / [相关招聘](https://zhuanlan.zhihu.com/p/44770235)
+- [Rakuten 日本乐天公司](https://travel.rakuten.co.jp/) - 酒店管理 / 日企 / [相关招聘](https://eleduck.com/posts/a4fDlK)
+- [Airhost](https://airhost.co/) - 酒店SaaS / Ruby, React, Type Script, Flutter, QA / [相关招聘](https://eleduck.com/posts/Bafgw1) 
 
 <a name="ltUHZ"></a>
 ### 医疗
