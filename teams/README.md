@@ -100,7 +100,6 @@
 - [StreamNative](https://streamnative.io/) - 流数据平台 / Apache Pulsar, Golang / [相关招聘](https://www.v2ex.com/t/771839) 
 - [BespinGlobal](https://www.bespinglobal.com/) - 云开发平台 / Python，Go / [相关招聘](https://www.v2ex.com/t/495432)
 - [~~光速软件~~](https://www.velosoft.cn/) - 代码生成工具 / Ruby, Node.js, TypeScript, React, Vue / [相关招聘](https://www.v2ex.com/t/609288)
-- [RussellCloud](http://russellcloud.com/) - 深度学习，计算平台 / Vue / [相关招聘](https://www.v2ex.com/t/434914)
 - [OpenResty Inc](https://openresty.com/) - Web 应用服务器 / C / [相关招聘](https://openresty.com/en/career/)
 - [轻芒](http://qingmang.me/about/) - 小程序平台 / Java/Scala/Python / [相关招聘](https://www.v2ex.com/t/467945)
 - [七牛](http://career.qiniu.com/aboutus.html) - 云服务，图片，视频处理 / [相关招聘](https://gocn.vip/topics/8992)
