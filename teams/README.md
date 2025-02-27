@@ -102,7 +102,7 @@
 - [~~光速软件~~](https://www.velosoft.cn/) - 代码生成工具 / Ruby, Node.js, TypeScript, React, Vue / [相关招聘](https://www.v2ex.com/t/609288)
 - [OpenResty Inc](https://openresty.com/) - Web 应用服务器 / C / [相关招聘](https://openresty.com/en/career/)
 - [~~轻芒~~](http://qingmang.me/about/) - 小程序平台 / Java/Scala/Python / [相关招聘](https://www.v2ex.com/t/467945)
-- [七牛](http://career.qiniu.com/aboutus.html) - 云服务，图片，视频处理 / [相关招聘](https://gocn.vip/topics/8992)
+- [七牛](https://www.qiniu.com/company) - 云服务，图片，视频处理 / [相关招聘](https://web.archive.org/web/20201029160703/https://gocn.vip/topics/8992)
 - [Juicedata](https://juicefs.io/) - 分布式系统 / Python / [相关招聘](https://www.v2ex.com/t/463092)
 - [墨刀](https://modao.cc/) - 原型制作工具 / Ruby on Rails / [相关招聘](https://ruby-china.org/topics/23684)
 - [思码逸](https://merico.cn) - 开发数据分析 / [相关招聘](https://eleduck.com/posts/ZXfrv4)
