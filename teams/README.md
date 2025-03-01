@@ -108,7 +108,7 @@
 - [思码逸](https://merico.cn) - 开发数据分析 / [相关招聘](https://eleduck.com/posts/ZXfrv4)
 - [极狐GitLab](https://gitlab.cn/) - 开源代码托管服务，DevOps 平台 / [相关招聘](https://eleduck.com/posts/mbfLlK)
 - [ZeroProphet](https://github.com/ZeroProphet) - DHT, P2P, dDNS / Rust / [相关招聘](https://www.v2ex.com/t/826625)
-- [PPIO](https://pp.io/) - 视频云服务 / Golang, Java, 分布式 / [相关招聘](https://v2ex.com/t/844186)
+- [PPIO](https://www.ppio.cn/) - 分布式云服务 / Golang, Java / [相关招聘](https://v2ex.com/t/844186)
 - [SUSE](https://www.suse.com/) - 集群服务 / Python, C / [相关招聘](https://ruby-china.org/topics/42262)
 - [Very Good Graphics](https://verygoodgraphics.com/) - 图形学设计工具 / C++ / [相关招聘](https://v2ex.com/t/848142)
 - [RustDesk](https://github.com/rustdesk) - 远程桌面软件 / Rust, C++ / [相关招聘](https://learnku.com/rust/t/76543)
