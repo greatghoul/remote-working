@@ -106,7 +106,7 @@
 - [Juicedata](https://juicefs.io/) - 分布式系统 / Python / [相关招聘](https://www.v2ex.com/t/463092)
 - [墨刀](https://modao.cc/) - 原型制作工具 / Ruby on Rails / [相关招聘](https://ruby-china.org/topics/23684)
 - [思码逸](https://merico.cn) - 开发数据分析 / [相关招聘](https://eleduck.com/posts/ZXfrv4)
-- [极狐GitLab](https://about.gitlab.cn/) - DevOps 平台 / [相关信息](#comment-19242787)
+- [极狐GitLab](https://gitlab.cn/) - 开源代码托管服务，DevOps 平台 / [相关招聘](https://eleduck.com/posts/mbfLlK)
 - [ZeroProphet](https://github.com/ZeroProphet) - DHT, P2P, dDNS / Rust / [相关招聘](https://www.v2ex.com/t/826625)
 - [PPIO](https://pp.io/) - 视频云服务 / Golang, Java, 分布式 / [相关招聘](https://v2ex.com/t/844186)
 - [SUSE](https://www.suse.com/) - 集群服务 / Python, C / [相关招聘](https://ruby-china.org/topics/42262)
