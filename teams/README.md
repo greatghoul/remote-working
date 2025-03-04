@@ -122,7 +122,7 @@
 
 - [Bento](https://makebento.com/) - 建站服务 / Typescript, Vue / [相关招聘](https://www.v2ex.com/t/486904)
 - [Strikingly](https://www.strikingly.com/) - 建站服务 / 运营 / [相关招聘](https://eleduck.com/posts/5Bf75G)
-- [LodeStream](https://lodestream.com/) - 建站服务 / [相关招聘](https://3cwork.com/discussions/12002)
+- [LodeStream](https://sites.google.com/lodestream.com/xwiki/home) - 建站服务 / [相关招聘](https://www.facebook.com/lodestreams/posts/2240494052847449)
 
 <a name="iXHO8"></a>
 ### 广告
