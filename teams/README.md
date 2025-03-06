@@ -134,9 +134,9 @@
 <a name="g3sCG"></a>
 ### 区块链
 
-- [Dimension (徵才)](https://dimension.im/) - 区块链 / TypeScript / [相关招聘](https://github.com/APBCD/jobs/issues/13)
+- [~~Dimension (徵才)~~](https://dimension.im/) - 区块链 / TypeScript / [相关招聘](https://github.com/APBCD/jobs/issues/13)
 - [~~Growthhash~~](https://fanbi.io/) - 区块链 / [相关招聘](https://www.v2ex.com/t/460188)
-- [杭州巴比特](http://www.8btc.com/) - 区块链 / [相关招聘](https://ruby-china.org/topics/34882)
+- [~~杭州巴比特~~](http://www.8btc.com/) - 区块链 / [相关招聘](https://ruby-china.org/topics/34882)
 - [imToken](https://token.im/careers) - 区块链 / React, React Native, 运维 / [相关招聘](https://www.v2ex.com/t/696644)
 - [IoTeX](https://iotex.io/) - 区块链 / TypeScript / [相关招聘](https://eleduck.com/posts/QZf2AQ)
 - [库珀科技](https://www.kupogroup.com/) - 区块链 / React / [相关招聘](https://www.v2ex.com/t/748893)
