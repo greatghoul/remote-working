@@ -170,6 +170,7 @@
 - [Focus Solutions](https://www.focussi.com/) - 美企，医疗保健 / C#, React / [相关招聘](https://3cwork.com/discussions/12141)
 - [梅斯医学](https://www.medsci.cn/) - 医学平台 / 方案设计 / [相关招聘](https://www.zhipin.com/job_detail/a56ee158639da3dc1HVy0ti_E1NS.html) 
 - [Youlify](https://www.youlify.ai/) - 医疗行业收入周期管理，技术栈 Python，FastAPI，MongoDB / [相关招聘](https://v2ex.com/t/1110699)
+- [ScienceOS](https://www.scienceos.ai/) - 制药行业，AI相关产品 / 技术栈 Svelte，TypeScript / [相关招聘](https://eleduck.com/posts/wwfQJ9)
 
 <a name="NkonK"></a>
 ### 金融
@@ -225,7 +226,6 @@
 
 - [Vyro.ai](https://vyro.ai/) - AI内容生成产品 / Golang，Postgres，Cassandra / [相关招聘](https://learnku.com/go/t/89261)
 
-<a name="mCkUy"></a>
 ### 其他
 
 - [Alta Labs](https://www.alta-labs.com/) - 美国，家政服务 / Laravel, Vue / [相关招聘](https://www.v2ex.com/t/469513)
@@ -249,6 +249,7 @@
 - [奇绩创坛](https://www.miracleplus.com/about/) - 投资 / Ruby, Vue, React, AWS / [相关招聘](https://eleduck.com/posts/VvfY0x)
 - [立芯恒方](https://ledatech.cn/) - 物联网，智能家居，工业自动化 / [相关招聘](https://www.zhipin.com/job_detail/9ad7f460ffe4a5901X183N-7EVBW.html)
 - [Xometry](https://www.xometry.com/) - 工业采购平台，供应链市场；技术栈 Ruby on Rails / [相关招聘](https://www.v2ex.com/t/1109892)
+- [飞沃智航](https://flywardaero.com/) - 智能飞行器创业公司，AI相关产品 / 技术栈 C++，Python / [相关招聘](https://eleduck.com/posts/OGfvxE)
 
 <a name="SOMDu"></a>
 ### 贡献者
