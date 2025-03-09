@@ -141,7 +141,7 @@
 - [IoTeX](https://iotex.io/) - 区块链 / TypeScript / [相关招聘](https://eleduck.com/posts/QZf2AQ)
 - [库珀科技](https://www.kupogroup.com/) - 区块链 / React / [相关招聘](https://www.v2ex.com/t/748893)
 - [lordless](http://lordless.io/) - 区块链，游戏 / 运营，设计 / [相关招聘](https://mp.weixin.qq.com/s/omAvRg7xflFL7k5c3UVbSQ)
-- [lnxprotocol](https://lnxprotocol.io/) - 区块链 / Rust / [相关招聘](https://rust.cc/article?id=5010e335-3fad-40d9-b02e-82334d6f585e)
+- [~~lnxprotocol~~](https://lnxprotocol.io/) - 区块链 / Rust / [相关招聘](https://rust.cc/article?id=5010e335-3fad-40d9-b02e-82334d6f585e)
 - [秘猿科技](https://www.cryptape.com/) - 区块链 / Rust, TypeScript / [相关招聘](https://eleduck.com/posts/mbfBEz)
 - [Octopus Network](https://oct.network/) - 区块链 / Rust / [相关招聘](https://rustcc.cn/article?id=890d3c7a-844e-49f5-aa8b-1cd683be56f3)
 - [Nervina Labs](https://github.com/nervina-labs) - 区块链 / Ruby, React, TypeScript, 设计 / [相关招聘](https://ruby-china.org/topics/41411)
