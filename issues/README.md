@@ -22,6 +22,7 @@
 - [远程工作，汇款到国内银行，理由如何填写](https://eleduck.com/posts/njfgDx)
 - [自由职业者如何定价？揭秘项目外包的收费秘密](https://eleduck.com/posts/njfn8o)
 - [分享一下关于个人给公司兼职时,合同,发票与税方面的经验](https://eleduck.com/posts/kRfg5Q)
+- [注册一家公司，一年大概多少费用](https://eleduck.com/posts/pqfqbZ)
 
 ## 团队管理
 
