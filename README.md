@@ -1,6 +1,6 @@
 # 说明
 
-- 本列表短网址：<https://remote.anl.gg/>
+- 本列表短网址：<https://anl.gg/remote>
 - 本列表主要用于整理中国国内的资源或者对国内受众友好的国外资源
 - 本列表主要在 [Github 仓库](https://github.com/greatghoul/remote) 进行维护，定期会同步到 [远程工作者](https://remote-info.cn) 网站。
 - 关注 [Telegram](https://t.me/remote_cn) 或者 [豆瓣小组](https://www.douban.com/group/remoteworking/) 订阅**最新远程工作机会**
