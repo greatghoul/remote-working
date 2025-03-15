@@ -167,7 +167,7 @@
 <a name="ltUHZ"></a>
 ### 医疗
 
-- [Focus Solutions](https://www.focussi.com/) - 美企，医疗保健 / C#, React / [相关招聘](https://3cwork.com/discussions/12141)
+- [Focus Solutions](https://www.focussi.com/) - 美企，医疗保健 / C#, React / [相关招聘](https://web.archive.org/web/20210115134754/https://3cwork.com/discussions/12141)
 - [梅斯医学](https://www.medsci.cn/) - 医学平台 / 方案设计 / [相关招聘](https://www.zhipin.com/job_detail/a56ee158639da3dc1HVy0ti_E1NS.html) 
 - [Youlify](https://www.youlify.ai/) - 医疗行业收入周期管理，技术栈 Python，FastAPI，MongoDB / [相关招聘](https://v2ex.com/t/1110699)
 - [ScienceOS](https://www.scienceos.ai/) - 制药行业，AI相关产品 / 技术栈 Svelte，TypeScript / [相关招聘](https://eleduck.com/posts/wwfQJ9)
