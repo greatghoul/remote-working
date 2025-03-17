@@ -177,7 +177,7 @@
 
 - [凡泰极客](https://www.finogeeks.com/) - 证券 / Go, Electron / [相关招聘](https://www.v2ex.com/t/767150)
 - [Jerry AI](https://getjerry.com/) - 金融保险行业 / Python / [相关招聘](https://eleduck.com/posts/z1f1rz)
-- [美国信用卡指南](https://www.uscreditcardguide.com/zh/) - 信用卡社区 / [相关招聘](https://3cwork.com/discussions/1628)
+- [美国信用卡指南](https://www.uscreditcardguide.com/zh/) - 信用卡社区 / [相关招聘](https://yuancheng.work/616.html)
 
 <a name="A1WIb"></a>
 ### 生活服务
