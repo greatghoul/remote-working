@@ -218,7 +218,7 @@
 ### 数据
 
 - [量城科技](https://quanturban.com/) - 城市数据服务 / Vue, React, Python, R / [相关招聘](https://www.v2ex.com/t/592017)
-- [增长黑盒](http://growthbox.net/) - 数据，爬虫 / Python / [相关招聘](https://www.v2ex.com/t/575846)
+- [~~增长黑盒~~](http://growthbox.net/) - 数据，爬虫 / Python / [相关招聘](https://www.v2ex.com/t/575846)
 - [极限科技](https://infinilabs.com/) - 实时搜索，数据分析 / Rust, Golang, C, C++ / [相关招聘](https://eleduck.com/posts/5BfGxZ)
 
 ### AI
