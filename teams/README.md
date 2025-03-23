@@ -228,8 +228,8 @@
 ### 其他
 
 - [Alta Labs](https://www.alta-labs.com/) - 美国，家政服务 / Laravel, Vue / [相关招聘](https://www.v2ex.com/t/469513)
-- [Byzan Team](https://github.com/Byzanteam/handbook) - 电子政务 / Elixir / [相关招聘](https://www.v2ex.com/t/591973) 
-- [Elephone](https://www.elephone.hk/) - 墨尔本，手机维修品牌 / React / [相关招聘](https://eleduck.com/posts/v5flVK)
+- [~~Byzan Team~~](https://github.com/Byzanteam/handbook) - 电子政务 / Elixir / [相关招聘](https://www.v2ex.com/t/591973) 
+- [~~Elephone~~](https://www.elephone.hk/) - 墨尔本，手机维修品牌 / React / [相关招聘](https://eleduck.com/posts/v5flVK)
 - [Integem](http://integem.com/) - 现实增强 / Nodejs / [相关招聘](https://www.v2ex.com/t/434444)
 - [燧炻创新](https://fydeos.com/) - 操作系统 / [相关招聘](https://www.v2ex.com/t/562655)
 - [北京萌爪科技](http://www.wecarepet.com/) - 宠物，自媒体 / [相关招聘](https://www.xmf.com/job/19482)
