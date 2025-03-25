@@ -235,7 +235,7 @@
 - [北京萌爪科技](http://www.wecarepet.com/) - 宠物，自媒体 / [相关招聘](https://www.xmf.com/job/19482)
 - [掌尊科技](http://www.zanzung.com/) - 物联网 / Ruby / [相关招聘](https://ruby-china.org/topics/37272)
 - [米扑科技](https://mimvp.com/) - 互联网服务 / [相关招聘](https://mp.weixin.qq.com/s/Bno5cgL5h9fDbJ3UktnTwg)
-- [丕丕基科技](http://www.ppgtechnology.com/) - 运营管理工具 / [相关招聘](https://www.shangyexinzhi.com/article/470213.html)
+- [~~丕丕基科技~~](http://www.ppgtechnology.com/) - 运营管理工具 / [相关招聘](https://www.shangyexinzhi.com/article/470213.html)
 - [泼辣修图](https://www.polarr.co/) - 图像处理应用 / [相关招聘](https://blog.polarr.co/how-polarr-organize-remote-teams/)
 - [数码荔枝](https://www.lizhi.io/) - 软件评测，软件商店 / [相关招聘](https://eleduck.com/posts/rdfwkV)
 - [谜底科技](http://www.miidii.tech/) - iOS 应用 / [相关招聘](https://sspai.com/post/38665)
