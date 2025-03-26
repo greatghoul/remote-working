@@ -2,6 +2,8 @@
 
 收集整理远程工作相关的播客和其它音频节目。
 
+播客列表会同步到 https://remote-info.cn/podcasts
+
 <a name="channels"></a>
 ## 播客频道
 
@@ -50,7 +52,7 @@
 ### 2019年
 
 - [ZiYo 开播闲聊：自由职业很环保](https://mp.weixin.qq.com/s/fLBOLozSUJCyLCl_zINJ_Q)
-- [煽风点火 ｜ 对谈中国数字游民社群群主Jarod，如何一边旅行一边赚钱？](https://mp.weixin.qq.com/s/NvxBscmozCIGGd6_whHcdg)
+- [煽风点火 ｜ 对谈中国数字游民社群群主Jarod，如何一边旅行一边赚钱？](https://www.everand.com/listen/podcast/759084926)
 - [180° 第十六期 • 自由全栈设计师丁一](https://anyway.fm/dingyi/)
 
 <a name="2018"></a>
