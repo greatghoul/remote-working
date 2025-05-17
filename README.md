@@ -1,20 +1,17 @@
+<h1 align="center">
+  <img src="./assets/logo.png" alt="Remote Working Logo" width="90">
+  <div>远程工作者</div>
+</h1>
 
-<div align="center">
-  <img src="./assets/logo.png" alt="Remote Working Logo" width="100">
-</div>
-<h2 align="center">远程工作者</h2>
-
-> 　
-> - 本列表短网址：<https://anl.gg/remote>
-> - 本列表主要用于整理中国国内的资源或者对国内受众友好的国外资源
-> - 远程工作信息也会发布到以下渠道，可以自由选择惯用的渠道关注更新
->   - Telegram Channel - https://t.me/remote_cn
->   - 远程工作者网站 - https://remote-info.cn
->   - 豆瓣小组 - https://www.douban.com/group/remoteworking/
->   - 知识星球 - https://wx.zsxq.com/group/15528185251482
->   - 微信公众号 - `远程工作者`
-> - 欢迎添加我的个人微信一起交流远程工作的方方面面，微信号 **greatghoul** (请备注**远程**)
-> 　
+- 本列表短网址：<https://anl.gg/remote>
+- 本列表主要用于整理中国国内的资源或者对国内受众友好的国外资源
+- 远程工作信息也会发布到以下渠道，可以自由选择惯用的渠道关注更新
+  - Telegram Channel - https://t.me/remote_cn
+  - 远程工作者网站 - https://remote-info.cn
+  - 豆瓣小组 - https://www.douban.com/group/remoteworking/
+  - 知识星球 - https://wx.zsxq.com/group/15528185251482
+  - 微信公众号 - "远程工作者"
+- 欢迎添加我的个人微信一起交流远程工作的方方面面，微信号 **greatghoul** (请备注**远程**)
 
 ![](./assets/qrcode.png)
 
