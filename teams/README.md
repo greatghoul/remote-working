@@ -134,6 +134,7 @@
 <a name="g3sCG"></a>
 ### 区块链
 
+- [BYDFi](https://www.bydfi.com/) - 新加坡加密货币交易金融公司，提供现货、衍生品交易服务 / [相关招聘](https://mp.weixin.qq.com/s/V-AVQJbrrd7_xc6IHd1Kkg)
 - [~~Dimension (徵才)~~](https://dimension.im/) - 区块链 / TypeScript / [相关招聘](https://github.com/APBCD/jobs/issues/13)
 - [~~Growthhash~~](https://fanbi.io/) - 区块链 / [相关招聘](https://www.v2ex.com/t/460188)
 - [~~杭州巴比特~~](http://www.8btc.com/) - 区块链 / [相关招聘](https://ruby-china.org/topics/34882)
@@ -199,6 +200,7 @@
 <a name="fQJ7y"></a>
 ### 文娱
 
+- [哔哩哔哩](https://bilibili.com/) - 综合性视频平台，文化娱乐社区，涵盖视频、直播等业务 / [相关招聘](https://mp.weixin.qq.com/s/uTCr4YvYnWQS3JBYpb-6mw)
 - [掌中云](https://www.zhangzhongyun.com/) - 小说，漫画，游戏 / PHP / [相关招聘](https://www.v2ex.com/t/565312)
 - [Reedsy](https://reedsy.com/) - 电子书出版 / Nodejs, Vue / [相关招聘](https://eleduck.com/posts/XNfZp1)
 
