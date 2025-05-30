@@ -252,6 +252,7 @@
 - [立芯恒方](https://ledatech.cn/) - 物联网，智能家居，工业自动化 / [相关招聘](https://www.zhipin.com/job_detail/9ad7f460ffe4a5901X183N-7EVBW.html)
 - [Xometry](https://www.xometry.com/) - 工业采购平台，供应链市场；技术栈 Ruby on Rails / [相关招聘](https://www.v2ex.com/t/1109892)
 - [飞沃智航](https://flywardaero.com/) - 智能飞行器创业公司，AI相关产品 / 技术栈 C++，Python / [相关招聘](https://eleduck.com/posts/OGfvxE)
+- [RingRadar](https://www.ringradar.com/) - 美国马术比赛管理软件 / Python, Django, JavaScript, React / [相关招聘](https://eleduck.com/posts/98fLXz)
 
 <a name="SOMDu"></a>
 ### 贡献者
