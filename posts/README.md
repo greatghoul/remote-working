@@ -383,7 +383,7 @@
 - [关于远程工作你有什么疑问？](https://ruby-china.org/topics/14758) - Teahour 在采访 [allenwei](https://teahour.fm/35) 前的一些问题征集，评论区有一些比较有价值的讨论。
 - [如何远程管理独立游戏开发团队](https://web.archive.org/web/20140220031627/http://www.cocoachina.com/gamedev/2013/1211/7516.html) - 本文适合小型游戏团队，在远程游戏设计团队中，良好排班的设计文档非常重要，异步沟通的情况下，设计文档能回答很多问题。此外依赖性和截止日期也很重要。项目经理在整个过程会担任非常重要的角色。
 - [新的起点：远程创业团队](https://web.archive.org/web/20190906164126/http://yangzhuoyu.com/first-month-in-pragmatic-ly/) - 作者加入 Pragmatic.ly 团队远程工作的体验，工程师文化，学习氛围，劳逸结合，追求效率，享受生活。
-- [我如何把薪水从 50人民币/天 提升到 100美元/小时的 (2)](https://web.archive.org/web/20170413055259/http://terrytai.me/salary-from-50rmb-to-100usd-2/) - 在有限的资源里，能找到最佳的平衡点，才是真正优秀的工程师。此外英语对于软件工程师至关重要，要敢于尝试一切练习的机会。
+- [我如何把薪水从 50人民币/天 提升到 100美元/小时的 (2)](https://github.com/poshboytl/terrytai.me/blob/master/source/2013-12-03-salary-from-50rmb-to-100usd-2.html.markdown) - 在有限的资源里，能找到最佳的平衡点，才是真正优秀的工程师。此外英语对于软件工程师至关重要，要敢于尝试一切练习的机会。
 - [如何做一名远程合伙人？](http://www.36kr.com/p/205768.html)（[原文](https://netguru.co/blog/being-a-remote-founder)）- Netguru 团队远程协作三年的心得体会，沟通是远程工作的要点，团队应该为队员提供利于沟通的环境和工具。
 - [从士兵到程序员再到SOHO程序员 (一) - 起航](http://web.archive.org/web/20160329092107/http://blog.huhao.name/2013/09/14/become-a-freelancer/) - 作者是是从一名军人转行成为程序员，最后又开始 Ruby on Rails 开发，但是深受办公室文化的困扰，在接触了一些自由职业者之后，通过半年的学习，走上了 SOHO 的道路。
 - [我们为什么仍然信任远程工作](http://www.oschina.net/translate/why-we-still-believe-in-working-remotely) - 2013 年了，为什么 Stack Exchange 仍然相信远程工作。从招聘，员工留存，管理，沟通等多个方面做了解答。当然，他们也有强调，并不是每个人都适合远程工作。
