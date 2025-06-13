@@ -385,7 +385,7 @@
 - [新的起点：远程创业团队](https://web.archive.org/web/20190906164126/http://yangzhuoyu.com/first-month-in-pragmatic-ly/) - 作者加入 Pragmatic.ly 团队远程工作的体验，工程师文化，学习氛围，劳逸结合，追求效率，享受生活。
 - [我如何把薪水从 50人民币/天 提升到 100美元/小时的 (2)](https://github.com/poshboytl/terrytai.me/blob/master/source/2013-12-03-salary-from-50rmb-to-100usd-2.html.markdown) - 在有限的资源里，能找到最佳的平衡点，才是真正优秀的工程师。此外英语对于软件工程师至关重要，要敢于尝试一切练习的机会。
 - [如何做一名远程合伙人？](http://www.36kr.com/p/205768.html)（[原文](https://netguru.co/blog/being-a-remote-founder)）- Netguru 团队远程协作三年的心得体会，沟通是远程工作的要点，团队应该为队员提供利于沟通的环境和工具。
-- [从士兵到程序员再到SOHO程序员 (一) - 起航](http://web.archive.org/web/20160329092107/http://blog.huhao.name/2013/09/14/become-a-freelancer/) - 作者是是从一名军人转行成为程序员，最后又开始 Ruby on Rails 开发，但是深受办公室文化的困扰，在接触了一些自由职业者之后，通过半年的学习，走上了 SOHO 的道路。
+- [从士兵到程序员再到SOHO程序员 (一) - 起航](https://huhao.dev/posts/7d37a609/) - 作者是是从一名军人转行成为程序员，最后又开始 Ruby on Rails 开发，但是深受办公室文化的困扰，在接触了一些自由职业者之后，通过半年的学习，走上了 SOHO 的道路。
 - [我们为什么仍然信任远程工作](http://www.oschina.net/translate/why-we-still-believe-in-working-remotely) - 2013 年了，为什么 Stack Exchange 仍然相信远程工作。从招聘，员工留存，管理，沟通等多个方面做了解答。当然，他们也有强调，并不是每个人都适合远程工作。
 - [如何开始你的SOHO之旅(2)](https://segmentfault.com/a/1190000000269344) - 加入一家允许在家工作的公司，你需要考虑的一些问题，以及怎样找到这样的公司，作者给出了一些实用的建议。
 - [如何开始你的SOHO之旅(1)](https://segmentfault.com/a/1190000000269342) - 自由这东西，一旦拥有，就太难放弃掉了。作者 Terry Tai 介绍了程序员在家工作的几种选择。以及一些路径。
