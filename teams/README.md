@@ -33,7 +33,7 @@
 - [北京恳维科技](https://www.tianyancha.com/company/93094209) - 运营推广 / [相关招聘](http://www.zhaopin123.net/sy/Job/12453040.html)
 - [瓴里网络科技](https://www.yuanling.com/) - 人力资源 / [相关招聘](https://www.liepin.com/job/1935822473.shtml)
 - [YW Vision](https://ywvision.com/) - 外包 / PHP / [相关招聘](https://learnku.com/laravel/t/62495)
-- [齿轮易创](https://chilunyc.com/) - 咨询外包 / Python / [相关招聘](https://learnku.com/python/t/63379)
+- [~~齿轮易创~~](https://chilunyc.com/) - 咨询外包 / Python / [相关招聘](https://learnku.com/python/t/63379)
 - [Jibble](https://www.jibble.io/) - 人力资源 / .Net, C# / [相关招聘](https://www.v2ex.com/t/819758)
 - [Brix Labs](https://joinbrix.com/) - 欧美外包，区块链 / 游戏 / [相关招聘](https://www.v2ex.com/t/843374)
 - [法本信息](https://www.farben.com.cn/) - 技术咨询 / Vue, React / [相关招聘](https://www.zhipin.com/job_detail/8e92c73a03a6878e1HN839W4EVFV.html)
