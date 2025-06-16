@@ -180,6 +180,7 @@
 - [凡泰极客](https://www.finogeeks.com/) - 证券 / Go, Electron / [相关招聘](https://www.v2ex.com/t/767150)
 - [Jerry AI](https://getjerry.com/) - 金融保险行业 / Python / [相关招聘](https://eleduck.com/posts/z1f1rz)
 - [美国信用卡指南](https://www.uscreditcardguide.com/zh/) - 信用卡社区 / [相关招聘](https://yuancheng.work/616.html)
+- [顺顺助融](https://www.shunshunzhurong.com/) - 金融咨询服务 / Vue, uni-app / [相关招聘](https://remote-info.cn/jobs/47)
 
 <a name="A1WIb"></a>
 ### 生活服务
