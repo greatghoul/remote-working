@@ -213,11 +213,11 @@
 - [~~极忆~~](https://imemoryer.com/) - 游戏 / React, Node.js / [相关招聘](https://www.v2ex.com/t/547238)
 - [TapTap](https://www.taptap.io/) - 游戏 开发者服务 / Unity, UE / [相关招聘](https://v2ex.com/t/852817)
 
-<a name="wpdw3"></a>
 ### 翻译
 
 - [智慧译百](http://www.100trans.com/) - 翻译服务 / [相关招聘](https://www.xmf.com/job/6176.html)
 - [屯良翻译](https://www.jobui.com/company/17470306/) - 医药翻译 / [相关招聘](https://m.597.com/job/2257f35382569.html)
+- [智生道](https://www.bwtrans.net/) - 语言服务，医学翻译 / [相关招聘](https://msearch.51job.com/jobs/all/158310444.html)
 
 <a name="EyPeI"></a>
 ### 数据
