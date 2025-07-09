@@ -127,6 +127,7 @@
 <a name="iXHO8"></a>
 ### 广告
 
+- [Atria](http://www.tryatria.com/) - 广告创意平台 / Angular, React，Next.js / [相关招聘](https://www.v2ex.com/t/1111194)
 - [新义互联](https://adtalos.com/) - 互联网广告 / [相关招聘](https://www.v2ex.com/t/636871)
 - [Marin Software](https://www.marinsoftware.com/) - 美国，广告 / DBA，MYSQL / [相关招聘](https://eleduck.com/posts/XNfLr4)
 - [Feedmob](https://feedmob.com/) - 互联网广告 / Ruby / [相关招聘](https://www.v2ex.com/t/495725)
