@@ -40,6 +40,7 @@
 - [每联每](http://www.mtscloud.com/) - [相关招聘](https://web.archive.org/web/20230423093626/https://www.jobeast.com/jobs/205823.html)
 - [~~Bridgy~~](https://www.onbridgy.com/) - 咨询，人力资源 / DevOps, Python / [相关招聘](https://v2ex.com/t/923849)
 - [NocoBase](https://www.nocobase.com/cn/) - 开源在线表格 / Node.js, Express.js / [相关招聘](https://www.v2ex.com/t/1110812)
+- [佐玩](https://zolplay.com/) - 外包团队 / Next.js, React / [相关招聘](https://v2ex.com/t/1114072)
 
 <a name="t1arv"></a>
 ### 企业服务
