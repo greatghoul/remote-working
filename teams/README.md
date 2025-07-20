@@ -215,6 +215,7 @@
 
 - [~~极忆~~](https://imemoryer.com/) - 游戏 / React, Node.js / [相关招聘](https://www.v2ex.com/t/547238)
 - [TapTap](https://www.taptap.io/) - 游戏 开发者服务 / Unity, UE / [相关招聘](https://v2ex.com/t/852817)
+- [Mobile Factory, Inc](https://www.mobilefactory.jp/) / 手机游戏 / Golang, Python, TypeScript 等 / [相关招聘](https://www.v2ex.com/t/1105247)
 
 ### 翻译
 
