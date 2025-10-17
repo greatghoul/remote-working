@@ -5,7 +5,6 @@
 <a name="WOzXG"></a>
 ## 2022 年
 
-- [居家办公招聘职位增长明显，哪些岗位、薪酬怎样？来看看你是否适合](https://www.thehour.cn/news/517914.html)
 - [智联招聘：中国远程居家办公发展报告](https://www.199it.com/archives/1429899.html)
 - [远程居家办公：现实与展望](https://www.sohu.com/a/568191740_121101099)
 
