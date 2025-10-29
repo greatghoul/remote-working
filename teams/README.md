@@ -67,6 +67,7 @@
 - [~~陆本速递~~](https://www.luben.com.au) - 仓储，物流，跨境电商 / Java / [相关招聘](https://yuancheng.work/2447.html)
 - [麦田守望](https://www.maitianshouwang.com) - 烘焙，门店管理 / Java / [相关招聘](https://www.v2ex.com/t/912762)
 - [爱已达科技](https://www.zhipin.com/gongsi/b18b7de37eb1247b1nd72t25FFo~.html) - 跨境电商公司 / PHP, PrestaShop / [相关招聘](https://eleduck.com/posts/ZXfo84)
+- [定点美物科技](http://www.dingdian.store/) - 电商供应链 / Ruby, Go, Vue, React / [相关招聘](https://ruby-china.org/topics/43426)
 
 <a name="EVQk4"></a>
 ### 通信
