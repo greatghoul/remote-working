@@ -11,6 +11,7 @@
 - [被裁后，远程工作了一年，找到工作后入职连续被拒](https://v2ex.com/t/912777)
 - [我在广州当主播——灵活就业人员参加社保医保指南](https://zhangqi.zhubai.love/posts/2179268116000444416)
 - [分享一下关于个人给公司兼职时,合同,发票与税方面的经验](https://eleduck.com/posts/kRfg5Q)
+- [发现很多人都没搞清楚劳动合同、劳务合同、合作协议三者之间的区别](https://eleduck.com/posts/ZXfgjK)。
 
 ## 财务与税务问题
 
