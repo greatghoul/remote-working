@@ -10,7 +10,7 @@
   - 远程工作机会网站 - https://remote-china.top/
   - 豆瓣小组 - https://www.douban.com/group/657287/
   - 知识星球 - https://wx.zsxq.com/group/15528185251482
-  - Twitter (X) - https://x.com/remote_info_cn
+  - Twitter (X) - https://x.com/remote_china
   - 微信公众号 - "远程工作者"
 - 想要添加我的微信？[请看这里](https://github.com/greatghoul/remote-working/issues/340)
 
