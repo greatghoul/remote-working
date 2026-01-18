@@ -7,11 +7,11 @@
 - 本列表主要用于整理中国国内的资源或者对国内受众友好的国外资源
 - 远程工作信息也会发布到以下渠道，可以自由选择惯用的渠道关注更新
   - Telegram Channel - https://t.me/remote_cn
-  - 远程工作机会网站 - https://remote-china.top/
+  - 远程工作机会网站 - https://remote-china.com/
   - 豆瓣小组 - https://www.douban.com/group/657287/
   - 知识星球 - https://wx.zsxq.com/group/15528185251482
   - Twitter (X) - https://x.com/remote_china
-  - 微信公众号 - "远程工作者"
+  - 微信公众号 - [远程工作者](https://mp.weixin.qq.com/s/nueIQhSEONPzuTfw2PgJ2g)
 - 想要添加我的微信？[请看这里](https://github.com/greatghoul/remote-working/issues/340)
 
 ## 📝 文章
@@ -124,8 +124,7 @@
 
 👉 [查看更多资源](others)
 
-<a name="gongxian"></a>
-## 贡献者
+## 🤝 贡献者
 
 参与更新这个列表的贡献者
 
