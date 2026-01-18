@@ -18,16 +18,137 @@
 
 ## 目录
 
-- [问题](issues) - 整理远程工作中经常会遇到的问题，以及比较有价值的讨论
-- [文章](posts) - 收集整理历年远程工作相关的经验文章
-- [团队](teams) - 收集整理在国内招聘过的远程团队
-- [视频](videos) - 收集整理远程工作相关的视频节目和频道
-- [播客](podcasts) - 收集整理远程工作相关的播客和其它音频节目
-- [站点](sites) - 整理远程相关的博客、媒体，微信公众号等站点
-- [报告](reports) - 收集整理远程相关的调查报告
-- [书籍](books) - 收集整理远程工作相关的书籍、指南文档等资源
-- [工具](tools) - 收集整理有助于远程办公沟通协作的各种工具和服务
-- [其它](others) - 其它和远程相关的资源
+---
+
+### 📝 文章
+
+收集整理历年远程工作相关的经验文章
+
+**最近收录：**
+- [远程工作半年复盘：爽是真的，代价也是真的](https://www.v2ex.com/t/1185543)
+- [私立教师裸辞10个月，我是如何找到一份早10晚7的远程工作？](https://mp.weixin.qq.com/s/D2AH0eiiFKtbjUGgDdZpfw)
+- [程序员远程工作两个月的一些感悟](https://mp.weixin.qq.com/s/FAIkMogy6MwihD3s1fkEnQ)
+
+👉 [查看更多文章](posts)
+
+---
+
+### ❓ 问题
+
+整理远程工作中经常会遇到的问题，以及比较有价值的讨论
+
+**最近收录：**
+- [发现很多人都没搞清楚劳动合同、劳务合同、合作协议三者之间的区别](https://eleduck.com/posts/ZXfgjK)
+- [注册一家公司，一年大概多少费用](https://eleduck.com/posts/pqfqbZ)
+- [分享一下关于个人给公司兼职时,合同,发票与税方面的经验](https://eleduck.com/posts/kRfg5Q)
+
+👉 [查看更多问题](issues)
+
+---
+
+### 👥 团队
+
+收集整理在国内招聘过的远程团队
+
+**最近收录：**
+- [定点美物科技](teams) - 电商供应链
+- [Giggle Academy](teams) - 教育
+- [Mobile Factory, Inc](teams) - 游戏开发
+
+👉 [查看更多团队](teams)
+
+---
+
+### 🎬 视频
+
+收集整理远程工作相关的视频节目和频道
+
+**最近收录：**
+- [nono不上班](https://www.youtube.com/channel/UC2NnoiophS5coaaBPSV80bw) - 赚钱不坐班
+- [不顽强的巴豆](https://space.bilibili.com/33311079/video) - 芬兰居家办公程序员
+- [于航和你聊聊远程办公那些事](https://www.bilibili.com/video/BV1iL4y1Y7Ju)
+
+👉 [查看更多视频](videos)
+
+---
+
+### 🎙️ 播客
+
+收集整理远程工作相关的播客和其它音频节目
+
+**最近收录：**
+- [数字游民指北](https://www.xiaoyuzhoufm.com/podcast/5ebfe0c4418a84a0468b5f1d) - 数字游民故事与干货
+- [数字游民](https://www.xiaoyuzhoufm.com/podcast/626da563bf39836fd02b79ed) - 生活方式设计方法论
+- [Vol. 84 数码荔枝: 正版软件生态、独立开发与远程办公](https://justinyan.me/post/5573)
+
+👉 [查看更多播客](podcasts)
+
+---
+
+### 🌐 站点
+
+整理远程相关的博客、媒体，微信公众号等站点
+
+**最近收录：**
+- [电鸭社区](https://eleduck.com/) - 国内最大的远程工作交流社区
+- [远程职位日报](sites) - 远程职位信息聚合
+- [RW实验室](https://www.rwnomad.com/) - DAO理念的共创型数字游民社区
+
+👉 [查看更多站点](sites)
+
+---
+
+### 📊 报告
+
+收集整理远程相关的调查报告
+
+**最近收录：**
+- [智联招聘：中国远程居家办公发展报告](https://www.199it.com/archives/1429899.html)
+- [远程居家办公：现实与展望](https://www.sohu.com/a/568191740_121101099)
+- [2020远程办公研究报告](https://www.sohu.com/a/387983226_115035)
+
+👉 [查看更多报告](reports)
+
+---
+
+### 📚 书籍
+
+收集整理远程工作相关的书籍、指南文档等资源
+
+**最近收录：**
+- [游牧东京](https://book.douban.com/subject/26671488/) - 只工作，不上班
+- [Remote - Office Not Required](http://37signals.com/remote) - 37signals 经典之作
+- [一人公司方法论](https://github.com/easychen/one-person-businesses-methodology)
+
+👉 [查看更多书籍](books)
+
+---
+
+### 🛠️ 工具
+
+收集整理有助于远程办公沟通协作的各种工具和服务
+
+**最近收录：**
+- [Notion](https://www.notion.so/) - 可定制性非常高的协作工具
+- [腾讯会议](https://meeting.tencent.com/) - 视频会议工具
+- [Toggl](https://toggl.com/) - 计时工具，支持番茄时间
+
+👉 [查看更多工具](tools)
+
+---
+
+### 📦 其它
+
+其它和远程相关的资源
+
+**最近收录：**
+- [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china) - 支持远程办公的中国公司
+- [Remote from China](https://remotefrom.cn/) - 支持在中国远程工作的公司列表
+- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - 远程工作资源精选
+
+👉 [查看更多资源](others)
+
+---
 
 <a name="gongxian"></a>
 ## 贡献者
