@@ -19,9 +19,9 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [远程工作不是"躺平许可证"，是"自律者生存"的职场真人秀](https://mp.weixin.qq.com/s/izrIDLPnHwzYbpzlSBrOwA)
 - [远程办公太难了](https://mp.weixin.qq.com/s/Tfl2T_B4RA3AjKNFf5gzCw)
 - [远程工作半年复盘：爽是真的，代价也是真的](https://www.v2ex.com/t/1185543)
-- [私立教师裸辞10个月，我是如何找到一份早10晚7的远程工作？](https://mp.weixin.qq.com/s/D2AH0eiiFKtbjUGgDdZpfw)
 
 👉 [查看更多文章](posts)
 
