@@ -22,6 +22,8 @@
 - [独立开发者的成长之路](https://eleduck.com/posts/N0fxqX)
 - [远程工作不是"躺平许可证"，是"自律者生存"的职场真人秀](https://mp.weixin.qq.com/s/izrIDLPnHwzYbpzlSBrOwA)
 - [远程办公太难了](https://mp.weixin.qq.com/s/Tfl2T_B4RA3AjKNFf5gzCw)
+- [远程工作半年复盘：爽是真的，代价也是真的](https://www.v2ex.com/t/1185543)
+- [私立教师裸辞10个月，我是如何找到一份早10晚7的远程工作？](https://mp.weixin.qq.com/s/D2AH0eiiFKtbjUGgDdZpfw)
 
 👉 [查看更多文章](posts)
 
@@ -31,8 +33,10 @@
 
 **最近收录：**
 - [发现很多人都没搞清楚劳动合同、劳务合同、合作协议三者之间的区别](https://eleduck.com/posts/ZXfgjK)
-- [注册一家公司，一年大概多少费用](https://eleduck.com/posts/pqfqbZ)
 - [分享一下关于个人给公司兼职时,合同,发票与税方面的经验](https://eleduck.com/posts/kRfg5Q)
+- [我在广州当主播——灵活就业人员参加社保医保指南](https://zhangqi.zhubai.love/posts/2179268116000444416)
+- [被裁后，远程工作了一年，找到工作后入职连续被拒](https://v2ex.com/t/912777)
+- [程序员独立接单需要注意的问题](https://mp.weixin.qq.com/s/lLZ0ZTEp9prvPYf2-kjUEg)
 
 👉 [查看更多问题](issues)
 
@@ -44,6 +48,8 @@
 - [定点美物科技](teams) - 电商供应链
 - [Giggle Academy](teams) - 教育
 - [Mobile Factory, Inc](teams) - 游戏开发
+- [Teable](teams) - 无代码数据库
+- [GitFish](teams) - 开发者工具
 
 👉 [查看更多团队](teams)
 
@@ -55,6 +61,8 @@
 - [nono不上班](https://www.youtube.com/channel/UC2NnoiophS5coaaBPSV80bw) - 赚钱不坐班
 - [不顽强的巴豆](https://space.bilibili.com/33311079/video) - 芬兰居家办公程序员
 - [于航和你聊聊远程办公那些事](https://www.bilibili.com/video/BV1iL4y1Y7Ju)
+- [抖音团队如何高效远程办公](https://www.feishu.cn/research/douyin-remote-work)
+- [远程工作分享 ep1 - 不坐班不打卡之销售客户经理](https://www.youtube.com/watch?v=1d3vlL35Nb0)
 
 👉 [查看更多视频](videos)
 
@@ -77,6 +85,8 @@
 - [电鸭社区](https://eleduck.com/) - 国内最大的远程工作交流社区
 - [远程职位日报](sites) - 远程职位信息聚合
 - [RW实验室](https://www.rwnomad.com/) - DAO理念的共创型数字游民社区
+- [数字游民指南](https://www.nomadguide.cn/) - 数字游民社区
+- [深海牧鲸](https://www.yuque.com/greatghoul/remote/ekpgl6) - 自由职业相关的微信小程序
 
 👉 [查看更多站点](sites)
 
@@ -88,6 +98,7 @@
 - [智联招聘：中国远程居家办公发展报告](https://www.199it.com/archives/1429899.html)
 - [远程居家办公：现实与展望](https://www.sohu.com/a/568191740_121101099)
 - [2020远程办公研究报告](https://www.sohu.com/a/387983226_115035)
+- [自由职业生存现状：每天都很焦虑，但不想回去上班](https://zhuanlan.zhihu.com/p/41944408)
 
 👉 [查看更多报告](reports)
 
@@ -98,6 +109,8 @@
 **最近收录：**
 - [游牧东京](https://book.douban.com/subject/26671488/) - 只工作，不上班
 - [Remote - Office Not Required](http://37signals.com/remote) - 37signals 经典之作
+- [Remote - Office Not Required 中文译本](http://jianshu.io/notebooks/41672/latest)
+- [The Ultimate Guide to Remote Work](https://zapier.com/learn/the-ultimate-guide-to-remote-working/)
 - [一人公司方法论](https://github.com/easychen/one-person-businesses-methodology)
 
 👉 [查看更多书籍](books)
@@ -108,8 +121,10 @@
 
 **最近收录：**
 - [Notion](https://www.notion.so/) - 可定制性非常高的协作工具
-- [腾讯会议](https://meeting.tencent.com/) - 视频会议工具
-- [Toggl](https://toggl.com/) - 计时工具，支持番茄时间
+- [Trello](https://trello.com/) - 轻量级团队流程协作和列表管理平台
+- [Tower](https://tower.im/) - 简单好用的团队协作工具
+- [Teambiton](https://www.teambition.com/) - 简单高效的项目协作工具
+- [Worktile](https://worktile.com/) - 让工作更简单
 
 👉 [查看更多工具](tools)
 
@@ -121,6 +136,8 @@
 - [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china) - 支持远程办公的中国公司
 - [Remote from China](https://remotefrom.cn/) - 支持在中国远程工作的公司列表
 - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - 远程工作资源精选
+- [remote-jobs](https://github.com/remoteintech/remote-jobs) - 半远程或完全远程公司列表
+- [open-source-jobs](https://github.com/t9tio/open-source-jobs) - 提供工作的开源项目列表
 
 👉 [查看更多资源](others)
 
