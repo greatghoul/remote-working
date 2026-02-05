@@ -32,11 +32,11 @@
 整理远程工作中经常会遇到的问题，以及比较有价值的讨论
 
 **最近收录：**
+- [周末居家办公猝死算工伤吗？](https://mp.weixin.qq.com/s/AKPLWNSg_yqSkR88IttW9w)
 - [遇到公司安排你居家办公，这该怎么办？](https://mp.weixin.qq.com/s/QPQqp7F6i7Ndk_Q7yMMMVQ)
 - [发现很多人都没搞清楚劳动合同、劳务合同、合作协议三者之间的区别](https://eleduck.com/posts/ZXfgjK)
 - [分享一下关于个人给公司兼职时,合同,发票与税方面的经验](https://eleduck.com/posts/kRfg5Q)
 - [我在广州当主播——灵活就业人员参加社保医保指南](https://zhangqi.zhubai.love/posts/2179268116000444416)
-- [被裁后，远程工作了一年，找到工作后入职连续被拒](https://v2ex.com/t/912777)
 
 👉 [查看更多问题](issues)
 
