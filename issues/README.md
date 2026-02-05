@@ -12,6 +12,7 @@
 - [我在广州当主播——灵活就业人员参加社保医保指南](https://zhangqi.zhubai.love/posts/2179268116000444416)
 - [分享一下关于个人给公司兼职时,合同,发票与税方面的经验](https://eleduck.com/posts/kRfg5Q)
 - [发现很多人都没搞清楚劳动合同、劳务合同、合作协议三者之间的区别](https://eleduck.com/posts/ZXfgjK)。
+- [遇到公司安排你居家办公，这该怎么办？](https://mp.weixin.qq.com/s/QPQqp7F6i7Ndk_Q7yMMMVQ)
 
 ## 财务与税务问题
 

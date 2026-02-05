@@ -19,11 +19,11 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [遇到公司安排你居家办公，这该怎么办？](https://mp.weixin.qq.com/s/QPQqp7F6i7Ndk_Q7yMMMVQ)
 - [育碧宣布取消远程办公：强制全员每周5天坐班 或引发"变相裁员"](https://www.taptap.cn/moment/763367394998486781)
 - [这种"隐形"稳定工作，凭实力拿美金，还不卷内耗](https://mp.weixin.qq.com/s/-YPfIX3vyzcHkJcfOpOYmg)
 - [远程办公，真的香吗？](https://mp.weixin.qq.com/s/RcxUIDzwu_mFhx9bdy5vCg)
 - [远程求职避坑指南｜如何一眼分辨真假远程岗，避免99%的坑](https://mp.weixin.qq.com/s/k7LhtIfEyyQ0PK5imBGP2g)
-- [远程工作完全指南：从0到月入3万的实战路径](https://mp.weixin.qq.com/s/2fEJUVZQzEX6bJOHsmATzQ)
 
 👉 [查看更多文章](posts)
 
@@ -32,11 +32,11 @@
 整理远程工作中经常会遇到的问题，以及比较有价值的讨论
 
 **最近收录：**
+- [遇到公司安排你居家办公，这该怎么办？](https://mp.weixin.qq.com/s/QPQqp7F6i7Ndk_Q7yMMMVQ)
 - [发现很多人都没搞清楚劳动合同、劳务合同、合作协议三者之间的区别](https://eleduck.com/posts/ZXfgjK)
 - [分享一下关于个人给公司兼职时,合同,发票与税方面的经验](https://eleduck.com/posts/kRfg5Q)
 - [我在广州当主播——灵活就业人员参加社保医保指南](https://zhangqi.zhubai.love/posts/2179268116000444416)
 - [被裁后，远程工作了一年，找到工作后入职连续被拒](https://v2ex.com/t/912777)
-- [程序员独立接单需要注意的问题](https://mp.weixin.qq.com/s/lLZ0ZTEp9prvPYf2-kjUEg)
 
 👉 [查看更多问题](issues)
 
