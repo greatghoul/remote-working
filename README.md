@@ -19,11 +19,11 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [这种"隐形"稳定工作，凭实力拿美金，还不卷内耗](https://mp.weixin.qq.com/s/-YPfIX3vyzcHkJcfOpOYmg)
 - [远程办公，真的香吗？](https://mp.weixin.qq.com/s/RcxUIDzwu_mFhx9bdy5vCg)
 - [远程求职避坑指南｜如何一眼分辨真假远程岗，避免99%的坑](https://mp.weixin.qq.com/s/k7LhtIfEyyQ0PK5imBGP2g)
 - [远程工作完全指南：从0到月入3万的实战路径](https://mp.weixin.qq.com/s/2fEJUVZQzEX6bJOHsmATzQ)
 - [独立开发者的成长之路](https://eleduck.com/posts/N0fxqX)
-- [远程工作不是"躺平许可证"，是"自律者生存"的职场真人秀](https://mp.weixin.qq.com/s/izrIDLPnHwzYbpzlSBrOwA)
 
 👉 [查看更多文章](posts)
 
