@@ -19,11 +19,11 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [别再羡慕居家办公了！如果不建立这4个秩序感，我早就废了](https://mp.weixin.qq.com/s/qBuSzRZ8gwHU2psR9n2Xiw)
 - [遇到公司安排你居家办公，这该怎么办？](https://mp.weixin.qq.com/s/QPQqp7F6i7Ndk_Q7yMMMVQ)
 - [育碧宣布取消远程办公：强制全员每周5天坐班 或引发"变相裁员"](https://www.taptap.cn/moment/763367394998486781)
 - [这种"隐形"稳定工作，凭实力拿美金，还不卷内耗](https://mp.weixin.qq.com/s/-YPfIX3vyzcHkJcfOpOYmg)
 - [远程办公，真的香吗？](https://mp.weixin.qq.com/s/RcxUIDzwu_mFhx9bdy5vCg)
-- [远程求职避坑指南｜如何一眼分辨真假远程岗，避免99%的坑](https://mp.weixin.qq.com/s/k7LhtIfEyyQ0PK5imBGP2g)
 
 👉 [查看更多文章](posts)
 
