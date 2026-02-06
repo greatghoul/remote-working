@@ -86,6 +86,7 @@
 - [W3OFFER](https://w3offer.com/) - 分享remote职位/海外硕博/海外机会
 - [码上工作](https://open.nancheng.fun/remote/) - 聚合国内外优质远程工作线索
 - [远程职位日报](https://yuancheng.works/) - 汇总远程工作机会，JD 标题简洁明了 
+- [RemoteCN](https://remotecn.com/) - 面向中国开发者的远程工作平台
 
 <a name="hAY3C"></a>
 ## 用工平台
@@ -107,4 +108,3 @@
 - [小蜜蜂远程工作](https://www.xmf.com/)
 - [Brix中文网站](https://zh.joinbrix.com/) - BrixLabs团队运营的远程工作招聘平台 ( via [CcccFz](https://github.com/CcccFz) )
 - [TalentOrg](http://www.talentorg.cn/) - 远程工作平台，提供北美的远程工作机会 ( via Sky )
-

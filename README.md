@@ -82,11 +82,11 @@
 整理远程相关的博客、媒体，微信公众号等站点
 
 **最近收录：**
+- [RemoteCN](https://remotecn.com/) - 面向中国开发者的远程工作平台
 - [WorkBest](https://www.workbest.xyz/) - 远程工作招聘平台
 - [电鸭社区](https://eleduck.com/) - 国内最大的远程工作交流社区
 - [远程职位日报](sites) - 远程职位信息聚合
 - [RW实验室](https://www.rwnomad.com/) - DAO理念的共创型数字游民社区
-- [数字游民指南](https://www.nomadguide.cn/) - 数字游民社区
 
 👉 [查看更多站点](sites)
 
