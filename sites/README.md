@@ -21,6 +21,7 @@
 - [Upwork China](https://community.upwork.com/t5/Upwork-China/gh-p/UpworkChina) - Upwork 官方的中国社区，需要有 upwork 账户才可以访问
 - [W2Solo](https://w2solo.com/) - 独立开发者社区
 - [RW实验室](https://www.rwnomad.com/) - DAO理念的共创型数字游民社区
+- [WorkBest](https://www.workbest.xyz/) - 远程工作招聘平台
 
 <a name="YWHfL"></a>
 ### 不再维护的
@@ -106,3 +107,4 @@
 - [小蜜蜂远程工作](https://www.xmf.com/)
 - [Brix中文网站](https://zh.joinbrix.com/) - BrixLabs团队运营的远程工作招聘平台 ( via [CcccFz](https://github.com/CcccFz) )
 - [TalentOrg](http://www.talentorg.cn/) - 远程工作平台，提供北美的远程工作机会 ( via Sky )
+
