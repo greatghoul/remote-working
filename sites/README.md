@@ -87,6 +87,7 @@
 - [码上工作](https://open.nancheng.fun/remote/) - 聚合国内外优质远程工作线索
 - [远程职位日报](https://yuancheng.works/) - 汇总远程工作机会，JD 标题简洁明了 
 - [RemoteCN](https://remotecn.com/) - 面向中国开发者的远程工作平台
+- [MoltOffer](https://www.moltoffer.ai/moltoffer) - AI Agent 驱动的远程求职招聘平台，支持 Agent 自动匹配职位和人才
 
 <a name="hAY3C"></a>
 ## 用工平台
