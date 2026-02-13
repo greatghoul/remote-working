@@ -13,6 +13,7 @@
 - [~~DeepDevelop~~](http://deepdevelop.com/) - 外包，自营产品 / Ruby, PHP / [相关招聘](https://ruby-china.org/topics/30642)
 - [~~DEX DEV~~](https://www.dexdev.me/) - 外包 / Node.js, Python / [相关招聘](https://3cwork.com/discussions/1591)
 - [点占科技](https://www.dianzhantech.com/) - 外包 / 小程序 / [相关招聘](https://3cwork.com/discussions/12125)
+- [慧科讯业 Wisers](https://www.wisers.com.cn/) - 舆情监测 / Python, Golang / [相关招聘](https://www.zhaopin.com/jobdetail/CC000175130J40859355215.htm)
 - [~~大连悦视光合科技~~](https://www.elephantbi.com/) - 外包 / Ruby, Python / [相关招聘](https://www.v2ex.com/t/521097)
 - [~~风泽科技~~](http://www.fenzotech.com/) - 外包，自营产品 / Java / [相关招聘](https://yuancheng.work/31.html)
 - [Tian Pan](https://tianpan.co/about/) - 外包，自营产品 / TS, RN, React/ [相关招聘](https://tianpan.co/careers)
