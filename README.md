@@ -19,11 +19,11 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
-- [35岁后做自由设计：哪有什么“兼顾”，不过是换种方式掌控时间 | 电鸭社区](https://eleduck.com/posts/VvfQEa)
+- [程序员如何走向自由职业](https://mp.weixin.qq.com/s/Qo0I7iu3sah4IW17RM7KWQ)
+- [35岁后做自由设计：哪有什么“兼顾”，不过是换种方式掌控时间](https://eleduck.com/posts/VvfQEa)
 - [小团队如何保证远程办公的效率？](https://mp.weixin.qq.com/s/cyRKNDBU7fPEwVX_SHTVTw)
 - [远程办公半年，我是如何在混乱中找回时间掌控感的？](https://mp.weixin.qq.com/s/OxpNk8MksRrTnQ_GBXygWQ)
 - [美国职场：居家办公能值多少钱？](https://mp.weixin.qq.com/s/VGbQdyd4FRvYMYpqLZ5VKA)
-- [居家学习办公快速进入状态的小窍门](https://mp.weixin.qq.com/s/YOnPx8SbP-w72vvXVaTcsw)
 
 👉 [查看更多文章](posts)
 
