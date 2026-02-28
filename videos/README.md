@@ -38,7 +38,7 @@
 ### 2018年
 
 - [如何做到边旅行边工作？：现实是这样的](https://www.bilibili.com/video/av26441021/?redirectFrom=h5)
-- [Cathy流浪记：如何变旅行边工作，成为数字游民](https://www.bilibili.com/video/av21642180/)
+- [Cathy流浪记：如何变旅行边工作，成为数字游民](https://www.bilibili.com/video/av21642180/) - 作者 Cathy 总结了「如何成为数字游民」的一些有用的资源。比如需要注意的点，必备的技能，需要做的准备等等。
 
 <a name="VBNtb"></a>
 ### 2016年
