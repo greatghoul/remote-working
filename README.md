@@ -19,11 +19,11 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [在海边的自由职业者](https://mp.weixin.qq.com/s/ehITFjXs2r4ePgYeV9j_iQ)
 - [数字游民是一种"生活"方式](https://mp.weixin.qq.com/s/MaqT_k9kwlt5swUQ0WhdDg)
 - [“随时待命”算不算加班？陆敬波呼吁：付出实质性劳动应认定加班！上海可率先出台远程办公规范！](https://hot.online.sh.cn/content/2026-02/04/content_10422287.htm)
 - [程序员如何走向自由职业](https://mp.weixin.qq.com/s/Qo0I7iu3sah4IW17RM7KWQ)
 - [35岁后做自由设计：哪有什么“兼顾”，不过是换种方式掌控时间](https://eleduck.com/posts/VvfQEa)
-- [小团队如何保证远程办公的效率？](https://mp.weixin.qq.com/s/cyRKNDBU7fPEwVX_SHTVTw)
 
 👉 [查看更多文章](posts)
 
