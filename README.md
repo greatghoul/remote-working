@@ -19,6 +19,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [不仅在外企，远程办公最危险的不是“失联”，而是“过度沟通”：你的团队是在协作，还是在制造噪音？](https://mp.weixin.qq.com/s/2yWaub2y96iyGtdfTjlD3w)
 - [坐班制怎么还没被淘汰？](https://mp.weixin.qq.com/s/TsgL9n1otOpLjXgzZogDQA)
 - [远程与提升](https://blog.csdn.net/weixin_40430133/article/details/134809690)
 - [在海边的自由职业者](https://mp.weixin.qq.com/s/ehITFjXs2r4ePgYeV9j_iQ)
@@ -28,7 +29,6 @@
 - [35岁后做自由设计：哪有什么“兼顾”，不过是换种方式掌控时间](https://eleduck.com/posts/VvfQEa)
 - [别再羡慕居家办公了！如果不建立这4个秩序感，我早就废了](https://mp.weixin.qq.com/s/qBuSzRZ8gwHU2psR9n2Xiw)
 - [遇到公司安排你居家办公，这该怎么办？](https://mp.weixin.qq.com/s/QPQqp7F6i7Ndk_Q7yMMMVQ)
-- [育碧宣布取消远程办公：强制全员每周5天坐班 或引发"变相裁员"](https://www.taptap.cn/moment/763367394998486781)
 
 👉 [查看更多文章](posts)
 
