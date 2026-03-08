@@ -51,6 +51,7 @@
 
 ## 2024年
 
+- [使用异步沟通，提升用户体验团队协作效率](https://www.woshipm.com/share/6124184.html) - 探讨在远程和混合工作环境中，用户体验（UX）设计流程中异步协作法，使用录屏工具和电子简报等方法提升工作效率，从而减少不必要的会议；审视异步沟通的优势，提出将异步沟通有效融入日常实践的实用步骤。
 - [Upwork 手册，从入门到专家（3） —— 如何在 Upwork 上找到一份长期远程工作](https://eleduck.com/posts/VvfvRj) - 详细介绍 Upwork Job Post 的各个关键信息，以及如何识别优质的 Fixed Price 和 Hourly 项目
 - [Upwork 手册，从入门到专家（2） —— Profile Photo 最佳实践](https://eleduck.com/posts/XNfKro) - 如何设置 Upwork 头像给雇主留下专业，清晰的印象
 - [Upwork 手册，从入门到专家（1） —— 建立自己 100% 的 Profile](https://eleduck.com/posts/5BfDwX) - 如何写好 Upwork Profile，包括 Title，价格和自我介绍以及过往作品
