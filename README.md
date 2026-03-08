@@ -19,6 +19,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [国内远程，时区问题怎么谈？](https://mp.weixin.qq.com/s/I1FtXOsDy41iv9MmU5p3ow)
 - [远程办公两年了：作为一名AI训练师，我是如何高效工作并平衡生活的](https://mp.weixin.qq.com/s/g2qUvELzJMC_oVDcFwKTSg)
 - [35+远程接单程序员实录：在代码与自由之间寻找答案](https://blog.csdn.net/Mr_HelloWorldx/article/details/146909675)
 - [使用异步沟通，提升用户体验团队协作效率](https://www.woshipm.com/share/6124184.html)
@@ -28,7 +29,6 @@
 - [坐班制怎么还没被淘汰？](https://mp.weixin.qq.com/s/TsgL9n1otOpLjXgzZogDQA)
 - [远程与提升](https://blog.csdn.net/weixin_40430133/article/details/134809690)
 - [在海边的自由职业者](https://mp.weixin.qq.com/s/ehITFjXs2r4ePgYeV9j_iQ)
-- [数字游民是一种"生活"方式](https://mp.weixin.qq.com/s/MaqT_k9kwlt5swUQ0WhdDg)
 
 👉 [查看更多文章](posts)
 
@@ -37,6 +37,7 @@
 整理远程工作中经常会遇到的问题，以及比较有价值的讨论
 
 **最近收录：**
+- [国内远程，时区问题怎么谈？](https://mp.weixin.qq.com/s/I1FtXOsDy41iv9MmU5p3ow)
 - [周末居家办公猝死算工伤吗？](https://mp.weixin.qq.com/s/AKPLWNSg_yqSkR88IttW9w)
 - [遇到公司安排你居家办公，这该怎么办？](https://mp.weixin.qq.com/s/QPQqp7F6i7Ndk_Q7yMMMVQ)
 - [发现很多人都没搞清楚劳动合同、劳务合同、合作协议三者之间的区别](https://eleduck.com/posts/ZXfgjK)
