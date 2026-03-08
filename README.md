@@ -19,6 +19,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [远程办公两年了：作为一名AI训练师，我是如何高效工作并平衡生活的](https://mp.weixin.qq.com/s/g2qUvELzJMC_oVDcFwKTSg)
 - [35+远程接单程序员实录：在代码与自由之间寻找答案](https://blog.csdn.net/Mr_HelloWorldx/article/details/146909675)
 - [使用异步沟通，提升用户体验团队协作效率](https://www.woshipm.com/share/6124184.html)
 - [苏一尘｜远程办公如何重塑城市未来](https://mp.weixin.qq.com/s/PZi2hFHKrMO2VANjD9IvIQ)
@@ -28,7 +29,6 @@
 - [远程与提升](https://blog.csdn.net/weixin_40430133/article/details/134809690)
 - [在海边的自由职业者](https://mp.weixin.qq.com/s/ehITFjXs2r4ePgYeV9j_iQ)
 - [数字游民是一种"生活"方式](https://mp.weixin.qq.com/s/MaqT_k9kwlt5swUQ0WhdDg)
-- [“随时待命”算不算加班？陆敬波呼吁：付出实质性劳动应认定加班！上海可率先出台远程办公规范！](https://hot.online.sh.cn/content/2026-02/04/content_10422287.htm)
 
 👉 [查看更多文章](posts)
 
