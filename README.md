@@ -19,6 +19,8 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [苏一尘｜远程办公如何重塑城市未来](https://mp.weixin.qq.com/s/PZi2hFHKrMO2VANjD9IvIQ)
+- [每周在家远程办公两天，真的能提高效率？](https://mp.weixin.qq.com/s/E3mm9TDHB_ZRVtZdvSKHsw)
 - [不仅在外企，远程办公最危险的不是“失联”，而是“过度沟通”：你的团队是在协作，还是在制造噪音？](https://mp.weixin.qq.com/s/2yWaub2y96iyGtdfTjlD3w)
 - [坐班制怎么还没被淘汰？](https://mp.weixin.qq.com/s/TsgL9n1otOpLjXgzZogDQA)
 - [远程与提升](https://blog.csdn.net/weixin_40430133/article/details/134809690)
@@ -27,8 +29,6 @@
 - [“随时待命”算不算加班？陆敬波呼吁：付出实质性劳动应认定加班！上海可率先出台远程办公规范！](https://hot.online.sh.cn/content/2026-02/04/content_10422287.htm)
 - [程序员如何走向自由职业](https://mp.weixin.qq.com/s/Qo0I7iu3sah4IW17RM7KWQ)
 - [35岁后做自由设计：哪有什么“兼顾”，不过是换种方式掌控时间](https://eleduck.com/posts/VvfQEa)
-- [别再羡慕居家办公了！如果不建立这4个秩序感，我早就废了](https://mp.weixin.qq.com/s/qBuSzRZ8gwHU2psR9n2Xiw)
-- [遇到公司安排你居家办公，这该怎么办？](https://mp.weixin.qq.com/s/QPQqp7F6i7Ndk_Q7yMMMVQ)
 
 👉 [查看更多文章](posts)
 
