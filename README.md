@@ -19,6 +19,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [告别固定的办公区域，初创公司Doist推出远程工作方](https://lieyunpro.com/archives/99039)
 - [国内远程，时区问题怎么谈？](https://mp.weixin.qq.com/s/I1FtXOsDy41iv9MmU5p3ow)
 - [远程办公两年了：作为一名AI训练师，我是如何高效工作并平衡生活的](https://mp.weixin.qq.com/s/g2qUvELzJMC_oVDcFwKTSg)
 - [35+远程接单程序员实录：在代码与自由之间寻找答案](https://blog.csdn.net/Mr_HelloWorldx/article/details/146909675)
@@ -28,7 +29,6 @@
 - [不仅在外企，远程办公最危险的不是“失联”，而是“过度沟通”：你的团队是在协作，还是在制造噪音？](https://mp.weixin.qq.com/s/2yWaub2y96iyGtdfTjlD3w)
 - [坐班制怎么还没被淘汰？](https://mp.weixin.qq.com/s/TsgL9n1otOpLjXgzZogDQA)
 - [远程与提升](https://blog.csdn.net/weixin_40430133/article/details/134809690)
-- [在海边的自由职业者](https://mp.weixin.qq.com/s/ehITFjXs2r4ePgYeV9j_iQ)
 
 👉 [查看更多文章](posts)
 
