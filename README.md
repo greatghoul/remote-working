@@ -19,6 +19,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [这个24岁女孩如何周游世界的路上月入5000美金](https://zhuanlan.zhihu.com/p/37611483)
 - [浅谈远程工作者都是如何正确挑选他们的移动办公室的](https://mp.weixin.qq.com/s/ea38RwAdCcyJQfj4o-aTPw)
 - [告别固定的办公区域，初创公司Doist推出远程工作方](https://lieyunpro.com/archives/99039)
 - [国内远程，时区问题怎么谈？](https://mp.weixin.qq.com/s/I1FtXOsDy41iv9MmU5p3ow)
@@ -28,7 +29,6 @@
 - [苏一尘｜远程办公如何重塑城市未来](https://mp.weixin.qq.com/s/PZi2hFHKrMO2VANjD9IvIQ)
 - [每周在家远程办公两天，真的能提高效率？](https://mp.weixin.qq.com/s/E3mm9TDHB_ZRVtZdvSKHsw)
 - [不仅在外企，远程办公最危险的不是“失联”，而是“过度沟通”：你的团队是在协作，还是在制造噪音？](https://mp.weixin.qq.com/s/2yWaub2y96iyGtdfTjlD3w)
-- [坐班制怎么还没被淘汰？](https://mp.weixin.qq.com/s/TsgL9n1otOpLjXgzZogDQA)
 
 👉 [查看更多文章](posts)
 
