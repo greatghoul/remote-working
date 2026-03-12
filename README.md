@@ -19,6 +19,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [摘录：在家上班（远程工作）的40条经验](https://mp.weixin.qq.com/s/-MN5yf2K6I7M45VqAGqW9g)
 - [愿你我都是猿小匠，以自由职业为下个起点](https://mp.weixin.qq.com/s/isiG1GNF8BP782q6-zC2dg)
 - [这个24岁女孩如何周游世界的路上月入5000美金](https://zhuanlan.zhihu.com/p/37611483)
 - [浅谈远程工作者都是如何正确挑选他们的移动办公室的](https://mp.weixin.qq.com/s/ea38RwAdCcyJQfj4o-aTPw)
@@ -28,7 +29,6 @@
 - [35+远程接单程序员实录：在代码与自由之间寻找答案](https://blog.csdn.net/Mr_HelloWorldx/article/details/146909675)
 - [使用异步沟通，提升用户体验团队协作效率](https://www.woshipm.com/share/6124184.html)
 - [苏一尘｜远程办公如何重塑城市未来](https://mp.weixin.qq.com/s/PZi2hFHKrMO2VANjD9IvIQ)
-- [每周在家远程办公两天，真的能提高效率？](https://mp.weixin.qq.com/s/E3mm9TDHB_ZRVtZdvSKHsw)
 
 👉 [查看更多文章](posts)
 
