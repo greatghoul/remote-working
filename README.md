@@ -19,6 +19,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [故事｜FreelancerX的第一篇文章，从自己开始](https://zhuanlan.zhihu.com/p/36954557)
 - [INTERVIEW 28 | 上线仅一年，这款读书笔记工具被 App Store 推荐了 9 次：专访识墨笔记](https://mp.weixin.qq.com/s/pKU8zhZTGZeOKWtD7c2lJg)
 - [老板，我不想上班了，我只想工作！](https://m.163.com/dy/article/DJQAO7CH0518EC74.html)
 - [我为什么要远程工作 这与生产力没有关系](https://mp.weixin.qq.com/s/3Ps4V0HfH6cPKq3IQMjWdw)
@@ -28,7 +29,6 @@
 - [浅谈远程工作者都是如何正确挑选他们的移动办公室的](https://mp.weixin.qq.com/s/ea38RwAdCcyJQfj4o-aTPw)
 - [告别固定的办公区域，初创公司Doist推出远程工作方](https://lieyunpro.com/archives/99039)
 - [国内远程，时区问题怎么谈？](https://mp.weixin.qq.com/s/I1FtXOsDy41iv9MmU5p3ow)
-- [远程办公两年了：作为一名AI训练师，我是如何高效工作并平衡生活的](https://mp.weixin.qq.com/s/g2qUvELzJMC_oVDcFwKTSg)
 
 👉 [查看更多文章](posts)
 
