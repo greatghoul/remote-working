@@ -19,6 +19,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [老板，我不想上班了，我只想工作！](https://m.163.com/dy/article/DJQAO7CH0518EC74.html)
 - [我为什么要远程工作 这与生产力没有关系](https://mp.weixin.qq.com/s/3Ps4V0HfH6cPKq3IQMjWdw)
 - [摘录：在家上班（远程工作）的40条经验](https://mp.weixin.qq.com/s/-MN5yf2K6I7M45VqAGqW9g)
 - [愿你我都是猿小匠，以自由职业为下个起点](https://mp.weixin.qq.com/s/isiG1GNF8BP782q6-zC2dg)
@@ -28,7 +29,6 @@
 - [国内远程，时区问题怎么谈？](https://mp.weixin.qq.com/s/I1FtXOsDy41iv9MmU5p3ow)
 - [远程办公两年了：作为一名AI训练师，我是如何高效工作并平衡生活的](https://mp.weixin.qq.com/s/g2qUvELzJMC_oVDcFwKTSg)
 - [35+远程接单程序员实录：在代码与自由之间寻找答案](https://blog.csdn.net/Mr_HelloWorldx/article/details/146909675)
-- [使用异步沟通，提升用户体验团队协作效率](https://www.woshipm.com/share/6124184.html)
 
 👉 [查看更多文章](posts)
 
