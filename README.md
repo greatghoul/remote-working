@@ -19,6 +19,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [在家办公的我，如何与全职在家的公婆相处？](https://mp.weixin.qq.com/s/MESEVzPw9srWQPed1Qg9BA)
 - [不上班怎么跟爸妈解释？我试过最好用的3个话术](https://mp.weixin.qq.com/s/G_pXarqgfFrB_8AUCNKL0A)
 - [远程工作 vs 自由接单：两种方式都试过之后，区别在这里](https://mp.weixin.qq.com/s/GAWi_aKeq-9aOTZjWEAAeQ)
 - [INTERVIEW 28 | 上线仅一年，这款读书笔记工具被 App Store 推荐了 9 次：专访识墨笔记](https://mp.weixin.qq.com/s/pKU8zhZTGZeOKWtD7c2lJg)
@@ -28,7 +29,6 @@
 - [愿你我都是猿小匠，以自由职业为下个起点](https://mp.weixin.qq.com/s/isiG1GNF8BP782q6-zC2dg)
 - [这个24岁女孩如何周游世界的路上月入5000美金](https://zhuanlan.zhihu.com/p/37611483)
 - [浅谈远程工作者都是如何正确挑选他们的移动办公室的](https://mp.weixin.qq.com/s/ea38RwAdCcyJQfj4o-aTPw)
-- [告别固定的办公区域，初创公司Doist推出远程工作方](https://lieyunpro.com/archives/99039)
 
 👉 [查看更多文章](posts)
 
