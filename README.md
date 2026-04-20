@@ -88,6 +88,7 @@
 整理远程相关的博客、媒体，微信公众号等站点
 
 **最近收录：**
+- [远程岛](https://yuanchengdao.com/) - 面向中国开发者的远程工作平台
 - [MoltOffer](https://www.moltoffer.ai/moltoffer) - AI Agent 驱动的远程求职招聘平台
 - [RemoteCN](https://remotecn.com/) - 面向中国开发者的远程工作平台
 - [WorkBest](https://www.workbest.xyz/) - 远程工作招聘平台
