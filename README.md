@@ -19,6 +19,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [想拿远程offer，到底需要哪些核心能力？](https://mp.weixin.qq.com/s/c2QYtmPAqpVcPfIFY4vKGA)
 - [转型为远程工作前，你需要做好这些准备](https://mp.weixin.qq.com/s/LGr-3EZLIusKMv5V5ffPaQ)
 - [居家办公第5个月，我终于敢说“我习惯了”](https://mp.weixin.qq.com/s/BlPEOEBphKY9a4QzP-vwHA)
 - [团队协作的未来：远程工作下的有效管理策略](https://mp.weixin.qq.com/s/bFM5xxwMVW0P6xEV07Yrcg)
@@ -28,7 +29,6 @@
 - [INTERVIEW 28 | 上线仅一年，这款读书笔记工具被 App Store 推荐了 9 次：专访识墨笔记](https://mp.weixin.qq.com/s/pKU8zhZTGZeOKWtD7c2lJg)
 - [老板，我不想上班了，我只想工作！](https://m.163.com/dy/article/DJQAO7CH0518EC74.html)
 - [我为什么要远程工作 这与生产力没有关系](https://mp.weixin.qq.com/s/3Ps4V0HfH6cPKq3IQMjWdw)
-- [摘录：在家上班（远程工作）的40条经验](https://mp.weixin.qq.com/s/-MN5yf2K6I7M45VqAGqW9g)
 
 👉 [查看更多文章](posts)
 
