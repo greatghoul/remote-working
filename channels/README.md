@@ -41,7 +41,6 @@
 - [Jarodise | 数字游民部落](https://jarodise.com/) - 一个以数字游民（Digital Nomad)生活方式，Lifestyle Design方法论和环球旅行为主题的中文博客。
 - [sideidea独立黑客](https://xiaozhuanlan.com/sideidea) - 采访独立开发者和远程工作者做产品盈利的故事。
 - [Remote and Rich](https://zhuanlan.zhihu.com/remoteandrich) - 关于边工作边环游世界的探讨和追逐。
-- [中国远程工作资讯](https://t.me/remote_cn) - Telegram 频道，分享国内远程工作相关的文章、讨论和工作机会等。
 - [每日壹单](https://mryd.freeflarum.com/) - 是聚合软件外包兼职信息的平台
 - [角马原力](https://www.zhihu.com/people/gnuforce/) - 微信公众号，为远程工作者和自由职业者提供资讯、社交、工作、住宿的一站式服务。
 - [Lonely Office](https://zhuanlan.zhihu.com/lonelyoffice) - 办公空间分享
@@ -54,6 +53,13 @@
 - [艾莉森王](https://space.bilibili.com/14621086) - 艾莉森王的B站空间，数字游民 / 自我提升 / 瑜伽 / 成长
 - [NataliaMok](https://nataliamok.com/) - 地理套利、生活方式设计
 - [新游牧NewNomad](https://api.66mz8.com/api/qrcode.php?url=http://weixin.qq.com/r/1zv07CfEVXoqrWOP927F)
+
+## Telegram
+
+整理 Telegram 频道、群组和机器人。
+
+- [远程工作者](https://t.me/remote_cn) - Telegram 频道，分享国内远程工作相关的文章、讨论和工作机会等。
+- [远程工作AI情报站](https://t.me/RemoteJobsCN) - Telegram 频道，集合 V2EX 招聘频道、电鸭、abetterweb3、dejob、Bossjob 等
 
 <a name="j1WuS"></a>
 ## 微信公众号
