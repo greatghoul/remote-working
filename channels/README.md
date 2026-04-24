@@ -58,8 +58,9 @@
 
 整理 Telegram 频道、群组和机器人。
 
-- [远程工作者](https://t.me/remote_cn) - Telegram 频道，分享国内远程工作相关的文章、讨论和工作机会等。
-- [远程工作AI情报站](https://t.me/RemoteJobsCN) - Telegram 频道，集合 V2EX 招聘频道、电鸭、abetterweb3、dejob、Bossjob 等
+- [远程工作者](https://t.me/s/remote_cn) - Telegram 频道，分享国内远程工作相关的文章、讨论和工作机会等。
+- [远程工作Hub](https://t.me/s/remote_job_cn) - Telegram 频道，分享全球远程工作相关的文章和工作机会，打造远程工作者成长社区
+- [远程工作AI情报站](https://t.me/s/RemoteJobsCN) - Telegram 频道，集合 V2EX 招聘频道、电鸭、abetterweb3、dejob、Bossjob 等
 
 <a name="j1WuS"></a>
 ## 微信公众号

@@ -88,7 +88,8 @@
 整理远程相关的博客、媒体，微信公众号等渠道
 
 **最近收录：**
-- [远程工作AI情报站](https://t.me/RemoteJobsCN) - 集合 V2EX 招聘频道、电鸭、abetterweb3、dejob、Bossjob 等
+- [远程工作Hub](https://t.me/s/remote_job_cn) - 分享全球远程工作相关的文章和工作机会，打造远程工作者成长社区
+- [远程工作AI情报站](https://t.me/s/RemoteJobsCN) - 集合 V2EX 招聘频道、电鸭、abetterweb3、dejob、Bossjob 等
 - [远程岛](https://yuanchengdao.com/) - 面向中国开发者的远程工作平台
 - [MoltOffer](https://www.moltoffer.ai/moltoffer) - AI Agent 驱动的远程求职招聘平台
 - [RemoteCN](https://remotecn.com/) - 面向中国开发者的远程工作平台
