@@ -62,6 +62,10 @@
 
 👉 [查看更多团队](teams)
 
+## 🌐 远程招聘平台
+
+- [OnlyFrontendJobs](https://onlyfrontendjobs.com) - 专注于前端工程师（React, Vue, Next.js, Svelte, TypeScript）的远程工作招聘平台，提供透明薪资数据。
+
 ## 🎬 视频
 
 收集整理远程工作相关的视频节目和频道
@@ -119,7 +123,6 @@
 收集整理远程工作相关的书籍、指南文档等资源
 
 **最近收录：**
-- [游牧东京](https://book.douban.com/subject/26671488/) - 只工作，不上班
 - [Remote - Office Not Required](http://37signals.com/remote) - 37signals 经典之作
 - [Remote - Office Not Required 中文译本](http://jianshu.io/notebooks/41672/latest)
 - [The Ultimate Guide to Remote Work](https://zapier.com/learn/the-ultimate-guide-to-remote-working/)
