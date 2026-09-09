@@ -91,6 +91,7 @@
 整理远程相关的博客、媒体，微信公众号等渠道
 
 **最近收录：**
+- [Real Job Work From Home](https://realjobworkfromhome.com/) - 英文远程职位检索网站，免费免登录浏览，支持按职位类别和工作类型筛选，并提供已披露薪资及雇主申请链接
 - [远程工作Hub](https://t.me/s/remote_job_cn) - 分享全球远程工作相关的文章和工作机会，打造远程工作者成长社区
 - [远程工作 AI 情报站](https://remotejobscn.com/) - 面向中文用户的远程岗位聚合雷达，汇集电鸭、DeJob、Bossjob 等多个数据源（[Telegram 频道](https://t.me/s/RemoteJobsCN)）
 - [远程岛](https://yuanchengdao.com/) - 面向中国开发者的远程工作平台
