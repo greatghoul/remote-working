@@ -22,6 +22,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [TikTok取消远程办公：“拿美国工资、过中国生活”的操作，彻底被终结了](https://mp.weixin.qq.com/s/5O-5HX25Lr2WHgeLNS8QYg)
 - [36岁，居家办公第七年：从享受自由，到迷茫纠结，如今学会顺其自然](https://mp.weixin.qq.com/s/coqlkKa_VwOwlJTpv0ln_g)
 - [程序员远程办公一年，省500小时通勤，家人却觉得我天天在家闲着](https://www.toutiao.com/article/7682634895096676905/)
 - [远程监控软件买来的，可能只是“焦虑仪表盘”](https://digitalnomad.press/zh-cn/article/361)
@@ -31,7 +32,6 @@
 - [远程办公正在失宠？真正被淘汰的，可能是“一刀切”](https://www.sohu.com/a/1058577564_121118940)
 - [我为什么开始去咖啡厅办公](https://x.com/ianneo_ai/article/2074800934136500601)
 - [自由职业两年，我没有获得完美自由，但也坚决不回职场](https://mp.weixin.qq.com/s/Hrvqu8tAczVD0cYBJAhz0g)
-- [美国远程办公正在消失？Starbucks要求员工回办公室](https://mp.weixin.qq.com/s/L1a6YD1k6NHQG55Lz48PvA)
 
 👉 [查看更多文章](posts)
 
