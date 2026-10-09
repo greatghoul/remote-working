@@ -99,6 +99,7 @@
 - [远程岛](https://yuanchengdao.com/) - 面向中国开发者的远程工作平台
 - [远程工作 AI 情报站](https://remotejobscn.com/) - 面向中文用户的远程岗位聚合雷达，汇集电鸭、DeJob、Bossjob 等多个数据源
 - [Real Job Work From Home](https://realjobworkfromhome.com/) - 英文远程职位检索网站，免费免登录浏览，支持按职位类别和工作类型筛选，并提供已披露薪资及雇主申请链接
+- [AITraining.jobs](https://aitraining.jobs/) - 英文网站，聚合约 60 个平台的 AI 训练远程兼职（AI 训练师、RLHF 评估、数据标注、多语言及法律、医学、编程等专家岗位），每日更新并标明时薪，免费免登录浏览
 
 <a name="hAY3C"></a>
 ## 用工平台
