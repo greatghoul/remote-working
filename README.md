@@ -22,6 +22,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [我是怎么拿到这份远程Offer的：一次尝试，改变了我的职业轨迹](https://mp.weixin.qq.com/s/ZWdDlxEGBPwWB7G59zJ_-Q)
 - [从大厂出来，远程工作 4 年后，发现自己似乎本质不适合远程](https://eleduck.com/posts/GzfRz4)
 - [居家远程三年，我是怎么让自己不被团队遗忘的](https://mp.weixin.qq.com/s/-XTsEnp9iC190GlHHqWHuQ)
 - [外企财务居家办公3年，跟你们坦白一下你们眼中羡慕的居家办公到底有多爽](https://mp.weixin.qq.com/s/mbQyZl6MHS7CjWGAhIfLxg)
@@ -31,7 +32,6 @@
 - [36岁，居家办公第七年：从享受自由，到迷茫纠结，如今学会顺其自然](https://mp.weixin.qq.com/s/coqlkKa_VwOwlJTpv0ln_g)
 - [程序员远程办公一年，省500小时通勤，家人却觉得我天天在家闲着](https://www.toutiao.com/article/7682634895096676905/)
 - [远程监控软件买来的，可能只是“焦虑仪表盘”](https://digitalnomad.press/zh-cn/article/361)
-- [房车里的数字游民生活：边旅行边远程办公，先解决网络、电源和专注力](https://www.toutiao.com/article/7679309911544611378/)
 
 👉 [查看更多文章](posts)
 
