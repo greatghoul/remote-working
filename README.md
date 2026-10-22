@@ -22,6 +22,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [首做居家客服，我的中秋：在深夜加班中收尾](https://mp.weixin.qq.com/s/TPxUw2tbwcYiBY51aPbtRA)
 - [远程两年 我的工作和生活发生了哪些变化](https://eleduck.com/posts/74frow)
 - [TikTok取消远程办公：“拿美国工资、过中国生活”的操作，彻底被终结了](https://mp.weixin.qq.com/s/5O-5HX25Lr2WHgeLNS8QYg)
 - [36岁，居家办公第七年：从享受自由，到迷茫纠结，如今学会顺其自然](https://mp.weixin.qq.com/s/coqlkKa_VwOwlJTpv0ln_g)
@@ -31,7 +32,6 @@
 - [远程办公一年，我失去了什么又得到了什么](https://post.smzdm.com/p/apq6x6xw/)
 - [远程办公效率真的高吗？](https://www.wowenda.cn/a/58056.html)
 - [远程办公正在失宠？真正被淘汰的，可能是“一刀切”](https://www.sohu.com/a/1058577564_121118940)
-- [我为什么开始去咖啡厅办公](https://x.com/ianneo_ai/article/2074800934136500601)
 
 👉 [查看更多文章](posts)
 
