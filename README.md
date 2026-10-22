@@ -22,6 +22,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [外企财务居家办公3年，跟你们坦白一下你们眼中羡慕的居家办公到底有多爽](https://mp.weixin.qq.com/s/mbQyZl6MHS7CjWGAhIfLxg)
 - [首做居家客服，我的中秋：在深夜加班中收尾](https://mp.weixin.qq.com/s/TPxUw2tbwcYiBY51aPbtRA)
 - [远程两年 我的工作和生活发生了哪些变化](https://eleduck.com/posts/74frow)
 - [TikTok取消远程办公：“拿美国工资、过中国生活”的操作，彻底被终结了](https://mp.weixin.qq.com/s/5O-5HX25Lr2WHgeLNS8QYg)
@@ -31,7 +32,6 @@
 - [房车里的数字游民生活：边旅行边远程办公，先解决网络、电源和专注力](https://www.toutiao.com/article/7679309911544611378/)
 - [远程办公一年，我失去了什么又得到了什么](https://post.smzdm.com/p/apq6x6xw/)
 - [远程办公效率真的高吗？](https://www.wowenda.cn/a/58056.html)
-- [远程办公正在失宠？真正被淘汰的，可能是“一刀切”](https://www.sohu.com/a/1058577564_121118940)
 
 👉 [查看更多文章](posts)
 
