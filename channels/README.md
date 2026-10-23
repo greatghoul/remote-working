@@ -99,6 +99,7 @@
 - [远程岛](https://yuanchengdao.com/) - 面向中国开发者的远程工作平台
 - [远程工作 AI 情报站](https://remotejobscn.com/) - 面向中文用户的远程岗位聚合雷达，汇集电鸭、DeJob、Bossjob 等多个数据源
 - [Real Job Work From Home](https://realjobworkfromhome.com/) - 英文远程职位检索网站，免费免登录浏览，支持按职位类别和工作类型筛选，并提供已披露薪资及雇主申请链接
+- [无界岛](https://www.wujiework.com/) - 汇总人在国内能做的远程工作：海外接单平台的项目、只收接受中国或全球不限的海外远程岗位、国内远程招聘，中文整理并换算人民币，附原招聘页链接
 
 <a name="hAY3C"></a>
 ## 用工平台
