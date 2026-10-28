@@ -93,7 +93,7 @@
 **最近收录：**
 - [无界岛](https://www.wujiework.com/) - 汇总人在国内能做的远程工作：海外接单平台的项目、只收接受中国或全球不限的海外远程岗位、国内远程招聘，中文整理并换算人民币，附原招聘页链接
 - [Jaabz](https://jaabz.com/) - 面向国际求职者的科技职位平台，支持远程、签证担保与 relocation 筛选
-- [Real Job Work From Home](https://realjobworkfromhome.com/) - 英文远程职位检索网站，免费免登录浏览，支持按职位类别和工作类型筛选，并提供已披露薪资及雇主申请链接
+- [Curated AI Jobs](https://job.careers/) - 汇集 AI 与机器学习领域的职位，可按岗位方向和地区（美国、英国、欧洲及远程）筛选、比较职位要求，并前往雇主网站申请
 - [远程工作Hub](https://t.me/s/remote_job_cn) - 分享全球远程工作相关的文章和工作机会，打造远程工作者成长社区
 - [远程工作 AI 情报站](https://remotejobscn.com/) - 面向中文用户的远程岗位聚合雷达，汇集电鸭、DeJob、Bossjob 等多个数据源（[Telegram 频道](https://t.me/s/RemoteJobsCN)）
 - [远程岛](https://yuanchengdao.com/) - 面向中国开发者的远程工作平台
