@@ -91,6 +91,7 @@
 整理远程相关的博客、媒体，微信公众号等渠道
 
 **最近收录：**
+- [AI Gig Scout](https://aigigscout.com/) - 英文的远程 AI 训练、评测、数据与编程零工聚合目录，汇总 Micro1、SME Careers、Mercor、Sovrano AI、Ethos AI、AfterQuery 等平台的职位，可按平台、工作类型、报酬和申请资格筛选，免费免登录浏览，并跳转原平台申请
 - [无界岛](https://www.wujiework.com/) - 汇总人在国内能做的远程工作：海外接单平台的项目、只收接受中国或全球不限的海外远程岗位、国内远程招聘，中文整理并换算人民币，附原招聘页链接
 - [Jaabz](https://jaabz.com/) - 面向国际求职者的科技职位平台，支持远程、签证担保与 relocation 筛选
 - [Curated AI Jobs](https://job.careers/) - 汇集 AI 与机器学习领域的职位，可按岗位方向和地区（美国、英国、欧洲及远程）筛选、比较职位要求，并前往雇主网站申请
@@ -101,7 +102,6 @@
 - [RemoteCN](https://remotecn.com/) - 面向中国开发者的远程工作平台
 - [WorkBest](https://www.workbest.xyz/) - 远程工作招聘平台
 - [电鸭社区](https://eleduck.com/) - 国内最大的远程工作交流社区
-- [远程职位日报](https://yuancheng.works/) - 远程职位信息聚合
 - [数字游民 LibNomad](https://libnomad.com/) - 聚合电鸭、V2EX、RemoteOK、weworkremotely 等平台的远程职位，支持订阅邮件推送
 
 👉 [查看更多渠道](channels)
