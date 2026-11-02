@@ -101,6 +101,7 @@
 - [远程工作 AI 情报站](https://remotejobscn.com/) - 面向中文用户的远程岗位聚合雷达，汇集电鸭、DeJob、Bossjob 等多个数据源
 - [Curated AI Jobs](https://job.careers/) - 汇集 AI 与机器学习领域的职位，可按岗位方向和地区（美国、英国、欧洲及远程）筛选、比较职位要求，并前往雇主网站申请
 - [无界岛](https://www.wujiework.com/) - 汇总人在国内能做的远程工作：海外接单平台的项目、只收接受中国或全球不限的海外远程岗位、国内远程招聘，中文整理并换算人民币，附原招聘页链接
+- [AI Gig Scout](https://aigigscout.com/) - 英文的远程 AI 训练、评测、数据与编程零工聚合目录，汇总 Micro1、SME Careers、Mercor、Sovrano AI、Ethos AI、AfterQuery 等平台的职位，可按平台、工作类型、报酬和申请资格筛选，免费免登录浏览，并跳转原平台申请
 
 <a name="hAY3C"></a>
 ## 用工平台
