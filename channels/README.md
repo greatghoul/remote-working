@@ -80,6 +80,7 @@
 - [远程.work](http://yuancheng.work/) - 远程工作招聘信息的聚合网站
 - [Indeed | 远程](https://cn.indeed.com/%E5%B7%A5%E4%BD%9C-%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC) - Indeed 远程办公版块，可以找到一些非研发类的远程工作
 - [Jaabz](https://jaabz.com/) - 面向国际求职者的科技职位平台，支持远程、签证担保与 relocation 筛选
+- [chainjobs.app](https://chainjobs.app/) - 免费的 Web3 与自由职业招聘与接单平台，支持直接沟通，加密货币或银行转账付款，平台抽成 0%
 - [中画论坛 - 插画征稿招聘](http://bbs.chahua.org/thread.php?fid=8&page=1) - 经常会有插画师的远程全职或者兼职工作机会
 - [Slasify](https://slasify.com/) - 连结来自全球的遠程工作者组成跨领域的虚拟团队，为企业提供更灵活的人才运用場景
 - [画师联盟](http://www.huashilm.com/job?jobType=2) - 发布画师兼职或全职工作机会，可以按是否可远程进行筛选
