@@ -22,6 +22,7 @@
 收集整理历年远程工作相关的经验文章
 
 **最近收录：**
+- [在中国怎么找海外远程客服工作：岗位要求与申请清单](https://visaspaths.com/guides/china-remote-customer-support/)
 - [居家办公这些年，谈谈我的经验和感受](https://sspai.com/post/71132)
 - [我是怎么拿到这份远程Offer的：一次尝试，改变了我的职业轨迹](https://mp.weixin.qq.com/s/ZWdDlxEGBPwWB7G59zJ_-Q)
 - [从大厂出来，远程工作 4 年后，发现自己似乎本质不适合远程](https://eleduck.com/posts/GzfRz4)
@@ -31,7 +32,6 @@
 - [远程两年 我的工作和生活发生了哪些变化](https://eleduck.com/posts/74frow)
 - [TikTok取消远程办公：“拿美国工资、过中国生活”的操作，彻底被终结了](https://mp.weixin.qq.com/s/5O-5HX25Lr2WHgeLNS8QYg)
 - [36岁，居家办公第七年：从享受自由，到迷茫纠结，如今学会顺其自然](https://mp.weixin.qq.com/s/coqlkKa_VwOwlJTpv0ln_g)
-- [程序员远程办公一年，省500小时通勤，家人却觉得我天天在家闲着](https://www.toutiao.com/article/7682634895096676905/)
 
 👉 [查看更多文章](posts)
 
