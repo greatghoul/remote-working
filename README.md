@@ -91,6 +91,7 @@
 整理远程相关的博客、媒体，微信公众号等渠道
 
 **最近收录：**
+- [HeyRole](https://heyrole.ai/) - 英文远程招聘网站，支持地区、职能、资历和雇佣类型筛选，免费免登录浏览并跳转原始岗位申请；AI 求职助手需登录，申请地区限制以具体岗位为准
 - [chainjobs.app](https://chainjobs.app/) - 免费的 Web3 与自由职业招聘与接单平台，支持直接沟通，加密货币或银行转账付款，平台抽成 0%
 - [CookLLM AI 岗位看板](https://cookllm.com/jobs/board) - 收录 1,300 多家 AI 公司官网的 2 万多个在招岗位，每 6 小时更新，可按级别、地区、远程和签证担保筛选，免费免登录浏览，申请直达公司官网
 - [AI Gig Scout](https://aigigscout.com/) - 英文的远程 AI 训练、评测、数据与编程零工聚合目录，汇总 Micro1、SME Careers、Mercor、Sovrano AI、Ethos AI、AfterQuery 等平台的职位，可按平台、工作类型、报酬和申请资格筛选，免费免登录浏览，并跳转原平台申请
@@ -100,11 +101,6 @@
 - [远程工作Hub](https://t.me/s/remote_job_cn) - 分享全球远程工作相关的文章和工作机会，打造远程工作者成长社区
 - [远程工作 AI 情报站](https://remotejobscn.com/) - 面向中文用户的远程岗位聚合雷达，汇集电鸭、DeJob、Bossjob 等多个数据源（[Telegram 频道](https://t.me/s/RemoteJobsCN)）
 - [远程岛](https://yuanchengdao.com/) - 面向中国开发者的远程工作平台
-- [MoltOffer](https://www.moltoffer.ai/moltoffer) - AI Agent 驱动的远程求职招聘平台
-- [RemoteCN](https://remotecn.com/) - 面向中国开发者的远程工作平台
-- [WorkBest](https://www.workbest.xyz/) - 远程工作招聘平台
-- [电鸭社区](https://eleduck.com/) - 国内最大的远程工作交流社区
-- [数字游民 LibNomad](https://libnomad.com/) - 聚合电鸭、V2EX、RemoteOK、weworkremotely 等平台的远程职位，支持订阅邮件推送
 
 👉 [查看更多渠道](channels)
 
