@@ -105,6 +105,7 @@
 - [AI Gig Scout](https://aigigscout.com/) - 英文的远程 AI 训练、评测、数据与编程零工聚合目录，汇总 Micro1、SME Careers、Mercor、Sovrano AI、Ethos AI、AfterQuery 等平台的职位，可按平台、工作类型、报酬和申请资格筛选，免费免登录浏览，并跳转原平台申请
 - [CookLLM AI 岗位看板](https://cookllm.com/jobs/board) - 收录 1,300 多家 AI 公司官网的 2 万多个在招岗位，每 6 小时更新，可按级别、地区、远程和签证担保筛选，免费免登录浏览，申请直达公司官网
 - [HeyRole](https://heyrole.ai/) - 英文远程招聘网站，支持地区、职能、资历和雇佣类型筛选，免费免登录浏览并跳转原始岗位申请；AI 求职助手需登录，申请地区限制以具体岗位为准
+- [Jobs Every Hour](https://jobseveryhour.com/remote/) - 英文求职搜索引擎，每小时直接读取 1.2 万多家公司官网招聘系统里的在招岗位（远程岗位 5.7 万多个），岗位关闭即下架；可按技能、地区和远程筛选，免费免登录，申请直达雇主官网
 
 <a name="hAY3C"></a>
 ## 用工平台
