@@ -106,6 +106,7 @@
 - [CookLLM AI 岗位看板](https://cookllm.com/jobs/board) - 收录 1,300 多家 AI 公司官网的 2 万多个在招岗位，每 6 小时更新，可按级别、地区、远程和签证担保筛选，免费免登录浏览，申请直达公司官网
 - [HeyRole](https://heyrole.ai/) - 英文远程招聘网站，支持地区、职能、资历和雇佣类型筛选，免费免登录浏览并跳转原始岗位申请；AI 求职助手需登录，申请地区限制以具体岗位为准
 
+- [Find Remote Jobs](https://findremote.online/) - 免费汇总海外远程岗位，用中文拆出地区、时区和薪资，点过去直达原帖或官网投递。
 <a name="hAY3C"></a>
 ## 用工平台
 
