@@ -91,6 +91,9 @@
 整理远程相关的博客、媒体，微信公众号等渠道
 
 **最近收录：**
+- [Jobs Every Hour](https://jobseveryhour.com/remote/) - 英文求职搜索引擎，每小时直接读取 1.2 万多家公司官网招聘系统里的在招岗位（远程岗位 5.7 万多个），岗位关闭即下架；可按技能、地区和远程筛选，免费免登录，申请直达雇主官网
+- [Find Remote Jobs](https://findremote.online/) - 免费汇总海外远程岗位，用中文拆出地区、时区和薪资，点过去直达原帖或官网投递。
+- [FreshRemoteRoles](https://freshremoteroles.com/) - 英文远程招聘网站，只收录 100% 远程岗位（不含混合办公和坐班），岗位直接来自 800 多家公司官网的招聘页，每天更新；有单独的全球不限（Worldwide）远程岗位页面，可按方向和国家筛选，免费免登录浏览，申请直达公司官网
 - [HeyRole](https://heyrole.ai/) - 英文远程招聘网站，支持地区、职能、资历和雇佣类型筛选，免费免登录浏览并跳转原始岗位申请；AI 求职助手需登录，申请地区限制以具体岗位为准
 - [chainjobs.app](https://chainjobs.app/) - 免费的 Web3 与自由职业招聘与接单平台，支持直接沟通，加密货币或银行转账付款，平台抽成 0%
 - [CookLLM AI 岗位看板](https://cookllm.com/jobs/board) - 收录 1,300 多家 AI 公司官网的 2 万多个在招岗位，每 6 小时更新，可按级别、地区、远程和签证担保筛选，免费免登录浏览，申请直达公司官网
@@ -98,9 +101,6 @@
 - [无界岛](https://www.wujiework.com/) - 汇总人在国内能做的远程工作：海外接单平台的项目、只收接受中国或全球不限的海外远程岗位、国内远程招聘，中文整理并换算人民币，附原招聘页链接
 - [Jaabz](https://jaabz.com/) - 面向国际求职者的科技职位平台，支持远程、签证担保与 relocation 筛选
 - [Curated AI Jobs](https://job.careers/) - 汇集 AI 与机器学习领域的职位，可按岗位方向和地区（美国、英国、欧洲及远程）筛选、比较职位要求，并前往雇主网站申请
-- [远程工作Hub](https://t.me/s/remote_job_cn) - 分享全球远程工作相关的文章和工作机会，打造远程工作者成长社区
-- [远程工作 AI 情报站](https://remotejobscn.com/) - 面向中文用户的远程岗位聚合雷达，汇集电鸭、DeJob、Bossjob 等多个数据源（[Telegram 频道](https://t.me/s/RemoteJobsCN)）
-- [远程岛](https://yuanchengdao.com/) - 面向中国开发者的远程工作平台
 
 👉 [查看更多渠道](channels)
 
